@@ -5,3 +5,7 @@ torch
 torchvision
 pillow
 python-multipart
+langchain>=0.1.0
+langchain-openai>=0.0.5
+python-dotenv
+requests
