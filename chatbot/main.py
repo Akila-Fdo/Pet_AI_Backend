@@ -1,9 +1,15 @@
-from chatbot.agent import agent
+import sys
+import os
 import json
+
+# ✅ FIX: Add parent directory to path so imports work from anywhere
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from chatbot.agent import agent
 
 def run_chat():
     """
-    ✅ FIX: Modern LangChain implementation with proper error handling
+    ✅ FIX: LangChain 0.1.x compatible implementation with proper error handling
     """
     print("🐾 Pet AI Chatbot (LangChain) Started")
     print("Type 'quit' or 'exit' to stop\n")
@@ -35,14 +41,11 @@ User's pet type: {animal}
 User query: {user_input}
 """
             
-            # ✅ FIX: Use .invoke() instead of deprecated .run()
-            # Modern LangChain AgentExecutor requires dict input with "input" key
+            # ✅ FIX: Use .invoke() for LangChain 0.1.x agents
             response = agent.invoke({"input": enriched_input})
             
-            # ✅ FIX: Proper output handling
-            # AgentExecutor returns dict with "output" key
+            # Extract output from response dict
             bot_response = response.get("output", str(response))
-            
             print(f"\nBot: {bot_response}\n")
         
         except KeyboardInterrupt:
