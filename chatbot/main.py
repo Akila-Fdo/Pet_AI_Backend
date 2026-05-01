@@ -1,5 +1,6 @@
 import re
 import os
+import json
 from pathlib import Path
 from chatbot.agent import agent
 
@@ -40,6 +41,43 @@ def extract_image_path(user_input: str) -> str:
             return path
     
     return None
+
+def clean_agent_response(response: str) -> str:
+    """
+    Clean up the agent response by removing JSON formatting artifacts.
+    Extracts the actual content from structured responses.
+    """
+    # If response contains JSON with action_input, extract that
+    if '"action_input"' in response or "'action_input'" in response:
+        try:
+            # Try to parse as JSON
+            if response.startswith('{'):
+                data = json.loads(response)
+                if 'action_input' in data:
+                    return str(data['action_input'])
+            elif '"action_input":' in response or "'action_input':" in response:
+                # Extract the action_input value using regex
+                match = re.search(r'"action_input":\s*"([^"]*)"', response)
+                if not match:
+                    match = re.search(r"'action_input':\s*'([^']*)'", response)
+                if match:
+                    return match.group(1)
+        except:
+            pass
+    
+    # If response contains "Action:" prefix, remove it
+    if response.startswith("Action:"):
+        response = response[7:].strip()
+        if response.startswith("{"):
+            try:
+                data = json.loads(response)
+                if 'action_input' in data:
+                    return str(data['action_input'])
+            except:
+                pass
+    
+    # Otherwise return as-is
+    return response
 
 def detect_disease_type(user_input: str) -> str:
     """
@@ -96,32 +134,67 @@ def run_chat():
                 image_path = extract_image_path(user_input)
                 
                 if image_path and os.path.isfile(image_path):
-                    # User provided image path, proceed with analysis
-                    enriched_input = f"""
-                    Pet Type: {animal}
-                    Issue Type: {disease_type} disease
-                    Image Path: {image_path}
+                    # SPECIAL CASE: User has skin/eye issue + provided image
+                    # Call the tool directly to ensure we get the analysis
+                    print("\n📸 Analyzing image with computer vision model...\n")
                     
-                    User Query: {user_input}
-                    
-                    Please analyze the pet image using the analyze_pet_image tool with:
-                    - image_path: {image_path}
-                    - animal: {animal}
-                    - disease_type: {disease_type}
-                    
-                    Then explain the diagnosis in detail.
-                    """
+                    from chatbot.tools import analyze_pet_image
+                    try:
+                        # Call the tool directly
+                        tool_result = analyze_pet_image(
+                            image_path=image_path,
+                            animal=animal,
+                            disease_type=disease_type
+                        )
+                        
+                        # Check if tool returned an error
+                        if isinstance(tool_result, dict) and "error" in tool_result:
+                            enriched_input = f"""
+                            The user provided an image for analysis, but there was an error:
+                            Error: {tool_result['error']}
+                            
+                            User Message: {user_input}
+                            
+                            Please ask the user to try again with a valid image file.
+                            """
+                        else:
+                            # Tool succeeded - pass the result to agent for explanation
+                            enriched_input = f"""
+                            DIAGNOSIS REPORT:
+                            I have analyzed the {animal}'s {disease_type} using computer vision.
+                            
+                            Analysis Result:
+                            - Disease Class: {tool_result.get('class', 'Unknown')}
+                            - Confidence Score: {tool_result.get('confidence', 'N/A')}
+                            
+                            User's Description: {user_input}
+                            
+                            Please provide a detailed explanation of what this diagnosis means, including:
+                            1. What the disease is
+                            2. Common causes
+                            3. Treatment options
+                            4. When to seek veterinary care
+                            5. Prevention tips if applicable
+                            """
+                    except Exception as e:
+                        enriched_input = f"""
+                        There was an error analyzing the image: {str(e)}
+                        
+                        User Message: {user_input}
+                        
+                        Please inform the user about the error and suggest they try again.
+                        """
                 else:
-                    # Ask for image before proceeding
+                    # User hasn't provided image yet for skin/eye issue
                     enriched_input = f"""
                     Pet Type: {animal}
                     Issue Type: {disease_type} disease
                     
                     User Query: {user_input}
                     
-                    The user is asking about a {disease_type} issue. Ask them to upload an image
-                    so you can provide a proper diagnosis. Guide them to provide the image path.
-                    Do NOT call the analyze_pet_image tool yet. Wait for the image.
+                    The user is asking about a {disease_type} issue. Ask them to upload a clear image
+                    so you can provide a proper diagnosis. Guide them to provide the image file path.
+                    Do NOT use the tool yet. Just ask for the image.
                     """
             else:
                 # General health question
@@ -132,13 +205,16 @@ def run_chat():
                 User Query: {user_input}
                 
                 This is a general health question. Answer it directly with veterinary advice.
-                Do NOT use the analyze_pet_image tool. Just provide helpful guidance.
+                Do NOT ask for images. Just provide helpful guidance.
                 """
             
             # Get response from agent
             response = agent.run(enriched_input)
             
-            print(f"Bot: {response}\n")
+            # Clean up the response formatting
+            clean_response = clean_agent_response(response)
+            
+            print(f"Bot: {clean_response}\n")
         
         except KeyboardInterrupt:
             print("\n\nBot: Goodbye! 🐾")
