@@ -109,8 +109,9 @@ def run_chat():
     
     print(f"\n✅ Great! I'll help you with your {animal.upper()}'s health.\n")
     
-    # Track disease type across conversation turns
+    # Track disease type and analysis across conversation turns
     current_disease_type = None
+    analysis_done = False  # Track if we've already analyzed an image
     
     conversation_active = True
     while conversation_active:
@@ -131,6 +132,9 @@ def run_chat():
             # Update current disease type if a new one is detected
             # Otherwise, keep the previous disease type for context
             if detected_disease_type:
+                # If switching to a different disease, reset analysis flag
+                if detected_disease_type != current_disease_type:
+                    analysis_done = False
                 current_disease_type = detected_disease_type
             
             disease_type = current_disease_type  # Use tracked disease type
@@ -185,6 +189,7 @@ Be thorough and informative. Use formatting with headers and bullet points for c
                             explanation_text = llm_response.content
                             
                             print(f"Bot: {explanation_text}\n")
+                            analysis_done = True  # Mark that we've done analysis
                             continue
                     except Exception as e:
                         error_msg = str(e)
@@ -193,22 +198,37 @@ Be thorough and informative. Use formatting with headers and bullet points for c
                         continue
                 else:
                     # User hasn't provided image yet for skin/eye issue
-                    # Use agent to ask for image
-                    enriched_input = f"""
-                    Pet Type: {animal}
-                    Issue Type: {disease_type} disease
-                    
-                    User Query: {user_input}
-                    
-                    The user is asking about a {disease_type} issue. Ask them to upload a clear image
-                    so you can provide a proper diagnosis. Guide them to provide the image file path.
-                    Do NOT use the tool yet. Just ask for the image.
-                    """
-                    response = agent.run(enriched_input)
-                    clean_response = clean_agent_response(response)
-                    print(f"Bot: {clean_response}\n")
+                    if analysis_done:
+                        # We already analyzed an image - this is a follow-up question
+                        # Use LLM to answer in context of the diagnosis
+                        followup_prompt = f"""You are a veterinary expert. You have already diagnosed the dog with a {disease_type} condition.
+
+User's follow-up question: {user_input}
+
+Answer this question in the context of the {disease_type} condition you previously diagnosed. 
+Provide helpful, accurate veterinary advice based on the question asked."""
+                        
+                        llm_response = llm.invoke(followup_prompt)
+                        followup_answer = llm_response.content
+                        print(f"Bot: {followup_answer}\n")
+                    else:
+                        # First time for this disease - ask for image
+                        enriched_input = f"""
+                        Pet Type: {animal}
+                        Issue Type: {disease_type} disease
+                        
+                        User Query: {user_input}
+                        
+                        The user is asking about a {disease_type} issue. Ask them to upload a clear image
+                        so you can provide a proper diagnosis. Guide them to provide the image file path.
+                        Do NOT use the tool yet. Just ask for the image.
+                        """
+                        response = agent.run(enriched_input)
+                        clean_response = clean_agent_response(response)
+                        print(f"Bot: {clean_response}\n")
             else:
                 # General health question
+                analysis_done = False  # Reset for general questions
                 enriched_input = f"""
                 Pet Type: {animal}
                 Issue Type: General health question
