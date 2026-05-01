@@ -5,6 +5,7 @@ from pathlib import Path
 from chatbot.agent import agent
 from chatbot.llm import llm
 from chatbot.memory import memory
+from chatbot.langsmith_config import setup_langsmith
 
 # Keywords for intent detection
 SKIN_KEYWORDS = [
@@ -343,4 +344,8 @@ Do NOT ask for images. Just provide helpful guidance based on what's been discus
 
 
 if __name__ == "__main__":
+    # Initialize LangSmith tracing (optional)
+    setup_langsmith()
+    
+    # Start the chatbot
     run_chat()

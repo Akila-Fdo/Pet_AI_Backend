@@ -2,12 +2,16 @@ from fastapi import FastAPI, UploadFile, File, Form
 from app.models import dog_skin, dog_eye, cat_skin
 from app.utils.image import preprocess
 from app.services.router import route_prediction
+from chatbot.langsmith_config import setup_langsmith
 
 app = FastAPI(title="Pet AI Disease Detection API")
 
 # 🔥 Load models ONCE
 @app.on_event("startup")
 def load_models():
+    # Initialize LangSmith tracing (optional)
+    setup_langsmith()
+    
     app.state.dog_skin = dog_skin.load_model()
     app.state.dog_eye = dog_eye.load_model()
     app.state.cat_skin = cat_skin.load_model()
