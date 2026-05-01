@@ -112,6 +112,9 @@ def run_chat():
     
     print(f"\n✅ Great! I'll help you with your {animal.upper()}'s health.\n")
     
+    # Track disease type across conversation turns
+    current_disease_type = None
+    
     conversation_active = True
     while conversation_active:
         try:
@@ -125,8 +128,15 @@ def run_chat():
                 conversation_active = False
                 break
             
-            # Detect disease type
-            disease_type = detect_disease_type(user_input)
+            # Detect disease type from current message
+            detected_disease_type = detect_disease_type(user_input)
+            
+            # Update current disease type if a new one is detected
+            # Otherwise, keep the previous disease type for context
+            if detected_disease_type:
+                current_disease_type = detected_disease_type
+            
+            disease_type = current_disease_type  # Use tracked disease type
             
             # Build context for the agent
             if disease_type:
@@ -140,7 +150,7 @@ def run_chat():
                     
                     from chatbot.tools import analyze_pet_image
                     try:
-                        # Call the tool directly
+                        # Call the tool directly with the tracked disease type
                         tool_result = analyze_pet_image(
                             image_path=image_path,
                             animal=animal,
