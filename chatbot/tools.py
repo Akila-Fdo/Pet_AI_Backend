@@ -8,7 +8,7 @@ FASTAPI_URL = "http://127.0.0.1:8000/predict"
 
 @tool(return_direct=False)
 def analyze_pet_image(input_request: str) -> str:
-    """Analyze a pet image to detect skin or eye diseases. Input should be JSON with image_path, animal, and disease_type fields. Returns prediction and confidence."""
+    """Analyze a pet image to detect diseases. Input: JSON string with image_path, animal, disease_type. Only call if user provides real image path."""
     try:
         # Parse JSON input
         params = json.loads(input_request)
@@ -18,13 +18,18 @@ def analyze_pet_image(input_request: str) -> str:
         disease_type = params.get("disease_type")
         
         if not image_path:
-            return json.dumps({"error": "image_path is required"})
+            return json.dumps({"error": "❌ Missing image_path. Ask user for actual file path."})
+        
+        # Check for placeholder paths - guide agent away from using them
+        if "/path/to" in image_path.lower() or "example" in image_path.lower():
+            return json.dumps({"error": "❌ This is a placeholder path. Ask the user for their actual image file path."})
+        
         if not disease_type:
-            return json.dumps({"error": "disease_type is required (skin or eye)"})
+            return json.dumps({"error": "❌ Missing disease_type. Should be 'skin' or 'eye'."})
         
         # Check if file exists
         if not os.path.exists(image_path):
-            return json.dumps({"error": f"Image file not found: {image_path}"})
+            return json.dumps({"error": f"❌ Image not found at: {image_path}\nAsk user to verify the path is correct."})
         
         # Call FastAPI endpoint
         with open(image_path, "rb") as f:

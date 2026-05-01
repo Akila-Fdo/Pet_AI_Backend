@@ -34,11 +34,12 @@ def run_chat():
             if not user_input:
                 continue
             
-            # ✅ FIX: Include animal context for better responses
-            enriched_input = f"""
-User's pet type: {animal}
+            # ✅ FIX: Include animal context and detailed guidance
+            # Tell the LLM to be helpful and answer questions directly first
+            enriched_input = f"""[SYSTEM: You are a helpful veterinary assistant. Answer health questions directly with useful information. Only use tools when the user provides a real image path.]
 
-User query: {user_input}
+Pet type: {animal}
+User message: {user_input}
 """
             
             # ✅ FIX: Use .invoke() for LangChain 0.1.x agents
