@@ -1,3 +1,7 @@
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 from fastapi import FastAPI, UploadFile, File, Form
 from app.models import dog_skin, dog_eye, cat_skin
 from app.utils.image import preprocess
