@@ -3,6 +3,7 @@ import os
 import json
 from pathlib import Path
 from chatbot.agent import agent
+from chatbot.llm import llm
 
 # Keywords for intent detection
 SKIN_KEYWORDS = [
@@ -160,27 +161,31 @@ def run_chat():
                             print("     Please try again with a different image file.\n")
                             continue
                         else:
-                            # Tool succeeded - get explanation from agent
+                            # Tool succeeded - get explanation directly from LLM
                             disease_class = tool_result.get('class', 'Unknown')
                             confidence = tool_result.get('confidence', 'N/A')
                             
-                            # Build prompt for agent (DO NOT call tool - analysis already done)
-                            enriched_input = f"""COMPUTER VISION ANALYSIS COMPLETE - DO NOT USE TOOLS
+                            # Build prompt for LLM (not agent)
+                            explanation_prompt = f"""You are a veterinary expert. Based on the computer vision analysis of a {animal}'s {disease_type}, 
+the detected condition is: {disease_class} (with {confidence:.1%} confidence).
 
-I have already analyzed the {animal}'s {disease_type} image using computer vision.
-Analysis Results:
-- Detected Condition: {disease_class}
-- Confidence Score: {confidence:.1%}
-- User's Description: {user_input}
+User's original description: {user_input}
 
-IMPORTANT: The image analysis is ALREADY COMPLETE. Do NOT call any tools. Just provide a detailed veterinary explanation.
-
-Please explain:
+Provide a detailed veterinary explanation covering:
 1. What is {disease_class}?
-2. Common causes and risk factors
+2. Common causes and risk factors for this condition
 3. Treatment options and recommendations
 4. When to seek professional veterinary care
-5. Prevention and management tips"""
+5. Prevention and management tips
+
+Be thorough and informative. Use formatting with headers and bullet points for clarity."""
+                            
+                            # Call LLM directly for the explanation
+                            llm_response = llm.invoke(explanation_prompt)
+                            explanation_text = llm_response.content
+                            
+                            print(f"Bot: {explanation_text}\n")
+                            continue
                     except Exception as e:
                         error_msg = str(e)
                         print(f"Bot: I encountered an error while analyzing the image: {error_msg}")
@@ -188,6 +193,7 @@ Please explain:
                         continue
                 else:
                     # User hasn't provided image yet for skin/eye issue
+                    # Use agent to ask for image
                     enriched_input = f"""
                     Pet Type: {animal}
                     Issue Type: {disease_type} disease
@@ -198,6 +204,9 @@ Please explain:
                     so you can provide a proper diagnosis. Guide them to provide the image file path.
                     Do NOT use the tool yet. Just ask for the image.
                     """
+                    response = agent.run(enriched_input)
+                    clean_response = clean_agent_response(response)
+                    print(f"Bot: {clean_response}\n")
             else:
                 # General health question
                 enriched_input = f"""
@@ -209,14 +218,9 @@ Please explain:
                 This is a general health question. Answer it directly with veterinary advice.
                 Do NOT ask for images. Just provide helpful guidance.
                 """
-            
-            # Get response from agent
-            response = agent.run(enriched_input)
-            
-            # Clean up the response formatting
-            clean_response = clean_agent_response(response)
-            
-            print(f"Bot: {clean_response}\n")
+                response = agent.run(enriched_input)
+                clean_response = clean_agent_response(response)
+                print(f"Bot: {clean_response}\n")
         
         except KeyboardInterrupt:
             print("\n\nBot: Goodbye! 🐾")
