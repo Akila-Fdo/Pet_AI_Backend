@@ -44,40 +44,36 @@ def extract_image_path(user_input: str) -> str:
 
 def clean_agent_response(response: str) -> str:
     """
-    Clean up the agent response by removing JSON formatting artifacts.
-    Extracts the actual content from structured responses.
+    Clean up the agent response by extracting actual content from JSON.
     """
-    # If response contains JSON with action_input, extract that
-    if '"action_input"' in response or "'action_input'" in response:
-        try:
-            # Try to parse as JSON
-            if response.startswith('{'):
-                data = json.loads(response)
-                if 'action_input' in data:
-                    return str(data['action_input'])
-            elif '"action_input":' in response or "'action_input':" in response:
-                # Extract the action_input value using regex
-                match = re.search(r'"action_input":\s*"([^"]*)"', response)
-                if not match:
-                    match = re.search(r"'action_input':\s*'([^']*)'", response)
-                if match:
-                    return match.group(1)
-        except:
-            pass
+    response_str = str(response).strip()
     
-    # If response contains "Action:" prefix, remove it
-    if response.startswith("Action:"):
-        response = response[7:].strip()
-        if response.startswith("{"):
-            try:
-                data = json.loads(response)
-                if 'action_input' in data:
-                    return str(data['action_input'])
-            except:
-                pass
+    # Remove "Action:" prefix if present
+    if response_str.startswith("Action:"):
+        response_str = response_str[7:].strip()
     
-    # Otherwise return as-is
-    return response
+    # Try to parse as JSON
+    try:
+        # Remove markdown code block markers if present
+        if response_str.startswith("```json"):
+            response_str = response_str[7:]
+        if response_str.startswith("```"):
+            response_str = response_str[3:]
+        if response_str.endswith("```"):
+            response_str = response_str[:-3]
+        response_str = response_str.strip()
+        
+        # Parse JSON
+        if response_str.startswith("{"):
+            data = json.loads(response_str)
+            # Extract action_input from agent action
+            if 'action_input' in data:
+                return str(data['action_input'])
+    except json.JSONDecodeError:
+        pass
+    
+    # If not JSON, return as-is
+    return response_str
 
 def detect_disease_type(user_input: str) -> str:
     """
@@ -148,10 +144,10 @@ def run_chat():
                     # Call the tool directly to ensure we get the analysis
                     print("\n📸 Analyzing image with computer vision model...\n")
                     
-                    from chatbot.tools import analyze_pet_image
+                    from chatbot.tools import _analyze_pet_image_impl
                     try:
-                        # Call the tool directly with the tracked disease type
-                        tool_result = analyze_pet_image(
+                        # Call the implementation function directly (not the @tool decorated version)
+                        tool_result = _analyze_pet_image_impl(
                             image_path=image_path,
                             animal=animal,
                             disease_type=disease_type
@@ -159,41 +155,37 @@ def run_chat():
                         
                         # Check if tool returned an error
                         if isinstance(tool_result, dict) and "error" in tool_result:
-                            enriched_input = f"""
-                            The user provided an image for analysis, but there was an error:
-                            Error: {tool_result['error']}
-                            
-                            User Message: {user_input}
-                            
-                            Please ask the user to try again with a valid image file.
-                            """
+                            error_msg = tool_result['error']
+                            print(f"Bot: I encountered an error while analyzing the image: {error_msg}")
+                            print("     Please try again with a different image file.\n")
+                            continue
                         else:
-                            # Tool succeeded - pass the result to agent for explanation
-                            enriched_input = f"""
-                            DIAGNOSIS REPORT:
-                            I have analyzed the {animal}'s {disease_type} using computer vision.
+                            # Tool succeeded - get explanation from agent
+                            disease_class = tool_result.get('class', 'Unknown')
+                            confidence = tool_result.get('confidence', 'N/A')
                             
-                            Analysis Result:
-                            - Disease Class: {tool_result.get('class', 'Unknown')}
-                            - Confidence Score: {tool_result.get('confidence', 'N/A')}
-                            
-                            User's Description: {user_input}
-                            
-                            Please provide a detailed explanation of what this diagnosis means, including:
-                            1. What the disease is
-                            2. Common causes
-                            3. Treatment options
-                            4. When to seek veterinary care
-                            5. Prevention tips if applicable
-                            """
+                            # Build prompt for agent (DO NOT call tool - analysis already done)
+                            enriched_input = f"""COMPUTER VISION ANALYSIS COMPLETE - DO NOT USE TOOLS
+
+I have already analyzed the {animal}'s {disease_type} image using computer vision.
+Analysis Results:
+- Detected Condition: {disease_class}
+- Confidence Score: {confidence:.1%}
+- User's Description: {user_input}
+
+IMPORTANT: The image analysis is ALREADY COMPLETE. Do NOT call any tools. Just provide a detailed veterinary explanation.
+
+Please explain:
+1. What is {disease_class}?
+2. Common causes and risk factors
+3. Treatment options and recommendations
+4. When to seek professional veterinary care
+5. Prevention and management tips"""
                     except Exception as e:
-                        enriched_input = f"""
-                        There was an error analyzing the image: {str(e)}
-                        
-                        User Message: {user_input}
-                        
-                        Please inform the user about the error and suggest they try again.
-                        """
+                        error_msg = str(e)
+                        print(f"Bot: I encountered an error while analyzing the image: {error_msg}")
+                        print("     Please try again with a different image file.\n")
+                        continue
                 else:
                     # User hasn't provided image yet for skin/eye issue
                     enriched_input = f"""
