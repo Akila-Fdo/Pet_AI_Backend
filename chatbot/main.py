@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 from chatbot.agent import agent
 from chatbot.llm import llm
+from chatbot.memory import memory
 
 # Keywords for intent detection
 SKIN_KEYWORDS = [
@@ -189,6 +190,14 @@ Be thorough and informative. Use formatting with headers and bullet points for c
                             
                             print(f"Bot: {explanation_text}\n")
                             analysis_done = True  # Mark that we've done analysis
+                            
+                            # IMPORTANT: Save the specific diagnosis to memory
+                            # This ensures follow-up questions can reference the exact diagnosis
+                            diagnosis_record = f"Diagnosed with {disease_class} (confidence: {confidence:.1%}) from {disease_type} image analysis"
+                            memory.save_context(
+                                {"input": user_input},
+                                {"output": diagnosis_record}
+                            )
                             continue
                     except Exception as e:
                         error_msg = str(e)
@@ -199,17 +208,31 @@ Be thorough and informative. Use formatting with headers and bullet points for c
                     # User hasn't provided image yet for skin/eye issue
                     if analysis_done:
                         # We already analyzed an image - this is a follow-up question
+                        # Retrieve conversation history to get the specific diagnosis
+                        memory_vars = memory.load_memory_variables({})
+                        conversation_history = memory_vars.get('chat_history', '')
+                        
                         # Use LLM to answer in context of the diagnosis
-                        followup_prompt = f"""You are a veterinary expert. You have already diagnosed the dog with a {disease_type} condition.
+                        followup_prompt = f"""You are a veterinary expert. You have already diagnosed and discussed a {disease_type} condition with this {animal}.
+
+Previous Conversation:
+{conversation_history}
 
 User's follow-up question: {user_input}
 
-Answer this question in the context of the {disease_type} condition you previously diagnosed. 
+IMPORTANT: You MUST reference the specific diagnosis and previous discussion from the conversation history above.
+Answer this question in the context of the condition you previously diagnosed. 
 Provide helpful, accurate veterinary advice based on the question asked."""
                         
                         llm_response = llm.invoke(followup_prompt)
                         followup_answer = llm_response.content
                         print(f"Bot: {followup_answer}\n")
+                        
+                        # Save follow-up to memory for continued context
+                        memory.save_context(
+                            {"input": user_input},
+                            {"output": followup_answer}
+                        )
                     else:
                         # First time for this disease - ask for image
                         enriched_input = f"""
@@ -225,10 +248,72 @@ Provide helpful, accurate veterinary advice based on the question asked."""
                         response = agent.run(enriched_input)
                         clean_response = clean_agent_response(response)
                         print(f"Bot: {clean_response}\n")
+                        
+                        # Save to memory
+                        memory.save_context(
+                            {"input": user_input},
+                            {"output": clean_response}
+                        )
             else:
-                # General health question
+                # General health question (no disease keywords detected)
+                # But check if a disease diagnosis was made earlier
                 analysis_done = False  # Reset for general questions
-                enriched_input = f"""
+                
+                # Get conversation history from memory for better context
+                memory_vars = memory.load_memory_variables({})
+                conversation_history = memory_vars.get('chat_history', '')
+                
+                # Check if there was a previous diagnosis in the conversation
+                has_previous_diagnosis = False
+                if conversation_history:
+                    # Look for diagnosis records in history (they contain "Diagnosed with")
+                    has_previous_diagnosis = 'Diagnosed with' in conversation_history or any(
+                        disease in conversation_history.lower() 
+                        for disease in ['dermatitis', 'mange', 'infection', 'blepharitis', 'keratitis', 'conjunctiv']
+                    )
+                
+                # Build prompt with full conversation context
+                if conversation_history:
+                    # This is a follow-up question - use LLM directly with full context
+                    # This guarantees the LLM sees the previous conversation
+                    if has_previous_diagnosis:
+                        # Emphasize that there was a previous diagnosis
+                        prompt = f"""You are a veterinary expert assistant. 
+                    
+Pet Type: {animal}
+
+Previous Conversation (including a specific medical diagnosis):
+{conversation_history}
+
+Current User Question: {user_input}
+
+IMPORTANT INSTRUCTIONS:
+1. You MUST reference the previous conversation and any diagnosis that was made.
+2. If a specific condition was diagnosed (e.g., dermatitis, mange, infection, etc.), acknowledge that diagnosis clearly.
+3. Answer the current question in context of that previous diagnosis.
+4. Be specific and reference the exact condition and details that were discussed before.
+5. Do NOT ask for images. Just provide helpful guidance based on what's been discussed."""
+                    else:
+                        # General follow-up without specific diagnosis
+                        prompt = f"""You are a veterinary expert assistant. 
+                    
+Pet Type: {animal}
+
+Previous Conversation:
+{conversation_history}
+
+Current User Question: {user_input}
+
+IMPORTANT: You MUST reference the previous conversation above when answering. 
+Acknowledge what was previously discussed about this {animal} and provide follow-up advice that builds on that context.
+Be specific and reference the exact issue that was mentioned before.
+Do NOT ask for images. Just provide helpful guidance based on what's been discussed."""
+                    
+                    response = llm.invoke(prompt)
+                    clean_response = response.content if hasattr(response, 'content') else str(response)
+                else:
+                    # First general health question - use agent normally
+                    enriched_input = f"""
                 Pet Type: {animal}
                 Issue Type: General health question
                 
@@ -237,9 +322,17 @@ Provide helpful, accurate veterinary advice based on the question asked."""
                 This is a general health question. Answer it directly with veterinary advice.
                 Do NOT ask for images. Just provide helpful guidance.
                 """
-                response = agent.run(enriched_input)
-                clean_response = clean_agent_response(response)
+                    
+                    response = agent.run(enriched_input)
+                    clean_response = clean_agent_response(response)
+                
                 print(f"Bot: {clean_response}\n")
+                
+                # IMPORTANT: Save all responses to memory for context in future turns
+                memory.save_context(
+                    {"input": user_input},
+                    {"output": clean_response}
+                )
         
         except KeyboardInterrupt:
             print("\n\nBot: Goodbye! 🐾")
