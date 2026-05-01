@@ -8,10 +8,15 @@ from chatbot.memory import memory
 tools = [analyze_pet_image]
 
 # Initialize the agent with proper configuration
+# Using STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION which supports multi-input tools
+# (image_path, animal, disease_type parameters)
+# 
+# Note: initialize_agent is deprecated in newer LangChain versions but still works.
+# Future migration path: create_structured_chat_agent (when memory integration improved)
 agent = initialize_agent(
     tools=tools,
     llm=llm,
-    agent=AgentType.CONVERSATIONAL_REACT_DESCRIPTION,
+    agent=AgentType.STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION,
     memory=memory,
     verbose=True,
     callbacks=[StdOutCallbackHandler()],

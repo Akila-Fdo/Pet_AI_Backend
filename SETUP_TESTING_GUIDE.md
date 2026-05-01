@@ -54,12 +54,17 @@ curl http://127.0.0.1:8000/docs  # Should show Swagger UI
 python -m chatbot.main
 
 # Expected output:
+# LangChainDeprecationWarning: The function `initialize_agent` was deprecated...
+# (This warning is harmless - the agent still works correctly)
+#
 # 🐾 Pet AI Healthcare Chatbot Started
 # ==============================================================
 # Welcome! I'm your veterinary assistant.
 # ...
 # What type of pet do you have? (dog/cat):
 ```
+
+**Note:** You may see a deprecation warning about `initialize_agent`. This is informational only and doesn't affect functionality. The agent uses `STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION` which properly supports multi-input tools.
 
 ---
 
