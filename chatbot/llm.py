@@ -11,7 +11,7 @@ if not api_key:
 
 # Initialize LLM with OpenRouter
 llm = ChatOpenAI(
-    temperature=0.2,  # Low temperature for more consistent medical advice
+    temperature=0.0,  # Low temperature for more consistent medical advice
     model="meta-llama/llama-3.1-8b-instruct",
     openai_api_key=api_key,
     openai_api_base="https://openrouter.ai/api/v1",
