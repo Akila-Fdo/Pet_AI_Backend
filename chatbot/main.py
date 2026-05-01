@@ -21,25 +21,24 @@ EYE_KEYWORDS = [
 def extract_image_path(user_input: str) -> str:
     """
     Extract image file path from user input.
+    Handles filenames with spaces, dots, and special characters.
     Supports formats like:
-    - /path/to/image.jpg
+    - /path/to/image file.jpg (with spaces)
     - image.jpg
     - ~/Documents/image.jpg
     """
-    # Look for file paths (absolute or relative)
-    path_patterns = [
-        r'([/~][^\s]*\.(?:jpg|jpeg|png|gif|bmp))',  # Absolute or home paths
-        r'([^/\s][^\s]*\.(?:jpg|jpeg|png|gif|bmp))'   # Relative paths
-    ]
+    # More robust pattern that handles spaces in filenames
+    # Matches paths starting with / or ~ followed by any mix of alphanumeric, 
+    # spaces, dots, hyphens, underscores and slashes, ending in image extension
+    pattern = r'(/[^\n]*\.(?:jpg|jpeg|png|gif|bmp)|~/[^\n]*\.(?:jpg|jpeg|png|gif|bmp))'
     
-    for pattern in path_patterns:
-        match = re.search(pattern, user_input, re.IGNORECASE)
-        if match:
-            path = match.group(1)
-            # Expand home directory
-            if path.startswith("~"):
-                path = os.path.expanduser(path)
-            return path
+    match = re.search(pattern, user_input, re.IGNORECASE)
+    if match:
+        path = match.group(1).strip()
+        # Expand home directory
+        if path.startswith("~"):
+            path = os.path.expanduser(path)
+        return path
     
     return None
 
