@@ -24,3 +24,19 @@ async def predict(
     result = route_prediction(app, animal, disease_type, image)
 
     return result
+
+# 🔍 Analyze image endpoint (for chatbot integration)
+@app.post("/analyze-image")
+async def analyze_image(
+    file: UploadFile = File(...),
+    disease_type: str = Form(...),
+    animal: str = Form("dog"),
+    user_id: str = Form("demo")
+):
+    """
+    Analyze pet image for disease detection.
+    Used by chatbot for skin/eye disease diagnosis.
+    """
+    image = preprocess(file.file)
+    result = route_prediction(app, animal, disease_type, image)
+    return result
