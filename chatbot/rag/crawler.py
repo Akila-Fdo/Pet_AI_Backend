@@ -291,7 +291,7 @@ async def crawl_recursive_batch(start_urls, max_depth=3, max_concurrent=10):
 
 if __name__ == "__main__":
     asyncio.run(crawl_recursive_batch(
-        start_urls=["https://www.msdvetmanual.com/dog-owners/eye-disorders-of-dogs"],
-        max_depth=2,
+        start_urls=["https://www.msdvetmanual.com/dog-owners"],
+        max_depth=3,
         max_concurrent=10
     ))
