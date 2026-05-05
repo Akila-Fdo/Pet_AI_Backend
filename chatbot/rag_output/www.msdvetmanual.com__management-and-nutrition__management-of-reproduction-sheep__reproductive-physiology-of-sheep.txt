@@ -1,0 +1,91 @@
+1. <[Management of Reproduction: Sheep](https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-sheep)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Reproductive Physiology of Sheep
+By[Clare M. Scully](https://www.msdvetmanual.com/authors/scully-clare), DVM, DACT, Department of Veterinary Clinical Sciences, School of Veterinary Medicine, Louisiana State University
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Modified Mar 2026
+v107988800
+* [Female Reproductive Anatomy and Body Condition](https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-sheep/reproductive-physiology-of-sheep?sccamp=sccamp#Female-Reproductive-Anatomy-and-Body-Condition_v107988804)|
+* [Female Reproductive Physiology and Estrus](https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-sheep/reproductive-physiology-of-sheep?sccamp=sccamp#Female-Reproductive-Physiology-and-Estrus_v107988848)|
+* [Breeding Management and the Ram Effect](https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-sheep/reproductive-physiology-of-sheep?sccamp=sccamp#Breeding-Management-and-the-Ram-Effect_v107988856)|
+* [Estrus Control and Synchronization](https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-sheep/reproductive-physiology-of-sheep?sccamp=sccamp#Estrus-Control-and-Synchronization_v107988861)|
+* [For More Information](https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-sheep/reproductive-physiology-of-sheep?sccamp=sccamp#For-More-Information_v107988877)|
+* Multimedia|
+
+## Reproductive Anatomy and Body Condition in Ewes
+In ewes, the reproductive tract consists of ovaries, uterine tubes, uterus, cervix, and vagina:
+* The **ovaries** produce ova and secrete estrogen from follicles and progesterone from corpora lutea.
+* Fertilization occurs at the ampulla isthmus junction of the **uterine tube**.
+* The **uterus** consists of two horns and a short uterine body and is the site of implantation and fetal development.
+* The **cervix** forms a firm barrier between the uterus and vagina, and its anatomy is of clinical importance because it dictates insemination strategies. The ovine cervix is longer, firmer, and more tortuous than the caprine cervix, which limits transcervical passage of instruments and often necessitates intrauterine insemination of ewes to achieve acceptable fertility with frozen semen.
+* The **vagina** is the site of semen deposition during natural mating.
+
+**Body condition scoring (BCS)** is essential to reproductive success and should be performed by palpation of the lumbar spine because fleece and hair obscure visual assessment (see image of body condition scoring, ewe).
+Body condition scoring, ewe
+Image
+Assessment of body condition score (BCS) in a ewe, demonstrating palpation of the epaxial muscles along the lumbar spine. By running the fingers over the spine cranial to caudal and feeling the amount of muscling and fat cover over the vertebrae, the evaluator can accurately determine BCS. Proper technique focuses on tactile assessment rather than visual appearance, ensuring a reliable BCS for management and breeding decisions.
+Courtesy of Dr. Clare Scully.
+The most critical time to evaluate body condition is 8 weeks before breeding so that BCS can be improved before breeding.
+Pearls & Pitfalls
+|
+* The most critical time to evaluate body condition is 8 weeks before breeding so that BCS can be improved before breeding.
+
+|
+| --- |
+Females that become pregnant in poor body condition rarely improve their body condition during gestation or lactation and are at increased risk for metabolic disease, pregnancy loss, and neonatal death. Overconditioned females are predisposed to dystocia and pregnancy toxemia. Rapid declines in body condition during lactation should be avoided.
+Because of substantial weight loss that occurs during breeding, males should enter the breeding season with a body condition score of 3.5–4 (out of 5). (See [body condition scoring guide](https://www.canr.msu.edu/news/preparing-sheep-and-goats-for-breeding-season) for sheep.)
+**Body condition is scored as follows:**
+* **BCS 1:** Emaciated; backbone and ribs very prominent with no fat cover and deep hollow flanks
+* **BCS 2:** Thin; backbone visible, some ribs visible, with minimal fat and shallow, hollow flanks
+* **BCS 3:** Moderate; backbone not prominent, ribs barely felt, with even fat cover
+* **BCS 4:** Fat; backbone and ribs not visible, body smooth and well-rounded
+* **BCS 5:** Obese; backbone buried in fat with excessive fat cover over ribs
+
+### FAMACHA System for Sheep
+The **FAMACHA system** is an essential management tool for sheep producers, particularly during critical physiological stages such as breeding, late gestation, lambing, and kidding. During these periods, animals experience increased nutritional and metabolic demands that can compromise immunity and make them more susceptible to [barber pole worm](https://www.msdvetmanual.com/digestive-system/gastrointestinal-parasites-of-ruminants/common-gastrointestinal-parasites-of-small-ruminants#v81479447) (_Haemonchus contortus_) infections and anemia. FAMACHA scoring **allows producers to identify animals with decreased parasite tolerance** , supporting selective breeding decisions and the culling of repeat offenders, while also slowing the development of [anthelmintic resistance](https://www.msdvetmanual.com/pharmacology/anthelmintics/resistance-to-anthelmintics-in-animals) through targeted, selective treatment.
+The FAMACHA system **evaluates the mucous membrane color of the conjunctiva inside the lower eyelid** , which reflects anemia severity, using a **scale from 1 (red, no anemia) to 5 (pale/white, severe anemia)**. The FAMACHA system has been **validated in North American sheep, goats, and camelids**. (See images of FAMACHA card and scoring.)
+Conducting FAMACHA assessments around breeding ensures that only healthy animals enter reproduction; monitoring during late gestation and early lactation helps prevent production losses due to poor mothering ability, decreased milk production, and lamb and kid death. During the grazing (parasite) season, **FAMACHA scores should be assessed in every animal every 2 weeks**. To maintain accuracy, FAMACHA cards should be replaced after 12 months of use because sunlight fades the color images.
+## Reproductive Physiology and Estrus in Ewes
+Sheep are **short-day seasonally polyestrous breeders**. Decreasing photoperiod after the summer solstice increases melatonin secretion, which stimulates the release of hypothalamic gonadotropin-releasing hormone and initiates ovarian cyclicity. The **ovulatory season typically occurs from late summer to early winter** with an anovulatory period extending from late winter into early summer.
+**In ewes, estrous cycles average 16–17 days** , and estrus lasts approximately 30 hours. Behavioral estrus requires progesterone priming for approximately 12 days and as such, the first ovulation of the season is often silent. Estrus tends to be longer and more intense in the autumn and shorter at the beginning and the end of the ovulatory season.
+**Puberty occurs at 6–8 months** , depending on season and nutrition. **Breeding should be delayed until ewes reach 60–70% of mature body weight.****Ovulation occurs 12–36 hours after the onset of estrus**. Improved nutrition before breeding (known as flushing) increases ovulation rate, particularly in animals with lower BCS.
+Pearls & Pitfalls
+|
+* Improved nutrition before breeding (known as flushing) increases ovulation rate, particularly in animals with lower body condition scores.
+
+|
+| --- |
+**Estrus detection** differs between species. Ewes display fewer overt estrous signs unless a ram is present. Estrous ewes lower their heads, wag their tails, actively seek rams, and allow repeated mounting. Breed, geographic location, and environmental temperature influence the length of the ovulatory season as well as prolificacy.
+## Breeding Management and the Ram Effect
+Pheromones from male hair and anteorbital gland secretions stimulate estrus and ovulation in ewes. Teaser males retain hormonal activity but are infertile and can be used to stimulate cyclicity and aid estrus detection. Limited male exposure is preferable to continuous male exposure because it allows for more accurate prediction of parturition dates, improves nutritional management, and strengthens disease control efforts.
+The **ram effect** is particularly useful before the ovulatory season starts. **After complete isolation from males for several weeks, introduction of a male can induce ovulation within days.** Without progesterone priming, the initial ovulation is often silent, and visible estrus typically occurs after regression of the corpus luteum. Two peaks of breeding activity are commonly observed approximately 3–4 weeks after male introduction. Fence line exposure or exposure to male scent alone might also induce ovulation.
+## Estrus Control and Synchronization in Ewes
+Estrus control relies on the use of progesterone-secreting devices, prostaglandins, gonadotropins, and in some protocols, gonadotropin-releasing hormone (GnRH). Synchronization is most successful during the natural ovulatory season and becomes less predictable outside of it. Proper male:female ratios are critical, particularly in synchronized programs where breeding pressure is concentrated over a short period.
+A thorough understanding of natural estrous cycles provides the foundation for reproductive manipulation. **A reasons to control the cycle includes achieving continuous lamb crops in meat sheep operations.** Techniques to manipulate the estrous cycle become more complex the longer it is from the natural ovulatory season.
+Several **pharmaceutical tools are available to influence the estrous cycle** :
+* **Progesterone** (via controlled internal drug release devices) maintains circulating progesterone concentrations until removed.
+* **Prostaglandin F2alpha** lyses the corpus luteum to allow for the return to estrus.
+* **Equine chorionic gonadotropin/hCG** (usually as a combined product) stimulates the ovary to mature and ovulate multiple follicles.
+* **GnRH** induces ovulation.
+
+Observing external signs of estrus remains vital.
+## For More Information
+* [Targeted selective treatment (TST), including the FAMACHA System and Five Point Check](https://www.wormx.info/famacha). American Consortium for Small Ruminant Parasite Control. 2024.
+* Christensen K. [Biology of the goat: fertilization](https://www.goatbiology.com/animations/fertilization.html). 2020. Accessed February 22, 2026.
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#management-and-nutrition)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

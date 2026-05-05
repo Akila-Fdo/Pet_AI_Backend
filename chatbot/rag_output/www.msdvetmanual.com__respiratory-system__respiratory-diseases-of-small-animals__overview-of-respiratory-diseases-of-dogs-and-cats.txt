@@ -1,0 +1,38 @@
+1. <[Respiratory Diseases of Small Animals](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Overview of Respiratory Diseases of Dogs and Cats
+By[Caroline C. Tonozzi](https://www.msdvetmanual.com/authors/tonozzi-caroline), DVM, DACVECC, Mission Veterinary Partners
+Reviewed/Revised Feb 2022 | Modified May 2025
+v3294771
+* [For More Information](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/overview-of-respiratory-diseases-of-dogs-and-cats#For-More-Information_v62076571)|
+* Multimedia|
+
+A varying flora of indigenous commensal organisms (including _Pasteurella multocida_ , _Bordetella bronchiseptica_ , streptococci, staphylococci, pseudomonads, and coliform bacteria) normally reside in the nasal passages, nasopharynx, and upper trachea, and at least intermittently in the lungs of dogs and cats, without causing clinical signs. Opportunistic infections by these bacteria may occur when respiratory defense mechanisms are compromised by infection with a primary pathogen (eg, [distemper](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper), [parainfluenza virus](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/kennel-cough), or canine type 2 adenovirus in dogs, and rhinotracheitis virus or [calicivirus](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/feline-respiratory-disease-complex) in cats), other insults (eg, inhalation of smoke or noxious gases), or diseases such as congestive [heart failure](https://www.msdvetmanual.com/circulatory-system/heart-failure-in-dogs-and-cats/heart-failure-in-dogs-and-cats) and [pulmonary neoplasia](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/neoplasia-of-the-respiratory-system-in-dogs-and-cats).
+Secondary bacterial infections complicate the management of viral respiratory infections of both dogs and cats. Pathogens may continue to reside in the respiratory tract of convalescent animals. When stressed, these animals may relapse; they can also act as a source of infection for others. Poor management practices (eg, overcrowding) are often associated with poor hygienic and environmental conditions, and the resultant stress increases both the incidence and severity of infections. Conditions that favor the spread of infections often occur in catteries, kennels, pet shops, boarding facilities, and humane shelters.
+Congenital abnormalities, such as stenotic nares, elongation of the soft palate, nasopharyngeal turbinates, and tracheal stenosis, can cause respiratory dysfunction. Neoplastic masses, degenerative changes of the airways, and tracheal collapse can result in dyspnea and other clinical manifestations of respiratory disease.
+Tracheal collapse, dog
+Image
+Endoscopic image of tracheal collapse (tracheomalacia, collapsing trachea) in a dog.
+Courtesy of Ontario Veterinary College.
+**Tracheal collapse** is most common in toy and miniature breeds of dogs. Yorkshire terriers are ½ to ⅔ of reported cases; this condition is rare in cats and large- or giant-breed dogs. Tracheal collapse is characterized by weakened cartilage rings, with dorsoventral flattening of the trachea, restricting airflow. The cause is multifactorial.
+Affected animals have a nonproductive, honking, chronic cough and increased inspiratory effort, with extrathoracic tracheal collapse or increased expiratory effort with intrathoracic tracheal collapse. Thoracic radiographs may show evidence of the collapse. Fluoroscopy is a noninvasive way to identify the location of collapse and determine whether the collapse is dynamic. Bronchoscopy may assist with fluid collection for cytology and culture if there is a secondary bacterial infection. Signs worsen with an increase in heat, excitement, and after exercise. Dogs may have concurrent pulmonary disease (eg, chronic [bronchitis](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/kennel-cough), [laryngeal paralysis](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/laryngeal-paralysis-in-dogs-and-cats), bronchomalacia, or [pneumonia](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/pneumonia-in-dogs-and-cats)). Treatment centers around managing the clinical signs with antitussives, antibiotics, corticosteroids with or without bronchodilators, as well as weight loss, exercise restriction, and reduction of excitement and stress.
+If medical management fails, intraluminal tracheal stenting may be considered. Stents can be placed with fluoroscopic and/or endoscopic guidance. Surgical placement of external tracheal rings can be attempted with implant failure as one complication. Neither treatment will eliminate the clinical signs completely and are considered "salvage" procedures.
+## For More Information
+* Also see pet health content regarding lung and airway disorders in [dogs](https://www.msdvetmanual.com/dog-owners/lung-and-airway-disorders-of-dogs/introduction-to-lung-and-airway-disorders-of-dogs) and [cats](https://www.msdvetmanual.com/cat-owners/lung-and-airway-disorders-of-cats/introduction-to-lung-and-airway-disorders-of-cats).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#respiratory-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

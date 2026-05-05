@@ -1,0 +1,170 @@
+1. <[Congenital and Inherited Anomalies](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Overview of Congenital and Inherited Anomalies in Animals
+By[Andrea S. Lear](https://www.msdvetmanual.com/authors/lear-andi), DVM, PhD, DACVIM-LAIM, University of Tennessee;
+[Andrew Dart](https://www.sydney.edu.au/science/about/our-people/academic-staff/andrew-dart.html%20), BVSc, PhD, DACVS, DECVS, University of Sydney
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Modified Dec 2025
+v3272463
+* [Etiology](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#Etiology_v104734201)|
+* [Inherited Defects](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#Inherited-Defects_v104734220)|
+* [Nutritional Factors](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#Nutritional-Factors_v104734269)|
+* [Physical Factors](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#Physical-Factors_v104734294)|
+* [Gestational Accidents of Unknown Etiology](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#Gestational-Accidents-of-Unknown-Etiology_v104734304)|
+* [Key Points](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#Key-Points_v104734315)|
+* [For More Information](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#For-More-Information_v50147461)|
+* [References](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#References_v104734338)|
+* Multimedia|
+
+Embryonic and fetal development are the result of a complex series of well-orchestrated events. When properly accomplished, the outcome is a healthy neonate. Errors in the sequential steps of development can lead to undesirable results, such as the following:
+* embryonic loss
+* fetal death
+* fetal mummification
+* abortion
+* stillbirth
+* birth of nonviable neonates
+* birth of viable offspring with defects
+
+When a developmental disruption results in a deviation from normal that is present or apparent at birth, the defect is said to be congenital. Other developmental defects might not become apparent until later in life, and although the disruptive event occurred before birth, the defect is not strictly classified as congenital.
+The event or agent that disrupts development remains undefined for many recognizable congenital conditions. However, technological advances in the field of teratology have led to the identification of a number of specific genetic, environmental, and infectious agents as etiological determinants in certain cases of defective fetal development.
+**Teratogens** are agents or factors that cause the development of physical defects in the embryo or fetus. The timing of teratogenic exposure during development influences the eventual outcome.
+Although zygotes, the cells resulting from the union of gametes, are relatively resistant to the effects of most teratogens, they can be affected by chromosomal alterations or aberrations that occur during gametogenesis or fertilization, as well as by genetic mutations that can be passed from one or both parents.
+As a zygote develops into an embryo and organogenesis progresses, susceptibility to environmental teratogens and teratogenic infectious agents increases. As the conceptus continues to develop, the fetus becomes increasingly resistant to environmental teratogens. Late-differentiating structures such as the palate, cerebellum, and urogenital system remain at risk well into the fetal period.
+Similar, and perhaps indistinguishable, defects can be induced by more than one agent. Exposure to toxic or infectious agents at critical phases of embryonic or fetal development can induce congenital anomalies that closely resemble heritable conditions.
+With increased awareness of the importance of inherited anomalies by breeders and breed associations, veterinarians in clinical practice and other diagnosticians must be thorough in investigating cases, to avoid failing to recognize conditions that might be heritable and improperly implicating breeding lines as a cause.
+Structural and functional congenital defects have been described in all domestic species. Although congenital defects are often classified or described with regard to the body system or part primarily involved, such classification systems are complicated by frequent simultaneous involvement of multiple body systems.
+Nonetheless, descriptive classifications provide a basis for comparison and enable estimation of the time the disruptive event occurred relative to fetal development, as well as, sometimes, of the etiology (see the table Some Common Congenital Defects of Domesticated Animals).
+Table
+Some Common Congenital Defects of Domesticated Animals
+Table
+Some Common Congenital Defects of Domesticated Animals
+Some Common Congenital Defects of Domesticated Animals
+| **Defect**  | **Description**  |
+| --- | --- |
+| Amelia  | Absence of a limb or limbs  |
+| Arthrogryposis  | Persistent flexure or contracture of a joint or joints  |
+| Atresia  | Absence or closure of a normal body opening or passage  |
+| Brachygnathism  | Abnormally short lower jaw  |
+| Campylognathia  | Curved jaw  |
+| Cheiloschisis  | Abnormal division of the lip (cleft lip)  |
+| Cryptorchidism  | Failure of one or both testes to descend into the scrotum  |
+| Hemimelia  | Absence of all or part of the distal half of a limb  |
+| Hernia  | Abnormal protrusion of an organ or portion of an organ through a defect or natural opening  |
+| Hydranencephaly  | Virtual absence of cerebral hemispheres and replacement by CSF  |
+| Hydrocephalus  | Abnormal fluid in the cranial vault accompanied by enlargement of the head  |
+| Kyphosis  | Abnormally increased convexity of the thoracic spine  |
+| Microphthalmia  | Abnormally small eye  |
+| Palatoschisis  | Fissure of the palate (cleft palate)  |
+| Perosomus  | Developmental anomaly characterized by a greatly deformed body or trunk  |
+| Polydactyly  | Presence of supernumerary digits  |
+| Porencephaly  | Presence of cavities in the brain developed during fetal life  |
+| Prognathism  | Marked projection of the lower jaw  |
+| Schistosomia  | Developmental anomaly characterized by fissure of the abdominal wall  |
+| Scoliosis  | Lateral deviation of the spinal axis  |
+| Syndactyly  | Fusion of the digits  |
+| Thoracoschisis  | Fissure of the thoracic wall, which can result in herniation of lung tissue  |
+For information pertaining to specific body systems, see the chapters covering congenital and inherited anomalies of the [cardiovascular system](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#v3259122), [digestive system](https://www.msdvetmanual.com/digestive-system/congenital-and-inherited-anomalies-involving-the-digestive-system), [endocrine system](https://www.msdvetmanual.com/endocrine-system/the-thyroid-gland/hypothyroidism-in-animals), [immune system](https://www.msdvetmanual.com/immune-system/immunologic-diseases/primary-immunodeficiencies-in-animals), [integumentary system](https://www.msdvetmanual.com/integumentary-system/congenital-and-inherited-anomalies-of-the-integumentary-system), [musculoskeletal system](https://www.msdvetmanual.com/musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system), [nervous system](https://www.msdvetmanual.com/nervous-system/congenital-and-inherited-anomalies-of-the-nervous-system-in-small-animals), [reproductive system](https://www.msdvetmanual.com/reproductive-system/congenital-and-inherited-anomalies-of-the-reproductive-system), [respiratory system](https://www.msdvetmanual.com/respiratory-system/respiratory-system-introduction/causes-of-respiratory-disease-in-animals), and [urinary system](https://www.msdvetmanual.com/urinary-system/congenital-and-inherited-anomalies-of-the-urinary-system).
+## Etiology of Congenital and Inherited Anomalies
+Identification of molecular signals that guide the sequential development of organs and organ systems, coupled with molecular diagnostic tools and genomic testing, enable a more detailed understanding of many observed congenital anomalies.
+Chromosomal abnormalities occurring during gametogenesis or fertilization can result in embryo-lethal anomalies or occasionally in abnormal but viable offspring. Errors in oogenesis can be associated with increased maternal age in several species and can result in fertilization failure, decreased embryo viability, or deficiencies expressed during fetal development.
+Chromosomal errors such as **trisomy** (three instances of a particular chromosome instead of the normal two) have been reported in veterinary medicine. Increasing availability of karyotyping and ancillary chromosomal analysis have increased recognition of these defects. Aging of gametes after suboptimal insemination timing is another source of chromosomal abnormality leading to errors in embryonic and fetal development.
+All cells of a defective embryo can be **aneuploid** (having an abnormal number of chromosomes in a cell), or various degrees of **mosaicism** (the presence of two or more populations of cells with different genotypes in one individual that has developed from a single fertilized egg) can exist.
+Chromosomal and epigenetic abnormalities can occur during assisted reproductive techniques that involve oocyte collection, culture, and fertilization. Bovine pregnancies resulting from somatic cell nuclear transfer or, to a lesser extent, from in vitro fertilization, are at increased risk of the development of abnormal offspring syndrome because of failures in physiological mechanisms that are necessary for proper fetal and placental development. These errors in development and placentation can result in fetal death, abortion, abnormally large or small birth weights, or the birth of defective neonates, and they are often associated with [dystocia](https://www.msdvetmanual.com/management-and-nutrition/management-of-reproduction-cattle/management-of-dystocia-in-cattle).
+## Inherited Defects
+Inherited defects resulting from mutant genes that are present in breeding lines or families have been reported in all breeds of domestic animals. They can be expressed in typical patterns of inheritance, such as the common simple autosomal recessive pattern typified by the arthrogryposis multiplex anomaly of Angus cattle. Dominant defect traits are inherited as well and are sometimes selected for.
+Some polygenetic defects require inclusion of more than one interacting gene. For example, rat tail syndrome, a congenital form of hypotrichosis in cattle, is controlled by genes at two interacting loci.
+Animals that are heterozygous for undesirable or lethal recessive traits often appear normal on visual examination, allowing the traits to spread through breeding.
+Furthermore, selection for a phenotype that is thought to be desirable (such as in a particular breed) can result in inadvertent selection for undesirable genetic traits, as in the following examples:
+* Cattle heterozygous for [tibial hemimelia](https://www.msdvetmanual.com/musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system/overview-of-congenital-and-inherited-anomalies-of-the-musculoskeletal-system-in-large-animals) reportedly have rear limb conformation and coat characteristics preferred by some breeders, and phenotypic selection of certain sires might have increased the allele frequency in the population.
+* Although the **overo color pattern** is attractive to some horse breeders, animals homozygous for this color pattern are often affected with a lethal congenital anomaly that is due to the failure of intestinal tract innervation secondary to ileocolonic aganglionosis. It is recommended that only one parent in a breeding pair have the overo color pattern.
+* The dominant inheritance of **polledness (lack of horns) in dairy goats** is associated with coinheritance of a recessive allele that results in masculinization of homozygous females (the so-called polled intersex goat). Restrictive breeding programs to ensure that at least one member of the breeding pair has horns are recommended to avoid this defect.
+
+Heritable defects in metabolic function can result in embryonic or fetal death, the birth of nonviable neonates, or the birth of compromised offspring that survive. Such defects can be lethal in utero or early in the postnatal period, or affected animals might survive in a compromised form. Careful observation and diagnostic evaluation are required to properly identify these conditions and link them to pedigree information.
+**Deficiency of uridine monophosphate synthase (DUMPS)** is a lethal autosomal recessive trait formerly widely dispersed in Holstein cattle. When breeding of two DUMPS carriers results in a homozygous embryo, apparently normal fertilization and embryonic development are followed by death of the fetus in early gestation. Screening of sires destined for use in artificial insemination has successfully decreased the incidence of DUMPS.
+[Citrullinemia](https://www.msdvetmanual.com/nervous-system/congenital-and-inherited-anomalies-of-the-nervous-system-in-small-animals/congenital-and-inherited-cerebral-disorders-in-small-animals)**in cattle** results in disruption of the urea cycle due to arginosuccinate synthetase deficiency and is lethal in the homozygous state. Affected calves appear healthy at birth, but they develop increased blood ammonia concentrations and die within a few days.
+Defects found on the X chromosome, such as the one responsible for **canine X-linked muscular dystrophy** in Golden Retrievers, Labrador Retrievers, and other breeds, are expressed in males that carry only a single copy of a defective allele. Both parents are unaffected, and the dam carries a single copy of the defective gene on an X chromosome.
+For a partial list of inherited disorders with a known molecular basis, see the table Congenital Disorders With a Known Molecular Basis.
+Table
+Congenital Disorders With a Known Molecular Basis
+Table
+Congenital Disorders With a Known Molecular Basis
+Congenital Disorders With a Known Molecular Basis
+| Species  | Disorder  |
+| --- | --- |
+| Cat  |  Gangliosidosis (GM1, GM2) Alpha-Mannosidosis Mucopolysaccharidosis (I, VI, VII) Muscular dystrophy (Duchenne, Becker)  |
+| Dog  |  Complement component 3 (C3) deficiency Alpha-Fucosidosis Glycogen storage disease (I, VII) Hemophilia B  Krabbe disease Leukocyte adhesion deficiency Mucopolysaccharidosis (I, VII) Muscular dystrophy (Becker, Duchenne [X-linked]) Myotonia Narcolepsy Nephritis (X-linked) Pyruvate kinase deficiency of RBCs Rod-cone dysplasia Severe combined immunodeficiency Tremor (X-linked) Von Willebrand disease (III)  |
+| Cattle  |  Arthrogryposis multiplex (Angus, Angus-influenced breeds) Brachyspina syndrome (Holstein) Chédiak-Higashi syndrome Citrullinemia Complex vertebral malformation (Holstein) Deficiency of uridine monophosphate synthetase (Holstein) Ehlers-Danlos syndrome (II, V) Glycogen storage disease  Goiter, familial (Holstein) Leukocyte adhesion deficiency Alpha-Mannosidosis Beta-Mannosidosis Maple syrup urine disease Muscular hypertrophy (Shorthorn, Maine-Anjou) Progressive degenerative myeloencephalopathy (Brown Swiss) Protoporphyria Pulmonary hypoplasia with anasarca (Shorthorn) Spinal muscular atrophy (Brown Swiss) Syndactyly (Holstein, Angus) Tibial hemimelia (Shorthorn, Maine-Anjou)  |
+| Sheep  |  Ceroid lipofuscinosis Chondrodysplasia Glycogen storage disease (IV)  |
+| Goat  |  Decreased casein concentration Goiter, familial Beta-Mannosidosis Mucopolysaccharidosis (III) Polled intersex syndrome  |
+| Horse  |  Hyperkalemic periodic paralysis (Quarter Horse, Paint, others) Megacolon Severe combined immunodeficiency (Arabian)  |
+| Pig  |  Hypercholesterolemia Malignant hyperthermia  |
+The identification of superior genetic traits, combined with the rapid and widespread adoption of reproductive technologies such as artificial insemination, embryo transfer, and in vitro fertilization, has enabled the use of elite genetic lines in domestic species. However, this has inadvertently led to the dissemination of undetected recessive traits across large portions of both domestic and international populations, resulting in unintended consequences.
+As the percentage of animals carrying undesirable recessive traits grows, an increased opportunity for breeding genetically related individuals is followed by expression of the undesirable phenotype.
+Complex vertebral malformation **in Holstein-Friesian dairy cattle** spread internationally primarily as a result of the influence of a single Holstein sire from the US and his offspring. Similarly, arthrogryposis multiplex in Angus cattle received international attention because of the influence of a popular bull, his offspring, and descendants. In both cases, genetic testing developed after description of the condition provided breed associations and breeders opportunities to minimize the effects or eliminate the conditions.
+By the time detrimental genetic conditions are recognized in a population or breed, the abnormal allele is often widely distributed. Early recognition and detection are desirable to minimize this possibility.
+All congenital anomalies should be investigated, and when a condition appears to have an underlying genetic component, appropriate techniques to assess pedigree information and identify the mutated homozygous phenotype should be explored.
+A structured system of reporting and recording congenital anomalies, beginning with accurate clinical and pathological descriptions, is necessary to centralize data and focus attention on physical and physiological abnormalities that might be genetic in origin. Pedigree analysis and test breeding of closely related animals, coupled with DNA-based testing, can help identify specific genetic aberrations, in some cases relatively rapidly after recognition of the defect.
+Most breed associations have procedures to report congenital anomalies and work with pathologists, geneticists, and molecular biologists to identify emerging genetic defects.
+To help identify and manage inherited disorders in dogs and cats, researchers at the University of Pennsylvania have developed a web application that enables researchers, clinicians, breeders, and pet owners to find information on [molecular genetic tests](https://www.vet.upenn.edu/research/academic-departments/clinical-sciences-advanced-medicine/research-labs-centers/penngen/tests-worldwide) performed by various laboratories around the world that can be used to examine inherited defects.
+After known genetic recessive conditions have been identified, there are several options for minimizing their occurrence. For complex vertebral malformation, testing of all Holstein sires entering artificial insemination programs was chosen. Bulls were identified as being either carriers or free of the defect. The resulting decline in use of semen from carrier bulls led to a decrease in occurrence of the condition and in the allelic frequency within the breed.
+Other genetic recessive conditions in Holsteins, including [bovine leukocyte adhesion deficiency](https://www.msdvetmanual.com/circulatory-system/leukocyte-disorders/leukogram-abnormalities-in-animals) and DUMPS were handled similarly, and **brachyspina syndrome** is being managed in the same way. The extensive use of artificial insemination in dairy cattle enables this strategy to have a rapid impact.
+In breeds or species for which artificial insemination is used less, a more aggressive approach might be required:
+* After recognition of **arthrogryposis multiplex,** the [American Angus Association](https://www.angus.org) mandated testing and identification of all sires in active artificial insemination programs. The association also required genetic testing to determine the carrier status of all animals with suspect pedigrees submitted for registration. No certificate of registration will be issued to carrier animals born after a specified date. Similar requirements for animals with pedigrees tracing to carriers of neurogenic [hydrocephalus](https://www.msdvetmanual.com/nervous-system/congenital-and-inherited-anomalies-of-the-nervous-system-in-small-animals/congenital-and-inherited-cerebral-disorders-in-small-animals) have been put in place by this breed association.
+* The [American Quarter Horse Association](https://www.aqha.com) uses extensive testing and identification of carrier individuals to minimize the incidence of [hyperkalemic periodic paralysis](https://www.msdvetmanual.com/musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system-in-horses#v98214482).
+
+As new genetic recessive abnormalities are identified and characterized, genetic tests to determine carrier status can be developed. Breed associations and breeders will adopt testing and identification strategies similar to those mentioned here. However, implementation of testing strategies will be more complicated for nonlethal defects and for conditions in which heterozygotes have a phenotype perceived as desirable.
+## Nutritional Factors in Congenital and Inherited Anomalies
+Deficiency of one or more nutrients during pregnancy can result in congenital defects in the neonate. Severe deficiencies can interrupt pregnancy or result in weak or nonviable young. Microminerals and vitamins are implicated in a variety of developmental defects:
+* **Iodine deficiency** can cause congenital [goiter](https://www.msdvetmanual.com/endocrine-system/the-thyroid-gland/goiter-in-animals) or cretinism in all species.
+* **Copper deficiency** is a cause of enzootic ataxia in lambs.
+* **Manganese deficiency** can result in congenital limb deformities in calves.
+* **Vitamin D deficiency** can cause neonatal [rickets](https://www.msdvetmanual.com/musculoskeletal-system/dystrophies-associated-with-calcium-phosphorus-and-vitamin-d/rickets-in-animals).
+* **Vitamin A deficiency** can cause eye defects or cleft lip.
+
+Experimentally, teratogenic effects have been induced by **deficiencies of choline, riboflavin, pantothenic acid, cobalamin, and folic acid**.
+Teratogenic effects have also been induced experimentally by **hypervitaminosis A**.
+## Physical Factors in Congenital and Inherited Anomalies
+Congenital joint contracture in calves or foals can be a result of restricted motion due to uterine crowding or can be associated with cases of twin pregnancy in these normally monotocous species. Many cases are mild and potentially self-correcting after birth.
+**Torticollis, scoliosis, and limb abnormalities in foals** have been associated with intrauterine fetal positioning after transverse or caudal presentation. **Pervious urachus in foals** is reportedly associated with umbilical cord twisting.
+In cattle, aggressive transrectal palpation of the amnionic vesicle before day 42 of gestation (eg, during pregnancy diagnosis) can disrupt vascular supply to the intestinal tract and induce [atresia coli](https://www.msdvetmanual.com/digestive-system/congenital-and-inherited-anomalies-involving-the-digestive-system/congenital-and-inherited-anomalies-of-the-small-and-large-intestines-in-animals). Most cases of this malformation occur in Holstein cattle, and a genetic predisposition might exist. At least one report suggests an autosomal recessive inheritance pattern for atresia coli ([1](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#b16c155d-8174-4011-81ba-f7fd8997ddb3)).
+## Gestational Accidents of Unknown Etiology
+In many cases of congenital anomalies, the etiology or predisposing factors are unknown. Some specific anomalies of unknown etiology occur frequently enough to be readily recognized by veterinarians in the field.
+**Perosomus elumbis** is a congenital anomaly that occurs primarily in cattle but also in small ruminants and swine. Affected calves have agenesis of segments of the lumbosacral spinal cord and vertebral column, with secondary hypoplasia, arthrogryposis, and ankylosis of the pelvic limbs. Other anomalies associated with development of the GI and urogenital systems accompany this condition. The body, limbs, and organs cranial to the developmental defect in the spinal cord appear normal.
+Perosomus elumbis is fatal, resulting in stillbirth or requiring euthanasia on humane grounds. Dystocia is a frequent complication. Although there are suggestions of inheritance, no definitive cause is recognized. Aberrations in the homeobox gene family, responsible for cranial to caudal patterning, might be involved.
+**Schistosomus reflexus** , a fatal congenital disorder that occurs in ruminants, is characterized by severe retroflexion of the spinal column, resulting in positioning of the hindlimbs adjacent to the skull, ankylosis of appendicular joints, and failure of closure of the abdominal wall, with consequential presence of abdominal viscera outside the body. Other anomalies, including thoracoschisis, can accompany the condition.
+The presence of a fetus with schistosomus reflexus results in dystocia, frequently requiring surgical intervention or fetotomy. Some reports using pedigree analysis suggest a genetic etiology; however, no specific defect or mode of inheritance has been found. Interestingly, cases involving one affected calf and a healthy co-twin have been reported ([2](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#b16c155d-8174-4011-81ba-f7fd8997ddb3), [3](https://www.msdvetmanual.com/generalized-conditions/congenital-and-inherited-anomalies/overview-of-congenital-and-inherited-anomalies-in-animals#b16c155d-8174-4011-81ba-f7fd8997ddb3)).
+**Fetal anasarca** is a fatal anomaly that occurs in several dog breeds. The cause is unknown and might vary from breed to breed. This condition frequently results in dystocia because of the disproportionately large fetus at term. Single or multiple pups within a litter can be affected.
+## Key Points
+* Congenital defects result when a developmental disruption results in a deviation from normal that is present or apparent at birth.
+* Teratogens are agents that cause the development of physical defects in the embryo or fetus, depending on the timing of exposure.
+* Inherited defects can result from mutant genes that are present in breeding lines or families, and animals that are heterozygous for undesirable or lethal recessive traits often appear normal.
+* Deficiency of one or more nutrients during pregnancy can result in congenital defects in the neonate or even neonatal death, if deficiencies are severe.
+* Physical factors (eg, uterine crowding, intrauterine fetal positioning, and aggressive transrectal palpation) can contribute to the formation of congenital abnormalities such as joint contracture, torticollis, scoliosis, and limb abnormalities.
+* The etiology and predisposing factors associated with many congenital or inherited abnormalities are unknown.
+
+## For More Information
+* [PennGen Laboratories](https://www.vet.upenn.edu/research/academic-departments/clinical-sciences-advanced-medicine/research-labs-centers/penngen/tests-worldwide) (canine and feline hereditary disease (DNA) testing laboratories). PennVet (University of Pennsylvania).
+* [Cattle](https://vgl.ucdavis.edu/species/cattle). Veterinary Genetics Laboratory, UC Davis School of Veterinary Medicine.
+* Also see pet owner content regarding congenital and inherited anomalies in [dogs](https://www.msdvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/congenital-and-inherited-disorders-affecting-multiple-body-systems-of-dogs) and [cats](https://www.msdvetmanual.com/cat-owners/disorders-affecting-multiple-body-systems-of-cats/congenital-and-inherited-disorders-affecting-multiple-body-systems-of-cats).
+
+## References
+1. Syed M, Shanks RD. [Atresia coli inherited in Holstein cattle](https://doi.org/10.3168/jds.S0022-0302\(92\)77855-2). _J Dairy Sci_. 1992;75(4):1105-1011. doi:10.3168/jds.S0022-0302(92)77855-2
+2. Jacinto JGP, Häfliger IM, Letko A, et al. [Multiple independent de novo mutations are associated with the development of schistosoma reflexum, a lethal syndrome in cattle](https://doi.org/10.1016/j.tvjl.2024.106069). _Vet J_. 2024;304:106069. doi:10.1016/j.tvjl.2024.106069
+3. Cavalieri J, Farin PW. [Birth of a Holstein freemartin calf co-twinned to a schistosomus reflexus fetus](https://doi.org/10.1016/s0093-691x\(99\)00174-0). _Theriogenology_. 1999;52(5):815-826. doi:10.1016/s0093-691x(99)00174-0
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#generalized-conditions)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

@@ -1,0 +1,223 @@
+1. <[Fleas and Flea Allergy Dermatitis](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Fleas in Dogs and Cats
+By[Christina Gentry](https://www.msdvetmanual.com/authors/gentry-christina), DVM, Texas A&M University, College Station, Texas
+Reviewed By[Joyce Carnevale](https://www.msdvetmanual.com/authors/carnevale-joyce), DVM, DABVP, College of Veterinary Medicine, Iowa State University
+Reviewed/Revised Modified Apr 2026
+v3278651
+Recently Added
+0px
+* Availability of [oral and topical isoxazoline-containing products](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#24d4b642-0c6f-4a78-b8d0-6d26a7111f40) with or without heartworm prevention to treat fleas and ticks in both dog and cats
+* FDA approval of [injectable fluralaner](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#209585c7-cb40-4a5d-97ee-5d8fbaa5cbdd) for prevention of fleas and ticks in dogs ≥ 6 months old
+
+* [Transmission and Epidemiology](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#Transmission-and-Epidemiology_v3278663)|
+* [Pathogenesis](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#Pathogenesis_v109751337)|
+* [Treatment](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#Treatment_v109751358)|
+* [For More Information](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#For-More-Information_v53762797)|
+* [References](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#References_v109751433)|
+* Multimedia|
+
+More than 2,200 species of fleas are recognized worldwide. In North America, only a few species commonly infest dogs and cats: _Ctenocephalides felis_ (the cat flea), _Ctenocephalides canis_ (the dog flea), _Pulex simulans_ (a flea of small mammals), and _Echidnophaga gallinacea_ (the poultry sticktight flea). However, **_C felis_ is by far the most prevalent flea on dogs and cats** (see infestation image).
+_Ctenocephalides felis_ infestation, cat
+Image
+Severe infestation by _Ctenocephalides felis_ (cat flea) on a cat.
+Courtesy of Dr. Michael W. Dryden.
+Cat fleas cause severe irritation in animals and humans and are responsible for [flea allergy dermatitis](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/flea-allergy-dermatitis-in-dogs-and-cats). They also serve as the vector of typhuslike rickettsioses and bartonellosis and are the intermediate hosts for filarid and cestode parasites.
+Cat fleas have been found to infest > 50 different mammalian and avian hosts throughout the world. In North America, the most commonly infested hosts are domestic and wild canids, domestic and wild felids, raccoons, opossums, ferrets, and domestic rabbits.
+## Transmission and Epidemiology of Fleas in Dogs and Cats
+Cat fleas deposit their eggs in the coat of their host. The eggs are pearly white, oval with rounded ends, and approximately 0.5 mm long (see eggs image). They readily fall from the coat and drop onto bedding, carpet, or soil, where hatching occurs in approximately 1–6 days.
+_Ctenocephalides felis_ eggs
+Image
+_Ctenocephalides felis_ (cat flea) eggs, approximately 0.5 mm long and pearly white.
+Courtesy of Dr. Michael W. Dryden.
+Newly hatched flea larvae are 1–5 mm long, slender, white, segmented, and sparsely covered with short hairs (see larva image). Larvae are free-living, feeding on organic debris in their environment and on adult flea feces, which is essential for successful development. Flea larvae avoid direct light and actively move deep in carpet fibers or under organic debris (eg, grass, branches, leaves, or soil).
+_Ctenocephalides_ sp larva
+Image
+Larva of _Ctenocephalides_ sp, approximately 1–5 mm long. Note the hairs projecting laterally from each segment.
+Courtesy of Dr. Michael W. Dryden.
+**Flea larvae are susceptible to desiccation** ; prolonged exposure to conditions of **relative humidity < 50% are lethal** ([1](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)). The areas within a home that have the necessary level of humidity for flea survival are limited, and suitable outdoor sites are even rarer.
+Indoor sites suitable to fleas include pet beds, couches, and spaces where pets eat or sleep ([2](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)). In the indoor environment, flea larvae probably **survive only in** the protected microenvironment deep within **carpet fibers, in cracks between hardwood floors** in humid climates, and on **unfinished concrete floors in damp basements**.
+Outdoors, **flea development occurs only where the ground is shaded and moist** (1–20% soil moisture content) and where the flea-infested animal spends a considerable amount of time, enabling adult flea feces to be deposited into the larval environment ([1](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)).
+Typical outdoor sites conducive to flea development include locations under and next to decks, porches, doghouses, and bushes. **Sand is an excellent matrix for flea larval development.** Larger areas of sandy and shaded yards in the southeastern US states along the Gulf Coast provide favorable conditions to harbor fleas.
+The **larval stage of fleas usually lasts 5–11 days but can be prolonged for 2–3 weeks** , depending on climatic conditions and food availability. Larvae feed on fecal pellets of adult fleas and on flea eggs in the local environment ([2](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)).
+After completing its development, the mature flea larva produces a silklike cocoon, incorporating debris or even carpet fibers into the silk fiber matrix, in which it pupates. The cocoon is ovoid, approximately 0.5 cm long, whitish, and loosely spun (see pupa image). Flea cocoons can be found in soil, under vegetation, in carpets, under furniture, and on animal bedding.
+_Ctenocephalides felis_ pupa
+Image
+_Ctenocephalides felis_ (cat flea) pupa in carpet. Note that debris and carpet fibers are incorporated into the silk fiber matrix of the cocoon spun by the flea larvae.
+Courtesy of Dr. Michael W. Dryden.
+When the pupa is fully developed (after 1–2 weeks), the adult flea can emerge from the cocoon if properly stimulated by physical pressure, exhaled carbon dioxide (in the breath of warm-blooded animals), substrate movement, or heat.
+The preemerged flea adult (which is a fully formed adult flea) residing in its cocoon is the stage at which longevity of the flea can be extended. If the preemerged adult does not receive the proper stimulus to emerge, it can remain quiescent in its cocoon for several weeks, awaiting a suitable host.
+Emergence of an adult flea from its cocoon can be delayed up to 30 weeks if preemerged adults are protected from desiccation. Delayed emergence for up to 6–8 months has been observed in unfinished basements and crawl spaces ([1](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)).
+Newly emerging fleas move to the top of the carpet pile or vegetation, where they are more likely to encounter a passing host. Under ideal conditions of temperature (27°C [80.6°F]) and relative humidity (90%), a **newly emerged cat flea can survive approximately 12 days before requiring a blood meal** ; at 50% relative humidity, the survival limit is only approximately 3 days ([1](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)).
+Newly emerged, unfed fleas are what infest animals and bite humans. Once they have fed, cat fleas generally do not move much between hosts. However, before _C felis_ reaches reproductive status, there can be some movement on and off hosts.
+Cat fleas that have found a preferred host (eg, dog, cat, opossum) and have initiated reproduction generally do not leave their host unless forced off by grooming behavior or by insecticides.
+Depending on temperature and humidity, the entire life cycle of the cat flea (see life cycle diagram) can be completed in as little as 12–14 days or can be prolonged for up to 350 days. However, under typical household conditions with normal pet and human activity, cat fleas complete their life cycle in 3–8 weeks.
+Cat flea life cycle
+Image
+The cat flea life cycle consists of egg, larva, pupa, and adult stages. Eggs, larvae, and pupae occur off the host in the local environment of the infested dog or cat. Adult fleas reside on the infested animal. The time from egg to adult depends on the environmental temperature and is shortest in warm weather.
+Courtesy of Dr. Christina Gentry.
+Adult cat fleas (see male and female _C felis_ images) begin feeding almost immediately (approximately 5 minutes) after finding a host. Female cat fleas can consume 13.6 mcL of blood (15 times their body weight) daily.
+_Ctenocephalides felis_ , adult male
+Image
+Adult male _Ctenocephalides felis_ (cat flea, 1.5–2 mm long). Slide-mounted and cleared.
+Courtesy of Dr. Michael W. Dryden.
+_Ctenocephalides felis_ , adult female
+Image
+Fed adult female _Ctenocephalides felis_ (cat flea, 3–4 mm long). Slide-mounted and cleared.
+Courtesy of Dr. Michael W. Dryden.
+Fed female fleas are larger in body weight and size than fed males. Unfed females are 1.7–2 mm long; fed females are a bit larger. Fed female fleas are 3–4 mm long, with a much longer abdomen, compared with males ([1](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e), [3](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)).
+After rapid transit through the flea, excreted blood dries within minutes into reddish-black fecal pellets or long tubular coils (often called **"flea dirt"**).
+Fleas mate after feeding, and egg production begins within 24–48 hours after the female has taken its first blood meal. Female cat fleas can produce up to 40–50 eggs per day during peak egg production, averaging 27 eggs per day over 50 days. Some females can continue to produce eggs for > 100 days ([1](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e), [4](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)).
+**Cat fleas are susceptible to cold.****No stage of the life cycle (egg, larva, pupa, or adult) can survive exposure to < 3°C (37.4°F)** for several days ([1](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)).
+In northern temperate climates, **adult cat fleas survive winters on untreated dogs and cats or on small wild mammals** (eg, raccoons or opossums) in the urban environment. As these animals pass through yards in the spring or set up nesting sites in crawl spaces or attics, the eggs laid by surviving female fleas drop off and subsequently develop into adults.
+Cat fleas can also survive the winter as preemerged adults in microenvironments protected from the cold.
+## Pathogenesis of Fleas in Dogs and Cats
+Fleas of the genus _Ctenocephalides_ cause cutaneous irritation and feed on their hosts' blood.
+The severity of clinical signs associated with flea infestation is influenced by parasite burden, as well as by the host’s degree of hypersensitivity to flea saliva. **Flea saliva contains histamine-like compounds, proteolytic enzymes, and antigenic proteins that can act as irritants or allergens** (see [Flea Allergy Dermatitis in Dogs and Cats](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/flea-allergy-dermatitis-in-dogs-and-cats)).
+Pearls & Pitfalls
+|
+* The severity of clinical signs associated with flea infestation is influenced by parasite burden, as well as by the host’s degree of hypersensitivity to flea saliva.
+
+|
+| --- |
+**Fleas can cause iron-deficiency[ anemia](https://www.msdvetmanual.com/circulatory-system/anemia/overview-of-anemia-in-animals)** in heavily infested hosts, particularly young animals. _Ctenocephalides_ fleas have been reported to cause anemia in poultry, dogs, cats, goats, calves, and sheep.
+Cat fleas also serve as the intermediate host of the nonpathogenic, subcutaneous [filarid nematode](https://www.msdvetmanual.com/nervous-system/central-nervous-system-diseases-caused-by-helminths-and-arthropods/nematodes-causing-cns-disease-in-animals#v3289584) of dogs, _Dipetalonema reconditum_. _Dipylidium caninum_ , the common intestinal cestode of dogs and cats (and rarely children), develops as a cysticercoid in _C felis_ and in _C canis_ (as well as in the _Trichodectes canis_ louse). **Flea larvae ingest the eggs of the tapeworm** , which develop into cysticercoids in the body of the flea. When grooming themselves, **dogs and cats can ingest infected fleas, releasing the cysticercoids into the GI tract**.
+Cat fleas are also involved in **human disease transmission**. **[Murine typhus](https://www.msdmanuals.com/professional/infectious-diseases/rickettsiae-and-related-organisms/murine-endemic-typhus) , caused by the bacteria _Rickettsia typhi_ and _Rickettsia felis_** , is a mild to severe febrile disease of humans that is characterized by headaches, chills, and skin rashes, with infrequent involvement of the kidneys and CNS. The disease occurs in humans and many small mammals along the southeastern, southwestern, and Gulf coasts of the US. The principal **transmission cycle in the US involves opossums, cats, and cat fleas**.
+**The bacterium _Bartonella henselae_ can cause disease in [humans](https://www.msdmanuals.com/professional/infectious-diseases/gram-negative-bacilli/overview-of-bartonella-infections), cats, and dogs.** The bacteria reside within fleas, and **humans are infected when flea fecal pellets make contact with a scratch or bite wound** , giving rise to the colloquial name **"cat scratch disease."**
+**Cats infected by _B henselae_ are generally subclinically affected**; however, they can develop a self-limiting febrile illness. **Dogs are more likely to develop** clinical disease, including **fever, lymphadenitis, and[ endocarditis](https://www.msdvetmanual.com/circulatory-system/various-heart-diseases-in-dogs-and-cats/infectious-endocarditis-in-dogs-and-cats)** ([5](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)).
+## Treatment of Fleas in Dogs and Cats
+* Killing of fleas on the patient
+* Elimination of biomass on the home premises
+* Prevention of future infestations
+* Supportive care
+
+**Flea control measures** have changed dramatically over the years. The development of **residual acting insecticides and insect growth regulators (IGRs)** with convenient dosage formulations **(topical, oral, injectable)** has dramatically improved owner compliance and helped eliminate recurrent infestations.
+The goals of flea control are elimination of fleas on pets, elimination of existing environmental infestation, and prevention of subsequent reinfestation.
+**The first step in flea control is to eliminate fleas on the animal.** One common consideration in flea control is the rate (or speed) of flea kill on a patient when the product is applied for the first time:
+* **Topically applied topical-acting formulations could take 12–36 hours** to spread sufficiently or to reach sufficient systemic concentrations to eliminate all existing fleas.
+* **Oral or topical products with systemic absorption** —such as isoxazolines, spinosad, or nitenpyram—might be desirable if the goal is to **eliminate the majority of fleas within 12 hours**.
+
+Several available insecticides provide excellent elimination of established flea infestations on both dogs and cats, including the isoxazoline group, dinotefuran, fipronil, imidacloprid, indoxacarb, nitenpyram, selamectin, and spinosad (see the table Ectoparasiticides Used in Dogs and Cats).
+Table
+Ectoparasiticides Used in Dogs and Cats
+Table
+Ectoparasiticides Used in Dogs and Cats
+Ectoparasiticides Used in Dogs and Cats
+| Drug  | Mechanism of Action  | Route of Administration  | Frequency  | Species  |
+| --- | --- | --- | --- | --- |
+| **Isoxazolines** |
+| Afoxolanera,b  | Antagonizes GABA receptor and glutamate receptor  | Oral  | q 30 d  | Dog  |
+| Esafoxolanerc  | Antagonizes GABA receptor and glutamate receptor  | Topical  | q 30 d  | Cat  |
+| Fluralaner  | Antagonizes GABA receptor and glutamate receptor  | Topicald  | q 12 wk  | Dog, cat  |
+| Orala  | q 12 wk  | Dog  |
+| Injectablea,b,e  | q 1 yr  | Dog  |
+| Lotilanera  | Antagonizes GABA receptor and glutamate receptor  | Oral  | q 30 d  | Dog, cat  |
+| Sarolanera  | Antagonizes GABA receptor and glutamate receptor  | Topical  | q 30 d  | Cat  |
+| Oral  | q 30 d  | Dog  |
+| **Macrocyclic Lactones** |
+| Selamectinf  | Binds to glutamate-gated chloride channels, increasing chloride into cells  | Topical  | q 30 d  | Dog, cat  |
+| **Neonicotinoids** |
+| Dinotefuranf  | Binds to ACh receptors, permanently leading to activation  | Topical  | q 30 d  | Dog, cat  |
+| Imidaclopridf  | Binds to nicotinic ACh receptors, leading to activation  | Topical  | q 30 d  | Dog, cat  |
+| Oral  | q 24 h  | Dog  |
+| Nitenpyramf  | Binds to nicotinic ACh receptors, leading to activation  | Oral, rectal  | q 48–72 h  | Dog, cat  |
+| **Oxadiazines** |
+| Indoxacarbg  | Sodium channel blocker; blocks sodium ion entry into nervous tissue cells  | Topical  | q 30 d  | Dog, cat  |
+| **Phenylpyrazoles** |
+| Fipronilf,h  | Blocks GABA-gated chloride channels, stopping entry of chloride into cell   | Topical  | q 30 d  | Dog, cat  |
+| **Pyrethroids** |
+| Flumethrinh,i  | Activates voltage-gated sodium channels  | Collar  | q 8 mo (less, if animal is bathed frequently)  | Dog, cat  |
+| **Spinosyns** |
+| Spinosadf  | Activates nicotinic ACh receptors, causing nervous system excitement  | Oral  | q 30 d  | Dog  |
+| Spinoteramj  | Activates nicotinic ACh receptors, causing nervous system excitement  | Topical  | q 30 d  | Cat  |
+|  Abbreviations: ACh, acetylcholine; GABA, gamma-aminobutyric acid. aZhou X, Hohman AE, Hsu WH. [Current review of isoxazoline ectoparasiticides used in veterinary medicine](https://doi.org/10.1111/jvp.12959). _J Vet Pharmacol Ther_. 2022;45(1):1-15. doi:10.1111/jvp.12959 bPetersen I, Goebel-Lauth S, Pobel T, et al. [Clinical efficacy and safety of a single administration of fluralaner injectable suspension (BRAVECTO® injectable) vs. monthly administration of oral afoxolaner (NexGard®) in dogs for tick and flea control over one year under European field conditions](https://doi.org/10.1186/s13071-024-06590-1). _Parasit Vectors_. 20249;17(1):504. doi:10.1186/s13071-024-06590-1 cTielemans E, Buellet P, Young D, Viljoen A, Liebenberg J, Prullage J. [Efficacy of a novel topical combination of esafoxolaner, eprinomectin and praziquantel against adult cat flea Ctenocephalides felis and flea egg production in cats](https://doi.org/10.1051/parasite/2021017). _Parasite_. 2021;28:21. doi:10.1051/parasite/2021017 dFisara P, Guerino F, Sun F. [Efficacy of a spot-on combination of fluralaner plus moxidectin (Bravecto® Plus) in cats following repeated experimental challenge with a field isolate of Ctenocephalides felis](https://doi.org/10.1186/s13071-019-3512-x). _Parasit Vectors_. 2019;12(1):259. doi:10.1186/s13071-019-3512-x eFisara P, Guerino F. [Year-round efficacy of a single treatment of fluralaner injectable suspension (Bravecto Quantum™) against repeated infestations with Rhipicephalus sanguineus (sensu lato) and Ctenocephalides felis in dogs](https://doi.org/10.1186/s13071-023-05960-5). _Parasit Vectors_. 2023;16(1):378. doi:10.1186/s13071-023-05960-5 fLam A, Yu A. [Overview of flea allergy dermatitis](https://vetfolio-vetstreet.s3.amazonaws.com/28/253f70ad5511e087120050568d3693/file/PV0509_WEB_Yu_Dermatitis.pdf). _Compend Contin Educ Vet_. 2009;31(5):E1-10. gDryden MW, Payne PA, Smith V, et al. [Evaluation of indoxacarb and fipronil (s)-methoprene topical spot-on formulations to control flea populations in naturally infested dogs and cats in private residences in Tampa FL. USA](https://doi.org/10.1186/1756-3305-6-366). _Parasit Vectors_. 2013;6:366. doi:10.1186/1756-3305-6-366 hDryden MW, Smith V, Davis WL, Settje T, Hostetler J. [Evaluation and comparison of a flumethrin-imidacloprid collar and repeated monthly treatments of fipronil/(s)-methoprene to control flea, Ctenocephalides f. felis, infestations on cats for eight months](https://doi.org/10.1186/s13071-016-1575-5). _Parasit Vectors_. 2016;9(1):287. doi:10.1186/s13071-016-1575-5 iStanneck D, Kruedewagen EM, Fourie JJ, Horak IG, Davis W, Krieger KJ. [Efficacy of an imidacloprid/flumethrin collar against fleas, ticks, mites and lice on dogs](https://doi.org/10.1186/1756-3305-5-102). _Parasit Vectors_. 2012;5:102. doi:10.1186/1756-3305-5-102 jPaarlberg T, Winkle J, Rumschlag AJ, Young LM, Ryan WG, Snyder DE. [Effectiveness and residual speed of flea kill of a novel spot on formulation of spinetoram (Cheristin®) for cats](https://doi.org/10.1186/s13071-017-1996-9). _Parasit Vectors_. 2017;10(1):59. doi:10.1186/s13071-017-1996-9  |
+|  Abbreviations: ACh, acetylcholine; GABA, gamma-aminobutyric acid. aZhou X, Hohman AE, Hsu WH. [Current review of isoxazoline ectoparasiticides used in veterinary medicine](https://doi.org/10.1111/jvp.12959). _J Vet Pharmacol Ther_. 2022;45(1):1-15. doi:10.1111/jvp.12959 bPetersen I, Goebel-Lauth S, Pobel T, et al. [Clinical efficacy and safety of a single administration of fluralaner injectable suspension (BRAVECTO® injectable) vs. monthly administration of oral afoxolaner (NexGard®) in dogs for tick and flea control over one year under European field conditions](https://doi.org/10.1186/s13071-024-06590-1). _Parasit Vectors_. 20249;17(1):504. doi:10.1186/s13071-024-06590-1 cTielemans E, Buellet P, Young D, Viljoen A, Liebenberg J, Prullage J. [Efficacy of a novel topical combination of esafoxolaner, eprinomectin and praziquantel against adult cat flea Ctenocephalides felis and flea egg production in cats](https://doi.org/10.1051/parasite/2021017). _Parasite_. 2021;28:21. doi:10.1051/parasite/2021017 dFisara P, Guerino F, Sun F. [Efficacy of a spot-on combination of fluralaner plus moxidectin (Bravecto® Plus) in cats following repeated experimental challenge with a field isolate of Ctenocephalides felis](https://doi.org/10.1186/s13071-019-3512-x). _Parasit Vectors_. 2019;12(1):259. doi:10.1186/s13071-019-3512-x eFisara P, Guerino F. [Year-round efficacy of a single treatment of fluralaner injectable suspension (Bravecto Quantum™) against repeated infestations with Rhipicephalus sanguineus (sensu lato) and Ctenocephalides felis in dogs](https://doi.org/10.1186/s13071-023-05960-5). _Parasit Vectors_. 2023;16(1):378. doi:10.1186/s13071-023-05960-5 fLam A, Yu A. [Overview of flea allergy dermatitis](https://vetfolio-vetstreet.s3.amazonaws.com/28/253f70ad5511e087120050568d3693/file/PV0509_WEB_Yu_Dermatitis.pdf). _Compend Contin Educ Vet_. 2009;31(5):E1-10. gDryden MW, Payne PA, Smith V, et al. [Evaluation of indoxacarb and fipronil (s)-methoprene topical spot-on formulations to control flea populations in naturally infested dogs and cats in private residences in Tampa FL. USA](https://doi.org/10.1186/1756-3305-6-366). _Parasit Vectors_. 2013;6:366. doi:10.1186/1756-3305-6-366 hDryden MW, Smith V, Davis WL, Settje T, Hostetler J. [Evaluation and comparison of a flumethrin-imidacloprid collar and repeated monthly treatments of fipronil/(s)-methoprene to control flea, Ctenocephalides f. felis, infestations on cats for eight months](https://doi.org/10.1186/s13071-016-1575-5). _Parasit Vectors_. 2016;9(1):287. doi:10.1186/s13071-016-1575-5 iStanneck D, Kruedewagen EM, Fourie JJ, Horak IG, Davis W, Krieger KJ. [Efficacy of an imidacloprid/flumethrin collar against fleas, ticks, mites and lice on dogs](https://doi.org/10.1186/1756-3305-5-102). _Parasit Vectors_. 2012;5:102. doi:10.1186/1756-3305-5-102 jPaarlberg T, Winkle J, Rumschlag AJ, Young LM, Ryan WG, Snyder DE. [Effectiveness and residual speed of flea kill of a novel spot on formulation of spinetoram (Cheristin®) for cats](https://doi.org/10.1186/s13071-017-1996-9). _Parasit Vectors_. 2017;10(1):59. doi:10.1186/s13071-017-1996-9  |
+An injectable formulation of fluralaner has been approved for use in dogs; a single dose has been found to be effective against _C felis_ adults for 1 year ([6](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)). This product should decrease compliance barriers for dog owners.
+In addition, **adulticidal flea control products** are now readily available **in combination with a heartworm preventative** as a single tablet or topical formulation for both dogs and cats. The convenience of these products might improve owner compliance and patient acceptance.
+**The second step of flea control is to eliminate the existing infestation in the pet’s environment.** Environmental elimination of fleas can be accomplished in several ways:
+* **use of topical or systemic flea control medications with residual insecticides** that kill newly acquired fleas within 24 hours, before they can initiate reproduction
+* **administration of topical or oral IGRs to stop flea reproduction** (see the table Insect Growth Regulators and Development Inhibitors)
+* **repeated application of insecticides, IGRs, or both to the premises**
+* **mechanical removal of immature life stages by washing bedding and vacuuming** frequently (decreasing the environmental burden, but not fully eliminating it)
+* combinations of the above
+
+Table
+Insect Growth Regulators and Insect Development Inhibitors
+Table
+Insect Growth Regulators and Insect Development Inhibitors
+Insect Growth Regulators and Insect Development Inhibitors
+| Drug  | Mechanism of Action  | Route of Administration  | Frequency  | Species  |
+| --- | --- | --- | --- | --- |
+| **Insect Growth Regulators** |
+| _S_ -Methoprenea  | Larvicidal, ovicidal  | Topical  | q 30 d  | Dog, cat  |
+| Pyriproxyfenb  | Ovicidal; prevents larvae from pupating  | Topical  | q 30 d  | Dog, cat  |
+| **Insect Development Inhibitors** |
+| Lufenuronc,d  | Disrupts normal chitin production  | Oral  | q 30 d  | Dog  |
+|  aYoung DR, Jeannin PC, Boeckh A. [Efficacy of fipronil/(S)-methoprene combination spot-on for dogs against shed eggs, emerging and existing adult cat fleas (Ctenocephalides felis, Bouché)](https://doi.org/10.1016/j.vetpar.2004.07.021). _Vet Parasitol_. 2004;125(3-4):397-407. doi:10.1016/j.vetpar.2004.07.021 bMeola R, Meier K, Dean S, Bhaskaran G. [Effect of pyriproxyfen in the blood diet of cat fleas on adult survival, egg viability, and larval development](https://doi.org/10.1603/0022-2585-37.4.503). _J Med Entomol_. 2000;37(4):503-506. doi:10.1603/0022-2585-37.4.503 cBlagburn BL, Vaughan JL, Lindsay DS, Tebbitt GL. [Efficacy dosage titration of lufenuron against developmental stages of fleas (Ctenocephalides felis felis) in cats](https://doi.org/10.2460/ajvr.1994.55.01.98). _Am J Vet Res_. 1994;55(1):98-101. doi:10.2460/ajvr.1994.55.01.98 dHink WF, Zakson M, Barnett S. [Evaluation of a single oral dose of lufenuron to control flea infestations in dogs](https://doi.org/10.2460/ajvr.1994.55.06.822). _Am J Vet Res_. 1994;55(6):822-824. doi:10.2460/ajvr.1994.55.06.822  |
+|  aYoung DR, Jeannin PC, Boeckh A. [Efficacy of fipronil/(S)-methoprene combination spot-on for dogs against shed eggs, emerging and existing adult cat fleas (Ctenocephalides felis, Bouché)](https://doi.org/10.1016/j.vetpar.2004.07.021). _Vet Parasitol_. 2004;125(3-4):397-407. doi:10.1016/j.vetpar.2004.07.021 bMeola R, Meier K, Dean S, Bhaskaran G. [Effect of pyriproxyfen in the blood diet of cat fleas on adult survival, egg viability, and larval development](https://doi.org/10.1603/0022-2585-37.4.503). _J Med Entomol_. 2000;37(4):503-506. doi:10.1603/0022-2585-37.4.503 cBlagburn BL, Vaughan JL, Lindsay DS, Tebbitt GL. [Efficacy dosage titration of lufenuron against developmental stages of fleas (Ctenocephalides felis felis) in cats](https://doi.org/10.2460/ajvr.1994.55.01.98). _Am J Vet Res_. 1994;55(1):98-101. doi:10.2460/ajvr.1994.55.01.98 dHink WF, Zakson M, Barnett S. [Evaluation of a single oral dose of lufenuron to control flea infestations in dogs](https://doi.org/10.2460/ajvr.1994.55.06.822). _Am J Vet Res_. 1994;55(6):822-824. doi:10.2460/ajvr.1994.55.06.822  |
+Administration of **topical or systemic residual insecticides** is the preferred method to eliminate flea infestations. For convenience and improved client adherence, isoxazoline, imidacloprid, and spinosad are also sold in combination products containing heartworm and intestinal parasite preventatives. Several of these insecticides very effectively **control fleas on pets living on infested premises**.
+Pearls & Pitfalls
+|
+* Administration of topical or systemic residual insecticides is the preferred method to eliminate flea infestations.
+
+|
+| --- |
+Field studies have shown that the systemically active compounds afoxolaner, fluralaner, lotilaner, sarolaner, selamectin, and spinosad can effectively control flea infestations, without the need for premises treatment.
+Flea infestations can be eliminated via product-specific use of **transdermal, injectable, and oral-systemic compounds, which kill most fleas before they can produce the next generation**. However, even if the oral-systemic or transdermal insecticide used is 100% effective, complete control of an existing infestation typically takes 2–3 months because of the existing flea life stages in the environment.
+**Older, nonsystemic topical flea products** , although frequently effective, **sometimes fail to eliminate an infestation**. The following factors can contribute to such failure: < 100% residual activity within the labeled time frame, slowing of the flea kill rate in the third or fourth week, delayed or infrequent product reapplication, underdosing, washing away of water-soluble insecticides during bathing or swimming (this is especially important in patients that have concurrent environmental allergy or secondary bacterial infections and might be bathed once or twice a week), and development of insecticide resistance.
+Because of genetic variability between different flea populations, some currently available residual flea products might not be 100% effective against all cat flea strains between applications, even if they are applied as recommended on the label.
+Flea reproduction can be prevented by **topical or systemic IGRs or adulticide products** that **kill fleas before they can reproduce**. IGRs provide prolonged residual ovicidal activity, interrupting future flea development even after residual activity of an insecticide is diminished. Methoprene or pyriproxyfen may be applied to the coat of dogs and cats to rapidly kill developing flea eggs; in addition, these have residual ovicidal activity.
+The combination of fipronil and _S_ -methoprene or other adulticidal/ovicidal products has demonstrated activity against adult fleas and provides prolonged residual ovicidal activity, thus decreasing the potential for genetic selection of resistance.
+Not only have topically applied IGRs been shown to be ovicidal in fleas, but **oral lufenuron, administered as a combination tablet with milbemycin, also provides ovicidal activity**. Although not an IGR, **selamectin also demonstrates ovicidal activity in cats**. Fluralaner is not ovicidal; however, it does stop oviposition and is larvicidal ([7](https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-in-dogs-and-cats#a08ed13d-844a-433a-836e-798fd7ee3f5e)).
+**Lifelong flea control is required to prevent reinfestation.**
+Many pet owners mistakenly think that flea products either kill all newly acquired fleas within seconds to minutes or completely repel them. However, many adulticides are not repellents, repellent products are not 100% effective, and residual products do not kill most fleas within minutes. Often, fleas can live for 6–24 hours before contacting a topical pesticide or ingesting enough blood to be affected by systemic pesticides. Therefore, close scrutiny of treated pets in an infested environment occasionally results in a few flea sightings on pets for up to 8 weeks (and occasionally longer), until the infestation is eliminated.
+An additional complication for pet owners is flea infestation of the yard due to wildlife, feral cats and dogs, or other infested pets. Often, owners treat a pet but do not realize that the environment the pet frequents might be constantly infested with fleas from wildlife or feral animals (especially cats). Even pets that go outdoors for only brief periods and are being treated with long-lasting adulticides are susceptible to becoming infested with fleas temporarily.
+**Humans can also act as carriers** , bringing fleas into the household and infesting unprotected pets.
+**In cases of severe, massive flea infestations** or severe pet or human flea allergy, **treatment of the premises can be necessary**. Pet owners should begin by conducting a mechanical control program; helpful measures include the following:
+* **washing** pet blankets, throw rugs, and pet carriers
+* thoroughly **vacuuming** pets' sleeping and resting areas to help remove flea eggs and larvae
+* removing and vacuuming seat cushions and pillows on sofas and chairs, paying special attention to crevices in sofas and chairs and to areas beneath sofas or beds where flea eggs and feces might drop from the pet and accumulate
+* **installing intermittent-light flea traps**
+
+The overall goal of mechanical intervention is to decrease the preexisting biomass of immature and adult flea life stages on the premises.
+Even after mechanical control measures are implemented, some flea infestations might require treatment of the premises with adulticides and IGRs. Control can be achieved by the use of insecticides with residual activity (or by repeated application of short-acting insecticides) in combination with an IGR to prevent the development of flea eggs and larvae. Methoprene and pyriproxyfen are the currently available IGRs for premises application.
+Insecticides and IGRs can be applied by broadcast treatment (hand pump sprayers or pressurized aerosols) or via total-release aerosols ("foggers"). During application, all rug and carpet surfaces must be treated adequately. Efforts should be directed to areas where flea eggs and larvae accumulate, such as in carpets, cracks, and grooves in hardwood floors; behind baseboards; under the edges of rugs; beneath furniture (beds, tables, and sofas); and within closets.
+**In severe infestations, a second treatment with insecticides or IGRs might be necessary 7–10 days after the first** application because of the continued emergence of adult fleas from cocoons hidden deep within carpets.
+Pearls & Pitfalls
+|
+* Spraying flea control products over the large expanse of a shade-free lawn generally is not beneficial in control efforts and is poor environmental practice, because fleas do not develop in these areas.
+
+|
+| --- |
+Elimination of fleas in the yard or garden can be an important aspect of flea control. Outdoor treatments (eg, imidacloprid, cyfluthrin, fenvalerate) should concentrate on primary areas of flea development, including protected microhabitats such as in doghouses, within garages, under porches, and in animal lounging areas beneath shrubs or other shaded areas.
+Spraying flea control products over the large expanse of a shade-free lawn generally is not beneficial in control efforts and is poor environmental practice, because fleas do not develop in these areas.
+Despite the efforts of pet owners, the total elimination of fleas might not be feasible in some situations.
+## For More Information
+* [Bartonella Infection](https://www.cdc.gov/bartonella/about). CDC.
+* Also see pet owner content regarding fleas of [dogs](https://www.msdvetmanual.com/dog-owners/skin-disorders-of-dogs/fleas-of-dogs) and [cats](https://www.msdvetmanual.com/cat-owners/skin-disorders-of-cats/fleas-of-cats).
+
+## References
+1. Dryden MW, Rust, MK. [The cat flea: biology, ecology and control](https://doi.org/10.1016/0304-4017\(94\)90031-0). _Vet Parasitol_. 1994;52(1-2):1-19. doi:10.1016/0304-4017(94)90031-0
+2. Rust MK. [The biology and ecology of cat fleas and advancements in their pest management: a review](https://doi.org/10.3390/insects8040118). _Insects_. 2017;8(4):118. doi:10.3390/insects8040118
+3. Zellner PN, Brown LD. [Influence of egg density on larval development and adult body size of cat fleas (Ctenocephalides felis)](https://doi.org/10.1111/mve.12735). _Med Vet Entomol_. 2024;38(4):586-591. doi:10.1111/mve.12735
+4. Dryden MW. [Host association, on-host longevity and egg production of Ctenocephalides felis felis](https://doi.org/https://doi.org/10.1016/0304-4017\(89\)90171-4). _Vet Parasitol_. 1989;34(1-2):117-122. doi:10.1016/0304-4017(89)90171-4
+5. Lappin MR. [Update on flea and tick associated diseases of cats](https://doi.org/10.1016/j.vetpar.2018.02.022). _Vet Parasitol_. 2018;254:26-29. doi:10.1016/j.vetpar.2018.02.022
+6. Petersen I, Goebel-Lauth S, Pobel T, et al. [Clinical efficacy and safety of a single administration of fluralaner injectable suspension (BRAVECTO® injectable) vs. monthly administration of oral afoxolaner (NexGard®) in dogs for tick and flea control over one year under European field conditions](https://doi.org/10.1186/s13071-024-06590-1).  _Parasit Vectors_. 2024;17(1):504. doi:10.1186/s13071-024-06590-1
+7. Williams H, Young DR, Qureshi T, Zoller H, Heckeroth AR. [Fluralaner, a novel isoxazoline, prevents flea (Ctenocephalides felis) reproduction in vitro and in a simulated home environment](https://doi.org/10.1186/1756-3305-7-275). _Parasit Vectors_. 2014;7:275. doi:10.1186/1756-3305-7-275
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#integumentary-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

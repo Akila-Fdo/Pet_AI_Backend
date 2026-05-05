@@ -1,0 +1,71 @@
+1. <[Fungal Infections](https://www.msdvetmanual.com/infectious-diseases/fungal-infections)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Histoplasmosis in Animals
+By[Tamara Gull](https://www.msdvetmanual.com/authors/gull-tamara), DVM, PhD, DACVM, DACVIM (LA), DACVPM, University of Missouri, Veterinary Medical Diagnostic Laboratory
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Apr 2023 | Modified Sept 2024
+v3273161
+Histoplasmosis is a chronic, noncontagious, disseminated, granulomatous disease of humans and other animals due to the dimorphic fungus _Histoplasma capsulatum_ var _capsulatum_. The organism is commonly found in soil that contains bird and bat feces.
+* [Clinical Findings](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/histoplasmosis-in-animals#Clinical-Findings_v3273168)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/histoplasmosis-in-animals#Diagnosis_v3273177)|
+* [Treatment](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/histoplasmosis-in-animals#Treatment_v3273183)|
+* [Key Points](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/histoplasmosis-in-animals#Key-Points_v80030700)|
+* Multimedia|
+
+_Histoplasma capsulatum_ var _capsulatum_ produces mycelial growth in the soil and in culture at room temperature. The organism grows in a yeast form in tissues and in cultures at 37°C.
+_Histoplasma capsulatum_ , lymph node smear
+Image
+_Histoplasma capsulatum_ , lymph node smear, Wright stain, high power. Note the large number of tiny, encapsulated _Histoplasma_ organisms inside the macrophage.
+Courtesy of Dr. John Prescott.
+Histoplasmosis is found worldwide. Highly endemic areas in the US include the Mississippi and Ohio River valleys. The organism is found in high concentrations in bat feces and grows readily in bird feces. Infection has been described in many animal species; however, disease is uncommon to rare in all but dogs and cats. Infection is commonly via aerosol contamination of the respiratory tract.
+## Clinical Findings of Histoplasmosis in Animals
+In histoplasmosis, environmental microconidia are inhaled and initial infection is established in the lungs and thoracic lymph nodes. The clinical signs vary and are nonspecific but usually include weight loss, fever, pale mucous membranes, and peripheral lymphadenopathy. Tachypnea and cutaneous signs are often present in cats, while in dogs hepatomegaly, ascites, and diarrhea are more common.
+Thoracic histoplasmosis, radiograph (lateral), dog
+Image
+Thoracic histoplasmosis, lateral projection, in a dog. This radiograph shows a diffuse interstitial pattern with cranioventral consolidation.
+Courtesy of Dr. Ronald Green.
+Both dogs and cats may have ocular involvement including optic neuritis, chorioretinitis, or retinal detachment. Histoplasma meningitis may occur. Dissemination may involve the skin, in which weeping, ulcerated, nodular lesions develop.
+### Lesions
+Gross lesions may include miliary nodules within the lungs, lymphadenopathy, enlargement of the liver and spleen, ascites, and/or thickened and hemorrhagic intestines. Histologic lesions are generally granulomatous inflammation with intralesional yeasts in affected tissues. In chronic disease yeasts may be difficult to find, and fibrosis may be present. Thoracic radiographs may show alveolar to diffuse nodular to interstitial patterns.
+## Diagnosis of Histoplasmosis in Animals
+* Demonstration of yeasts in blood or tissue
+* Antigen assays, particularly on urine
+
+Histoplasmosis should be considered when the clinical signs include the following:
+* weight loss
+* chronic diarrhea
+* respiratory distress
+* enlarged bronchial lymph nodes
+* pulmonary nodules
+
+_Histoplasma_ organisms are usually numerous in affected tissues, and a definitive diagnosis can often be made by fine-needle aspiration and exfoliative cytology. In disseminated disease, organisms are often present within monocytes or neutrophils on routine blood smears. Cytology of bone marrow may be diagnostic in cats. Tissue biopsy may be required if cytology is not diagnostic.
+Organisms are difficult to detect with routine H&E stain but stain well with fungal-specific stains. Yeast forms in phagocytes and giant cells are round to ovoid (1–4 mcm) structures with a thin cell wall and a thin, clear zone between the cell wall and cellular cytoplasm; narrow-based budding may be observed.
+Histoplasmosis, cat
+Image
+Histoplasmosis, cat. Note the many tiny purple-staining yeasts with clear halos. H&E stain.
+Dr. Dae Young Kim.
+_H capsulatum_ can also be cultured from tissue specimens, fine-needle aspirates, and body fluids, although culture is hazardous and laboratories should be warned when histoplasmosis is suspected. Antigen testing using a quantitative antigen ELISA can be performed on urine, serum, and CSF, though urine is the most sensitive substrate.
+Cross-reactivity occurs with other fungal antigens such as _Blastomyces_. A point-of-care antigen assay is also available but with lower sensitivity and specificity than the laboratory ELISA. The laboratory antigen ELISA may be used to monitor response to treatment.
+## Treatment of Histoplasmosis in Animals
+* Itraconazole or fluconazole
+* Long-term treatment; relapses are common
+* Antigen assays to assess response to treatment
+
+Itraconazole (10 mg/kg every 24 hours) is the treatment of choice for disseminated histoplasmosis in dogs and cats, although fluconazole is also effective. Ketoconazole, 10–15 mg/kg, every 12 hours, for 4–6 months, may be effective in early or mild cases of histoplasmosis in dogs, but resistance has been documented.
+For severe cases, concurrent treatment with amphotericin B or amphotericin B lipid complex is suggested. Treatment duration depends on severity of disease. A minimum of 6 months is recommended; however, many patients require > 12 months of treatment. Discontinuation of treatment should depend on resolution of clinical signs and urine antigen titers. Relapses occur in 10%–40% of patients.
+## Key Points
+* Histoplasmosis is a fungal disease most common in river valleys and in areas contaminated with bird or bat feces.
+* Clinical signs are nonspecific and reflective of the body systems predominantly affected in an individual patient.
+* Diagnosis is usually made from cytology with or without antigen testing; standard treatment is longterm azoles.
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences

@@ -1,0 +1,46 @@
+1. <[Respiratory Diseases of Small Animals](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Pneumonia in Dogs and Cats
+By[Caroline C. Tonozzi](https://www.msdvetmanual.com/authors/tonozzi-caroline), DVM, DACVECC, Mission Veterinary Partners
+Reviewed/Revised Feb 2022 | Modified Sept 2024
+v3294999
+Pneumonia is an inflammation of the pulmonary parenchyma that results in respiratory disturbance. It can be caused by a variety of organisms, including viruses, bacteria, fungi, parasites, and protozoa, as well as by aspiration of vomitus or improperly administered medications. Clinical signs include coughing, fever, lethargy, anorexia, and respiratory distress. Diagnosis is based on history, clinical signs, thoracic radiographs, and other laboratory testing. Treatment is supportive care, including oxygen, and antimicrobial therapy if indicated.
+* [Clinical Findings](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/pneumonia-in-dogs-and-cats#Clinical-Findings_v3295010)|
+* [Diagnosis](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/pneumonia-in-dogs-and-cats#Diagnosis_v3295013)|
+* [Treatment](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/pneumonia-in-dogs-and-cats#Treatment_v3295016)|
+* [For More Information](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/pneumonia-in-dogs-and-cats#For-More-Information_v62076970)|
+
+Pneumonia is inflammation of the pulmonary parenchyma (small airways, interstitium, and alveoli). Pneumonia can be caused by aspiration of gastric contents or by bacteria, viruses, fungi, or protozoa.
+Canine distemper virus, adenovirus types 1 and 2, parainfluenza virus, and feline calicivirus cause lesions in the distal airways and predispose to secondary bacterial invasion of the lungs. Parasitic invasion of the bronchi, as by _Filaroides_ , _Aelurostrongylus_ , or _Paragonimus_ spp, may result in pneumonia. Protozoan involvement, eg, by [_Toxoplasma gondii_](https://www.msdvetmanual.com/generalized-conditions/toxoplasmosis) or _Pneumocystis jiroveci_ , is rarely seen. Tuberculous pneumonia, although uncommon, is seen more often in dogs than in cats. The incidence of mycotic granulomatous pneumonias is also higher in dogs than in cats. Cryptococcal pneumonia has been described in cats. Injury to the bronchial mucosa and inhalation or aspiration of irritants may cause pneumonia directly and predispose to secondary bacterial invasion. [Aspiration pneumonia](https://www.msdvetmanual.com/respiratory-system/aspiration-pneumonia-in-large-animals) may result from persistent vomiting, megaesophagus, or improperly administered medications or food (forced feeding); it may also follow suckling in a neonate with a cleft palate.
+## Clinical Findings of Pneumonia in Dogs and Cats
+The initial signs of pneumonia are usually those of the primary disease. Lethargy and anorexia are common. The cough may be dry and nonproductive or wet and productive. Patients may develop a fever, leukocytosis, and respiratory distress and become hypoxic, requiring oxygen therapy or mechanical ventilation in severe cases. Auscultation may reveal crackles or dull areas where lung consolidation is present. In the later stages of pneumonia, the increased lung density and peribronchial consolidation caused by the inflammatory process can be visualized radiographically.
+## Diagnosis of Pneumonia in Dogs and Cats
+* History and clinical findings
+* Radiography
+
+Thoracic radiographs may show evidence of [pneumonia](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/pneumonia-in-dogs-and-cats) with interstitial and/or alveolar changes. Fluid analysis and aerobic culture and sensitivity may help with directing therapy if there is a bacterial infection. Cytologic examination may show neutrophilia with intracellular or extracellular bacteria. Bacterial culture and sensitivity testing is required and may include anaerobe and mycoplasma culture, especially in refractory cases. The patient may have a fever. A history of recent anesthesia or severe vomiting indicates the possibility of aspiration pneumonia. Mycotic pneumonias are usually chronic in nature. Miliary nodules seen at necropsy may suggest protozoal pneumonia.
+## Treatment of Pneumonia in Dogs and Cats
+* Oxygen therapy
+* Antimicrobials
+* Supportive care
+
+Treatment for pneumonia should be focused on oxygen supplementation if hypoxemic, resolution of shock if present, and treatment of underlying disease with the appropriate antimicrobials. If hypoxemia is present, oxygen therapy must be instituted within an oxygen cage or via nasal catheter at a concentration of 40%–60%. Empirical antimicrobial chemotherapy should be initiated and changed if needed based on results of culture of bronchoalveolar lavage fluid. Supportive therapy should be instituted as needed in addition to oxygen therapy, including pulmonary physiotherapy (nebulization and coupage), and bronchodilators. If no response is seen after 48–72 hours of therapy, the treatment plan should be reassessed. Antimicrobial chemotherapy should be continued 1 week after clinical and radiographic signs resolve.
+Animals should be reexamined frequently while in hospital and while convalescing at home. Chest radiographs should be repeated every 2 weeks or at shorter intervals to monitor for disease progression or resolution of radiographic changes.
+## For More Information
+* Also see pet health content regarding pneumonia in [dogs](https://www.msdvetmanual.com/dog-owners/lung-and-airway-disorders-of-dogs/pneumonia-in-dogs) and [cats](https://www.msdvetmanual.com/cat-owners/lung-and-airway-disorders-of-cats/pneumonia-in-cats).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#respiratory-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

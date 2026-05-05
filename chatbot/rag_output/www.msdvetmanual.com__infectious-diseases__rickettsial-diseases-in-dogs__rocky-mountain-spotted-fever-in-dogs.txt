@@ -1,0 +1,102 @@
+1. <[Rickettsial Diseases in Dogs](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Rocky Mountain Spotted Fever in Dogs
+## (Rickettsia rickettsii Infection)
+By[Jean-Sebastien Palerme](https://www.msdvetmanual.com/authors/palerme-jean-sebastien), DVM, MSc, DACVIM, Iowa State University
+Reviewed By[Joyce Carnevale](https://www.msdvetmanual.com/authors/carnevale-joyce), DVM, DABVP, College of Veterinary Medicine, Iowa State University
+Reviewed/Revised Modified Sept 2025
+v3276853
+Spotted fevers are diseases caused by a group of related bacteria in the _Rickettsia_ genus. Rocky Mountain spotted fever is the most severe and most studied of these diseases. After transmission of the pathogen via tick bite, the organism infects endothelial cells, causing vasculitis, which most commonly manifests with cutaneous petechiation (spotted fever). Diagnosis is based on clinical signs, paired serological testing, and PCR assay. Doxycycline is the treatment of choice.
+* [Etiology and Epidemiology](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#Etiology-and-Epidemiology_v3276861)|
+* [Clinical Findings](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#Clinical-Findings_v3276881)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#Diagnosis_v3276889)|
+* [Treatment](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#Treatment_v3276892)|
+* [Prevention](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#Prevention_v103237649)|
+* [Zoonotic Risk](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#Zoonotic-Risk_v11600890)|
+* [Key Points](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#Key-Points_v49301017)|
+* [For More Information](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#For-More-Information_v49301026)|
+* [References](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#References_v103237660)|
+
+## Etiology and Epidemiology of Rocky Mountain Spotted Fever in Dogs
+**Rocky Mountain spotted fever** (RMSF) is a disease of humans and dogs caused by _**Rickettsia rickettsii**_. _R rickettsii_ and closely related members of the spotted fever group of rickettsiae exist in parts of North, South, and Central America. These pathogens are transmitted primarily through the bites of infected ticks.
+In the US, the **American dog tick** (**_Dermacentor variabilis_**) and the **Rocky Mountain wood tick** (_**Dermacentor andersoni**_) are the primary vectors for _R rickettsii_. The incidence of RMSF follows the vectors' distribution; the southeastern and south-central regions of the US have the highest reported number of cases.
+In South America, several _Amblyomma_ spp of ticks have been implicated in RMSF transmission. The **brown dog tick** _(**Rhipicephalus sanguineus**_) is the primary vector in some focal areas of Arizona (particularly on native American tribal lands) and Mexico.
+Transmission of RMSF typically occurs within hours after the tick attaches to a host. Although serological studies have reported seropositivity rates of up to 70% in areas with recent history of an outbreak, seroprevalence in the southern US is reported to rarely exceed 10% ([1](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#8809d757-7885-4272-a6ac-297dfdaf1a39), [2](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/rocky-mountain-spotted-fever-in-dogs#8809d757-7885-4272-a6ac-297dfdaf1a39)).
+Because of their susceptibility to _R rickettsii_ and relatively higher rates of tick exposure, dogs can serve as sentinels of risk for _R rickettsii_ infection [in humans](https://www.msdmanuals.com/professional/infectious-diseases/rickettsiae-and-related-organisms/rocky-mountain-spotted-fever-rmsf); however, direct transmission from dogs to humans has not been documented.
+Clusters of RMSF cases are frequently reported in defined geographical areas, and temporally associated infections can occur both in dogs and in their owners.
+## Clinical Findings of Rocky Mountain Spotted Fever in Dogs
+Dogs are highly susceptible to clinical infection with _R rickettsii_. In contrast, _R rickettsii_ infection is rarely diagnosed in cats.
+**Early signs of Rocky Mountain spotted fever in dogs include the following:**
+* fever up to 40.5°C (105°F)
+* petechiae
+* lymphadenopathy
+* polyarthritis
+* respiratory signs (coughing, tachypnea, epistaxis)
+* ocular signs (uveitis, retinal hemorrhage, conjunctivitis)
+* edema of the face, scrotum, or extremities
+* neurological signs (ataxia, vestibular signs, paresis, seizures)
+
+Findings of _R rickettsii_ infection in CBCs, serum chemical panels, and urinalyses are typically a consequence of the severe **vasculitis** caused by these infections. [Thrombocytopenia](https://www.msdvetmanual.com/circulatory-system/hemostatic-disorders/platelet-disorders-in-animals), secondary to consumptive as well as destructive processes, is the most common finding. Proteinuria, thought to be secondary to glomerular damage, results in hypoalbuminemia.
+### Lesions of Rocky Mountain Spotted Fever
+**Vascular endothelial damage** in RMSF is due to direct cytopathic effects of the rickettsiae, which reproduce within endothelial cells. Vascular endothelial damage and thrombocytopenia contribute to the development of petechiae and ecchymoses. **Necrosis of the extremities** (acral gangrene) or DIC can develop in severely affected dogs.
+## Diagnosis of Rocky Mountain Spotted Fever in Dogs
+* Clinical evaluation
+* Serological testing
+* PCR assay
+
+Dogs presenting with characteristic clinical signs of Rocky Mountain spotted fever, particularly fever or neurological abnormalities, should be assessed for RMSF, and it is crucial to maintain an index of suspicion in areas where the tick vectors can be found.
+Differential diagnoses of RMSF include other causes of fever of unknown origin. In areas where the brown dog tick is the main vector, most febrile dogs will likely have _Ehrlichia canis_ infection, which is more common than RMSF.
+Very early in _R rickettsii_ infection, PCR assay of circulating blood might be positive; however, many severely affected animals become PCR-negative as the bacteria become resident in endothelium. PCR assay of a tick-bite eschar can be useful when such a lesion is present.
+**Suspicious cases should be treated with appropriate antimicrobials before tests confirm an RMSF diagnosis**. The therapeutic response is usually dramatic, as it is with other canine rickettsial diseases.
+The **indirect fluorescent antibody test** (IFAT) and **ELISA** are available for serological testing. However, there is a high incidence of cross-reacting antibodies against a variety of nonpathogenic and less-pathogenic rickettsiae of the spotted fever group, so a single seropositive test does not confirm RMSF as a cause of disease. Dogs that have been sick for a week or more might have very high titers, which can support a diagnosis; however, antibodies might persist for months after acute RMSF infection.
+Given the acute nature of RMSF infections, use of paired or convalescent titers, with the second serum sample obtained within 1–3 weeks after the first sample, are vital to confirm infection. Demonstration of a 4-fold rise in titer can retrospectively support a diagnosis of RMSF.
+Pearls & Pitfalls
+|
+* Paired or convalescent titers, with the second serum sample obtained within 1–3 weeks after the first sample, are vital to confirm RMSF infection.
+
+|
+| --- |
+## Treatment of Rocky Mountain Spotted Fever in Dogs
+* Doxycycline
+* Supportive care
+
+When Rocky Mountain spotted fever is suspected, antimicrobial treatment should be initiated before confirmation by serological testing, because delayed administration of antimicrobials results in higher morbidity and mortality rates.
+**Doxycycline** (5 mg/kg, PO or IV, every 12 hours; or 10 mg/kg, PO or IV, every 24 hours) is the treatment of choice for RMSF, regardless of the dog's age. Although treatment for only 7 days is adequate in most cases, prolonged treatment (14–28 days) is recommended when coinfection with another vector-borne agent is suspected.
+Chloramphenicol was used to treat RMSF in the past; in humans, however, its use is associated with higher rates of fatal outcome due to idiosyncratic aplastic anemia, and it is not recommended. **Enrofloxacin** (3 mg/kg, PO, every 12 hours for 7 days) has been shown to be effective in clearing infection in experimentally infected dogs.
+Supportive care for dehydration and hemorrhagic diathesis might be necessary in cases of RMSF. Animals with neurological dysfunction might have residual deficits. Immunity appears to be lifelong after natural infection; therefore, recurrent episodes should not be attributed to RMSF.
+## Prevention of Rocky Mountain Spotted Fever in Dogs
+Precautions should be taken for safe removal and control of ticks. When _R rickettsii_ transmission from _Rhipicephalus sanguineus_ is suspected, it is important to use medications and products with proven efficacy against this tick species.
+Because _R sanguineus_ infestations can be problematic in kennels and around homes, and because long-term tick control is needed for outbreak control, the use of effective **long-acting tick collars** on all susceptible dogs should be considered in endemic areas. Collars containing **fipronil, isoxazoline, amitraz, or pyrethroids** have proven activity against _R sanguineus_.
+## Zoonotic Risk of Rocky Mountain Spotted Fever in Dogs
+**_R rickettsii_ is considered a zoonotic pathogen.** The potential for household clustering and large urban outbreaks, particularly in areas with transmission by brown dog ticks, makes RMSF a disease of significant public health concern.
+Although RMSF occurs both in animals and [in humans](https://www.msdmanuals.com/professional/infectious-diseases/rickettsiae-and-related-organisms/rocky-mountain-spotted-fever-rmsf), the involvement of a required intermediate tick vector for transmission means that dogs and other infected animals do not pose a direct transmission risk to humans in normal circumstances. Nevertheless, dogs are the main host for brown dog ticks, and exposure to an increased number of dogs can increase overall risk for other dogs and humans.
+Particularly in areas where RMSF is transmitted via _R sanguineus_ , close cooperation between veterinary, medical, and public health officials is important to achieve control.
+## Key Points
+* Although multiple related _Rickettsia_ spp can be transmitted to humans, the most common in dogs and the most severe in humans and dogs is _R rickettsii_ , the agent of Rocky Mountain spotted fever.
+* Infected dogs increase the risk of RMSF for humans and dogs where the vector is the brown dog tick (_Rhipicephalus sanguineus_). In all regions, the presence of infected dogs is a valuable sentinel for human risk.
+* RMSF causes primarily vasculitis. To confirm infection, clinicians must know about local prevalence, have an index of suspicion, and treat suspected cases as quickly as possible.
+
+## For More Information
+* [Rocky Mountain Spotted Fever](https://capcvet.org/guidelines/rocky-mountain-spotted-fever/). Companion Animal Parasite Council.
+* Kidd L. [Emerging spotted fever rickettsioses in the United States](https://doi.org/10.1016/j.cvsm.2022.07.003). _Vet Clin North Am Small Anim Pract_. 2022;52:1305-1317.
+* Also see pet owner content regarding [Rocky Mountain spotted fever in dogs](https://www.msdvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/rocky-mountain-spotted-fever-tick-fever-in-dogs).
+
+## References
+1. Demma LJ, Traeger M, Blau D, et al. [Serologic evidence for exposure to Rickettsia rickettsii in eastern Arizona and recent emergence of Rocky Mountain spotted fever in this region](https://doi.org/10.1089/vbz.2006.6.423). _Vector Borne Zoonotic Dis_. 2006;6(4):423-429. doi:10.1089/vbz.2006.6.423
+2. Pieracci EG, de la Rosa JDP, Rubio DL, et al [Seroprevalence of spotted fever group rickettsiae in canines along the United States-Mexico border](https://doi.org/10.1111/zph.12642). _Zoonoses Public Health_. 2019;66(8):918-926. doi:10.1111/zph.12642
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

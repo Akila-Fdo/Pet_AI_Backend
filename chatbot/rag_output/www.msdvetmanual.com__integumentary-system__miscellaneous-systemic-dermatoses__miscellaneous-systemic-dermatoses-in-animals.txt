@@ -1,0 +1,82 @@
+1. <[Miscellaneous Systemic Dermatoses](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+PROFESSIONAL VERSION
+# Miscellaneous Systemic Dermatoses in Animals
+By[Jason B. Pieper](https://www.msdvetmanual.com/authors/pieper-jason), DVM, MS, DACVD, Iowa State University
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Feb 2023 | Modified Sept 2024
+v3281621
+* [Nutritional Dermatoses](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses/miscellaneous-systemic-dermatoses-in-animals#Nutritional-Dermatoses_v77062471)|
+* [Skin Manifestations of Internal Organ Disorders](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses/miscellaneous-systemic-dermatoses-in-animals#Skin-Manifestations-of-Internal-Organ-Disorders_v77062479)|
+* [Cutaneous Manifestations of Internal Malignancy](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses/miscellaneous-systemic-dermatoses-in-animals#Cutaneous-Manifestations-of-Internal-Malignancy_v77062500)|
+* [Cutaneous Manifestations of Renal Disease](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses/miscellaneous-systemic-dermatoses-in-animals#Cutaneous-Manifestations-of-Renal-Disease_v77062507)|
+* [Toxic Dermatosis](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses/miscellaneous-systemic-dermatoses-in-animals#Toxic-Dermatosis_v77062515)|
+* [Dermatologic Manifestations of Endocrinopathies](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses/miscellaneous-systemic-dermatoses-in-animals#Dermatologic-Manifestations-of-Endocrinopathies_v77062532)|
+* [Dermatosis Associated With Neuropathies](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses/miscellaneous-systemic-dermatoses-in-animals#Dermatosis-Associated-With-Neuropathies_v77062566)|
+* [Key Points](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses/miscellaneous-systemic-dermatoses-in-animals#Key-Points_v77062571)|
+* [References](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses/miscellaneous-systemic-dermatoses-in-animals#References_v77062581)|
+
+A number of systemic diseases produce various lesions in the skin. Usually, the lesions are noninflammatory, and alopecia is common. In some instances, the cutaneous changes are characteristic of the particular disease. Often, however, the dermatosis is not obviously associated with the underlying condition and must be carefully differentiated from primary skin disorders.
+Treatment depends on a specific etiologic diagnosis. Other than management of the primary disease, skin lesions usually need only palliative care (eg, control of scratching or moisturizing of the skin).
+## Nutritional Dermatoses in Animals
+Nutritional dermatoses are associated with nutritional deficiency, especially of proteins, fats, minerals, some vitamins, and trace elements. However, these are uncommon in dogs and cats fed modern, balanced diets.
+Arctic breeds (Siberian Huskies and Alaskan Malamutes) may develop a disease similar to [parakeratosis](https://www.msdvetmanual.com/integumentary-system/parakeratosis/parakeratosis-in-pigs) in pigs, requiring additional zinc in their diet (elemental zinc at 2–3 mg/kg/day). **Zinc-responsive dermatoses** are associated with finely adherent scale, crusts, and erythema affecting the face, with a predominantly periocular and perioral distribution. These dermatoses, which have also been reported in cattle, sheep, goats, and llamas as well as in a dingo and a red wolf, may be associated with either a higher individual zinc requirement or a dietary deficiency. Dietary zinc deficiency may be precipitated by excessive consumption of calcium.
+## Skin Manifestations of Internal Organ Disorders in Animals
+Dermatitis sometimes occurs in association with disorders of internal organs, such as the liver, kidneys, pancreas, or thymus.
+Hepatic parenchymal dysfunction has been associated with **superficial necrolytic dermatitis** ([hepatocutaneous syndrome](https://www.msdvetmanual.com/digestive-system/hepatic-diseases-of-small-animals/hepatocutaneous-syndrome-in-small-animals), diabetic dermatosis) in aged dogs and rarely in cats. Lesions are the result of hypoaminoacidemia secondary to liver disease.
+The cutaneous lesions are commonly present on the face, genitals, and distal aspects of the extremities, severely affecting the footpads. Lesions include erythema, crusting, ulcerations, alopecia, and [hyperkeratosis](https://www.msdvetmanual.com/integumentary-system/congenital-and-inherited-anomalies-of-the-integumentary-system/hyperplastic-and-seborrheic-syndromes-in-animals). The skin disease may precede the onset of clinical signs of the internal disease.
+Histopathologic findings are diagnostic and include superficial perivascular to lichenoid dermatitis, with marked diffuse parakeratotic hyperkeratosis and striking inter- and intracellular edema limited to the upper half of the epidermis. Hyperglucagonemia has also been documented in dogs with this syndrome; however, dogs tend to have hepatic parenchymal dysfunction more commonly than glucagonomas.
+In dogs, supportive treatment of superficial necrolytic dermatitis relies on IV or oral supplementation of amino acids or, if possible, surgical removal of the glucagonoma.
+**Skin fragility syndrome** (excessive skin friability) in cats has been present in association with [pancreatic](https://www.msdvetmanual.com/digestive-system/the-exocrine-pancreas/exocrine-pancreatic-neoplasia-in-dogs-and-cats) or [hepatic neoplasia](https://www.msdvetmanual.com/digestive-system/hepatic-diseases-of-small-animals/hepatic-neoplasia-in-small-animals), [hepatic lipidosis](https://www.msdvetmanual.com/digestive-system/hepatic-diseases-of-small-animals/feline-hepatic-lipidosis), adrenal dysfunction, or excessive iatrogenic glucocorticoid administration. The skin will tear easily with minimal bleeding, which is very characteristic of this syndrome.
+## Cutaneous Manifestations of Internal Malignancy in Animals
+Occasionally internal malignancies manifest as skin lesions.**[Pancreatic carcinoma](https://www.msdvetmanual.com/digestive-system/hepatic-diseases-of-small-animals/hepatic-neoplasia-in-small-animals)** (as well as bile duct carcinoma) has been associated with paraneoplastic dermatoses in cats, including crusting of the footpads and bilaterally symmetric alopecia affecting the ventrum and limbs. The hair is easily epilated, and alopecic areas are described as glistening.
+Generalized large amounts of large, adhered scale (exfoliative dermatitis) and erythema have been identified in cats with a **thymoma**. This condition has also been identified without a thymoma present.([1–4](https://www.msdvetmanual.com/integumentary-system/miscellaneous-systemic-dermatoses/miscellaneous-systemic-dermatoses-in-animals#v77118292))
+## Cutaneous Manifestations of Renal Disease in Animals
+A generalized [nodular dermatofibrosis syndrome,](https://www.msdvetmanual.com/integumentary-system/congenital-and-inherited-anomalies-of-the-integumentary-system/congenital-and-hereditary-neoplasms-and-hamartomas-in-animals) associated with renal cystadenomas, cystadenocarcinomas, or renal epithelial cysts, has been reported in German Shepherd Dogs and occasionally other breeds. Histologic examination of the skin nodules reveals dense collagen fibrosis.
+## Toxic Dermatosis in Animals
+Poisoning by thallium sulfate ([rat poisons](https://www.msdvetmanual.com/toxicology/rodenticide-poisoning)), [ergot](https://www.msdvetmanual.com/toxicology/mycotoxicoses/ergotism-in-animals), [mercury](https://www.msdvetmanual.com/toxicology/mercury-poisoning), and iodides may cause toxic dermatosis, producing various skin changes. Hyperkeratosis in cattle can be caused by chlorinated naphthalene toxicity.
+## Dermatologic Manifestations of Endocrinopathies in Animals
+In dogs, dermatosis can develop as a result of [endocrine dysfunction](https://www.msdvetmanual.com/endocrine-system/endocrine-system-introduction/the-endocrine-system-of-animals). Endocrinopathies are typically characterized by the following clinical signs:
+* Bilaterally symmetric truncal alopecia
+* Alopecia of the tail
+* Increased scale
+* Secondary pyoderma
+
+### Hypothyroidism
+Dermatoses have been present in [hypothyroidism](https://www.msdvetmanual.com/endocrine-system/the-thyroid-gland/hypothyroidism-in-animals). In addition to the clinical signs typical of endocrinopathies, the skin is thickened and sometimes cool to the touch. Seborrhea oleosa may occur in some cases. The margins of the pinna may develop excess scale. In rare cases, cutaneous myxedema develops.
+### Hyperadrenocorticism
+[Hyperadrenocorticism](https://www.msdvetmanual.com/endocrine-system/the-adrenal-glands/cushing-syndrome-hyperadrenocorticism-in-animals) is associated with the clinical signs typical of endocrinopathies, in addition to skin changes such as hyperpigmentation, alopecia, seborrhea, calcinosis cutis, and secondary pyoderma. In cats, the skin becomes extremely friable, causing [skin fragility syndrome](https://www.msdvetmanual.com/cat-owners/skin-disorders-of-cats/congenital-and-inherited-skin-disorders-of-cats#v3246737).
+For iatrogenic hyperadrenocorticism caused by topical glucocorticoid administration, switching treatment to a nonsteroidal-selective glucocorticoid receptor agonist, such as mapracorat, can be considered.
+### Hyperestrogenism
+In males with Sertoli cell tumors, bilateral alopecia and occasional pruritus with a papular eruption may be present. Sexually intact female dogs with hormonal imbalances are usually pruritic and have a papular eruption, mammary tissue enlargement, and frequent estrous cycles. The skin lesions of both disorders may begin in the inguinal or flank region and progress cranially.
+Dermatosis due to neutering is not common in dogs and cats; when it does occur, it is generally nonpruritic, with mild alopecia in the perineal or inguinal areas.
+Exogenous estrogen administration has also been identified more recently as a cause of bilateral symmetrical alopecia. The source of exogenous estrogen may be estrogen cream applied to the skin of a person in close contact with the animal, allowing percutaneous absorption by the animal.
+### Other Endocrinopathies
+Faulty production of hypophyseal hormones may rarely cause dermatoses, as in pituitary-dependent hyperadrenocorticism. Hypopituitarism is associated with alopecia, especially in the axillary regions and on the lateral thorax and abdomen.
+In diabetes mellitus, pruritus and secondary infection sometimes occur, especially in cats with generalized _Malassezia_ infection.
+## Dermatosis Associated With Neuropathies in Animals
+Rarely, underlying neurologic disorders, especially in dogs, may manifest as cutaneous lesions. These include sensory neuropathies in English Pointers and Longhaired Dachshunds, cauda equina syndrome, pseudorabies, neoplasia of peripheral nerves, and syringomyelia or Chiari-like malformation of Cavalier King Charles Spaniels.
+Clinical signs generally include pruritus and scratching (sometimes phantom or air scratching in some cases of syringomyelia or Chiari-like malformation). Clinical signs also include pain in cauda equina syndrome and self-mutilation in the sensory neuropathies.
+## Key Points
+* Some systemic diseases have cutaneous manifestations; presentation of skin lesions and breed predispositions aid diagnosis of the primary disease.
+* Clinical signs will likely resolve with treatment of the primary disease, but symptomatic management of clinical signs can be beneficial in some cases.
+* Treatment depends on the specific etiologic diagnosis.
+
+## References
+1. Brooks DG, Campbell KL, Dennis JS, et al. Pancreatic paraneoplastic alopecia in three cats. _J Am Anim Hosp Assoc._ 1994;30(6):557-563.
+2. Tasker S, Griffon DJ, Nuttall TJ, Hill PB. Resolution of paraneoplastic alopecia following surgical removal of a pancreatic carcinoma in a cat. _J Small Anim Pract_. 1999;40(1):16-19. doi:10.1111/j.1748-5827.1999.tb03248.x
+3. Pascal-Tenorio A, Olivry T, Gross TL, Atlee BA, Ihrke PJ. Paraneoplastic alopecia associated with internal malignancies in the cat. _Vet Dermatol_. 1997;8(1):47-52. doi:10.1111/j.1365-3164.1997.tb00263.x
+4. Godfrey DR. A case of feline paraneoplastic alopecia with secondary _Malassezia_ -associated dermatitis. _J Small Anim Pract_. 1998;39(8):394-396. doi:10.1111/j.1748-5827.1998.tb03739.x
+5. Barrs VR, Martin P, France M, Mason K. What is your diagnosis? Feline paraneoplastic alopecia associated with pancreatic and bile duct carcinomas. _J Small Anim Pract_. 1999;40(12):559-596. doi:10.1111/j.1748-5827.1999.tb03021.x
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#integumentary-system)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

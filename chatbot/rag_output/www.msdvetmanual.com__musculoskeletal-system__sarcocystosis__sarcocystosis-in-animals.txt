@@ -1,0 +1,169 @@
+1. <[Sarcocystosis](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+PROFESSIONAL VERSION
+# Sarcocystosis in Animals
+By[Gastón A. Moré](https://www.researchgate.net/profile/Gaston_More%20), DVM, PhD, Immunoparasitology Laboratory, National University of La Plata, Buenos Aires, Argentina
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Modified Apr 2026
+v3286635
+Recently Added
+0px
+* New zoonotic species _Sarcocystis sigmoideus_
+* Potential association of _Sarcocystis_ spp infections with [bovine eosinophilic myositis](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#8ffb4155-0e0b-43cd-9c4f-93d5ec0cd4a4)
+
+Sarcocystosis is an intracellular protozoal infection that is highly prevalent and generally subclinical but can cause mild GI and neuromuscular signs in cattle, sheep, pigs, horses, dogs, cats, and humans. Typical control strategies are to prevent the ingestion of prey or raw tissues (mainly muscles) from infected intermediate hosts and to decrease contamination of grass and water with feces of definitive hosts.
+* [Etiology, Transmission, and Pathogenesis](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#Etiology,-Transmission,-and-Pathogenesis_v3286641)|
+* [Clinical Findings](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#Clinical-Findings_v3286679)|
+* [Diagnosis](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#Diagnosis_v109750354)|
+* [Control](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#Control_v3286695)|
+* [Key Points](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#Key-Points_v51096778)|
+* [For More Information](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#For-More-Information_v51096787)|
+* [References](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#References_v109750422)|
+* Multimedia|
+
+Sarcocystosis is an intracellular **infection, generally chronic and subclinical** , that is **caused by apicomplexan protozoa** of the genus _Sarcocystis_ (from the Greek _sarx_ for "meat" and _kystis_ for "bladder" or "pouch").
+These protozoa have an indirect, mainly predator-prey life cycle. The primary finding is the presence of **macroscopic and/or microscopic muscle cysts (sarcocysts) in the intermediate hosts (prey)**. Occasionally, eosinophilic myositis related to sarcocysts arises.
+The presence of macroscopic sarcocysts and zoonotic species (eg, _Sarcocystis hominis_ in beef and _Sarcocystis suihominis_ in pork) **could result in meat condemnation**. **No effective treatment** has been reported for the intracellular chronic stage (sarcocysts).
+_Sarcocystis_ cysts are septate and contain thousands to millions of banana-shaped bradyzoites (see cyst image).
+_Sarcocystis aucheniae_ cyst, scanning electron micrograph
+Image
+Scanning electron micrograph showing a _Sarcocystis aucheniae_ cyst. Note the septum and the banana-shaped bradyzoites. Scale bar = 10 mcm.
+Courtesy of Dr. Gastón Moré.
+## Etiology, Transmission, and Pathogenesis of Sarcocystosis
+_Sarcocystis_ spp normally develop in two-host cycles consisting of an intermediate host (prey, for asexual reproduction and muscle cyst development) and a final host (predator or scavenger, for intestinal sexual reproduction and production of mature oocysts). (See [life cycle diagram](https://www.cdc.gov/dpdx/sarcocystosis).)
+More than 250 different _Sarcocystis_ species have been described, and most are distributed worldwide. **Species-specific prey-predator life cycles** that have been demonstrated include the following ([1](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1), [2](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)):
+* cattle-cat (_S hirsuta_)
+* cattle-dog (_S cruzi_)
+* cattle-human (_S heydorni_ , _S hominis_ , _S sigmoideus_)
+* goat-cat (_S moulei_)
+* goat-dog (_S capracanis_ , _S hircicanis_)
+* horse-dog (_S bertrami_ [syn _S fayeri_])
+* llama-dog (_S aucheniae_ , _S masoni)_
+* pig-dog (_S miescheriana_)
+* pig-human (_S suihominis_)
+* pigeon-hawk (_S calchasi_)
+* sheep-cat (_S gigantea_ , _S medusiformis_)
+* sheep-dog (_S arieticanis_ , _S tenella_)
+
+Some wildlife can be intermediate hosts (eg, birds, cervids, raccoons, rodents) or final hosts (eg, coyotes, opossums, snakes, wolves) for some species of _Sarcocystis_.
+Approximately 1–2 weeks after ingesting muscle tissue that contains _Sarcocystis_ spp cysts, the final host sheds infective oocysts and sporocysts in feces for several months. Intestinal infections in most final hosts are subclinical; occasionally, however, mild abdominal signs and symptoms like diarrhea and abdominal pain can occur in humans and dogs.
+After ingestion of _Sarcocystis_ sporocysts by a suitable intermediate host, sporozoites are liberated and initiate the development of schizonts in vascular endothelia of mesenteric arterioles and lymph nodes. A second generation of endothelial schizonts is produced in capillaries from several organs. Merozoites released from these schizonts invade the muscle fibers and develop into typical sarcocysts.
+Initially, the cyst contains only a few metrocytes (merozoites that are rounded to slightly elongated), which give rise to the banana-shaped infective bradyzoites found in mature cysts (2–3 months after infection). Sarcocysts of some species are macroscopic (eg, _S aucheniae_ , _S hirsuta_ , _S gigantea_ , _S medusiformis_ , etc); however, most species are microscopic, even when large numbers of cysts are present within the muscle tissue.
+[Equine protozoal myeloencephalitis (EPM)](https://www.msdvetmanual.com/nervous-system/equine-protozoal-myeloencephalitis/equine-protozoal-myeloencephalitis)**is caused principally by** _**Sarcocystis neurona**_ in horses from North and South America. Only asexual stages of  _S neurona_ have been found in horses, and they might be located in neurons and leukocytes of the brain and spinal cord (aberrant host). Opossums (_Didelphis virginiana_ and _Didelphis albiventris_) are its definitive hosts.
+_S cruzi_ produces microscopic cysts, principally in myocardium, and can affect up to 100% of some cattle populations.
+_S hirsuta_ has been primarily responsible for beef condemnation because of visible sarcocysts.
+_S miescheriana_ is the most important species affecting pigs and might affect meat quality.
+Macroscopic cysts of _S aucheniae_ are an important cause of condemnation of llama, alpaca, and guanaco meat (see llama meat image).
+_Sarcocystis aucheniae_ cysts, llama meat
+Image
+Llama meat containing several macroscopic _Sarcocystis aucheniae_ cysts (arrows).
+Courtesy of Dr. Gaston Moré.
+**Natural _Sarcocystis_ infections are usually subclinical.** However, experimental infections with _S cruzi_ sporocysts have caused acute disease in calves; eosinophilic myositis in cattle; and abortions, stillbirths, and deaths in pregnant cows. Cases of necrotic encephalitis and fatal myocarditis in heifers have been reported ([1](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+Similar pathogenicity has been demonstrated for _S tenella_ in lambs and ewes and for _S miescheriana_ in pigs. An outbreak of myositis affecting 20 ewes with flaccid paralysis was the result of heavy _Sarcocystis_ infection ([1](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+Immune status of the host and the dose of _Sarcocystis_ sporocysts might be the most important factors for development of clinical signs. Natural infections are assumed to occur frequently with low numbers of sporocysts, leading to chronic and subclinical infections. Pathological changes in myocardium and skeletal muscles have been found to be more pronounced in cows with lymphatic leukemia ([1](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1), [3](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+Pearls & Pitfalls
+|
+* Immune status of the host and the dose of _Sarcocystis_ sporocysts might be the most important factors for development of clinical signs.
+
+|
+| --- |
+A prophylactic vaccination procedure using small doses of sporocysts has been found to prevent the development of sarcocystosis clinical signs or decrease their severity in sheep when challenged with large doses later (premunitive immunity) ([4](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)). In dogs, which serve as definitive hosts, repeated infection is associated with a prolonged prepatent period and a shortened patent period.
+**Humans can also serve as intermediate aberrant _Sarcocystis_ hosts and suffer myositis and vasculitis.** These symptoms have been reported from tourists in Malaysia who apparently ingested _Sarcocystis nesbitti_ sporocysts (monkey-snake life cycle) from food or water contaminated with snake feces ([5](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+**Human intestinal illness** , with clinical signs and symptoms of abdominal pain, loss of appetite, nausea, vomiting, and diarrhea lasting up to 48 hours, has **followed ingestion of raw or undercooked pork or beef containing sarcocysts** of _S suihominis_ and _S hominis_ , respectively ([6](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+Morphological and molecular differentiation of _S hominis_ and _S suihominis_ cysts from cysts of nonzoonotic species is extremely important. **Accurate identification of sarcocyst species not only protects public health, but also ensures that meat is not unnecessarily condemned because of the presence of harmless species.** Species can be identified by molecular studies and cyst wall morphology (mainly ultrastructure, by transmission electron microscopy).
+In addition to the zoonotic concern, _Sarcocystis_ spp **infections in cattle** are of interest because of their potential association with bovine eosinophilic myositis, an inflammatory myopathy characterized by multifocal gray to greenish lesions **implicating meat rejections** ([2](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+Potential food poisoning in humans has been reported after ingestion of South American camelid meat containing _S aucheniae_ cysts, as well as venison, whale, and horse meat containing _Sarcocystis_ spp cysts ([1](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+## Clinical Findings of Sarcocystosis
+_**Sarcocystis**_**spp infections are quite prevalent in farm animals** (> 70% in some herbivore populations); however, there have been few outbreaks of disease. **Most infected animals are subclinically affected** , and the tissue cysts (chronic stage) are discovered only at slaughter.
+**Clinical signs in cattle** acutely affected with _S cruzi_ include **fever, anorexia, cachexia, decreased milk yield, diarrhea, muscle spasms, anemia, loss of tail hair, hyperexcitability, weakness, prostration, and death**. Infection during the last trimester of pregnancy might lead to [abortion in cows](https://www.msdvetmanual.com/reproductive-system/abortion-in-large-animals/abortion-in-cattle). After recovery from acute illness, **calves fail to grow well and eventually die** in a cachectic state ([7](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+[Anemia](https://www.msdvetmanual.com/circulatory-system/anemia/overview-of-anemia-in-animals), [hepatitis](https://www.msdvetmanual.com/digestive-system/hepatic-disease-in-large-animals/overview-of-hepatic-disease-in-large-animals), and myocarditis were the primary lesions of acute infection in sheep after experimental challenge with _S tenella_ sporocysts ([1](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)). After recovery from acute illness, some sheep lose their wool. _S tenella_ might also induce [abortion in sheep](https://www.msdvetmanual.com/reproductive-system/abortion-in-large-animals/abortion-in-sheep). At necropsy, acutely affected animals show hemorrhage of the serous membranes of the viscera and myocardium.
+_Sarcocystis_ spp infections are probably **most important in growing ruminants and swine** , in which they can cause subclinical anemia and decreased weight gain.
+Sarcocystosis in **dogs and cats is usually subclinical** ; however, acute to chronic diarrhea might occur. _Sarcocystis caninum_ and _Sarcocystis svanai_ infections have been associated with severe myositis and hepatitis in dogs ([8](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+**Clinical signs of equine protozoal myeloencephalitis** include gait abnormalities such as ataxia, knuckling, and crossing over. Muscle atrophy of the hindlimb, which is usually unilateral, is common. EPM lesions are typically multifocal, and brainstem involvement is common. Depression, weakness, head tilt, and dysphagia are other possible signs.
+EPM can mimic many neurological diseases. **Horses can also develop myopathy.** Multifocal myositis has been reported and might be caused by another _Sarcocystis_ species— _S bertrami_(syn _S fayeri_)—with horses as the intermediate host.
+_S calchasi_ can produce protozoal encephalitis in pigeons with severe brain lesions and muscle cysts at the same time.
+## Diagnosis of Sarcocystosis
+* Intermediate hosts:
+* Histopathological findings
+* Serological testing
+* Transmission electron microscopy
+* Artificial digestion
+* Molecular diagnostics
+
+* Definitive hosts:
+* Fecal flotation
+* Intestinal scraping at necropsy
+* Molecular diagnostics
+
+Because clinical signs of sarcocystosis are often nonspecific, diagnosis of _Sarcocystis_ infection relies on a combination of histological, serological, and molecular diagnostic modalities.
+**Histological evaluation of biopsy or necropsy tissues** is commonly used **for diagnosis of sarcocystosis**. Merozoites and sarcocysts might be detected in muscle, eyes, tongue, brain, heart, lungs, liver, and intestines. Associated lesions frequently include granulomatous inflammation and tissue necrosis. **Immunohistochemistry (IHC) can be used to confirm infection** and assist in differentiating among species.
+Direct agglutination assays can detect antibodies against _Sarcocystis_ but cannot distinguish between acute infections and recrudescent or past exposure. **Indirect fluorescent antibody tests (IFATs), ELISA, and Western blot performed on serum or plasma can help differentiate certain _Sarcocystis_ spp** ([9](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)). However, most of these tests detect antibodies directed to shared antigens, and species differentiation is not possible. Therefore, most serological methods detect antibodies to only the genus level.
+Pearls & Pitfalls
+|
+* Most serological methods detect antibodies to only the genus level.
+
+|
+| --- |
+**PCR assay and DNA sequencing enable more reliable differentiation** among closely related _Sarcocystis_ spp.
+Both PCR assay and specific serological testing are important diagnostic methods for equine protozoal myeloencephalitis.
+Transmission electron microscopy (TEM) can provide ultrastructural visualization of sarcocysts and parasite developmental stages, enabling detailed characterization of cyst wall morphology and other structural features that can aid in species differentiation.
+**_Sarcocystis_ spp oocysts and sporocysts** are occasionally detected **in fecal samples** (see sugar flotation image).
+_Sarcocystis_ sp oocysts and sporocysts, sugar flotation, phot...
+Image
+Photomicrograph showing _Sarcocystis_ sp oocysts. Each oocyst contains two oval sporocysts with four sporozoites each. Note the thin oocyst wall. Scale bar = 10 mcm.
+Courtesy of Dr. Gastón Moré.
+## Control of Sarcocystosis
+* No effective treatment for chronic intracellular sarcocysts
+* Prevent ingestion of prey carcasses or raw tissues
+* Decrease grass and water contamination with infected feces
+* Antiprotozoal medication
+
+Because most adult cattle, sheep, and many pigs harbor sarcocysts in their muscles, **dogs and other carnivores should not be allowed to eat raw meat** , offal, or dead animals. **Supplies of grain and feed should be kept covered.** Dogs and cats should not be allowed in buildings used to store feed or to house animals.
+Amprolium (100 mg/kg, every 24 hours for 30 days), fed prophylactically, has been found to decrease illness in cattle inoculated with _S cruzi_ ([10](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)). However, in the US, [extralabel drug use](https://www.msdvetmanual.com/pharmacology/pharmacology-introduction/new-animal-drugs-extralabel-drug-use-compounded-drugs-and-generic-drugs) in food animals is not allowed when the drug is administered in feed, with an exception for specific circumstances in minor species outlined in the [FDA Compliance Policy Guide (CPG)](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cpg-sec-615115-extralabel-use-medicated-feeds-minor-species).
+Prophylactic administration of amprolium or salinomycin has been shown to be effective in preventing severe illness and death in sheep experimentally infected with _Sarcocystis_ ([1](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1), [11](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+**Vaccines are not available.**
+Experimental work demonstrated that pork and beef infected with _Sarcocystis_ could be made safe for consumption by cooking at 70°C (158°F) for 15 minutes or by freezing at –4°C (24.8°F) for 5 days or at –20°C (–4°F) for 2 days ([1](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+The **combination of pyrimethamine and sulfadiazine** is available as an FDA-approved oral suspension (1 mg/kg and 20 mg/kg, respectively, PO, every 24 hours for a prolonged period [usually 40 days or longer]) **for treatment of horses with equine protozoal myeloencephalitis** ([12](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+Pyrimethamine has been associated with rare serious adverse effects, including myelosuppression and seizures, particularly when administered at high doses. Progressive mild anemia is common with pyrimethamine treatment. Pyrimethamine is teratogenic and has also been noted to cause a fatal syndrome in foals when mares are treated in late pregnancy ([13](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1), [14](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+**Ponazuril** (also FDA approved), is **widely used to treat EPM**. The dosage commonly used is 15 mg/g, PO, on day 1, followed by 5 mg/kg, PO, every 24 hours for at least 27 days ([13](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1), [15](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+**Diclazuril** (1 mg/kg as alfalfa-based pellets, every 7 days) might be useful **as a prophylactic agent** against _S neurona_ ([16](https://www.msdvetmanual.com/musculoskeletal-system/sarcocystosis/sarcocystosis-in-animals#581ba657-e02e-4598-b47d-3308144ab3d1)).
+## Key Points
+* Sarcocystosis is a chronic and subclinical protozoal infection distributed worldwide that affects muscles of animals and humans. Eosinophilic myositis and hepatitis might be related to _Sarcocystis_ spp infections.
+* The presence of macroscopic sarcocysts (_S aucheniae_ , _S hirsuta_ , _S gigantea_ , and others) and zoonotic species (_S hominis_ , _S sigmoideus_ , _S heydorni_ , and _S suihominis_) can result in meat condemnation.
+* Intestinal infections in final hosts are generally subclinical; however, humans and dogs can experience abdominal symptoms and signs.
+* In addition to the zoonotic concern, there is increasing interest about _Sarcocystis_ spp infections in meat-producing animals and the potential association of these infections with eosinophilic myositis and food poisoning events.
+
+## For More Information
+* [Sarcocystosis](https://www.cdc.gov/dpdx/sarcocystosis/index.html). CDC.
+* Also see pet owner content regarding sarcocystosis in [dogs](https://www.msdvetmanual.com/dog-owners/bone-joint-and-muscle-disorders-of-dogs/sarcocystosis-in-dogs) and [cats](https://www.msdvetmanual.com/cat-owners/bone-joint-and-muscle-disorders-of-cats/sarcocystosis-in-cats).
+
+## References
+1. Dubey JP, Calero-Bernal R, Rosenthal BM, Speer CA, Fayer R. _Sarcocystosis of Animals and Humans_. 2nd ed. CRC Press;2016.
+2. Rubiola S, Moré G, Civera T, et al. [Detection of Sarcocystis hominis, Sarcocystis bovifelis, Sarcocystis cruzi, Sarcocystis hirsuta and Sarcocystis sigmoideus sp. nov. in carcasses affected by bovine eosinophilic myositis](https://doi.org/10.1016/j.fawpar.2024.e00220).  _Food Waterborne Parasitol_. 2024;34:e00220. doi:10.1016/j.fawpar.2024.e00220
+3. Kumar V, Singh V, Kumar P, Kumar VSD, Babu S. [Sarcocysts as a common post mortem finding in heart muscles of cattle: necropsy case report](https://doi.org/10.22271/veterinary.2023.v8.i2Sa.562). _Int J Vet Sci Anim Husb_. 2023;8(SP-2):53-57. doi:10.22271/veterinary.2023.v8.i2Sa.562
+4. O'Donoghue PJ, Wilkinson RG. [Antibody development and cellular immune responses in sheep immunized and challenged with Sarcocystis tenella sporocysts](https://doi.org/10.1016/0304-4017\(88\)90040-4). _Vet Parasitol_. 1988;27(3-4):251-265. doi:10.1016/0304-4017(88)90040-4
+5. Tappe D, Slesak G, Pérez-Girón JV, et al. [Human invasive muscular sarcocystosis induces Th2 cytokine polarization and biphasic cytokine changes, based on an investigation among travelers returning from Tioman Island, Malaysia](https://doi.org/10.1128/CVI.00042-15). _Clin Vaccine Immunol_. 2015;22(6):674-677. doi:10.1128/CVI.00042-15
+6. Rosenthal BM. [Zoonotic Sarcocystis](https://doi.org/10.1016/j.rvsc.2021.02.008). _Res Vet Sci_. 2021;136:151-157. doi:10.1016/j.rvsc.2021.02.008
+7. Carrigan MJ. [An outbreak of sarcocystosis in dairy cattle](https://doi.org/10.1111/j.1751-0813.1986.tb02866.x). _Aust Vet J_. 1986;63(1):22-24. doi:10.1111/j.1751-0813.1986.tb02866.x
+8. Dubey JP, Sykes JE, Shelton GD, et al. [Sarcocystis caninum and Sarcocystis svanai n. spp. (Apicomplexa: Sarcocystidae) associated with severe myositis and hepatitis in the domestic dog (Canis familiaris)](https://doi.org/10.1111/jeu.12182). _J Eukaryot Microbiol_. 2015;62(3):307-317. doi:10.1111/jeu.12182
+9. Duarte PC, Daft BM, Conrad PA, et al. [Evaluation and comparison of an indirect fluorescent antibody test for detection of antibodies to Sarcocystis neurona, using serum and cerebrospinal fluid of naturally and experimentally infected, and vaccinated horses](https://doi.org/10.1645/GE-3263). _J Parasitol_. 2004;90(2):379-386. doi:10.1645/GE-3263
+10. Fayer R, Dubey JP. [Protective immunity against clinical sarcocystosis in cattle](https://doi.org/10.1016/0304-4017\(84\)90071-2). _Vet Parasitol_. 1984;15(3-4):187-201. doi:10.1016/0304-4017(84)90071-2
+11. Leek RG, Fayer R. [Amprolium for prophylaxis of ovine Sarcocystis](https://doi.org/10.2307/3280598). _J Parasitol_. 1980;66(1):100-106. doi:10.2307/3280598
+12. MacKay RJ, Howe DK. [Equine protozoal myeloencephalitis](https://doi.org/10.1016/j.cveq.2022.05.003). _Vet Clin North Am Equine Pract_. 2022;38(2):249-268. doi:10.1016/j.cveq.2022.05.003
+13. Reed SM, Furr M, Howe DK, et al. [Equine protozoal myeloencephalitis: an updated consensus statement with a focus on parasite biology, diagnosis, treatment, and prevention](https://doi.org/10.1111/jvim.13834). _J Vet Intern Med_. 2016;30(2):491-502. doi:10.1111/jvim.13834
+14. Toribio RE, Bain FT, Mrad DR, et al. [Congenital defects in newborn foals of mares treated for equine protozoal myeloencephalitis during pregnancy](https://doi.org/10.2460/javma.1998.212.05.697). _J Am Vet Med Assoc_. 1998;212(5):697-701. doi:10.2460/javma.1998.212.05.697
+15. Furr M, Kennedy T, MacKay R, et al. [Efficacy of ponazuril 15% oral paste as a treatment for equine protozoal myeloencephalitis](https://pubmed.ncbi.nlm.nih.gov/19746664). _Vet Ther_. 2001;2(3):215-222.
+16. Pusterla N, Vaala W, Bain FT, et al. [Pharmacokinetics of a FDA-labeled dose of diclazuril administered orally once weekly to adult horses](https://doi.org/10.1016/j.jevs.2022.104183). _J Equine Vet Sci_. 2023;120:104183. doi:10.1016/j.jevs.2022.104183
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#musculoskeletal-system)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

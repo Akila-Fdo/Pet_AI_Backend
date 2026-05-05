@@ -1,0 +1,121 @@
+1. <[Canine Distemper](https://www.msdvetmanual.com/infectious-diseases/canine-distemper)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+PROFESSIONAL VERSION
+# Canine Distemper
+By[Kate E. Creevy](https://scholars.library.tamu.edu/vivo/display/nf40f2eea/Persons/View%20All%20), DVM, MS, DACVIM-SAIM, College of Veterinary Medicine & Biomedical Sciences, Texas A & M University;
+[Jeremy B. Evans](https://www.msdvetmanual.com/authors/evans-jeremy), DVM, Department of Small Animal Clinical Sciences, School of Veterinary Medicine & Biomedical Sciences, Texas A&M University
+Reviewed/Revised Nov 2022 | Modified Jun 2025
+v3276221
+Canine distemper is a highly infectious, systemic, viral disease of dogs that occurs worldwide. Dogs commonly exhibit systemic clinical signs (fever, lethargy, loss of appetite), respiratory signs (nasal discharge, pneumonia), and GI signs (diarrhea), variably followed by neurologic signs (muscle twitching, focal or generalized seizures), which may be delayed. Vaccination is available and is generally effective. Diagnosis is made by recognition of the clinical signs, along with confirmation through antibody assays or reverse transcriptase PCR. Treatment is generally supportive, and the prognosis varies with the severity of the neurologic signs.
+* [Etiology and Pathogenesis](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper#Etiology-and-Pathogenesis_v3276224)|
+* [Clinical Findings](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper#Clinical-Findings_v3276229)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper#Diagnosis_v3276243)|
+* [Treatment](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper#Treatment_v3276248)|
+* [Prevention](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper#Prevention_v3276252)|
+* [Key Points](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper#Key-Points_v73974927)|
+* [For More Information](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper#For-More-Information_v73974936)|
+
+Clinically, canine distemper is characterized by:
+* a diphasic fever
+* respiratory discharge and pneumonia
+* diarrhea and inappetence
+* frequently, neurologic complications
+
+The epidemiology of canine distemper is complicated by the large number of species susceptible to infection. The disease occurs in Canidae (dogs, foxes, wolves, raccoon dogs), Mustelidae (ferrets, mink, skunks, wolverines, martens, badgers, otters), most Procyonidae (raccoons, coatimundis), some Viveridae (binturongs, palm civets), Ailuridae (red pandas), Ursidae (bears), Elephantidae (Asian elephants), primates (Japanese monkeys), and large Felidae (cats). Domestic dogs (including feral populations) are considered to be the reservoir species in most, if not all, locations. Antigenic drift and strain diversity is increasingly documented in association with outbreaks in wild species, domestic dogs, and exotic animals held in zoos and parks.
+## Etiology and Pathogenesis of Canine Distemper
+**Canine distemper virus** is a paramyxovirus closely related to the viruses of measles and [rinderpest](https://www.msdvetmanual.com/generalized-conditions/rinderpest/rinderpest). The fragile, enveloped, single-stranded RNA virus is relatively unstable outside the host. Infection is transmitted mainly via aerosol droplet secretions from infected animals. Some infected dogs may shed virus particles for several months.
+The virus initially replicates in the lymphatic tissue of the respiratory tract. A cell-associated viremia results in infection of all lymphatic tissues, which is followed by infection of respiratory, GI, and urogenital epithelium, as well as the CNS and optic nerves. Disease follows virus replication in these tissues. The extent of viremia and of virus transmission to various tissues is moderated by the extent of specific humoral immunity in the host during the viremic period.
+## Clinical Findings of Canine Distemper
+A transient fever usually occurs 3–6 days after infection with canine distemper virus, and there may be leukopenia (characterized by lymphopenia) at this time; these clinical signs may go unnoticed or may be accompanied by anorexia. The fever subsides for several days before a second fever occurs, which may be accompanied by serous nasal discharge, mucopurulent ocular discharge, lethargy, and anorexia. GI and respiratory signs, typically complicated by secondary bacterial infections, may follow; rarely, pustular dermatitis may be observed. Encephalomyelitis may occur in association with these signs, follow the systemic disease, or occur in the absence of systemic signs. Dogs surviving the acute phase may have hyperkeratosis of the footpads and epithelium of the nasal planum, as well as enamel hypoplasia in incompletely erupted teeth.
+Overall, a longer course of illness is associated with the presence of neurologic signs; however, there is no way to anticipate whether an infected dog will develop neurologic manifestations.
+Typical neurologic signs include:
+* localized involuntary muscle twitching (myoclonus, chorea, flexor spasm, hyperkinesia)
+* seizures, including salivation and chewing movements of the jaw (chewing-gum fits)
+
+Other neurologic signs include:
+* circling
+* head tilt
+* nystagmus
+* paresis to paralysis
+* seizures ranging in type from focal to generalized
+
+Emerging viral strains may be associated with greater neurotropism. Increased morbidity and mortality from neurologic complications has been observed.[1](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper#v73974890)
+A dog may exhibit any or all of these multisystemic clinical signs during the course of the disease. Infection may be mild and inapparent or lead to severe disease with most of the described clinical signs. The course of the systemic disease may be as short as 10 days; however, the onset of neurologic signs may be delayed several weeks or months as a result of chronic progressive demyelination within the CNS.
+Clinicopathologic findings are nonspecific and include lymphopenia, with the possible finding of viral inclusion bodies in circulating leukocytes very early in the course of the disease. Thoracic radiographs may reveal an interstitial pattern typical of viral pneumonia.
+**Chronic distemper encephalitis** (old dog encephalitis, or ODE), a condition often marked by ataxia, compulsive movements such as head pressing or continual pacing, and incoordinated hypermetria, may be observed in fully vaccinated adult dogs without a history suggestive of systemic canine distemper infection. Although canine distemper antigen has been detected in the brains of some dogs with ODE by fluorescent antibody staining or genetic methods, dogs with ODE are not infectious, and replication-competent virus has not been isolated. The disease is due to an inflammatory reaction associated with persistent canine distemper virus infection in the CNS; however, the mechanisms that trigger this syndrome are unknown.
+### Lesions
+**Thymic atrophy** is a consistent postmortem finding in young puppies infected with canine distemper virus. Hyperkeratosis of the nose and footpads is often found in dogs with neurologic signs. Depending on the extent of secondary bacterial infection, bronchopneumonia, enteritis, and skin pustules also may be present. In cases of acute to peracute death, exclusively respiratory abnormalities may be found. Histologically, canine distemper virus produces necrosis of lymphatic tissues, interstitial pneumonia, and cytoplasmic and intranuclear inclusion bodies in respiratory, urinary, and GI epithelium.
+Lesions found in the brains of dogs with neurologic complications include:
+* neuronal degeneration
+* gliosis
+* noninflammatory demyelination
+* perivascular cuffing
+* nonsuppurative leptomeningitis
+* intranuclear inclusion bodies, predominantly within glial cells
+
+### References
+1. Origgi FC, Plattet P, Sattler U, et al. Emergence of canine distemper virus strains with modified molecular signature and enhanced neuronal tropism leading to high mortality in wild carnivores. _Vet Pathol_. 2012;49(6):913–929.
+
+## Diagnosis of Canine Distemper
+* Preliminary diagnosis: clinical evaluation
+* Confirmation: reverse transcriptase PCR (RT-PCR) and antibody detection tests
+
+Canine distemper should be considered in the diagnosis of any febrile condition in dogs with multisystemic clinical signs involving the respiratory, GI, and/or neurologic systems. Unvaccinated dogs, or dogs of unknown vaccination status, should be particularly suspected. An appropriate index of suspicion based on clinical signs is a necessary first step. Widely available RT-PCR and antibody detection tests (ELISA, immunofluorescence assay [IFA]) are used to confirm the presence of virus or an immune response against it in appropriately selected clinical cases.
+Clinical signs in the respiratory and GI systems may be modified by, or confused with, concurrent parasitism and numerous viral or bacterial infections. Characteristic neurologic signs sometimes do not appear until late in the disease.
+Distemper in dogs can be confused with other systemic infections, such as:
+* [parvovirus](https://www.msdvetmanual.com/digestive-system/infectious-diseases-of-the-gastrointestinal-tract-in-small-animals/canine-parvovirus-infection-parvoviral-enteritis-in-dogs) infection
+* infectious canine tracheobronchitis
+
+Intoxicants such as lead or organophosphates can cause simultaneous GI and neurologic signs.
+In dogs with multisystemic clinical signs, IFA or RT-PCR can be used to examine:
+* smears of conjunctival, tracheal, nasal, vaginal, or other epithelium
+* the buffy coat of the blood
+* transtracheal wash fluid
+* urine
+* bone marrow aspirates
+
+Commercially available RT-PCR may not distinguish natural infection from vaccine-derived virus; however, quantitative RT-PCR may overcome this limitation. Antibody titers or ELISA can be performed on CSF and compared with peripheral blood; a relatively higher number of antibodies in the CSF is typical of natural infection versus vaccination. Viral antigen IFA or fluorescent in situ hybridization (FISH) for viral DNA can be performed on biopsies from the footpads or from the haired skin of the dorsal neck.
+At necropsy, diagnosis is usually confirmed by histologic evaluation of lesions, IFA, FISH, or a combination of these. Tissue IFA often is negative when the dog is showing only neurologic signs or when circulating antibody is present (or both), requiring that the diagnosis be made by CSF evaluation or RT-PCR analysis.
+## Treatment of Canine Distemper
+* Supportive care
+
+As with most diseases due to viruses, supportive care is the mainstay of treatment for canine distemper. Patients require nutrition and hydration support, defense against secondary bacterial infections, protection against the consequences of seizures, and excellent nursing care to optimize the chances of a successful immune response to the virus.
+Treatment includes:
+* administration of prophylactic broad-spectrum antimicrobials
+* provision of balanced electrolyte solutions
+* provision of parenteral nutrition
+* administration of antipyretics, analgesics, and anticonvulsants
+* excellent nursing care
+
+No single treatment of canine distemper is specific or uniformly successful. Experimental in vitro work with antiviral agents shows promise; however, these agents have not yet been widely used. The use of porcine-derived anti-canine-distemper-virus antibodies has shown promise: naturally infected puppies that were administered xenogeneic antibodies as an adjunct to standard supportive care had an increased rate of survival compared to puppies that received only supportive care.[1](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper#v73974915) In addition, for further supportive care, one case report described the use of intramuscular injections of botulinum toxin in one dog to alleviate severe and debilitating myoclonus associated with infection.[2](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper#v73974915)
+Unfortunately, treatment for acute neurologic manifestations of distemper is frequently unsuccessful. If the neurologic signs are progressive or severe, the owner should be appropriately advised. With prompt, aggressive care, dogs may recover completely from multisystemic clinical signs; in other cases, however, neurologic signs may persist after GI and respiratory signs have resolved. Some dogs with chronic progressive forms of neurologic disease may respond to glucocorticoid therapy.
+### References
+1. Liu PC, Chen CA, Chen CM, et al. Application of xenogeneic anti-canine distemper virus antibodies in treatment of canine distemper puppies. _J Small Anim Pract_. 2016 Nov;57(11):626–630. doi: [10.1111/jsap.12557.](https://onlinelibrary.wiley.com/doi/full/10.1111/jsap.12557) Epub 2016 Oct 11. PMID: 27726133.
+2. Schubert T, Clemmons R, Miles S, Draper W. The use of botulinum toxin for the treatment of generalized myoclonus in a dog. _J Am Anim Hosp Assoc_. 2013 Mar-Apr;49(2):122–127. doi: [10.5326/JAAHA-MS-5786](https://pubmed.ncbi.nlm.nih.gov/23325599/). Epub 2013 Jan 16. PMID: 23325599.
+
+## Prevention of Canine Distemper
+With the potential increasing virulence of emerging strains and the wide host range of canine distemper virus, widespread vaccination of domestic dogs is essential. Successful immunization of pups with canine distemper modified live virus (MLV) vaccines depends on the lack of interference by maternal antibodies. To overcome this barrier, pups are vaccinated with MLV vaccine when 6 weeks old and at 3- to 4-week intervals until 16 weeks old. Alternatively, measles virus vaccine induces immunity to canine distemper virus in the presence of relatively greater amounts of maternal distemper antibodies. MLV measles vaccine is administered intramuscularly to pups 6–7 weeks old and is followed with at least two more doses of MLV distemper vaccine at 12–16 weeks old.
+Many varieties of attenuated distemper vaccine, as well as recombinant vaccine, are available and should be administered according to manufacturers’ directions. MLV vaccines should not be administered in late-pregnancy or early-lactation bitches. MLV vaccines can produce postvaccinal illness in some immunosuppressed dogs. A recombinant canarypox vector vaccine expressing distemper virus proteins is licensed for use in ferrets; the [American Association of Zoo Veterinarians](https://www.aazv.org/) recommends extra-label use of this vaccine in many at-risk species held in zoos and parks.
+Historically, annual revaccination has been standard because of the breaks in protection that can occur in stressed, diseased, or immunosuppressed dogs, and because vaccines have been labeled for annual administration. Substantial evidence supports the finding that immunity induced by MLV distemper vaccines lasts ≥ 3 years. In many cases, however, a vaccination frequency of less than annual remains an extra-label administration of the vaccine; thus, decisions to revaccinate less often than annually should be considered in light of local prevalence of the disease and other potential risk factors, as well as industry and professional-organization recommendations.
+Canine distemper virus is sensitive to lipid solvents such as ether, as well as most [disinfectants](https://www.msdvetmanual.com/pharmacology/antiseptics-and-disinfectants), including phenols and quaternary ammonium compounds; these substances should be part of the cleaning and disinfection protocols at kennels and veterinary premises.
+## Key Points
+* Canine distemper is a highly infectious, multisystemic viral infection of dogs, with variable neurologic outcomes.
+* Diagnosis depends on recognition of the characteristic clinical signs in an at-risk dog, followed by specific detection of the virus itself, or an immune response against it.
+* Treatment is primarily supportive. The patient's own immune response is necessary to resolve the infection. Among survivors, full recovery from respiratory and GI signs is expected; however, the neurologic prognosis is unpredictable.
+
+## For More Information
+* American Veterinary Medical Association: [Canine Distemper](https://www.avma.org/resources/pet-owners/petcare/canine-distemper)
+* PetMD: [Distemper in Dogs](https://www.petmd.com/dog/conditions/respiratory/c_dg_canine_distemper)
+* Also see pet health content regarding [Canine Distemper (Hardpard Disease)](https://www.msdvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/canine-distemper-hardpad-disease).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

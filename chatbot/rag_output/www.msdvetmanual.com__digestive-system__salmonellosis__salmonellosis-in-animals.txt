@@ -1,0 +1,186 @@
+1. <[Salmonellosis](https://www.msdvetmanual.com/digestive-system/salmonellosis)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Salmonellosis in Animals
+By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine;
+[David Renaud](https://www.msdvetmanual.com/authors/renaud-david), BSc, DVM, PhD, Department of Population Medicine, Ontario Veterinary College
+Reviewed By[Alejandro Ramirez](https://www.msdvetmanual.com/authors/ramirez-alejandro), DVM, PhD, DACVPM, College of Veterinary Medicine, University of Arizona
+Reviewed/Revised Modified Nov 2024
+v3261651
+Salmonellosis is infection with _Salmonella_ spp bacteria. It affects most animal species, as well as humans, and is a major public health concern. The clinical presentation can range from a healthy chronic carrier state to acute or chronic enteritis to septicemia. Diagnosis is confirmed by isolating the pathogen. Antimicrobials and supportive treatment are required in patients with signs of systemic disease. However, the use of antimicrobials is controversial because they are thought to increase the risk of a patient's becoming a chronic shedder.
+* [Etiology and Pathogenesis](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#Etiology-and-Pathogenesis_v3261668)|
+* [Epidemiology](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#Epidemiology_v3261699)|
+* [Clinical Findings](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#Clinical-Findings_v49775016)|
+* [Diagnosis](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#Diagnosis_v3261729)|
+* [Treatment](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#Treatment_v3261753)|
+* [Control and Prevention](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#Control-and-Prevention_v3261761)|
+* [Zoonotic Risk](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#Zoonotic-Risk_v3261781)|
+* [Key Points](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#Key-Points_v49775127)|
+* [For More Information](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#For-More-Information_v49775136)|
+* [References](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#References_v94674287)|
+* Multimedia|
+
+Salmonellosis
+video
+_Salmonella_ is a genus of rod-shaped, gram-negative bacteria belonging to the family Enterobacteriaceae. Its member species cause salmonellosis infection. In warm-blooded vertebrates, salmonellosis is usually associated with serotypes (serovars) of _Salmonella enterica_. The most common type of infection is the carrier state, in which infected animals carry the pathogen for variable periods without any clinical signs. **In clinically affected patients, the disease presents as two major syndromes: septicemia (also called typhoid) or enteritis.** Other, less common clinical presentations include abortion, arthritis, respiratory disease, necrosis of extremities, and meningitis.
+Only a few serotypes cause clinical signs of salmonellosis in healthy animals, and they typically have a narrow range of host species—a phenomenon known as serovar-host specificity. For example, _Salmonella enterica_ serotype Typhi (_S_ Typhi) and _S_ Paratyphi cause typhoid in humans; _S_ Gallinarum causes a similar disease in poultry; and _S_ Abortusovis, _S_ Choleraesuis, and [_S_ Dublin](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonella-dublin-infection-in-cattle) cause clinical signs in sheep, pigs, and cattle, respectively.
+The remaining _S enterica_ serotypes rarely cause clinical signs in healthy, adult, nonpregnant animals. However, they colonize the gut of many species, enter the human food chain, and cause gastroenteritis (food poisoning) in humans. _S_ Typhimurium and _S_ Enteritidis are the most frequent causes of enteritis in humans (nontyphoidal salmonellosis) but can also cause typical typhoid infections in mice; hence, the basis of pathogenicity is unclear. Nontyphoidal _Salmonella_ serotypes can also cause more severe disease in some circumstances; for example, very young animals who received insufficient protective maternal antibodies, or animals that are highly susceptible to infection, may develop disease resembling typhoid fever. The host species from which a serotype is characteristically isolated is not the only species that can act as a host; thus, epidemiological factors are important in determining prevalence.
+Young [calves](https://www.msdvetmanual.com/digestive-system/intestinal-diseases-in-ruminants/diarrhea-in-neonatal-ruminants), [piglets](https://www.msdvetmanual.com/digestive-system/enteric-bacterial-diseases-in-pigs/intestinal-salmonellosis-in-pigs), [lambs](https://www.msdvetmanual.com/digestive-system/intestinal-diseases-in-ruminants/diarrhea-in-neonatal-ruminants), and [foals](https://www.msdvetmanual.com/digestive-system/diarrheal-diseases-in-foals/bacterial-diarrhea-in-foals) may develop both enteritis and the septicemic form of salmonellosis. Adult cattle, sheep, horses, dogs, cats, and other mammals may develop acute enteritis when exposed to a sufficiently large dose of a virulent strain. Chronic enteritis may develop in growing [pigs](https://www.msdvetmanual.com/digestive-system/enteric-bacterial-diseases-in-pigs/overview-of-enteric-bacterial-diseases-in-pigs) and occasionally in [cattle](https://www.msdvetmanual.com/digestive-system/intestinal-diseases-in-ruminants/intestinal-diseases-in-cattle) but also occurs in companion animal species. Pregnant animals may abort. The clinically normal carrier animal is a serious problem in all host species. Acute cases of salmonellosis occur infrequently in dogs and cats and are characterized by diarrhea with or without septicemia.
+Clinical signs of salmonellosis, as well as fecal shedding of salmonellae, have been linked in companion animals to the increasingly common practice among pet owners of feeding **raw meat diets**. In contrast to commercial pelleted pet food, which is heat treated and thus has lower levels of salmonellae contamination, homemade diets consisting of uncooked or undercooked meat or egg are more commonly culture-positive for _Salmonella_ spp and _Escherichia coli_. Similarly, some pet treats, such as dried pig ears, have been identified as a source of _Salmonella_ infection in pets.
+## Etiology and Pathogenesis of Salmonellosis in Animals
+Salmonellosis occurs in all parts of the world but is **most prevalent in regions with intensive animal husbandry**. Although salmonellae, which are facultative intracellular pathogens, are primarily intestinal bacteria, they are commonly found in environments subject to fecal contamination. Feces of infected animals can contaminate feed, water, milk, fresh and processed meats from slaughterhouses, plant and animal products used as fertilizers or feedstuffs, pasture and rangeland, and many inert materials. Organisms can survive for months in wet, warm areas such as in feeder pig barns and poultry houses or in water dugouts; however, they survive < 1 week in composted cattle feces. Rodents and wild birds are also sources of infection for domestic animals.
+Although many other _S enterica_ serotypes may lead to enteric disease, the more common ones (to some extent varying according to geographical location) in each species are listed in the table Salmonella enterica Serotypes Associated with Clinical Signs in Animals.
+Table
+_Salmonella enterica_ Serotypes Associated with Clinical Signs in Animals
+Table
+_Salmonella enterica_ Serotypes Associated with Clinical Signs in Animals
+<i >Salmonella enterica</i> Serotypes Associated with Clinical Signs in Animals
+| Animal Species  | _Salmonella enterica_ Serotype  |
+| --- | --- |
+| Cattle  | _S_ Typhimurium, [_S_ Dublin](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonella-dublin-infection-in-cattle), _S_ Newport  |
+| Sheep and goats  | _S_ Typhimurium, _S_ Diarizonae, _S_ Abortusovis, _S_ Hindmarsh, _S_ Brandenburg  |
+| Pigs  | _S_ Typhimurium, _S_ Choleraesuis, _S_ Typhisuis, _S_ Heidelberg, _S_ Derby  |
+| Horses  | _S_ Typhimurium, _S_ Agona, _S_ Anatum  |
+| Poultry  | _S_ Pullorum, _S_ Gallinarum, _S_ Typhimurium, _S_ Enterididis  |
+Although their resulting clinical patterns are not distinct, the infections caused by different species of salmonellae tend to differ in their epidemiology. Plasmid profile and drug-resistance patterns are sometimes useful markers for epidemiological studies. The prevalence of infection varies among host species and countries and is much higher than the incidence of disease with clinical signs, which in food animals is commonly precipitated by stressful situations, such as sudden feed deprivation, transportation, drought, crowding, parturition, surgery, and administration of certain drugs, including oral antimicrobials. Greater susceptibility to infection in the very young may be the result of high gastric pH, absence of stable intestinal flora, and limited immunity.
+The **usual route of infection in cases of salmonellosis with enteritis is fecal-oral** , although infection via the upper respiratory tract and the conjunctiva can occur. After being ingested, salmonellae colonize the digestive tract and invade and multiply in enterocytes and tonsillar lymphoid tissue. Bacterial penetration of the lamina propria contributes to gut damage and diarrhea. The complex process involves attachment of the bacteria via fimbrial appendages and subsequent injection of bacterial proteins into epithelial cells. These proteins induce changes in the actin cytoskeleton that produce membrane ruffling at the epithelial cell surface. This ruffling entraps _Salmonella_ bacteria, resulting in fluid secretion and ingestion of bacteria by the cell. Cellular infection activates a host alarm process, through signaling molecules, as a result of the detection of bacterial surface proteins. As the host's immune system detects _Salmonella_ surface proteins, a strong inflammatory response ensues and usually prevents systemic spread of the infection. (See ileum image.)
+Salmonella enteritis, ileum, calf
+Image
+Photomicrograph of the ileum of a 3-week-old calf with severe, acute, ulcerative, and fibrinonecrotic enteritis due to salmonellosis. The ulceration (complete loss of mucosa) is covered by numerous neutrophils, fibrin, and necrotic debris. Note the junction (indicated by arrows) between the fibrinonecrotic membrane and the underlying submucosa. The submucosa contains prominent vessels, mixed mononuclear inflammatory cells, and Peyer’s patches. Scale bar = 100 mcm.
+Courtesy of Dr. Victoria Watson, Michigan State University Veterinary Diagnostic Laboratory.
+Some serotypes also become localized to the reproductive tract. Serotypes that cause typhoid can modulate the initial host response and suppress the inflammatory response. Cell destruction follows, and the bacteria are ingested by phagocytic cells, such as macrophages and neutrophils. Although neutrophils are generally able to kill salmonellae, the bacteria can survive and multiply within macrophages, the main host cell type during infection.
+As infection progresses, true septicemia may follow, with subsequent localization of bacteria to the brain and meninges, pregnant uterus, joints and distal aspects of limbs, and tips of the ears and tail, which can result, respectively, in meningoencephalitis, abortion, osteitis, and dry gangrene of the feet, tail, or ears. The organism also frequently localizes to the gallbladder and mesenteric lymph nodes, and survivors of salmonellosis intermittently shed the organism in feces.
+Calves rarely become carriers; however, virtually all adults do for variable periods—up to 10 weeks in sheep and cattle and up to 14 months in horses. Adult cattle infected with _S_ Dublin may excrete the organism for years. Infection may also persist in lymph nodes or tonsils, without salmonellae in feces. Latent carriers may begin shedding the organism, or even develop clinical signs of disease, under stress. A passive carrier acquires infection from the environment but is not invaded, so that if removed from the environment, it ceases to be a carrier.
+## Epidemiology of Salmonellosis in Animals
+### Cattle
+_Salmonella_ Typhimurium is commonly associated with outbreaks of enteritis in calves < 2 months old. [_S_ Dublin](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonella-dublin-infection-in-cattle) is generally associated with enteritis in older calves and adult cattle; however, infection with _S_ Dublin can also lead to respiratory and systemic disease in cattle of all ages. In calves and lambs, _S_ Dublin infection is usually endemic to a particular farm, whereas _S_ Typhimurium infection is often associated with the introduction of calves from infected farms and may lead to sporadic explosive outbreaks. Contamination of feed and water by infected rodents or wild birds has also been linked to outbreaks associated with _S_ Typhimurium on cattle farms. Infections with exotic _S enterica_ serotypes are frequently related to the purchase of contaminated feed. Subclinical infection with occasional herd outbreaks may occur in adult cattle. Stressors that precipitate disease with clinical signs include deprivation of feed and water, minimal levels of nutrition, long transport times, calving, antimicrobial prophylaxis, and mixing and crowding in feedlots.
+### Sheep
+In sheep flocks, salmonellosis outbreaks are more common in the cold season, when animals are kept in densely stocked groups, and transmission of the pathogen is facilitated through feed and water contamination. Stressors such as transient feed or water deprivation, long-haul transport, or heavy worm infestation are important predisposing factors. Salmonellae are introduced into a flock through the purchase of infected animals or contaminated feed, housing the flock in a previously contaminated barn, or contamination of feed, water, or the environment by rodents or wild birds.
+### Pigs
+Outbreaks of septicemic salmonellosis in pigs are rare and can usually be traced to the purchase of an infected pig. Buying feeder pigs from salmonellae-free herds and using all-in all-out management in finishing units are practices that minimize exposure to pathogens. The increasing use of extensive outdoor rearing increases the risk of exposure to environmental sources of infection. Passerines, gulls, and pigeons can be a direct source of infection or can contaminate feed and water through infected feces.
+### Horses
+Most cases of [salmonellosis in adult horses](https://www.msdvetmanual.com/digestive-system/infectious-diarrheal-diseases-in-horses/salmonellosis-in-horses) develop after the stress of surgery or transport to or from sales yards, which typically involves feed and water deprivation followed by overfeeding at the destination. Mares may be inapparent shedders and shed the bacteria at parturition, infecting newborn foals. Septicemic salmonellosis in foals may be endemic, or there may be outbreaks.
+### Dogs and Cats
+Many dogs and cats are carriers of salmonellae, likely because they tend to ingest feed regardless of freshness or contamination. Dogs and cats are usually subclinical carriers but can become clinically affected. Clinical cases are often associated with hospitalization, other infections or debilitating conditions (in adults), or exposure to large numbers of the bacteria (in puppies and kittens); in the latter instance, enteritis may be common. Shedding of salmonellae by dogs and cats has been linked to illness in humans living in the same household with the shedding pet.
+## Clinical Findings of Salmonellosis in Animals
+In the subclinical carrier state of salmonellosis, salmonellae are localized to the tonsils or GI tract. Carrier animals are chronically infected and may shed salmonellae intermittently into the environment. Carrier animals can develop clinical signs when their immune function is compromised or when concurrent infection with another pathogen occurs.
+Enteritis with septicemia is the usual syndrome in newborn calves, lambs, foals, fowl, and piglets, and outbreaks may occur in pigs up to 6 months old. When systemic disease occurs with enteritis as a result of insufficient immunity, illness may be acute. Clinical signs of acute salmonellosis include listlessness, fever (40.5–41.5°C [105–107°F]), and death within 24–48 hours. Neurological signs and pneumonia may occur in calves and pigs. Mortality rates can reach 100%, depending on host genetic background and virulence of the bacterial strain.
+Acute enteritis without extensive systemic involvement is more common in adults and in young patients ≥ 1 week old. Initially, there is fever (40.5–41.5°C [105–107°F]), followed by severe watery diarrhea, sometimes dysentery, and often tenesmus.
+In a herd outbreak, several hours may lapse before animals develop diarrhea, at which time their fever may disappear. Feces of variable consistency may have a putrid odor and contain mucus, fibrinous casts, shreds of mucous membrane, and, in some cases, blood. Rectal examination results in severe discomfort and tenesmus. Milk production often declines precipitously in dairy cows. Abdominal pain is common and may be severe (colic) in horses. Mortality rates vary with strain virulence but can reach 100%.
+**Dogs and cats clinically affected with salmonellosis have acute diarrhea with septicemia**. Acute salmonellosis occurs occasionally in puppies and kittens or in adults stressed by concurrent disease. Pneumonia may be evident. When enteritis becomes more chronic, abortion may occur in pregnant dogs, cats, cattle, horses, and sheep, and live progeny may have enteritis as well. Conjunctivitis sometimes occurs in affected cats.
+Abortion is also the hallmark clinical sign of salmonellosis associated with _S enterica_ serotypes specifically affecting the reproductive tract, such as _S_ Abortusovis in sheep or _S_ Abortusequi in horses.
+Fur-bearing and zoo carnivores may be affected by salmonellosis. Contaminated feed is often the source of infection. Several rodent species (eg, guinea pigs, hamsters, rats, and mice) and rabbits are susceptible. Rodents commonly act as a source of infection on farms where the disease is endemic. Pet turtles were once a common source of infection in humans; however, with the curtailment of commercial turtle trafficking, human cases linked to pet turtles have become less frequent.
+## Diagnosis of Salmonellosis in Animals
+* Clinical evaluation
+* Bacterial culture
+
+Salmonellosis is diagnosed either by repeated isolation of the pathogen from feces, suggesting a carrier status, or by a single isolation of the pathogen from feces, blood, or any tissue specimen in the presence of clinical signs consistent with the disease. A onetime isolation of salmonellae from feces in the absence of clinical signs warrants resampling to determine whether the patient is a chronic _Salmonella_ carrier; however, it is not sufficient for a definitive diagnosis.
+Fecal cultures lack sensitivity. In chronically infected patients or subclinical carriers, only low numbers of bacteria may be shed intermittently. Repeated sampling is required when testing a patient for _Salmonella_ carrier status to decrease the likelihood of a false-negative result.
+To determine the source of infection, the patient's immediate environment can be tested for salmonellae. In particular, the feed and water supplies are potential sources to be tested, as well as feces from wild rodents and birds that may inhabit the premises.
+The pathogen is identified by conventional culture, followed by serotyping and further subdivision on the basis of susceptibility to selected bacteriophages (phage typing), by PCR assay, and by lateral flow immunoassays. Culture techniques that suppress fecal _E coli_ are usually necessary, and repeated fecal cultures may be needed to isolate salmonellae. A preenrichment step is often required, particularly for samples such as feces or food in which bacteria may be present in low numbers. This may be followed by enrichment in selective broth and plating for colonies on a variety of selective agars that suppress other enteric bacteria likely to be present.
+PCR assay is highly sensitive and is recommended for samples with presumptively low bacterial loads. Because PCR assay also identifies nonviable bacteria, a positive result is not automatically considered proof of infection. Fecal samples may present a challenge for PCR assay because of PCR-inhibiting compounds present in feces.
+Serological tests to identify specific antibodies in serum or milk are increasingly used in salmonellae surveillance and control programs. These tests typically identify a limited spectrum of salmonellae serotypes and serogroups. Serological tests are difficult to interpret in individual patients because a seropositive patient may no longer be infected. Furthermore, specificity issues mean that in countries with low infection prevalence, many positive results are false positives. Repeated serological testing can also help identify potential _Salmonella_ carriers.
+The clinical presentation of salmonellosis in each species is usually characteristic but must be differentiated from other similar diseases (see the table Differential Diagnoses for Salmonellosis by Animal Species).
+Table
+Differential Diagnoses for Salmonellosis by Animal Species
+Table
+Differential Diagnoses for Salmonellosis by Animal Species
+Differential Diagnoses for Salmonellosis by Animal Species
+| Animal Species  | DifferentialDiagnoses  |
+| --- | --- |
+| Cattle  |
+* [Neonatal diarrhea](https://www.msdvetmanual.com/digestive-system/intestinal-diseases-in-ruminants/diarrhea-in-neonatal-ruminants) due to infection with enterotoxigenic _Escherichia coli_
+* Infection with verotoxigenic _E coli_
+* Infection with _Clostridium perfringens_ types A, B, C
+* Infection with _Mycoplasma bovis_ (polyarthritis and pneumonia)
+
+|
+| Sheep  |
+* Enteric and septicemic [colibacillosis](https://www.msdvetmanual.com/digestive-system/intestinal-diseases-in-ruminants/diarrhea-in-neonatal-ruminants)
+* Septicemia due to infection with _Histophilus_ spp or _Pasteurella_ spp
+
+|
+| Pigs  |
+* Enteric and septicemic [colibacillosis](https://www.msdvetmanual.com/digestive-system/enteric-bacterial-diseases-in-pigs/enteric-colibacillosis-in-pigs)
+* Infection with _Brachyspira hyodysenteriae_
+* Septicemias of growing pigs (which include erysipelas infection, infection with _Lawsonia intracellularis_ , [classical swine fever](https://www.msdvetmanual.com/generalized-conditions/classical-swine-fever/classical-swine-fever), and [pasteurellosis](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-pigs/pasteurellosis-in-pigs))
+
+|
+| Horses  |
+* Septicemia (due to infection with _E coli_ , infection with _Actinobacillus equuli_ , or infection with streptococci)
+
+|
+| Poultry   |
+* Infection with _Yersinia pseudotuberculosis_
+
+|
+### Lesions
+Lesions with enteric salmonellosis are **most severe in the lower ileum, cecum, and spiral colon** and vary from shortening of villi with loss of the epithelium to complete loss of intestinal architecture. The lamina propria is infiltrated with neutrophils and later with macrophages, and thrombi may be observed in capillaries in this region. Hemorrhage and fibrin strands are usually present, and there may be a fibrinonecrotic crust on the intestinal mucosal surface.
+## Treatment of Salmonellosis in Animals
+* Systemic or septicemic disease: antimicrobials and supportive care
+* Intestinal or subclinical disease: controversial
+
+Early treatment is essential for septicemic salmonellosis; however, the administration of antimicrobial agents for intestinal salmonellosis is controversial. Oral antimicrobials may be ineffective and may deleteriously alter intestinal microflora, thereby interfering with competitive antagonism and prolonging shedding of the organism. Antimicrobial treatment may also exert selection pressure for drug-resistant salmonellae, which ultimately pose a risk to human health. By suppressing antimicrobial-sensitive components of normal flora, antimicrobials may also promote transfer of antimicrobial resistance from resistant strains of _E coli_ to _Salmonella_. Resistance to ampicillin, trimethoprim, sulfonamide, tetracyclines, and aminoglycosides is generally plasmid mediated and transfers readily between different bacteria. Resistance to quinolones is mutational; however, random mutations may be selected for by antimicrobial administration and may be transferred by bacteriophages.
+When septicemic salmonellosis is suspected, antimicrobials with a gram-negative spectrum should immediately be administered parenterally. Initial treatment should be determined by the drug-resistance pattern of organisms previously found in the area. Nosocomial infections may involve highly drug-resistant organisms. Trimethoprim-sulfonamide combinations may be effective. Alternatives are ampicillin, fluoroquinolones, or third-generation cephalosporins. Treatment should be continued every 24 hours for up to 6 days. Antimicrobials such as ampicillin or cephalosporins lead to bacterial lysis and endotoxin release and provide an indication for administration of NSAIDs to lessen the effects of endotoxemia. Antimicrobial treatment may increase the risk of creating carrier animals; in humans and animals, antimicrobials prolong the period after clinical recovery during which the pathogen can be retrieved from the GI tract. Fluid therapy to correct acid-base imbalances and dehydration may also be necessary.
+The intestinal form of salmonellosis is difficult to treat effectively in all species. Although clinical cure may be achieved, bacteriological cure is difficult, either because the organisms become established in the biliary system and are intermittently shed into the intestinal lumen, or because patients are reinfected from the environment when their normal gut flora, which inhibits colonization by pathogens, is depleted by antimicrobial treatment.
+When treating food-producing animals, veterinarians should consult the laws for extralabel drug use in their country. For example, extralabel use of fluoroquinolones (eg, enrofloxacin) for the treatment of salmonellosis in cattle is not permitted in the US, even though isolates usually show good sensitivity to enrofloxacin. If oral medication is chosen, it should be administered in drinking water and not mixed into solid feed, because affected patients are thirsty (from dehydration), whereas their appetites are generally poor.
+## Control and Prevention of Salmonellosis in Animals
+Carriers of salmonellosis and contaminated feedstuffs and environments are major challenges to control and prevention. Drain swabs or milk filters can be cultured to monitor the salmonellae status of a herd. The principles of control include both preventing the introduction of salmonellosis to a herd and limiting its transmission within a herd. In many countries and in the EU, government-backed programs exist to control and decrease levels of infection in food animals, especially in poultry and pigs.
+### Preventing Introduction to a Herd
+Every effort must be made to prevent the introduction of _Salmonella_ carriers to a herd. Ideally, animals should be purchased directly and only from farms known to be free of the disease, and animals should be isolated for ≥ 1 week while their health status is monitored. Ensuring that feed supplies are free of salmonellae depends on the integrity of the source. Some countries test for contamination of feedstuffs and feed components and also regulate their importation and home production.
+### Limiting Transmission Within a Herd
+In an **outbreak of salmonellosis** , the following procedures should be implemented:
+1. Identify infected animals, and either cull or isolate them from the herd.
+2. Vigorously treat animals showing signs of systemic disease.
+3. Recheck treated patients several times to confirm they are not carriers.
+4. Remove clinically normal animals identified as carriers. Recognize that treatment of affected animals with antimicrobials is highly controversial, because the risk of creating a carrier animal is presumably increased.
+5. Recognize the maternity area as critical in disease transmission. Implement a rigorous sanitation protocol, and consider measures such as early separation of calves from carrier dams and colostrum pasteurization.
+6. Restrict the movement of animals around the farm to limit infection to the smallest group. Avoid random mixing of animals.
+7. Protect feed and water supplies from fecal contamination.
+8. Vigorously clean and disinfect contaminated buildings.
+9. Carefully dispose of contaminated materials.
+10. Inform all personnel of the hazards of working with infected animals and the importance of personal hygiene. Introduce a strict farm management program.
+11. Consider [vaccinating](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#v3261772) the herd, particularly in an outbreak involving pregnant cattle, pigs, or laying poultry. Commercial killed bacterins or autogenous bacterins may be administered. Live, attenuated _Salmonella_ vaccines show considerable promise; however, few are available commercially.
+12. Minimize stresses to the herd.
+
+### _Salmonella_ Vaccines
+Salmonellae are facultative intracellular bacteria; therefore, live vaccines would be presumed necessary for optimal immune protection against salmonellosis. However, there is some evidence that inactivated bacterins can induce a lower level of protection. In several studies, live, attenuated _Salmonella_ vaccines in pigs, cattle, and chickens stimulated a strong cell-mediated immune response and protected animals against both systemic disease and intestinal colonization ([1](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#692be458-4482-4533-82cf-a22f7b4c51f2), [2](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#692be458-4482-4533-82cf-a22f7b4c51f2), [3](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#692be458-4482-4533-82cf-a22f7b4c51f2)). A live, attenuated _S_ Choleraesuis vaccine licensed for administration to swine appears to effectively decrease colonization of tissues and protect pigs from disease, both after challenge with virulent organisms and under field conditions. A live _S_ Gallinarum vaccine has been shown to be effective not only in protecting against _S_ Gallinarum (fowl typhoid) but also in substantially decreasing infection in laying hens challenged with _S_ Enteritidis.
+Few well-designed studies evaluating _Salmonella_ vaccines in cattle have been published, and those that are published provide mixed results. In addition to a commercial live, attenuated _S_ Dublin vaccine, some vaccines using newer technology, involving the incorporation of purified siderophore receptor and porin proteins, are available. However, clinical and field trials are still needed to evaluate their efficacy.
+## Zoonotic Risk of Salmonellosis in Animals
+Salmonellosis in food-producing animals presents a serious public health concern, because **food products of animal origin are****a substantial source of infection in humans**. The most common sources of infection are eggs, egg-related products, and meat from [poultry](https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/overview-of-salmonelloses-in-poultry) and other food-animal species. Milk and dairy products have also been associated with outbreaks of [salmonellosis in humans](https://www.msdmanuals.com/professional/infectious-diseases/gram-negative-bacilli/overview-of-salmonella-infections). In addition, contamination of fruits and vegetables by infected water can be a source of infection.
+Cases of salmonellosis in humans have also been traced back to salmonellae shedding by clinically normal dogs and cats living in the same household, as well as to contaminated pet foods or pet treats, especially those containing raw materials or other materials that were not heat-treated.
+In Europe, _S_ Enteritidis and _S_ Typhimurium are the most prevalent serotypes associated with salmonellosis in humans, and in the US, _S_ Typhimurium is the most prevalent ([4](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#692be458-4482-4533-82cf-a22f7b4c51f2)). The case fatality for [_S_ Dublin infection](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonella-dublin-infection-in-cattle) in humans has been reported as the highest compared with other _S enterica_ serotypes and has been described as six times greater than the case fatality for _S_ Typhimurium ([5](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#692be458-4482-4533-82cf-a22f7b4c51f2)). In the US, the incidence of _S_ Dublin infections in humans increased by a factor of 7.6 between 1968 and 2013 ([6](https://www.msdvetmanual.com/digestive-system/salmonellosis/salmonellosis-in-animals#692be458-4482-4533-82cf-a22f7b4c51f2)).
+## Key Points
+* Salmonellosis affects nearly all farm and companion animal species and is a major threat to herd health.
+* Animals infected with _Salmonella_ spp can develop severe disease with clinical signs; however, subclinical carriers that persistently shed the pathogen in their feces are far more common.
+* Vigorous treatment with antimicrobials and supportive care are required for patients with systemic disease or septicemia; however, the use of antimicrobials is controversial in clinically normal shedders and in patients with the localized, enteric form of the disease.
+
+## For More Information
+* Pork Information Gateway. [Salmonellosis and Salmonella infections](https://porkgateway.org/resource/salmonellosis-and-salmonella-infections/).
+* Food Safety and Inspection Service, USDA. [Salmonella in poultry: risk assessments](https://www.fsis.usda.gov/science-data/risk-assessments/poultry-risk-assessment-files-salmonella-framework).
+* Also see pet owner content regarding salmonellosis in [cats](https://www.msdvetmanual.com/cat-owners/digestive-disorders-of-cats/disorders-caused-by-bacteria-of-the-digestive-system-in-cats#v3243997), [dogs](https://www.msdvetmanual.com/dog-owners/digestive-disorders-of-dogs/disorders-caused-by-bacteria-in-the-digestive-system-of-dogs#v3202637), and [horses](https://www.msdvetmanual.com/horse-owners/digestive-disorders-of-horses/intestinal-disorders-other-than-colic-in-horses#v3217917).
+
+## References
+1. Barrow PA. [Salmonella infections: immune and non-immune protection with vaccines](https://doi.org/10.1080/03079450601113167). _Avian Pathol_. 2007;36(1):1-13. doi:10.1080/03079450601113167
+2. Schmidt S, Sassu EL, Vatzia E, et al. [Vaccination and infection of swine with Typhimurium induces a systemic and local multifunctional CD4 T-cell response](https://doi.org/10.3389/fimmu.2020.603089). _Front Immunol_. 2021;11:603089. doi:10.3389/fimmu.2020.603089
+3. Chaturvedi GC, Sharma VK. [Cell-mediated immunoprotection in calves immunized with rough Salmonella Dublin](https://doi.org/10.1016/S0007-1935\(17\)31641-X). _Br Vet J_. 1981;137(4):421-430. doi:10.1016/S0007-1935(17)31641-X
+4. Taylor J, Lovell R, McCall AM. [Discussion on the epidemiology and treatment of Salmonella infections in man and animals with special reference to Salm. Dublin](https://doi.org/10.1177/003591575304600610). _Proc R Soc Med_. 1953;46(6):445-449. doi:10.1177/003591575304600610
+5. Jones TF, Ingram LA, Cieslak PR, et al. [Salmonellosis outcomes differ substantially by serotype](https://doi.org/10.1086/588823). _J Infect Dis_. 2008;198(1):109-114. doi:10.1086/588823
+6. Harvey RR, Friedman CR, Crim SM, et al. [Epidemiology of Salmonella enterica Serotype Dublin infections among humans, United States, 1968-2013](https://doi.org/10.3201/eid2309.170136). _Emerg Infect Dis_. 2017;(9)23:1493-1501. doi:10.3201/eid2309.170136
+
+Test your Knowledge now
+Take a quiz on this topic
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

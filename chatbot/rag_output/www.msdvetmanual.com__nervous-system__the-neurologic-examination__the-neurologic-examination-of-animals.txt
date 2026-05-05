@@ -1,0 +1,248 @@
+1. <[The Neurologic Examination](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+PROFESSIONAL VERSION
+# The Neurologic Examination of Animals
+By[William B. Thomas](https://www.msdvetmanual.com/authors/thomas-william), DVM, DACVIM-Neurology, Small Animal Neurology, College of Veterinary Medicine, University of Tennessee
+Reviewed By[Joyce Carnevale](https://www.msdvetmanual.com/authors/carnevale-joyce), DVM, DABVP, College of Veterinary Medicine, Iowa State University
+Reviewed/Revised Oct 2023 | Modified Sept 2024
+v3286729
+* [Taking a History](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#Taking-a-History_v84400421)|
+* [Evaluating Posture](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#Evaluating-Posture_v84400442)|
+* [Assessing Mentation and Behavior](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#Assessing-Mentation-and-Behavior_v84400461)|
+* [Examining the Cranial Nerves](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#Examining-the-Cranial-Nerves_v84400471)|
+* [Evaluating Gait](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#Evaluating-Gait_v84400555)|
+* [Assessing Postural Reactions](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#Assessing-Postural-Reactions_v84400594)|
+* [Testing Spinal Reflexes](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#Testing-Spinal-Reflexes_v84400618)|
+* [Palpation](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#Palpation_v84400657)|
+* [Evaluating Nociception](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#Evaluating-Nociception_v84400672)|
+* [Neuroanatomical Localization](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#Neuroanatomical-Localization_v84400708)|
+* [For More Information](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#For-More-Information_v84400763)|
+* Multimedia|
+
+The neurologic examination begins the moment the veterinarian first sees the patient. (See a sample [neurologic examination form](https://www.msdvetmanual.com/-/media/manual/veterinary/pdf/NeuroExamForm.pdf).) If possible, the patient should be observed moving freely in the examination area while the history is being taken. Many animals are more relaxed after they are allowed to spend a few minutes investigating their environment.
+It is best to start with the procedures that are least likely to upset the patient, and to delay palpating for pain and testing pain perception until the end of the physical examination. The thoroughness required in the examination depends on the history. For example, evaluating postural reactions such as hopping and wheelbarrowing in a nonambulatory patient that was just struck by a car and potentially has an unstable vertebral injury is dangerous for the patient.
+Many parts of the neurologic examination cannot be carried out in a comatose or sedated patient.
+## Taking a History in the Neurologic Examination of Animals
+A patient's history starts with the signalment, including age, breed, and sex, which may provide clues to the diagnosis. For example, whereas congenital or developmental diseases occur most often in young patients, neoplasia and degenerative disorders are more common in older patients. Some diseases occur only in a particular sex—eg, hypocalcemia associated with lactation.
+The chief concern in taking a patient's history is to learn the reason the client has brought the patient to the veterinarian for evaluation. Usually, the client has noticed a sign or group of signs. The most critical aspect is the accurate interpretation of these signs.
+The precise meaning that the client attaches to certain words must be determined. For example, the term "seizure" could mean an attack of syncope, cataplexy, vestibular dysfunction, or behavior related to pain, instead of a true epileptic seizure. Any ambiguity must be clarified early to avoid wasting time exploring an unlikely diagnosis.
+The onset and course of the illness help identify the etiologic diagnosis:
+* Trauma, vascular disorders, seizures, and syncope have an acute onset.
+* Diseases that progress over several days include inflammatory and metabolic disorders, as well as some tumors.
+* Degenerative diseases and some tumors have a slowly progressive course.
+* Remissions and exacerbations are characteristic of seizures, syncope, and some metabolic disorders.
+
+It is essential to ask about any medications or other treatments that the client may be administering and whether there has been any apparent response to these measures. Any potential exposure to trauma or toxins is also important.
+Finally, in any patient with neurologic signs, vaccination status, including for [rabies](https://www.msdvetmanual.com/nervous-system/rabies/rabies-in-animals), should be determined.
+## Evaluating Posture in the Neurologic Examination of Animals
+The patient's posture should be upright, with the head held straight. Head tilt (one ear held lower than the other) usually indicates vestibular dysfunction. Head tilt must be differentiated from head turn or torticollis.
+* In **head turn** , the head is held level (one ear is not lower than the other), but the nose is turned right or left. Animals with forebrain lesions may tend to turn their heads and circle in one direction.
+* **Torticollis** is abnormal curving or twisting of the neck and can occur with cervical lesions.
+
+Ventral flexion of the neck is most commonly observed in cats with neuromuscular weakness; however, it can also occur with neck pain.
+Recumbent animals may exhibit several abnormal postures:
+* **Decerebrate rigidity** is characterized by extension of all limbs, as well as opisthotonus (dorsiflexion of the head and neck). This posture is usually due to a brainstem lesion, and affected patients typically have decreased consciousness.
+* **Decerebellate rigidity** is less common, occurs with acute cerebellar lesions, and is characterized by opisthotonus, thoracic limb extension, and either flexion of the hips or extension of the pelvic limbs. In contrast to decerebrate rigidity, patients with decerebellate posture have normal consciousness.
+* **Schiff-Sherrington syndrome** consists of extension of the thoracic limbs with paralysis of the pelvic limbs and is associated with a lesion affecting the thoracic or lumbar spinal segments. Although the thoracic limbs have increased extensor tone, they are otherwise normal and have intact voluntary movement and postural reactions. The phenomenon in which upper motor neuron damage produces a transient flaccid paralysis in the pelvic limbs is sometimes referred to as spinal shock and often occurs in conjunction with the Schiff-Sherrington posture in patients with severe T3-L3 lesions.
+
+## Assessing Mentation and Behavior in the Neurologic Examination of Animals
+Normal consciousness implies wakefulness and awareness of the environment and is assessed by observing for appropriate or inappropriate response to the environment. See the table Assessment of Consciousness.
+Lethargy can be due to systemic illness or brain disease. Delirium and dementia usually indicate forebrain dysfunction. Obtundation, stupor, or coma is commonly due to a brainstem lesion or severe, diffuse disease of the forebrain.
+Abnormal behavior is identified by comparing the patient's behavior to expected behavior for animals of a similar breed and age. Common behavior abnormalities in patients with neurologic disease include disruptions in the normal sleep-wake cycle, restlessness, aimless pacing or wandering, getting stuck in corners, a tendency to turn and circle to one side, decreased or abnormal interaction with the family or owner, and signs of cognitive dysfunction such as loss of housetraining or inability to follow commands.
+Table
+Assessment of Consciousness
+Table
+Assessment of Consciousness
+Assessment of Consciousness
+| Status  | Signs  |
+| --- | --- |
+| Normal  | Alert; responds appropriately to environment  |
+| Dementia  | Normal amount of consciousness but loss of higher, intellectual function, with impaired interaction  |
+| Delirium  | Dramatic disruption of higher, intellectual function, with inappropriate response to the environment  |
+| Lethargy  | Little spontaneous activity; lies quietly or sleeps in the absence of stimuli; will interact with the environment when stimulated, but quality and quantity of interaction are depressed  |
+| Obtundation  | Appears asleep in the absence of stimulation; can be briefly aroused to minimal interaction  |
+| Stupor  | Requires vigorous stimulation to provoke arousal and response with movement or vocalization, but there is no appropriate interaction   |
+| Coma  | Unconscious; cannot be aroused even with vigorous or painful stimuli (note that general anesthesia is a drug-induced coma)  |
+## Examining the Cranial Nerves in the Neurologic Examination of Animals
+### Cranial Nerve I (Olfactory Nerve)
+Olfaction is tested only if the chief concern is loss of smell, most commonly in working dogs such as police or military detector dogs or hunting dogs. The olfactory nerve is tested by offering a small morsel of food. After patency of the nostrils is ascertained, the patient's eyes are covered and the food is presented beneath the nose. The patient is observed for normal sniffing behavior.
+Irritating substances, such as ammonia or isopropyl alcohol, should not be used, because they stimulate [trigeminal nerve](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#v84400516) endings in the nasal passages and produce false results.
+True loss of smell (anosmia) is uncommonly recognized and is usually due to nasal disease such as [distemper](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-horses/strangles-in-horses) or parainfluenza rather than brain disease.
+### Cranial Nerve II (Optic Nerve)
+Alert patients should show visual following and a menace response bilaterally. Covering the contralateral eye enables separate testing of the nasal (medial) and temporal (lateral) visual fields of each eye.
+* **Visual following** is assessed by dropping cotton balls or moving a toy or ball in front of the patient and observing whether the patient's eyes and head follow the object.
+* The **menace response** is tested by moving a hand toward the patient's eyes in a threatening manner and watching for a blink response.
+
+The facial nerve controls closure of the eyelid, so if the menace response is absent, the [facial nerve](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#v84400528) should be checked for normal function.
+Funduscopic examination is an important component of a complete neurologic examination. The margins, color, and shape of the optic disc should be evaluated, and the vessels and peripheral region of the retina should be examined for lesions such as chorioretinitis and hemorrhage.
+Pupil size and any anisocoria should be noted. There should be a direct and consensual pupillary light reflex (PLR) in each eye. Loss of vision with a dilated, unresponsive pupil occurs with lesions of the retina or of the optic nerve, optic chiasm, or optic tract. Blindness with normal pupils indicates a lesion of the forebrain, optic radiation, or occipital cortex.
+Functions of the 12 Cranial Nerves
+Image
+Copyright © 2023 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+### Cranial Nerves III, IV, and VI (Oculomotor, Trochlear, and Abducens Nerves)
+The oculomotor, trochlear, and abducens nerves subserve eye movements. The oculomotor nerve also mediates pupillary constriction, which is evaluated by the PLR.
+Strabismus may be obvious or can be detected by shining a light on the cornea. When the eyes are aligned, the light reflects on the same area in each eye. Spontaneous eye movements should be observed when the patient looks about. Physiologic nystagmus can be induced by moving the patient's head side to side and up and down.
+To test the corneal reflex, the cornea should be touched with a cotton-tipped applicator moistened with saline (0.9% NaCl) solution. Corneal sensation depends on the ophthalmic branch of the trigeminal nerve (see below). The normal response is a retraction of the globe, mediated by the abducens nerve.
+Anisocoria is a difference in resting pupil size between the two eyes. The first step in testing for anisocoria is to determine which pupil is abnormal by doing the following:
+* Determining whether the big pupil will constrict with light (PLR).
+* Determining whether the small pupil will dilate in the dark.
+* Closing the eyelid for a moment, then opening the eye and observing whether the pupil starts to constrict.
+
+Causes of an abnormally large pupil with normal vision include iris atrophy, parasympatholytic drugs such as atropine, dysautonomia, and lesions of the oculomotor nerve or its nucleus in the brainstem.
+Causes of an abnormally small pupil include uveitis, painful corneal conditions such as corneal ulcer, parasympathomimetic drugs, and lesions of the sympathetic innervation to the eye (Horner syndrome). Other signs of Horner syndrome are a droopy upper eyelid, elevated third eyelid, and enophthalmos.
+### Cranial Nerve V (Trigeminal Nerve)
+The trigeminal nerve provides sensory innervation to the face and motor innervation to the muscles of mastication. The temporalis and masseter muscles are visualized and palpated to detect any swelling, atrophy, or asymmetry. If there is bilateral weakness, the patient may not be able to close the mouth.
+Sensation over the distribution of the nerve's three branches—ophthalmic, maxillary, and mandibular—should be tested.
+* The **ophthalmic branch** is tested by touching the medial canthus of the eye, which normally elicits a blink response (palpebral reflex). Eyelid closure depends on motor innervation by the facial nerve.
+* The **maxillary branch** is tested by touching or pinching the upper lip lateral to the canine tooth. A normal response is a wrinkling of the face and a blink, which also depends on motor supply by the facial nerve. Some animals also turn or withdraw their head, indicating a conscious response mediated at the level of the forebrain.
+* The **mandibular branch** is tested by touching or pinching the lower lip lateral to the canine tooth.
+
+### Cranial Nerve VII (Facial Nerve)
+The facial nerve's principal role is to provide motor innervation to the muscles of facial expression. This nerve also innervates the salivary and lacrimal glands.
+Testing facial nerve function begins by observing the patient's face for asymmetrical eyelid closure, a widened palpebral fissure, spontaneous blinking, or a drooping ear. The ability to blink is tested by eliciting the palpebral reflex.
+The facial nerve also mediates tearing, which is evaluated with Schirmer test strips.
+### Cranial Nerve VIII (Vestibulocochlear Nerve)
+The vestibulocochlear nerve is involved in hearing and vestibular function.
+Alert patients should orient their head and ears toward a loud or unexpected noise, such as a squeaky toy, whistle, or cell phone ringing. Unilateral or incomplete deafness is difficult or impossible to detect by this rather crude test. However, the client may have noticed signs of subtle hearing loss. For example, the animal may sleep soundly or not respond readily to being called.
+Clinical signs of vestibular dysfunction include head tilt, abnormal nystagmus, and an ataxic, broad-based stance.
+### Cranial Nerves IX and X (Glossopharyngeal and Vagus Nerves)
+The glossopharyngeal and vagus nerves supply motor and sensory innervation to the pharynx. In addition, the vagus nerve controls laryngeal function.
+These nerves can be tested by touching the left or right side of the caudal pharyngeal wall with an applicator stick and observing elevation of the palate and contraction of the pharyngeal muscles (the gag reflex). An asymmetrical response is more noteworthy than a bilateral loss of the gag reflex, because this reflex is difficult to elicit in some normal animals.
+The client should be asked about any dysphagia, regurgitation, voice change, or inspiratory stridor. In some cases it helps to watch the patient drink water and eat soft and hard food.
+### Cranial Nerve XI (Spinal Accessory Nerve)
+The spinal accessory nerve supplies motor innervation to the trapezius muscle. Lesions result in atrophy of the trapezius muscle.
+### Cranial Nerve XII (Hypoglossal Nerve)
+The hypoglossal nerve innervates the muscles of the tongue.
+The tongue should be inspected for atrophy, asymmetry, or deviation. Patients with unilateral loss of innervation may be able to lick only one side of the nose, with the tongue, when actively protruded, usually deviating toward the side of the lesion. Watching the patient drink water helps in assessing tongue function.
+## Evaluating Gait in the Neurologic Examination of Animals
+A nonslip surface, such as carpet, grass, or pavement, should be used to assess gait. The patient's gait should be observed from the side, front, and rear. The patient, if able, should be walked, trotted, and turned to the left and right. Allowing the animal to move about freely in a confined area is helpful for detecting any tendency to turn or circle to one side.
+For horses, walking the patient with its head up and backing up the patient will exacerbate proprioceptive deficits and ataxia, usually characterized by wide-based limb placement and dragging of the hooves. Another test to detect subtle weakness in horses is to pull the horse's tail at various times during its stride while walking alongside the patient. A normal response is to resist the pull and maintain normal balance.
+Each foot should come off the ground crisply, with no scraping or dragging; clear the ground evenly; and land smoothly without slapping the ground. Walking the patient on concrete or carpet is often helpful for detecting scuffing of a limb because the paw dragging over the surface can often be heard.
+Particular attention should be paid to stride length; each stride should cover approximately the same distance. Mild abnormalities are often most evident when the patient is turning.
+Gait abnormalities can be broadly categorized as ataxia, weakness, lameness, or abnormal movements.
+### Ataxia
+Ataxia is an inability to perform normal, coordinated motor activity that is not due to weakness, musculoskeletal abnormality, or abnormal movements such as tremor or myoclonus. There are three types of ataxia: sensory, cerebellar, and vestibular.
+* **Sensory ataxia** is due to a lesion affecting the general proprioceptive pathways in the peripheral nerve, dorsal root, spinal cord, brainstem, and forebrain. There is loss of the sense of limb and body position, with resulting clumsiness and incoordination, and a wide-based stance and a swaying gait. Because proprioceptive pathways are intimately associated with motor pathways, sensory ataxia is often compounded by weakness.
+* **Cerebellar ataxia** is due to cerebellar disease and is characterized by errors in the rate and range of movement, especially hypermetria, an overreaching, high-stepping gait.
+* Unilateral vestibular dysfunction can result in **vestibular ataxia** , characterized by leaning and falling to one side. Other signs of vestibular disease, such as head tilt and abnormal nystagmus may be evident. With bilateral vestibular dysfunction, the patient maintains a crouched position, is reluctant to move, and exhibits side-to-side head movements.
+
+### Weakness
+Weakness is a deficiency in the generation of gait or the ability to support weight. Such deficiency can be manifested as decreased rate or range of motion, increased fatigability, or inability to perform certain motor acts. Paralysis is a complete loss of motor function; paresis is a partial loss of motor function.
+There are two types of weakness:
+* **Upper motor neuron (UMN) weakness** is characterized by paresis or paralysis, normal or exaggerated muscle stretch reflexes, and spasticity. Mild UMN paresis is evident as a delay in the onset of protraction (the swing phase) and an increased stride length.
+Spasticity is an increase in muscle tone due to hyperexcitable muscle stretch (myotatic) reflexes. Muscle tone is the resistance of muscle to passive stretch. Descending UMN pathways normally attenuate the myotatic reflex.
+Lesions of the UMN pathway cause hyperexcitable myotatic reflexes and spasticity. The increased muscle tone predominates in the antigravity (extensor) muscles and results in a spastic gait characterized by decreased limb flexion during protraction. In contrast, hypermetria is characterized by increased limb flexion during protraction.
+* **Lower motor neuron (LMN) weakness.** The LMN is the final common pathway to the effector muscle. Any lesion that disrupts an LMN from its origin in the brainstem or spinal cord and throughout its course as a nerve root, peripheral nerve, neuromuscular junction, and muscle may result in paresis or paralysis, decreased or absent muscle stretch reflexes, decreased muscle tone (hypotonia), and early and severe muscle atrophy.
+LMN weakness is characterized by a short-strided gait that may mimic lameness, a tendency to collapse, trembling, hopping, and ventral neck flexion.
+
+### Lameness
+Lameness is usually due to pain. Limb pain can produce a limp when the patient tries to bear weight briefly and gingerly on the affected limb and then quickly and forcefully plants the contralateral limb to relieve the pain. As a result, the stride of the painful limb is often shortened.
+When a single limb is severely painful, it is often carried. In contrast, a paretic limb is often dragged.
+Patients with bilateral limb pain may not walk at all or may have a short-strided, stilted gait, which can mimic neurologic disease. Supporting the patient and evaluating proprioceptive positioning will often resolve confusion between lameness and neurologic disease.
+Similarly, some neurologic disorders lead to lameness suggestive of orthopedic disease. For example, attenuation of a nerve root or spinal nerve by intervertebral disk extrusion or nerve sheath tumor often results in lameness of the limb that is innervated by the damaged nerve.
+## Assessing Postural Reactions in the Neurologic Examination of Animals
+Postural reaction testing assesses the same pathways that are involved in gait and the proprioceptive and motor systems. Postural reaction testing aids in detecting subtle deficits or asymmetry that may not be obvious during gait evaluation. It is also useful in discriminating between orthopedic and neurologic disorders.
+### Proprioceptive Positioning
+Proprioceptive positioning is tested with the patient standing on a nonslip surface. The paw is turned over so that the dorsal surface is in contact with the ground. In a normal response, the patient immediately returns the foot to a normal position.
+The patient should be supported during this test to avoid body tilt, which stimulates a vestibular-mediated response. Supporting most of the patient's weight is also helpful when there's a reluctance to bear weight because of a painful limb.
+This is a sensitive test of proprioception in the distal limb; however, some motor function is also necessary for a normal response. When properly supported, most patients with orthopedic disease have normal proprioceptive positioning.
+Proprioceptive pathways are often compromised early in the course of neurologic diseases, so proprioceptive positioning deficits are often detected before obvious signs of weakness.
+### Hopping Reaction
+Hopping reactions are tested by holding the patient so that all of its weight is supported by one limb. The patient is then moved forward or laterally. Normal animals will hop on the limb while keeping the foot under their body for support.
+Each limb is tested individually, and responses on the left and right are compared. This is a sensitive test for subtle weakness or asymmetry. Hypermetria is often evident as an exaggerated limb movement.
+### Placing Response
+The placing response is most practical for patients that are small enough to be held. It is particularly useful in cats, which often resent having their feet handled during proprioceptive positioning.
+The nonvisual (tactile) test is performed first. The patient's eyes are covered, and then the patient is picked up and moved toward the edge of a table. When the patient's paw touches the table, the animal should immediately place the limb forward to rest the paw on the table surface. The thoracic and pelvic limbs are tested, and the left and right sides are compared.
+Visual placing is tested similarly, except that the patient's eyes are not covered. The normal response is to place the paws on the surface as the table is approached, before the paws contact the table. This test may detect visual deficiencies. Each eye can be assessed individually by covering the contralateral eye, and the temporal and nasal visual fields can be evaluated by approaching the table from the side of the patient.
+## Testing Spinal Reflexes in the Neurologic Examination of Animals
+Spinal reflexes reveal the integrity of the sensory and motor components of the reflex arc and the influence of descending UMN pathways.
+### Patellar Reflex
+To test the patellar reflex, with the patient in lateral recumbency one hand is placed under the thigh to support the limb, with the stifle joint in a partially flexed position. The other hand is used to briskly strike the patellar ligament with a reflex hammer.
+The normal response is a single, quick extension of the stifle joint. A weak or absent reflex indicates a lesion of the femoral nerve or the L4-L6 spinal segments. Lesions in the UMN system cranial to the L4 spinal segment may result in a normal or exaggerated reflex.
+### Pelvic Limb Withdrawal Reflex
+During the pelvic limb withdrawal reflex test, the patient is maintained in lateral recumbency, with the uppermost pelvic limb extended. The clinician gently pinches a toe with the fingers.
+The normal response is flexion of the hip, stifle, and hock joints—a reflex that is mediated in the spinal cord. Therefore, a flexor reflex does not mean that the patient is aware of the stimulus.
+When testing the withdrawal reflex, the contralateral limb should be observed for extension. Extension of the opposite limb, called a crossed extensor reflex, is abnormal and indicates a UMN lesion cranial to the L6 spinal segment.
+### Thoracic Limb Withdrawal Reflex
+The test of the flexor reflex in the thoracic limb is similar to the test for the pelvic limb. A weak or absent reflex indicates a lesion of the C6-T1 spinal segments or related nerves (axillary, musculocutaneous, median, and ulnar nerves). A crossed extensor reflex in the thoracic limbs indicates a lesion cranial to the C6 spinal segment.
+### Perineal Reflex
+To test the perineal reflex, the perineum is lightly touched or stroked. The left and right sides are tested separately.
+Normal response is to contract the anal sphincter and flex the tail. A weak or absent reflex indicates a lesion affecting the S1-S3 spinal segments or pudendal nerve.
+### Cutaneous Trunci Reflex
+To test the cutaneous trunci reflex, a hemostat is used to gently squeeze the skin just lateral to the spine. The opposite side is tested similarly. The squeezing should begin over the lumbosacral region and proceed cranially, one vertebral level at a time, until the reflex is elicited.
+The normal response is a bilateral contraction of the cutaneous trunci muscle, resulting in a twitch of the skin over the thorax and abdomen. This reflex is present in the thoracolumbar region and is absent in the neck and sacral regions.
+The LMN for this reflex is the lateral thoracic nerve, originating in the C8-T2 spinal segments and coursing through the brachial plexus. A lesion affecting the thoracolumbar region of the spinal cord may produce a loss of this reflex when the skin caudal to the level of the lesion is stimulated.
+Pinching the skin cranial to the lesion elicits a normal response. A lesion affecting the brachial plexus may produce a loss of the ipsilateral cutaneous trunci reflex with a normal response on the other side, regardless of the level at which the skin is stimulated.
+## Palpation in the Neurologic Examination of Animals
+The spine should be palpated to detect any curvature, displacement, masses, swelling, paraspinal muscle atrophy, or pain. Focal spinal pain is localizing and is helpful in determining etiologic diagnosis. Spinal pain results from bone, disk, spinal nerve or root, vertebral, or meningeal involvement.
+In contrast, lesions that affect only the spinal cord parenchyma are usually not painful. Examples include fibrocartilaginous [embolism](https://www.msdvetmanual.com/circulatory-system/thrombosis-embolism-aneurysm-and-dissection/thrombosis-embolism-aneurysm-and-dissection-in-animals) and [degenerative myelopathy](https://www.msdvetmanual.com/nervous-system/diseases-of-the-spinal-column-and-cord/degenerative-diseases-of-the-spinal-column-and-cord-in-animals#v26305111).
+Head pain is often evident as tensing of the masticatory or cervical muscles and squinting of the eyelids when the skull is palpated.
+Limbs are initially palpated with the patient standing, if possible. Contralateral limbs are compared for symmetry. The limbs are more closely examined with the animal in lateral recumbency, when the spinal reflexes are tested.
+## Evaluating Nociception in the Neurologic Examination of Animals
+Evaluation of nociception (pain perception) should be performed in only selected cases, such as paraplegic animals.
+Pearls & Pitfalls
+|
+* Evaluation of nociception (pain perception) should be performed in only selected cases, such as paraplegic animals.
+
+|
+| --- |
+Superficial pain, also called fast pain, is sharp, acute, well-localized pain that usually originates in the skin. Deep pain, also called slow pain, is felt as burning, aching, poorly localized pain originating from the skin or deeper structures. Superficial and deep pain are transmitted through different pathways in the peripheral and central nervous systems.
+### Superficial Pain
+A small fold of skin at the test site should be lifted and grasped by use of a hemostat. When the patient is quiet, the force of the pinch should gradually be increased until a response is elicited. Two responses may be observed:
+1. a reflex flexion of the limb or skin twitch, indicating that the sensory neurons and spinal segments are intact
+2. a behavioral response, such as crying or biting, indicating that the pain pathways in the spinal cord and brainstem ascending to the forebrain are intact
+
+### Deep Pain
+The pathways that carry deep pain sensation are more resistant to damage than are other pathways, including those for proprioception, motor function, and superficial pain. Therefore, testing deep pain perception is necessary only if superficial pain is absent.
+When there is no response to pinching with the fingers, a hemostat can be used to compress the digits or tail. The amount of compression is gradually increased until there is a behavioral response such as a turn of the head or a vocalization to indicate conscious perception.
+This response requires the peripheral nerve and spinal segments, as well as the ascending pathways for deep pain perception in the spinal cord, brainstem, and forebrain.
+In patients with severe spinal cord injuries, the presence or absence of deep pain perception is important in assessing the prognosis for recovery, so it is critical not to confuse limb withdrawal (a local spinal reflex) with nociception (intact pain perception).
+## Neuroanatomical Localization in the Neurologic Examination of Animals
+History and clinical examination are used to determine whether the patient suffers from a neurologic disease and, if so, to localize the lesion within the nervous system. This process requires consideration of all findings, including both normal and abnormal results. Certain combinations of neurologic deficits are recognized as characteristic of lesions in certain locations, and knowledge of these combinations helps with proper neurolocalization.
+### Forebrain
+The forebrain includes the cerebral cortex and white matter, basal nuclei, and diencephalon. Epileptic seizures and abnormal behavior are highly suggestive of forebrain disease.
+Unilateral forebrain lesions may result in circling, usually toward the side of the lesion. Blindness in the contralateral visual field with normal PLRs, along with decreased conscious perception of pain on the contralateral side of the body, including the face, are possible.
+The gait is usually relatively normal; however, the contralateral limbs may show postural reaction deficits. Spinal reflexes are usually normal, but they may be exaggerated.
+### Brainstem
+The brainstem includes the midbrain, pons, and medulla. Severe brainstem lesions can produce stupor or coma, tetraplegia with decerebrate rigidity, and cardiac and respiratory abnormalities, including apnea and cardiac arrest.
+Ipsilateral deficits in the function of cranial nerves III through XII are possible. Gait deficits vary from mild, ipsilateral hemiparesis to tetraplegia with normal to exaggerated spinal reflexes.
+### Cerebellum
+Lesions of the cerebellum may lead to ataxia and hypermetria of all limbs without weakness. Proprioceptive positioning is usually normal. Intention tremor and vestibular dysfunction can also occur. Some patients have absent menace responses with no other signs of visual deficits. Severe, acute cerebellar lesions can induce decerebellate rigidity.
+### C1-C5 Spinal Segments
+Lesions affecting the C1-C5 spinal segments can result in tetraparesis or tetraplegia, or ipsilateral hemiparesis or hemiplegia, with normal or exaggerated reflexes. In contrast to forebrain and brainstem lesions, mentation and cranial nerves in C1-C5 lesions are normal; however, an ipsilateral Horner syndrome is possible.
+Lesions affecting primarily the center of the cord can produce weakness of the thoracic limbs, with minimal deficits in the pelvic limbs (central cord syndrome). Severe lesions can produce respiratory paresis or apnea; this happens before deep pain perception is lost.
+Many cervical lesions produce neck pain; however, some brain lesions also produce neck pain.
+### C6-T2 Spinal Segments
+Lesions affecting the C6-T2 spinal segments can result in tetraparesis or tetraplegia, or ipsilateral hemiparesis or hemiplegia. The thoracic limbs exhibit weak or absent spinal reflexes, with hypotonia and rapid muscle atrophy.
+Spinal reflexes in the pelvic limbs are normal or exaggerated. An ipsilateral Horner syndrome is also possible.
+### T3-L3 Spinal Segments
+Lesions affecting the T3-L3 spinal segments may lead to varying amounts of weakness in the pelvic limbs, with normal thoracic limbs. Reflexes in the pelvic limbs are normal or exaggerated.
+Acute lesions affecting this region may result in Schiff-Sherrington syndrome. The [cutaneous trunci reflex](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#v84400647) and, in severe cases, the conscious perception of deep pain may be absent caudal to the lesion.
+### L4-S3 Spinal Segments
+Lesions affecting the L4-S3 spinal segments result in LMN weakness in the pelvic limbs. The [patellar reflex](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#v84400625), flexor reflexes, and [perineal reflex](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals#v84400640) may be weak or absent, with hypotonia.
+Lesions of ≥ 1 week's duration may lead to atrophy of the pelvic limb muscles. Severe lesions produce a loss of deep pain perception in the pelvic limbs and tail.
+### Peripheral Nerve Lesions
+Most peripheral nerve lesions lead to motor and sensory deficits. There is weakness, along with decreased postural reactions, decreased muscle tone, and weak or absent spinal reflexes. Cranial nerves may be affected. Superficial and deep pain sensation may be absent.
+Polyneuropathies usually result in deficits in all limbs, and may affect cranial nerves. With mononeuropathies, deficits are restricted to regions innervated by the effected nerve.
+### Muscle Disorders
+Muscle disorders are often characterized by weakness, fatigability, and stiff, stilted gait. A postural tremor is possible. Palpation may reveal muscle atrophy or pain.
+A few myopathies result in enlargement of affected muscles that is due to hypertrophy, swelling, or infiltration with fat or other tissue. Proprioception and other sensations are preserved. Spinal reflexes are usually normal but may be weak.
+## For More Information
+* Dewey CW, da Costa RC. _A Practical Guide to Canine and Feline Neurology_. 3rd ed. Wiley‐Blackwell; 2015.
+* de Lahunta A, Glass E, Kent M. _Veterinary Neuroanatomy and Clinical Neurology_. 5th ed. W. B. Saunders,;2021.
+* De Decker S. Guide to the neurological examination. In: _Proceedings_. World Small Animal Veterinary Association Congress; 2016.
+* Nye C, Troxel M. [Neurologic examination](https://www.cliniciansbrief.com/article/neurologic-examination). _Clinician's Brief_. August 2017.
+* Also see pet health content regarding the neurologic evaluation of [dogs](https://www.msdvetmanual.com/dog-owners/brain-spinal-cord-and-nerve-disorders-of-dogs/the-neurologic-evaluation-of-dogs), [cats](https://www.msdvetmanual.com/cat-owners/brain-spinal-cord-and-nerve-disorders-of-cats/the-neurologic-evaluation-in-cats), and [horses](https://www.msdvetmanual.com/horse-owners/brain-spinal-cord-and-nerve-disorders-of-horses/the-neurologic-evaluation-in-horses).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#nervous-system)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

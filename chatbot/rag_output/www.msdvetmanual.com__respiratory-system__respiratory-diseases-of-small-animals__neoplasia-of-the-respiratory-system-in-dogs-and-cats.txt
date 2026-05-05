@@ -1,0 +1,114 @@
+1. <[Respiratory Diseases of Small Animals](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Neoplasia of the Respiratory System in Dogs and Cats
+By[Caroline C. Tonozzi](https://www.msdvetmanual.com/authors/tonozzi-caroline), DVM, DACVECC, Mission Veterinary Partners
+Reviewed/Revised Feb 2022 | Modified Sept 2024
+v3294941
+* [Tumors of the Nose and Paranasal Sinuses](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/neoplasia-of-the-respiratory-system-in-dogs-and-cats#Tumors-of-the-Nose-and-Paranasal-Sinuses_v3294945)|
+* [Tumors of the Larynx and Trachea](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/neoplasia-of-the-respiratory-system-in-dogs-and-cats#Tumors-of-the-Larynx-and-Trachea_v3294955)|
+* [Primary Lung Tumors](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/neoplasia-of-the-respiratory-system-in-dogs-and-cats#Primary-Lung-Tumors_v3294964)|
+* [Clinical Findings](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/neoplasia-of-the-respiratory-system-in-dogs-and-cats#Clinical-Findings_v3294971)|
+* [Diagnosis](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/neoplasia-of-the-respiratory-system-in-dogs-and-cats#Diagnosis_v3294974)|
+* [Treatment](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/neoplasia-of-the-respiratory-system-in-dogs-and-cats#Treatment_v3294978)|
+* [Metastatic Tumors of the Lungs](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/neoplasia-of-the-respiratory-system-in-dogs-and-cats#Metastatic-Tumors-of-the-Lungs_v3294981)|
+* [For More Information](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/neoplasia-of-the-respiratory-system-in-dogs-and-cats#For-More-Information_v62076940)|
+* Multimedia|
+
+## Tumors of the Nose and Paranasal Sinuses
+Nasal lymphoma, CT, cat
+Image
+Nasal lymphoma involving the left nasal cavity. There is breach of the left orbital wall with tumor extension into the left orbital region. The left eye is deviated craniolaterally. The tumor also extends ventrally into the right nasal cavity.
+Courtesy of Dr. Ned F. Kuehn.
+Nasal adenocarcinoma, CT, cat
+Image
+Nasal adenocarcinoma involving the right nasal cavity in a cat.
+Courtesy of Dr. Ned F. Kuehn.
+Nasal tumor, radiograph, cat
+Image
+Nasal tumor (dorsoventral projection) in a cat.
+Courtesy of Dr. Ronald Green.
+Nasal chondrosarcoma, CT, dog
+Image
+Nasal chondrosarcoma involving the entire left nasal cavity with breach of the central region of the nasal septum and tumor extension into the right nasal cavity.
+Courtesy of Dr. Ned F. Kuehn.
+Tumors of the nose and paranasal sinuses account for 1%–2% of all canine or feline tumors. The incidence in dogs is twice that in cats; incidence is also higher in males of both species than in females. The mean age at time of diagnosis is 9.5–10 years for dogs and 12 years for cats.
+In dogs, nasal tumors are nearly all malignant, and slightly >60% are carcinomas, of which adenocarcinoma is the most common. In dogs, the ethmoturbinates tend to be the site of predilection. Dolichocephalic and mesocephalic breeds appear to be at higher risk than brachycephalic breeds. In cats, ≥90% of nasal tumors are malignant, the most common being lymphoma and the second most common being carcinoma. Tumors of the nose and paranasal sinuses typically are locally invasive and metastasize infrequently; metastasis is more likely in carcinomas and usually occurs late in the disease. Common sites of metastasis are regional lymph nodes, lungs, and brain. Invasion of the paranasal sinuses tends to be greater in dogs than in cats. In general, survival of untreated animals is 3–5 months after diagnosis.
+Chronic nasal discharge is the most common clinical finding; it may be mucoid, mucopurulent, or serosanguineous. Initially, discharge is unilateral but often becomes bilateral. Periodic sneezing, epistaxis, and respiratory stertor may occur. Facial and oral deformities result from destruction of bony or soft-tissue sinonasal structures. Retrobulbar extension of these tumors results in exophthalmos and exposure keratitis. Secondary epiphora may occur if the nasolacrimal duct is blocked. Late in the disease, CNS signs (eg, disorientation, blindness, seizures, stupor, and coma) may develop if the tumor extends into the cranial vault.
+**Diagnosis** of nasal neoplasia is based on history and clinical findings and elimination of other causes of nasal discharge, sneezing, or facial deformation. Nasal [radiographs](https://www.msdvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/overview-of-diagnostic-imaging-of-animals) or [CT](https://www.msdvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/computed-tomography-in-animals) typically show increased density of the nasal cavity and frontal sinuses as well as evidence of bone destruction. CT is vastly superior to plain radiographs in diagnosis of chronic nasal diseases. Definitive diagnosis is based on biopsy of tumor tissue, either with blind biopsy based on CT lesion localization or on rhinoscopic visualization with direct biopsy. Nasal hydropulsion using a high-pressure saline infusion into the nose often yields diagnostic samples and, if large volumes of tumor tissue break free, nasal obstruction will be relieved immediately.
+**Treatment** largely depends on tumor type and extent of disease. The treatment of choice for canine nasal adenocarcinoma is radiation therapy. Aggressive surgical excision, chemotherapy, radiation therapy, or combinations for other tumor types afford a more favorable prognosis when diagnosis is made early.
+## Tumors of the Larynx and Trachea
+Tumors of the larynx and trachea are rare in dogs and cats. Tumors of the larynx most frequently reported in dogs are oncocytoma, [squamous cell carcinoma](https://www.msdvetmanual.com/integumentary-system/tumors-of-the-skin-and-soft-tissues/epidermal-and-hair-follicle-tumors-in-animals#v3280932), [mast cell tumor](https://www.msdvetmanual.com/integumentary-system/tumors-of-the-skin-and-soft-tissues/lymphocytic-histiocytic-and-related-cutaneous-tumors-in-animals#v3281438), melanoma, and [osteosarcoma](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/bone-tumors-in-dogs-and-cats); in cats, they are squamous cell carcinoma, lymphosarcoma, and adenocarcinoma. Benign inflammatory polyps of the larynx also are seen in dogs and cats. Tumors of the trachea are particularly rare. Osteochondral dysplasia of the trachea (osteochondroma) is a benign tumor of the trachea primarily seen in dogs < 1 year old. Other benign mesenchymal tumors, carcinomas, and sarcomas are occasionally seen.
+The most common signs of tumors of the larynx include:
+* stertor
+* stridor
+* change in bark
+* dry, nonproductive coughing
+
+Findings typically associated with tumors of the trachea are nonproductive coughing, expiratory wheezing, stridor, and rarely hemoptysis. Laryngeal and tracheal tumors may be associated with signs of fixed upper airway obstruction (inspiratory and expiratory dyspnea). The degree of respiratory difficulty often relates to the degree of luminal obstruction.
+Diagnosis is made from the history and clinical findings and by eliminating other causes of upper airway obstruction or coughing. The tumor mass may be seen radiographically or on laryngoscopy or tracheoscopy. Definitive diagnosis is made on biopsy.
+Surgical excision and resection is the treatment of choice. Radiation therapy may be palliative for radiosensitive tumors such as squamous cell carcinoma, mast cell tumor, and lymphoma. Surgical resection of tracheal osteochondral dysplasia in dogs is curative.
+## Primary Lung Tumors
+Primary lung tumors are rare in dogs and cats. Most primary lung tumors are diagnosed at a mean age of 10–12 years in dogs and 12 years in cats. There is no consistent breed or sex predilection in either species. Primary lung tumors usually originate from the terminal bronchioles and alveoli; they occasionally develop as a second coincidental tumor, which can make differentiation between primary and metastatic disease difficult.
+Adenocarcinoma and alveolar carcinoma are the most common primary lung tumors in dogs and cats and are usually malignant. Primary lung sarcomas and adenomas are rare in both species. Metastatic spread of primary lung tumors is generally to other areas of the lungs, tracheobronchial lymph nodes, bone, and brain. Intrapulmonary spread via the airways occurs in ~50% of dogs with adenocarcinoma. Metastatic spread to the pleurae, pericardium, heart, and diaphragm may occur; miscellaneous extrathoracic sites include liver, spleen, and kidney. Dogs with papillary (bronchoalveolar) adenocarcinoma have a better prognosis than those with other lung tumors; however, histologic grade and detection of clinical signs are the most important determinants of prognosis and survival. Both recurrence and metastasis tend to occur earlier and with greater frequency in dogs with moderately or poorly differentiated tumors.
+### Clinical Findings of Primary Lung Tumors in Dogs and Cats
+Primary lung tumors have variable manifestations, which depend on the location of tumor, rapidity of tumor growth, presence of previous or concurrent pulmonary disease, and awareness of the owner. Common signs patients with primary lung tumors present with include:
+* cough
+* inappetence
+* weight loss
+* reduced exercise tolerance
+* lethargy
+* tachypnea
+* dyspnea
+* wheezing
+* vomiting or regurgitation
+* pyrexia
+* lameness
+
+The **most common clinical presentation is a chronic, nonproductive cough** , although 25% of dogs with primary lung tumors have no clinical signs related to the tumor. Acute respiratory distress may be caused by high tumor burden, metastasis, or development of secondary pleural effusion.
+Nonrespiratory signs of primary lung tumors include lameness, ascites, head and neck edema, vomiting, and diarrhea. Lameness may be due to hypertrophic osteopathy (unusual in cats) or to metastasis to bone or skeletal muscle. Thoracic auscultation may be normal, reflect increased breath sounds compatible with pulmonary airway disease, or be muffled because of pulmonary consolidation or pleural effusion. Coughing is rare in cats, and 20%–40% of cats present with lethargy, anorexia, and weight loss as primary problems.
+### Diagnosis of Primary Lung Tumors in Dogs and Cats
+* Radiography
+* Biopsy
+
+Primary lung tumor, radiograph
+Image
+Primary lung tumor, lateral projection.
+Courtesy of Dr. Ronald Green.
+One-third or more of primary lung tumors are recognized incidentally during radiography for other problems, or at necropsy. Thoracic radiographs are essential for a tentative diagnosis in those animals exhibiting compatible clinical signs. Primary lung tumors in dogs may occur as single or multiple circumscribed mass lesions, as a diffuse lung pattern, or as a lobar consolidation. In cats, single circumscribed mass lesions are less common, whereas a diffuse lung pattern or lobar consolidation is more frequent. Pleural fluid accumulation is common in cats and less frequent in dogs. In either species, chest wall involvement and hilar lymphadenopathy may be seen. Tentative diagnosis can be made by excluding other causes of pulmonary disease with similar radiographic lung patterns. Definitive diagnosis requires biopsy.
+### Treatment of Primary Lung Tumors in Dogs and Cats
+* Surgical resection
+* Chemotherapy
+
+Surgical resection of tumor via lobectomy of diseased lung lobes is the treatment of choice. Staging before surgical removal is recommended to exclude metastasis. Inoperable lesions or metastatic disease may be controlled with chemotherapy. Overall median survival time for dogs having surgical treatment for primary lung tumor is 120 days. Mean survival time for operable primary lung tumors without node involvement in dogs is 12 months. If the lymph nodes are involved or multiple tumors are found at the time of diagnosis, survival time is only 2 months. Recurrence or metastasis of tumor is a common cause of death.
+## Metastatic Tumors of the Lungs
+Pulmonary metastasis, lateral projection, dog with renal cell carcin...
+Image
+Pulmonary metastasis, lateral projection, in a dog with renal cell carcinoma. Multiple, various-sized, well-circumscribed nodules are present in all lung lobes, with the largest in the caudodorsal lung field between ribs 8 and 10.
+Courtesy of Dr. Ned F. Kuehn.
+Pulmonary metastasis, radiograph
+Image
+Pulmonary metastasis, lateral projection.
+Courtesy of Dr. Ronald Green.
+A localized tumor may extend to the lungs by dissemination through hematogenous or lymphatic routes or by direct extension of tumor cells. Certain primary tumors, such as mammary adenocarcinoma, [osteosarcoma](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/bone-tumors-in-dogs-and-cats), hemangiosarcoma, and oral melanoma, most commonly metastasize to the lungs. The lungs may be the only site of metastasis, or there may be concurrent metastasis in other organs; in the former, the diagnostic approach is to identify an occult primary tumor or to carefully review the medical history for disclosure of previous tumor removal. Because pulmonary metastasis occurs late in the clinical course of a malignant tumor, prognosis is poor.
+The signs of metastatic pulmonary disease are similar to those of primary lung tumors. Severity of signs depends on the anatomic location of the tumor and the tumor burden.
+Establishing a diagnosis is similar to that for primary lung tumors. Because of the limitations of routine [radiography](https://www.msdvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/overview-of-diagnostic-imaging-of-animals), small lesions (≤3 mm in diameter), which are present in ≥40% of cases with pulmonary metastasis, may not be seen. Thoracic CT can identify lesions not seen radiographically.
+Radiography of the chest should precede removal of tumors with a known high incidence of metastatic spread to the lungs. The major goal of cancer therapy is prevention of metastasis rather than cancer eradication. Slow-growing or solitary metastatic lesions are best treated by surgical excision. Chemotherapy or radiation therapy may be useful with certain tumor types not amenable to surgical resection. Overall, the prognosis for animals with pulmonary metastasis is poor.
+## For More Information
+* Also see pet health content regarding cancers and tumors of the lung in [dogs](https://www.msdvetmanual.com/dog-owners/lung-and-airway-disorders-of-dogs/cancers-and-tumors-of-the-lung-and-airway-in-dogs) and [cats](https://www.msdvetmanual.com/cat-owners/lung-and-airway-disorders-of-cats/cancers-and-tumors-of-the-lung-and-airway-in-cats).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#respiratory-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

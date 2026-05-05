@@ -1,0 +1,109 @@
+1. <[Ophthalmology](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# The Cornea in Animals
+By[Ralph E. Hamor](https://www.msdvetmanual.com/authors/hamor-ralph), DVM, MS, DACVO, University of Florida, College of Veterinary Medicine
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Feb 2023 | Modified Sept 2024
+v3269234
+* Multimedia|
+
+The relative size and the shape of the cornea varies among domestic species, but in all cases it consists of a superficial epithelium and basement membrane, large and relatively acellular stroma, deeper Descemet's membrane, and deep single-layer endothelium. The cornea maintains a strong and durable barrier between the eye and the environment, as well as a transparent medium to permit passage of light and images into the posterior segment. Corneal diseases are common in most animal species. They can usually be treated successfully with medical or surgical methods, or a combination of both. The accessibility of the cornea permits several detailed and noninvasive diagnostic techniques.
+Superficial vascular keratitis, dog
+Image
+Superficial vascular keratitis in the eye of a dog. Note the fine, branching corneal vessels.
+Courtesy of Dr. Ralph Hamor.
+**Superficial keratitis** is common in all species and is characterized by corneal vascularization and opacification, which may be due to edema, cellular infiltrates, pigmentation, or fibroplasia. If ulceration is present, pain—manifested by excessive tearing and blepharospasm—is a common clinical sign. Unilateral keratitis frequently is traumatic in origin. Mechanical factors, such as eyelid conformational defects and foreign bodies, should always be eliminated as primary causes, because resolution will not be achieved until they are corrected. Ulcerative keratitis may be complicated by secondary invasion by bacteria and, in horses, also by saprophytic fungi. Bilateral superficial keratitis may be immune-mediated or associated with a lack of tears, eyelid conformational defects, or infectious agents.
+**Chronic superficial keratitis (pannus),** or Uberreiter disease, is a specific, bilateral, progressive, proliferative, chronic, superficial keratitis that begins laterally and/or medially at the limbus and, if untreated, eventually extends from all quadrants to cover the cornea. Inflammatory cells (lymphocytes and plasma cells) infiltrate the cornea from the limbus, accompanied by superficial blood vessels and sometimes pigment. Affected patients do not have ulceration or pain. This immune-mediated keratitis is common in German Shepherd Dogs, Belgian Tervurens, Border Collies, Italian Greyhounds, Siberian Huskies, and Australian Shepherds. The intensity of the inflammatory response in both eyes is quite variable and may change with age, season, amount of time the dog spends outside, and other factors.
+Chronic superficial keratitis
+Early chronic superficial keratitis (pannus), German Shepherd Dog
+Early chronic superficial keratitis in a German Shepherd Dog's eye.
+Early chronic superficial keratitis in a German Shepherd Dog's eye.
+Courtesy of K. Gelatt.
+Advanced chronic superficial keratitis (pannus), German Shepherd Dog
+This photograph of a German Shepherd Dog's eye shows that the cornea has been infiltrated with dense inflammatory tissue sufficient to impair vision. The third eyelid is also affected.
+This photograph of a German Shepherd Dog's eye shows that the cornea has been infiltrated with dense inflammatory tissu
+... read more
+Courtesy of K. Gelatt.
+Treated chronic superficial keratitis (pannus), German Shepherd Dog
+Although mild corneal fibrosis and superficial corneal pigmentation remain, this photograph shows a successful outcome of treatment for chronic superficial keratitis in a German Shepherd Dog's eye.
+Although mild corneal fibrosis and superficial corneal pigmentation remain, this photograph shows a successful outcome
+... read more
+Courtesy of K. Gelatt.
+Early chronic superficial keratitis (pannus), German Shepherd Dog
+Early chronic superficial keratitis in a German Shepherd Dog's eye.
+Early chronic superficial keratitis in a German Shepherd Dog's eye.
+Courtesy of K. Gelatt.
+Advanced chronic superficial keratitis (pannus), German Shepherd Dog
+This photograph of a German Shepherd Dog's eye shows that the cornea has been infiltrated with dense inflammatory tissue sufficient to impair vision. The third eyelid is also affected.
+This photograph of a German Shepherd Dog's eye shows that the cornea has been infiltrated with dense inflammatory tissu
+... read more
+Courtesy of K. Gelatt.
+Treated chronic superficial keratitis (pannus), German Shepherd Dog
+Although mild corneal fibrosis and superficial corneal pigmentation remain, this photograph shows a successful outcome of treatment for chronic superficial keratitis in a German Shepherd Dog's eye.
+Although mild corneal fibrosis and superficial corneal pigmentation remain, this photograph shows a successful outcome
+... read more
+Courtesy of K. Gelatt.
+Specific treatment for chronic superficial keratitis consists of topical immunomodulatory agents with topical corticosteroids (prednisolone acetate 1% or dexamethasone 0.1% ophthalmic suspension or ointment - alone or with antimicrobial treatment) and/or topical cyclosporine or tacrolimus. The initial frequency of topical treatment is generally every 6 hours. Once the lesions have resolved or decreased appreciably, topical treatment is decreased to the lowest frequency required to control the clinical signs. Chronic superficial keratitis requires lifelong topical anti-inflammatory treatment. The disease appears more aggressive in young dogs and in dogs that live outside in higher altitudes. Generally, topical 1% prednisolone acetate 1%, 0.1% dexamethasone ophthalmic suspension or ointment or 0.2%–1% cyclosporine is instilled in both eyes 1–4 times per day (FDA label directions q 12 h for treatment of pannus) is sufficient to control the disease and prolong vision. Topical treatment is adjusted to the individual animal (ranging from one drop in the affected eye every other day to as frequent as one drop in the affected eyes every 6 hours).
+Interstitial keratitis, dog
+Image
+Intense, diffuse episcleral injection, diffuse corneal edema, and miosis; typical of interstitial keratitis.
+Courtesy of K. Gelatt.
+**Interstitial keratitis** , an infiltration of the peripheral cornea by very fine blood vessels, is associated with deep corneal disease and/or anterior uveitis. The corneal vascularization is less branching, more dense, and deeper than in superficial keratitis. Corneal edema is present at the edge of the vascularization and, depending on the amount of anterior uveitis, can be diffuse and extensive. Systemic diseases, such as [infectious canine hepatitis](https://www.msdvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis), bovine [malignant catarrhal fever](https://www.msdvetmanual.com/generalized-conditions/malignant-catarrhal-fever/malignant-catarrhal-fever-in-animals), systemic [mycoses](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/overview-of-fungal-infections-in-animals) in many species, and neonatal septicemias that localize in the eye, can cause bilateral or unilateral interstitial keratitis. Treatment is directed at the anterior uveitis, the systemic infection, or both. A specific, nonulcerative, peripheral, stromal keratitis and persistent anterior uveitis (keratouveitis) occurs in horses; prognosis and response to treatment are poor.
+**Ulcerative keratitis** may be categorized by onset, depth, and position within the cornea. Ulcerative keratitis is also divided into simple or complicated ulcers. In terms of depth, ulcerative keratitis may be superficial, deep, deep with descemetocele, or perforating. Progression of the corneal ulcer depends on the microbes involved and on the release of microbe and tissue enzymes that digest the corneal stroma. Pain, corneal irregularity, edema, and eventually vascularization are clinical signs of ulceration. A dense, white infiltrate at the ulcer margin or within the ulcer bed indicates strong leukotaxis and bacterial involvement. In dogs and horses, most ulcers are mechanical in origin; in cattle, sheep, goats, cats, and reindeer, infectious agents and mechanical causes are important; in cats and horses, herpesvirus infection is a frequent cause. All corneal ulcers have the potential for secondary bacterial contamination, as well as endogenous proteinase “melting” of the stroma. Treatment for superficial ulcers is usually medical and consists of topical broad-spectrum antimicrobial(s) administered every 4–8 hours, correction of any mechanical factors, and limited 1% topical atropine to maintain iridocycloplegia and decrease ocular pain. Adverse effects of atropine-induced decreased tear production in all species and the potential for colic in horses must be considered. Antiproteinase treatment for melting stromal ulcers includes topical serum and other drugs, and for acute ulcerations they may be instilled every 4–6 hours for the first several days. Corneal healing is monitored by frequent clinical examinations and indicated by a gradual decrease in the size of the fluorescein retention by the nonepithelialized ulcer. Complicated corneal ulcers occur when at least one exacerbating factor is also present, including microbial infection, melting, keratoconjunctivitis sicca (KCS), entropion or ectropion, lagophthalmos, or a foreign body. Unless the complicating factor(s) are corrected, healing is not likely to occur. Medical treatment of deep or complicated ulcers is similar to that of superficial ulcers, but more intensive because patients may need to be treated every 2 hours initially. For deep and melting corneal ulcers, cytology, as well as culture and sensitivity, help direct appropriate treatment. Many deep ulcers also require conjunctival and/or synthetic grafts to strengthen and maintain the integrity of the cornea. Any corneal ulcer that is melting and involves > 50% of the cornea merits surgical intervention by a specialist.
+Corneal ulcer, Pekingese
+Image
+Corneal ulceration with malacia and secondary anterior uveitis in the eye of a Pekingese dog. The photograph shows dense, perilimbal corneal vascularization, diffuse corneal edema, and a large corneal ulcer with white infiltrate. This is an example of a complicated ulcer.
+Courtesy of K. Gelatt.
+Corneal ulcer, horse
+Image
+Corneal ulceration with malacia in the eye of a horse. This globe has episcleral injection, diffuse corneal edema of the nasal half of the cornea, and a circular corneal ulcer with malacia. This is another example of a complicated corneal ulcer.
+Courtesy of K. Gelatt.
+Indolent corneal ulcer, dog
+Image
+An indolent corneal ulcer in the eye of a dog. Note the superficial corneal ulcer with loose epithelial edges and no evidence of infiltrate. The pupil has been dilated.
+Courtesy of Dr. Ralph Hamor.
+Syndromes of very slow-healing and recurrent superficial ulcers occur in dogs, cats, and horses. In cats and horses, and rarely dogs, herpesvirus should be suspected.
+In dogs, superficial, nonhealing ulcers are called **indolent corneal ulcers** or **recurrent corneal erosions**. They may be due to basement membrane disease causing faulty attachment of the corneal epithelium. They are superficial only and, unless secondarily infected, do not involve the corneal stroma. There is often a lip of epithelium at the edge of the corneal ulcer. These ulcers typically occur in middle-aged to older dogs. They can occur in any breed, but they are most common in the Boxer. Indolent corneal ulcers are slow to vascularize, if they do at all, and they generally do not respond to topical antimicrobial treatment alone. Initial treatment is ulcer debridement with a dry, cotton-tipped applicator, followed by a diamond burr or grid keratotomy. The use of topical broad-spectrum antimicrobials, atropine, and oral pain management are indicated. A soft contact lens aids in comfort and healing. Multiple keratotomies may be required for an indolent corneal ulcer to heal. Keratotomies are not recommended in cats as they may predispose to corneal sequestration.
+Corneal sequestrum, domestic cat
+Image
+A black sequestrum is visible in the center of this cat's cornea. Multiple, superficial corneal blood vessels surround the sequestrum.
+Courtesy of K. Gelatt.
+**Corneal sequestration** appears to be unique to the cat. It occurs in all breeds of cats but may be more frequent in the Siamese and Persian breeds. Initially, a very small, dark area may develop within the anterior stroma and under intact corneal epithelium (that stains with rose bengal and occasionally very faintly with topical fluorescein). Eventually, the stromal spot becomes larger and either dark brown or black, and is not covered by epithelium. There is variable pain and a central to paracentral, brown to black opacity composed of necrotic stroma, vascularization, and surrounding inflammation. Spontaneous extrusion may occur, especially with superficial sequestra, but it is not common. Treatment consists of superficial keratectomy of the entire sequestrum. Depending on the depth of the sequestrum, the corneal defect may need to be covered with a corneal graft and/or a conjunctival graft. If the sequestrum is very dense, its depth may be difficult to determine.
+Central deep stromal abscess and anterior uveitis, horse
+Image
+The central white corneal abscess evident in this photograph of a horse's eye has involved most of the stroma and incited deep, dense corneal vascularization, diffuse corneal edema, and anterior uveitis.
+Courtesy of D. Brooks.
+Peripheral deep stromal corneal abscess, horse
+Image
+Stromal abscess (arrow) involving the peripheral cornea. There are multiple depths of corneal vascularization and moderate corneal edema. The pupil has been dilated.
+Courtesy of D. Brooks.
+**Corneal stromal abscesses** in horses may be sequelae of healing corneal ulcers or defects and the entrapment of bacteria, fungal organisms, or both within the stroma after reepithelialization. Fungi (both _Candida_ and _Aspergillus_) have been demonstrated in horses' subepithelial cornea devoid of iridocyclitis, suggesting that another mode of entry may be possible. A variable, white to yellow stromal infiltrate is surrounded by an intense stromal keratitis and vascularization, as well as a variable but sometimes intense anterior uveitis. At least seven to nine different species of fungi have been isolated in corneal ulcers and stromal abscesses in horses; however, _Aspergillus_ and _Fusarium_ spp are the most frequent isolates. Treatment consists of intensive topical and occasionally systemic antimicrobials, topical antifungals, iridocycloplegics (atropine), and NSAIDs. Surgical removal of the abscess with conjunctival and tectonic corneal grafts is often recommended when medical treatment is not effective or when the lesions are deep. If the abscess is not healed with medical treatment and/or surgery, the abscess can rupture into the anterior chamber, causing severe and blinding uveitis.
+**Corneal dystrophies** and **corneal degenerations** occur frequently in dogs, infrequently in cats, and rarely in horses. Corneal dystrophies are bilateral, symmetrical, nonpainful, nonvascularized, and often thought to be inherited in dogs. The appearance of these two disorders may be categorized by the following factors: 1) part of cornea affected (epithelium, stroma [anterior, middle, and deep], and endothelium), 2) area of the involved cornea (central, paracentral, and limbal), and 3) possible cause (primary/inherited or secondary). Corneal dystrophies may affect the epithelium and endothelium; however, clinically they appear to involve the superficial stroma most frequently. Corneal degenerations may be bilateral or unilateral, generally have some vascularization, may be painful, and are generally secondary to other ocular disease or systemic conditions.
+Corneal dystrophies affecting the epithelium are associated with recurrent corneal erosions in dogs (see text above). The defective corneal epithelium fails to adhere normally to its defective basement membrane, resulting in recurrent superficial erosions (more frequent in Boxers) and prolonged healing.
+Corneal dystrophy (lipidosis), dog
+Image
+Corneal lipidosis in the eye of a dog. A white, crystalline, refractive corneal opacity is present. Note the lack of corneal vascularization.
+Courtesy of K. Gelatt.
+The stromal dystrophies appear as white, irregular deposits within the different depths of the stroma and are sometimes labeled corneal lipidosis. Corneal dystrophies are most frequent in dogs, appear to be inherited in ~20 breeds, affect mostly the corneal stroma, and are usually bilateral. Of the breeds affected, corneal stromal dystrophy in the Siberian Husky has been investigated in the greatest detail. Usually the corneal opacities consist of triglycerides and both intracellular and extracellular cholesterol. Treatment is not typically necessary, unless vision is impaired or the deposits become irritating. For these lipid deposits to be viewed histologically, the corneas must be processed as frozen sections and alcohol dehydration processing avoided.
+Corneal endothelial dystrophies occur in dogs and rarely in cats (Manx breed). In dogs, primarily older Boston Terriers, Chihuahuas, and Dachshunds are affected. Female Boston Terriers are affected more frequently than males (with a mean age of ~7.5 years), and this breed's disease has both clinical and histopathologic similarities to Fuchs corneal endothelial dystrophy in humans. With the dystrophic and degenerating endothelium, progressive but painless bilateral corneal edema develops, starting in the dorsolateral cornea and progressing slowly across the entire cornea. With extensive and full-thickness corneal edema, corneal epithelial bullae may develop, rupture, and ulcerate, and they are quite painful. Treatment of early cases before complete corneal involvement consists of topical hyperosmotics (2%–5% sodium chloride) applied 3-4 times daily and, for advanced cases, thermokeratoplasty, keratoleptynsis (Gundersen flap), full-thickness (penetrating) keratoplasty, or corneal endothelial transplantation.
+Corneal degeneration, dog
+Image
+This photograph shows dense, diffuse corneal degeneration across 75% of the cornea in a dog's eye. Note the amorphous distribution and the superficial corneal vascularization that is generally present.
+Courtesy of K. Gelatt.
+Corneal degenerations are often unilateral and usually secondary to ocular or systemic diseases. Deposits of triglycerides, cholesterol, and calcium are present. Corneal degeneration may be associated with other ocular diseases, such as corneal ulcerations, phthisis bulbus, lagophthalmos, and prolonged topical anti-inflammatory treatment. If associated with hyperlipoproteinemia or hypercholesterolemia and high-fat diets, corneal degenerations can affect both eyes, and these deposits are usually associated with corneal vascularization. They also can be altered by large changes in diet. Baby rabbits or puppies fed whole cow milk may develop extensive lipid deposits in the corneal stroma, sufficient to impair vision. Treatment for corneal degenerations is not usually necessary, unless they are related to dietary or systemic diseases.
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#eye-diseases-and-disorders)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

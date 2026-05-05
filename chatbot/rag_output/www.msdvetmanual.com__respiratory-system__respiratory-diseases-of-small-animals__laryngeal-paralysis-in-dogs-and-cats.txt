@@ -1,0 +1,51 @@
+1. <[Respiratory Diseases of Small Animals](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Laryngeal Paralysis in Dogs and Cats
+By[Maureen H. Kemp](https://www.msdvetmanual.com/authors/kemp-maureen), BVMS, PhD, Calcoed Vets Limited, Holywell, UK
+Reviewed/Revised Feb 2022 | Modified Apr 2025
+v3292946
+Laryngeal paralysis is **common in dogs and rare in cats**. Signs include:
+* dry cough
+* voice changes
+* noisy breathing that progresses to marked difficulty in breathing with stress and exertion
+* stridor
+* collapse
+
+Regurgitation and vomiting may occur. Progression of clinical signs is slow, usually taking months to years before respiratory distress is evident. It is a **common acquired problem in middle-aged to older, large and giant breeds of dogs** , eg, Labrador Retrievers, Irish Setters, and Great Danes. It is seen less often as a hereditary, congenital disease in Bouvier des Flandres, Leonbergers, Siberian Huskies, Bulldogs, and racing sled dogs.
+**Diagnosis** is based on clinical signs; laryngoscopy under light anesthesia is needed for confirmation. Laryngeal movements are absent or paradoxical with respiration. Electromyography shows positive sharp waves, denervation potentials, and sometimes myotonia. Radiographs are not diagnostic. Denervation atrophy is seen on histologic sections of laryngeal muscles.
+**Differential diagnoses include:**
+* recurrent laryngeal or vagal nerve tumor
+* inflammation
+* myasthenia gravis
+* severe [hypothyroidism](https://www.msdvetmanual.com/endocrine-system/the-thyroid-gland/hypothyroidism-in-animals)
+* trauma
+* more widespread generalized neurologic degeneration
+
+**Therapy** is directed at relieving signs of airway obstruction. Tranquilization and corticosteroids are effective temporarily in mild cases. Severe obstruction may require tracheotomy.
+Definitive therapy is surgical and directed at enlarging the glottic opening. Currently **recommended techniques include:**
+* arytenoid cartilage lateralization
+* ventriculocordectomy and partial arytenoidectomy
+* castellated laryngofissure
+* permanent tracheostomy
+
+Studies have demonstrated that bilateral ventriculocordectomy through a ventral median laryngotomy has had good longterm treatment success for surgical treatment of idiopathic laryngeal paralysis in dogs, and unilateral arytenoid lateralization appeared to be a suitable method to treat laryngeal paralysis in cats.
+## Key Points
+* Laryngeal paralysis is common in older, large-breed dogs.
+* Laryngoscopy is required for diagnosis.
+* Surgery is required for definitive treatment.
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#respiratory-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

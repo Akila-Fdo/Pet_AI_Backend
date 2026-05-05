@@ -1,0 +1,109 @@
+1. <[_Trichinella_ spp Infections (Trichinellosis, Trichinosis)](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+PROFESSIONAL VERSION
+# _Trichinella_ spp Infections in Animals
+## (Trichinellosis, Trichinosis)
+By[Edoardo Pozio](https://www.msdvetmanual.com/authors/pozio-edoardo), PhD, Istituto Superiore di Sanità
+Reviewed By[Alejandro Ramirez](https://www.msdvetmanual.com/authors/ramirez-alejandro), DVM, PhD, DACVPM, College of Veterinary Medicine, University of Arizona
+Reviewed/Revised Modified Feb 2026
+v3275366
+Trichinellosis is a zoonotic disease caused by infection with _Trichinella_ spp and affecting mammals (including humans), birds, and reptiles. Humans are most commonly infected by eating improperly cooked pork. Whereas infection in animals is usually undetected and of minimal clinical importance, trichinellosis is an important human public health risk globally. Prevention of disease in humans is accomplished via appropriate meat inspection practices and proper cooking or freezing of meat and meat products.
+* [Etiology and Epidemiology](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals#Etiology-and-Epidemiology_v3275371)|
+* [Clinical Findings and Diagnosis](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals#Clinical-Findings-and-Diagnosis_v3275386)|
+* [Control](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals#Control_v3275400)|
+* [Key Points](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals#Key-Points_v52499829)|
+* [For More Information](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals#For-More-Information_v52499840)|
+* [References](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals#References_v107017754)|
+* Multimedia|
+
+_Trichinella_ spp infections are **caused by roundworms (nematodes) in mammals, including humans, as well as birds and some reptile species**. Omnivorous and carnivorous mammals can be affected.
+In humans, these parasites cause trichinellosis, a parasitic disease of public health importance. [Infections in humans](https://www.msdmanuals.com/professional/infectious-diseases/nematodes-roundworms/trichinosis) result **from the consumption of insufficiently cooked infected meat** or meat-derived products, usually pork from domestic or wild swine, but also bear, horse, or walrus meat. Occasionally, meat or meat products from other species have been implicated.
+Naturally infected animals do not show any clinical signs of disease, except in rare instances, even though they can reportedly harbor 9,000 parasite larvae per gram of muscle tissue ([1](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals#b5e932a7-8d74-45bd-ba69-88b15ba983e9)). **No treatment exists for trichinellosis** in animals, and _Trichinella_ spp infections are detected only by means of postmortem laboratory testing of muscle tissue samples; several specific tests are available. The number of human cases has greatly declined in the past 50 years, in part because of the move to modern production facilities (with less confinement), which decreases or eliminates exposure of domestic pigs to wild and susceptible synanthropic animals.
+## Etiology and Epidemiology of _Trichinella_ spp Infections
+The genus _Trichinella_ is currently considered a complex of ten species and three additional genotypes (T6, T8, and T9) of undetermined taxonomic status. Other than the existence of two clades defined by the presence or absence of a collagen capsule (cyst) surrounding parasite larvae in infected muscles, there are no morphological differences. Each taxon can be identified by means of PCR assay and DNA sequencing performed on larvae collected from muscle samples from infected animals or humans.
+_T spiralis_ (T1) is the most common and widely distributed of the encapsulated species affecting humans and domestic animals in temperate regions; it has high infectivity for pigs and rodents, exhibits low resistance to freezing, and is broadly infective for most sylvatic hosts (wildlife). The **other cyst-forming species** include the following:
+* _**T nativa**_**(T2)** , found in arctic and subarctic carnivores, in which larvae can survive freezing for up to 5 years
+* _**T britovi**_**(T3)** , found mainly in carnivores and more rarely in domestic and wild swine throughout the entire European continent, northwest Africa, and southwest Asia
+* _**T murrelli**_**(T5)** , restricted to carnivores of temperate regions of North America
+* _**T nelsoni**_**(T7)** , found in carnivores and less commonly in wild swine in eastern and southern Africa
+* _**T patagoniensis**_**(T12)** , found in carnivores of South America
+* _**T chanchalensis**_**(T13)** , found in carnivores of restricted areas of northwestern Canada and Alaska
+
+There are three other encapsulated _Trichinella_ genotypes:
+* T6, which is very similar to _T nativa_ and is found in carnivores of arctic and subarctic regions of North America
+* T8, which shows similarities to _T britovi_ and is present in carnivores of southern Africa
+* T9, which has been identified only in carnivores of Japan
+
+Three **additional species** constitute the nonencapsulated clade (ie, lacking a cyst in the infected muscle):
+* _**T pseudospiralis**_**(T4)** has a cosmopolitan distribution and is the only species capable of infecting both mammals and birds.
+* _**T papuae**_**(T10)** circulates among mammals (eg, wild pigs) and reptiles (saltwater crocodiles and softshell turtles) of Australasia and southeast Asia.
+* _**T zimbabwensis**_**(T11)** infects carnivorous mammals (eg, lions, leopards, spotted hyenas), Nile crocodiles, and Nile monitor lizards in sub-Saharan Africa.
+
+**Infection occurs from ingesting larvae that parasitize striated muscle cells** (see image of _Trichinella_ life cycle below). The cyst wall is digested in the stomach, and the free larvae penetrate the duodenal and jejunal mucosa. Within approximately 4 days, the larvae develop into sexually mature adults. After mating, the females (3–4 mm) penetrate deeper into the mucosa and discharge living larvae (up to 1,500) over 4–16 weeks. After reproduction, the adult worms die and usually are digested. The young larvae (0.1 mm) migrate into the lymphatics, are carried via the portal system into the peripheral circulation, and reach striated muscle, where they penetrate individual muscle cells. They grow rapidly (to 1 mm) and begin to coil within the cell, usually one per cell.
+In encapsulated taxa, capsule formation begins approximately 15 days after infection and is completed by 4–8 weeks, at which time the larvae are infective. Infected cells degenerate as the larvae grow, followed by calcification, which occurs at different rates in various hosts. **Larvae can remain viable within cysts for years, and their development continues only if ingested by another suitable host.** The diaphragm, tongue, masseter, and intercostal muscles are among those most frequently infected in pigs.
+_Trichinella_ life cycle
+Image
+1. Animals that are fed (eg, pigs) or eat (eg, bears, foxes, boars) other animals acquire trichinosis by ingesting meat that contains cysts (encysted larvae) of _Trichinella_ species. Humans may be accidentally infected when they eat undercooked meat from infected animals.
+2. After exposure to gastric acid and pepsin, the larvae are released from the cysts in the small intestine and penetrate the mucosa.
+3. There, they develop into adult worms.
+4. After 1 week, the adult females begin releasing larvae that migrate to the striated muscles where they encyst.
+5. The cycle continues only if encysted larvae are ingested by another carnivore.
+Courtesy of Centers for Disease Control and Prevention, Global Health, Division of Parasitic Diseases and Malaria.
+## Clinical Findings and Diagnosis of _Trichinella_ spp Infections
+* Microscopic examination of striated muscle biopsy samples
+* Artificial digestion of muscle tissues by an HCl-pepsin solution
+
+Most _Trichinella_ infections in domestic and wild animals are undiagnosed. [In humans](https://www.msdmanuals.com/professional/infectious-diseases/nematodes-roundworms/trichinosis), heavy infections can produce serious illness with three clinical phases (intestinal, muscle invasion, and convalescent) and occasionally death.
+**Microscopic examination of a muscle biopsy sample** (usually from the diaphragm) may confirm, but not necessarily exclude, _Trichinella_ infection. **ELISA using excretory-secretory (ES) antigens** is a reliable means of detecting antibodies against _Trichinella_ in pigs; however, this test is useful only for epidemiological surveillance because of long detection windows and cross-reactions with other pathogens. Seroconversion may not occur for weeks after infection, although as few as 0.01 larvae per gram of tissue can be detected. In addition, antibodies against _Trichinella_ may no longer be detectable even in animals that still harbor infective larvae.
+Pearls & Pitfalls
+|
+* Antibodies against _Trichinella_ may no longer be detectable by ELISA even in animals that still harbor infective larvae.
+
+|
+| --- |
+The gold-standard diagnostic test to detect _Trichinella_ infection in animals is the **artificial digestion of muscle tissue samples with an HCl-pepsin solution**. This test does not include any control and requires specifically trained personnel. ELISA with ES antigens is the most widely used diagnostic means to detect _Trichinella_ infections in humans with seroconversion occurring 2–3 weeks after infection. However, in humans infected by few larvae, seroconversion can occur after 5–6 weeks, when complete recovery has occurred.
+There is generally **no treatment for animals**. Infected humans are treated with albendazole or mebendazole and corticosteroids. Because anthelmintics are poorly absorbed by the intestinal lumen, they generally do not reach the larvae encysted in muscle cells. In general, the later the treatment is prescribed, the higher the probability that infected humans will harbor viable larvae for years.
+## Control of _Trichinella_ spp Infections
+* Rodent control in pigsties
+* Appropriate oversight of feed for animal consumption
+* Meat inspection practices
+* Proper heating or freezing of pork for human consumption
+
+Treatment of _Trichinella_ infections is generally impractical in animals. The **objective is to prevent all animals and humans from ingesting, and thus being infected by, viable** _**Trichinella**_**larvae**. In pigs, this can be accomplished with good management that includes **controlling rodents, cooking garbage (fed to the pigs) for 30 minutes at 100°C (212°F), and preventing cannibalism (ie, tail biting) and access to wildlife carcasses**. _Trichinella_ spp infection has reportedly never been detected in pigs reared under controlled housing conditions ([2](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals#b5e932a7-8d74-45bd-ba69-88b15ba983e9)).
+**Inspection of meat for viable trichinae at the time of slaughter (by means of digestion methods)** prevents infection in humans in many countries. In the EU, all _Trichinella_ -susceptible animals intended for human consumption must be tested for these parasites by artificial digestion testing unless pigs are from controlled housing conditions. In North America, the assumption is that pork could be infected; therefore, those products labeled “ready to eat” must be processed by **adequate heating, freezing, or curing to kill larvae before marketing**. Other pork products should be cooked to assure that all tissue is heated to an internal temperature of 63°C (145°F) for roasts or 71°C (160°F) for ground meats ([3](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals#b5e932a7-8d74-45bd-ba69-88b15ba983e9)).
+Pearls & Pitfalls
+|
+* Freezing cannot be relied on to kill larvae in meat other than pork because larvae can survive in frozen muscle tissue for years.
+
+|
+| --- |
+Freezing pork at an appropriate temperature for an appropriate time is also effective (−15°C [5°F] for 20 days, −23°C [−9.4°F] for 10 days, or −30°C [−22°F] for 6 days). Freezing cannot be relied on to kill larvae in meat other than pork. For example, _T nativa_ larvae can survive in the frozen muscle of bears for up to 5 years ([4](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals#b5e932a7-8d74-45bd-ba69-88b15ba983e9)).
+## Key Points
+* Wild carnivorous and omnivorous mammals serve as the major reservoir hosts of _Trichinella_ spp parasites.
+* High-risk farming practices include intentional feeding of food waste, which might contain pork scraps, or unintentional exposure to carcasses of dead swine or infected wildlife via unsecured, free-range pasturing.
+* Naturally infected animals do not show any clinical signs of infection except in rare instances. There is no treatment.
+* Serological testing (ELISA) can be used to monitor the infection in pig herds but will not detect all infected animals.
+
+## For More Information
+* [International Commission on Trichinellosis](http://www.trichinellosis.org).
+* Mayer-Scholl A, Pozio E, Gayda J, Thaben N, Bahn P, Nöckler K. [Magnetic stirrer method for detecting Trichinella larvae in muscle samples](https://doi.org/10.3791/55354-v). _J Vis Exp_.
+* Also see pet owner content regarding _Trichinella_ spp infections in [dogs](https://www.msdvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/trichinellosis-trichinosis-in-dogs), [cats](https://www.msdvetmanual.com/cat-owners/disorders-affecting-multiple-body-systems-of-cats/trichinellosis-trichinosis-in-cats), and [horses](https://www.msdvetmanual.com/horse-owners/infectious-diseases-of-horses/trichinellosis-trichinosis-in-horses).
+
+## References
+1. Bell RG, McGregor DD. [Rapid expulsion of Trichinella spiralis: coinduction by using antigenic extracts of larvae and intestinal stimulation with an unrelated parasite](https://doi.org/10.1128/iai.29.1.194-199.1980). _Infect Immun_. 1980;29(1):194-199. doi:10.1128/iai.29.1.194-199.1980
+2. Gamble HR, Alban L, Hill D, Pyburn D, Scandrett B. [Surveillance for Trichinellainfection in U.S. pigs raised under controlled management documents negligible risk for public health](https://doi.org/10.1016/j.fawpar.2024.e00238). _Food Waterborne Parasitol_. 2019;15:e00039. doi:10.1016/j.fawpar.2024.e00238
+3. [Fresh pork from farm to table](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/meat-catfish/fresh-pork-farm-table). Food Safety and Inspection Service. US Department of Agriculture. Updated: December 10, 2024. Accessed February 4, 2026. https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/meat-catfish/fresh-pork-farm-table
+4. Dupouy-Camay J, Murrell KD, eds. [FAO/WHO/OIE guidelines for the surveillance, management, prevention, and control of trichinellosis](http://www.trichinellosis.org/uploads/FAO-WHO-OIE_Guidelines.pdf). World Organisation for Animal Health. 2007. http://www.trichinellosis.org/uploads/FAO-WHO-OIE_Guidelines.pdf
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#generalized-conditions)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

@@ -1,0 +1,65 @@
+1. <[Brain, Spinal Cord, and Nerve Disorders of Horses](https://www.msdvetmanual.com/horse-owners/brain-spinal-cord-and-nerve-disorders-of-horses)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PET OWNER VERSION
+# The Neurologic Evaluation in Horses
+By[Thomas Schubert](https://www.researchgate.net/profile/Thomas_Schubert6%20), DVM, DACVIM, DABVP, Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
+Reviewed/Revised May 2019 | Modified Sept 2024
+v3220318
+* [The Neurologic Examination](https://www.msdvetmanual.com/horse-owners/brain-spinal-cord-and-nerve-disorders-of-horses/the-neurologic-evaluation-in-horses#The-Neurologic-Examination_v3220321)|
+* [Laboratory Tests and Imaging](https://www.msdvetmanual.com/horse-owners/brain-spinal-cord-and-nerve-disorders-of-horses/the-neurologic-evaluation-in-horses#Laboratory-Tests-and-Imaging_v3220340)|
+* [For More Information](https://www.msdvetmanual.com/horse-owners/brain-spinal-cord-and-nerve-disorders-of-horses/the-neurologic-evaluation-in-horses#For-More-Information_v43524170)|
+* Multimedia|
+
+Evaluation of the nervous system begins with an accurate history and general physical examination, followed by a neurologic examination. Laboratory tests are often needed to diagnose the specific problem. Common tests include blood tests, urinalysis, analysis of the cerebrospinal fluid, x-rays, computed tomography (CT) scans, magnetic resonance imaging (MRI), and evaluation of the electrical activity of the brain, peripheral nerves, and muscles.
+## The Neurologic Examination
+A neurologic examination evaluates 1) the cranial nerves, 2) the gait, or walk, 3) the neck and front legs, and 4) the torso, hind legs, anus, and tail. Your pet’s reflexes will also be tested to determine, if possible, the location of the injury in the brain, spinal cord, or nerves in the peripheral nervous system.
+### Evaluation of the Cranial Nerves
+The 12 pairs of cranial nerves extend from specific segments of the brain stem to the left and right sides of the head. They include the nerves that transmit smell, those responsible for vision and the movement of the eye, those that control facial movements, those responsible for hearing and balance, and those responsible for chewing, swallowing, vocalizing, and movement of the tongue ( see Table: [The Cranial Nerves](https://www.msdvetmanual.com/horse-owners/brain-spinal-cord-and-nerve-disorders-of-horses/the-neurologic-evaluation-in-horses#v55083367)). Testing the reflexes of these nerves can help identify the location of damage. Your veterinarian will perform specific tests designed to pinpoint any signs of dysfunction in these nerves.
+Table
+The Cranial Nerves
+Table
+The Cranial Nerves
+The Cranial Nerves
+| Nerve  | Function  |
+| --- | --- |
+| Olfactory   | Transmit smell  |
+| Optic   | Necessary for vision; carry the sensory nerves for certain eye reflexes  |
+| Oculomotor   | Carry motor neurons that control most of the muscles of the eye  |
+| Trochlear   | Carry motor neurons that control other muscles of the eye  |
+| Trigeminal   | Include 3 main branches: the motor nerve to the muscles of the jaw, sensory nerves to the mouth and nasal cavity, and sensory nerves that carry pain sensations from the cornea (the sensitive outermost part of the eyeball)  |
+| Abducent   | Carry motor neurons that control other muscles of the eye  |
+| Facial   | Control the muscles responsible for facial expression (ears, eyelids, nose, and mouth)  |
+| Vestibulocochlear   | These nerves are divided into 2 parts: the cochlear nerve, which responds to sound; and the vestibular nerve, which functions to maintain posture and balance  |
+| Glossopharyngeal   | Provide sensory and motor control of the throat and vocal chords  |
+| Vagus   | Provide sensory and motor control for the major internal organs, including the heart and the digestive tract  |
+| Spinal accessory   | Carry sensory and motor information for the muscles of the head and upper neck  |
+| Hypoglossal nerves  | The motor nerves to the tongue  |
+An evaluation of the cranial nerves tests mental activity, head posture and coordination, and reflexes on the head. Signs identified during this evaluation indicate an injury or disease of the brain. Signs of damage to the cerebrum and brain stem can include mental deterioration, constant pacing, seizures, depression, coma, or a head turn or circling in one direction. A head tilt, bobbing, tremors, or other unusual head movements may indicate damage to the cerebellum.
+### Evaluation of Gait (Walking)
+Your veterinarian will watch your horse as it walks, trots, runs, turns, steps to the side, and backs up. Signs of dysfunction include circling, weakness or complete paralysis of any limbs, falling, stumbling, rolling, or loss of coordination. Walking horses up and down a hill or on and off a curb may make subtle problems easier to notice. Evaluation of gait is especially important in horses because spinal reflexes usually are not tested unless the horse is lying down.
+### Evaluation of the Neck and Front Legs
+Evaluation of the neck and front legs will include searching for evidence of pain, loss of muscle tone, or numbness in the neck, which may indicate an injury to the upper spinal cord. Various types of tests are done to help detect minor spinal cord injuries.
+### Evaluation of the Torso, Hind Legs, Anus, and Tail
+The trunk, or torso, is evaluated for abnormal posture or position of the vertebrae, pain, loss of feeling or hypersensitivity to light touch or pinpricking, and loss of muscle mass. Some tests used to evaluate the nerves of the neck and front legs are also used to evaluate the torso and hind legs. Loss of muscle around the torso or hind legs can indicate damage to a nerve associated with that muscle.
+## Laboratory Tests and Imaging
+**Blood tests** are often used to detect metabolic disorders, some of which can affect nervous system activity. Blood tests can also identify other conditions, including some poisonings, certain infections, muscle disorders, and the rare (in horses) condition called myasthenia gravis, an autoimmune disease in which the connections between nerve and muscle are blocked and weakness results.
+**Analysis of cerebrospinal fluid** (the fluid that surrounds the brain and spinal cord) is often useful for diagnosing a central nervous system disorder. Cerebrospinal fluid is collected from the base of the skull or from the lower back in a procedure called a **spinal tap**. An unusually high amount of protein in the cerebrospinal fluid may indicate encephalitis (inflammation of the brain), meningitis (inflammation of the covering of the brain), cancer, or a compressive injury of the spinal cord. Increased numbers of white blood cells in the cerebrospinal fluid indicate an inflammatory condition or infection. Other disorders that can be identified by cerebrospinal fluid analysis include bacterial or fungal infections, internal bleeding, brain abscesses, and some types of tumors.
+Several different types of radiographic tests can be used to detect disorders of the nervous system. **Plain x-rays** of the skull and spine can detect fractures, infections, or bone cancer. However, in most infections or cancers of the brain and spinal cord, plain x-rays appear normal. In a procedure known as **myelography,** a special dye that is visible on x-rays is injected into the cerebrospinal canal. This dye can highlight specific types of spinal problems, such as herniated (“slipped”) disks and spinal cord tumors. **Computed tomography (CT)** and **magnetic resonance imaging (MRI) scans** can also help evaluate changes in bone structure, internal bleeding, abscesses, inflammation, and certain nervous system cancers.
+Other tests may be used in some cases. An **electroencephalogram** (EEG) records electrical activity on the surface of the brain, which is affected by changes in deeper parts of the brain. Results are abnormal with hydrocephalus (excess cerebrospinal fluid), meningitis or encephalitis, head injuries, and brain tumors. An electroencephalogram can sometimes help determine the cause and severity of a seizure. An **electromyogram** (EMG) records electrical activity in muscles and nerves. In this test, a nerve is stimulated electrically, and the speed of conduction along the neurons is calculated. This technique can detect nerve injury and myasthenia gravis. A **brain stem auditory evoked response (BAER)** records electrical activity in the pathway from the sound receptors in the ear to the brain stem and cerebrum. In cases of deafness caused by nerve damage, the BAER generates no response. Brain-stem disorders may also change the BAER.
+## For More Information
+Also see professional content regarding [the neurologic evaluation](https://www.msdvetmanual.com/nervous-system/the-neurologic-examination/the-neurologic-examination-of-animals).
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#horse-owners)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

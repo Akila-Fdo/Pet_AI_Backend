@@ -1,0 +1,107 @@
+1. <[Neosporosis in Dogs](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+PROFESSIONAL VERSION
+# Neosporosis in Dogs
+By[Joyce Carnevale](https://www.msdvetmanual.com/authors/carnevale-joyce), DVM, DABVP, College of Veterinary Medicine, Iowa State University;
+[Matthew T. Brewer](https://www.msdvetmanual.com/authors/brewer-matthew), DVM, PhD, DACVM, Iowa State University
+Reviewed By[Patrick Carney](https://www.msdvetmanual.com/authors/carney-patrick), DVM, PhD, DACVIM, Cornell University College of Veterinary Medicine
+Reviewed/Revised Modified Mar 2025
+v3273753
+Neosporosis in dogs and wild canids is a disease caused by an infection with the protozoal parasite _Neospora caninum_. Clinical signs are generally absent in adult dogs. Signs are most commonly observed in puppies and are primarily neurological and neuromuscular, characterized by progressive myositis with paraparesis and muscle rigidity. Diagnosis is based on a combination of history, clinical signs, histological evaluation, serological testing, and PCR assay. Treatment with antimicrobials is difficult and can be partially or completely ineffective.
+* [Etiology and Pathogenesis](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#Etiology-and-Pathogenesis_v3273763)|
+* [Epidemiology](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#Epidemiology_v97690216)|
+* [Clinical Findings](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#Clinical-Findings_v3273775)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#Diagnosis_v3273789)|
+* [Treatment, Prevention, and Control](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#Treatment,-Prevention,-and-Control_v3273799)|
+* [Zoonotic Risk](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#Zoonotic-Risk_v3273815)|
+* [Key Points](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#Key-Points_v48511789)|
+* [For More Information](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#For-More-Information_v48511796)|
+* [References](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#References_v97690280)|
+
+Neosporosis is an important neuromuscular disease of domestic dogs and wild canids worldwide.
+Historically confused with toxoplasmosis, neosporosis was first described as a distinct disease in 1984 in a litter of puppies with clinical signs similar to those of [toxoplasmosis](https://www.msdvetmanual.com/generalized-conditions/toxoplasmosis/toxoplasmosis-in-animals). In 1988, the causative organism, _Neospora caninum_ , was identified.
+In addition to causing disease in dogs, _N caninum_ infection is the most common cause of abortion in cattle and is a cause of infertility and neonatal mortality (see [Neosporosis in Cattle](https://www.msdvetmanual.com/reproductive-system/neosporosis-in-cattle/neosporosis-in-cattle)).
+## Etiology and Pathogenesis of Neosporosis in Dogs
+_Neospora caninum_ is an obligate intracellular coccidian protozoal parasite. Multiple strains exist.
+Stages of  _N caninum_ are similar to those of _Toxoplasma gondii_ (see [Toxoplasmosis](https://www.msdvetmanual.com/generalized-conditions/toxoplasmosis/toxoplasmosis-in-animals)) and include oocysts (environmental stage formed in the canine intestinal epithelium and passed in feces), sporozoites (each sporulated oocyst contains two sporocysts, each containing four sporozoites), tachyzoites (rapidly dividing stages that actively invade tissues), and tissue cysts composed of bradyzoites (slowly dividing stages that encyst within tissues).
+When a dog ingests _N caninum_ oocysts (or tissue cysts), sporozoites release from sporulated oocysts (or bradyzoites excyst from tissue cysts) within the duodenum. These stages then transform into tachyzoites within the intestinal epithelium. Tachyzoites multiply asexually and disseminate.
+After invading a cell, tachyzoites multiply and cause the cell to die, producing clinical signs associated with the organs or tissues involved. Neuronal cell destruction within cranial and spinal nerves produces neuromuscular disease.
+The host's immune response to _N caninum_ can lead to differentiation of tachyzoites into bradyzoites (with tissue cyst formation). Cysts are found primarily in muscles and CNS tissues. Recrudescence of latent, chronic disease can occur when encysted bradyzoites convert back into tachyzoites.
+## Epidemiology of Neosporosis in Dogs
+### Geographic Distribution
+_N caninum_ is found worldwide.
+### Species Affected
+Dogs are the definitive domestic hosts of _N caninum_ ; coyotes, gray wolves, and Australian dingos are the definitive wild hosts.
+Many intermediate hosts of _N caninum_ have been identified, including species as diverse as wild canids, domestic and wild ruminants, equids, rodents, rabbits and hares, domestic and wild felids, sea otters and spotted seals, chickens, and several wild birds, including pigeons and several _Corvus_ spp, specifically the common raven, hooded crow, and western jackdaw.
+In cats, neosporosis has been produced experimentally ([1](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#3a63b161-ddbc-4fe9-86c5-652fd9e1cec1)), but clinical infection is extremely rare. Serological evidence has been found of _N caninum_ infection circulating in feral cat populations in Brazil, Thailand, and Hungary ([2](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#3a63b161-ddbc-4fe9-86c5-652fd9e1cec1)). The infection rates were low, and cats did not show clinical signs of neosporosis.
+### Life Cycle
+_N caninum_ is an intracellular parasite with a facultative, indirect life cycle, reproducing sexually in enterocytes from definitive hosts and asexually in nucleated cells from intermediate hosts.
+1. Unsporulated _N caninum_ oocysts are shed in the feces of the definitive canine host. The oocysts sporulate in 1–3 days and can survive in the environment for extended periods. Sporulated oocysts contain sporozoites, which, after being ingested by an intermediate host, enter the intestinal wall and become tachyzoites that spread throughout the body.
+2. Tachyzoites transform into bradyzoites in numerous tissues, including muscle, nervous tissue, placental tissue, and fetal tissue, forming a tissue cyst. The cyst wall is very thick and resistant to the extracellular environment.
+3. Bradyzoites can survive in low temperatures and are resistant to host digestive factors, including pepsin and trypsin.
+
+### Transmission
+Domestic dogs become infected with _N caninum_ by ingesting tissues from intermediate hosts that contain tissue cysts. They can also become infected by ingesting sporulated oocysts from the feces of another definitive host. In the definitive host, unsporulated oocysts form in intestinal epithelial cells as bradyzoites, transform into merozoites, and undergo merogony. A zygote forms and is shed in the feces. The process takes 5–7 days.
+_**N caninum**_**is transmitted vertically and horizontally.****Transmission can result from a new infection or recrudescence of a preexisting infection.**
+Horizontal transmission of _N caninum_ occurs through ingestion of an intermediate host's infected tissues containing oocysts or tissue cysts, of water sources containing sporulated oocysts, or of sporulated oocysts acquired from the environment and originating from a definitive host's feces. Horizontal transmission to domestic dogs living on farms occurs commonly when they ingest bovine contaminated muscle or fetal membranes.
+## Clinical Findings of Neosporosis in Dogs
+Clinical signs of neosporosis are typically found in dogs < 6 months old and can appear as early as 3 weeks of age. The disease affects primarily the nervous and muscular systems.
+Neosporosis signs include paresis, myositis, and rigid hyperextension that progresses to contracture. Hindlimbs are initially more severely affected than forelimbs. Puppies can also develop cervical weakness and dysphagia that ultimately leads to death.
+Neosporosis is less severe in adult dogs, and it can cause subclinical disease in some older dogs. Adults can be affected by acquisition of a novel infection or by reactivation of an existing infection secondary to an immunocompromising condition or pregnancy.
+Signs of a multifocal CNS problem (eg, paralysis, tremors, difficulty swallowing) or myositis (eg, muscle weakness, swelling, pain, and atrophy) are the common clinical signs of neosporosis in adults. Pneumonia, myocarditis, dermatitis, and peritonitis have also been reported in adults and can be associated with the use of immunosuppressive drugs.
+Reproductive problems, such as infertility and neonatal mortality, can also occur ([3](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#3a63b161-ddbc-4fe9-86c5-652fd9e1cec1), [4](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs#3a63b161-ddbc-4fe9-86c5-652fd9e1cec1)).
+## Diagnosis of Neosporosis in Dogs
+* Histological examination
+* Serological testing
+* PCR assay
+
+Diagnosis of neosporosis in dogs can be challenging. Relevant historical information (eg, access to bovine placental tissue) and clinical findings help to identify suspected cases.
+Consultation with a clinical pathologist or parasitologist at a diagnostic laboratory might be helpful in creating a plan to confirm suspected cases of _N caninum_ infection. Testing for _T gondii_ infection can be beneficial because the clinical signs are similar and there could be a concurrent infection.
+Pearls & Pitfalls
+|
+* Consultation with a clinical pathologist or parasitologist at a diagnostic laboratory might be helpful in creating a plan to confirm suspected cases of neosporosis.
+
+|
+| --- |
+If _N caninum_ infection is suspected, histological examination of muscle tissue samples might demonstrate protozoal organisms. Immunohistochemistry could be needed to confirm the diagnosis. PCR assay and serological testing (_Neospora_ indirect fluorescent antibody test [IFAT] or ELISA) can also confirm the diagnosis.
+## Treatment, Prevention, and Control of Neosporosis in Dogs
+* Antimicrobials
+* Environmental management
+
+Treatment of neosporosis usually is ineffective or results in only partial, temporary response. The organism is difficult to clear, and neurological signs might not resolve, because of irreversible pathological changes caused by the infection. An alternative approach is to strive to control clinical signs.
+Adult dogs have much better outcomes than do young dogs.
+Treatment is most effective in cases of cutaneous neosporosis and in the early stages of infections involving neuromuscular signs (ie, before contracture has begun).
+Clindamycin (12.5–25 mg/kg, PO, every 12 hours) has antiprotozoal effects and is effective against _N caninum_ tachyzoites. Combining clindamycin with trimethoprim-sulfa (15–20 mg/kg, PO, every 12 hours) or pyrimethamine (1 mg/kg, PO, every 24 hours) amplifies the antiprotozoal effects.
+Treatment of neosporosis should continue until improvements in clinical signs are no longer observed, typically at least 4 weeks. Medications target only tachyzoites. Bradyzoites in tissue cysts are not affected.
+In puppies with meningoencephalomyelitis, a low dose of prednisone (0.5 mg/kg, PO, every 12 hours) can be combined with antiprotozoal medications to help alleviate clinical signs; however, there are no conclusive studies on the efficacy of adding glucocorticoids.
+Vaccines against neosporosis are not available.
+Another measure to prevent neosporosis in dogs is to eliminate opportunities to ingest tissues from intermediate hosts and water from potentially contaminated sources, including drinking fountains.
+## Zoonotic Risk of Neosporosis in Dogs
+Despite its similarity to toxoplasmosis, **neosporosis has not been clearly associated with any human disease**. Laboratory workers should guard against accidental inoculation, which has caused fetal lesions in parenterally inoculated primates.
+## Key Points
+* Neosporosis should be suspected in puppies or young dogs with progressive weakness and hyperextension of hindlimbs.
+* Clindamycin is used to treat neosporosis in dogs, but treatment is often ineffective.
+
+## For More Information
+* Companion Animal Parasite Council: [Neosporosis](https://capcvet.org/guidelines/neosporosis)
+* Silva RC, Machado GP. [Canine neosporosis; perspectives on pathogenesis and management](https://doi.org/10.2147/VMRR.S76969). _Vet Med (Auckl)_. 2016(7):59-70.
+* Sykes, JE. Neosporosis. In Sykes JE, ed. _Canine and Feline Infectious Diseases_. Elsevier; 2022:704-712.
+* Also see pet owner content regarding [neosporosis in dogs](https://www.msdvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/neosporosis-in-dogs).
+
+## References
+1. Dubey JP, Lindsay DS, Lipscomb TP. [Neosporosis in cats](https://doi.org/10.1177/030098589002700505). _Vet Pathol_. 1990;27(5):335-339. doi:10.1177/030098589002700505
+2. de Lima DCV, Magalhães FJR, Andrade MR, et al. [Anti-Neospora caninum antibodies in feral cats on the Island of Fernando de Noronha, Brazil](https://doi.org/10.1515/ap-2018-0074). _Acta Parasitol_. 2018;63(3):645-646. doi:10.1515/ap-2018-0074
+3. Prandini da Costa Reis R, Crisman R, Roser M, Malik R, Šlapeta J. [Neonatal neosporosis in a 2-week-old Bernese mountain dog infected with multiple Neospora caninum strains based on MS10 microsatellite analysis](https://doi.org/10.1016/j.vetpar.2016.03.023). _Vet Parasitol_. 2016;221:134-138. doi:10.1016/j.vetpar.2016.03.023
+4. Robbe D, Passarelli A, Gloria A, et al. [Neospora caninum seropositivity and reproductive risk factors in dogs](https://doi.org/10.1016/j.exppara.2016.02.003). _Exp Parasitol_. 2016;164:31-35. doi:10.1016/j.exppara.2016.02.003
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

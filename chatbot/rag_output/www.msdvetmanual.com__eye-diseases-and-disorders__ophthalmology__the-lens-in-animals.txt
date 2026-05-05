@@ -1,0 +1,82 @@
+1. <[Ophthalmology](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# The Lens in Animals
+By[Ralph E. Hamor](https://www.msdvetmanual.com/authors/hamor-ralph), DVM, MS, DACVO, University of Florida, College of Veterinary Medicine
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Feb 2023 | Modified Sept 2024
+v3269803
+* Multimedia|
+
+The optically clear and avascular lens consists of (from anterior to posterior) the anterior lens capsule, anterior cortex, nucleus, posterior cortex, and very thin posterior lens capsule. The lens is formed early in the development of the eye and coated with its basement membranes (anterior and posterior lens capsules), which insulate the lens proteins from the later-developing immune system. Hence, in later life, if the lens capsule barrier is compromised by trauma or surgery, the immune system “attacks” the foreign lens material. The sole function of the lens is to allow unaltered passage of light and images to the retina. Diseases of the lens involve changes in its transparency.
+Nuclear sclerosis and early cataract formation, dog
+Image
+Nuclear sclerosis (central, circular gray zone) and early cataract formation (small peripheral bubbles and opacities) in the lens of an aged Cocker Spaniel.
+Courtesy of K. Gelatt.
+**Cataracts** are opacities of the lens or its capsule and should be differentiated from the minor lens imperfections in young dogs (seen on slit-lamp biomicroscopy) and the normal increase in nuclear density (nuclear sclerosis) that occurs in older animals. Cataract formation and cataract surgery in humans and dogs have many similarities; however, dogs experience more postoperative anterior uveitis. Cataracts are usually classified by their age of onset (congenital, juvenile, senile), anatomical location, cause, extent of opacification (incipient, immature, mature, hypermature), and shape. Most cataracts can be detected by dilating the pupil and examining the pupillary region against the retroillumination of the tapetal fundus. Slit-lamp biomicroscopy is the optimal method for examining the lens. Cataracts (often inherited) are more common in dogs than in other species , and they vary by age of onset, rate of progression, and the original site of cataract formation.
+Breeds with heritable cataracts include:
+* Dogs
+* Afghan Hound
+* Australian Shepherd
+* Bichon Frise
+* Boston Terrier
+* Chesapeake Bay Retriever
+* Cocker Spaniel
+* Entlebucher Mountain Dog
+* German Shepherd Dog
+* Golden Retriever
+* Havanese
+* Labrador Retriever
+* Miniature Schnauzer
+* Norwegian Buhund
+* Old English Sheepdog
+* Rottweiler
+* Siberian Husky
+* Staffordshire Bull Terrier
+* Standard Poodle
+* Welsh Springer Spaniel
+* West Highland Terrier
+* Horses
+* Belgian
+* Morgan
+* Cattle
+* Holstein-Friesian
+* Jersey
+* Sheep
+* New Zealand Romney
+
+Cataract, foal
+Image
+Cataract formation in a foal's eye. The pupil has been dilated. The photograph shows the presence of a late immature to mature cataract, along with diffuse hyperpigmentation of the iris.
+Courtesy of K. Gelatt.
+Mature cataract secondary to anterior uveitis, adult horse
+Image
+A mature cataract, secondary to anterior uveitis, in the eye of a horse. Posterior synechiae are visible, and pigment is scattered across the anterior lens capsule secondary to chronic anterior uveitis.
+Courtesy of K. Gelatt.
+Cataract formation, rabbit
+Image
+Rabbit's eye: focal cataract formation has affected the lens nucleus and is not progressive.
+Courtesy of K. Gelatt.
+Lens subluxation, dog
+Image
+This subluxated lens is partially held by remaining zonules, creating an area of the lateral pupil that lacks lens (aphakic crescent).
+Courtesy of K. Gelatt.
+Congenital cataracts in some breeds (eg, the Miniature Schnauzer) involve the central lens and can be observed after the eyelids open in puppies. Other causes include [diabetes mellitus](https://www.msdvetmanual.com/endocrine-system/the-pancreas/diabetes-mellitus-in-dogs-and-cats) (the second most frequent group of cataract surgeries in the dog), malnutrition, radiation, inflammation, and trauma. In cats and horses, most cataracts are secondary to anterior uveal inflammation. Cataracts secondary to anterior uveitis in horses often have posterior synechiae and variable iris pigment adhered to the anterior lens capsule. Most reported inherited cataracts in cats are in young animals. Population studies on cataracts in cattle, rabbits (laboratory and pet), and guinea pigs suggest spontaneous cataracts occur not infrequently, but that subsequent blindness in these species is rare.
+In dogs, cataracts that are secondary to [diabetes mellitus](https://www.msdvetmanual.com/endocrine-system/the-pancreas/diabetes-mellitus-in-dogs-and-cats) are increasingly common, occurring in > 85% of diabetic dogs regardless of their diabetic regulation. The increased blood glucose causes intralenticular sorbitol to accumulate within the lens, increasing the osmotic forces of the lens and causing the lens fibers to imbibe water, resulting in fiber swelling, rupture, and lens opacity. Typically, these cataracts develop rapidly and can occasionally rupture the equatorial or posterior lens capsule, causing extensive uveitis. Cataract surgery appears to have the same success rate as for inherited cataracts in dogs. Other ocular sequelae of diabetes mellitus in dogs are occasional small retinal hemorrhages, presumed corneal neuropathy, and decreased corneal sensitivity. Cats seem quite resistant to diabetes-related cataract formation, perhaps because of lower aldose reductase activity than in dogs.
+Cataract formation is often advanced in animals that are presented for blindness. Sight may be regained in some young dogs, cats, and horses when cataracts undergo sufficient spontaneous resorption; congenital nuclear cataracts in young animals may decrease in size with growth of the lens to permit restoration of vision as the animal matures. Animals with immature and incomplete cataracts may benefit from the application of topical ophthalmic atropine 2–3 times per week, which allows vision around a central or nuclear cataract. However, the only definitive treatment for cataracts is surgical removal of the lens. In dogs, numerous studies have shown cataract surgery to be 90%–95% successful within the first 1–2 years. In dogs and horses, cataract extraction, often by phacoemulsification and with intraocular lens implantation, yields the best results when performed before cataract maturation is complete and lens-induced uveitis (due to leakage of lens material) is established. Cataract removal is quite successful in foals (generally < 6 months old). Surgery in adult horses is less successful than in foals because most cataracts in adult horses are secondary to chronic equine recurrent uveitis. In animals in which cataract surgery is not performed, chronic treatment with topical anti-inflammatory agents and continued clinical monitoring are important. Secondary lens-induced anterior uveitis often requires longterm monitoring and repeated tonometry; glaucoma and phthisis bulbi are possible sequelae.
+**Lens displacement**(subluxation, anterior or posterior luxation) occurs in all animal species; in several terrier breeds, however, it is common as a primary inherited defect associated with the ADAMTS17 mutation. Anterior lens luxation in dogs is often associated with corneal edema and acute secondary glaucoma. Treatment is surgical removal by phacoemulsification, intracapsular lens extraction, or transcorneal reduction of the anterior lens luxation. Posterior luxation of the lens into the vitreous cavity is often asymptomatic but may associated with ocular inflammation or glaucoma. Subluxated lenses are recognized by an aphakic crescent and trembling or instability of the iris (iridodonesis) and lens (phacodonesis). The decision to remove subluxated lenses is based on the severity of ocular disease that can be attributed to the lens displacement. Minimally subluxated lenses are often treated with topical miotics in an attempt to trap the lens behind the miotic pupil and prevent the lens from moving forward. More severely subluxated lenses can be considered for surgical removal but this is generally used for anterior lens luxations. Lens displacements also can be produced by enlargement of the globe with glaucoma, as well as by inherited or degenerative zonular changes. Procedures to remove the lens for lens displacement are associated with higher levels of glaucoma and retinal detachment as postoperative complications.
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#eye-diseases-and-disorders)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

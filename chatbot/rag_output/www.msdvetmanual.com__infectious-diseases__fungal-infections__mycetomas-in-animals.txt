@@ -1,0 +1,45 @@
+1. <[Fungal Infections](https://www.msdvetmanual.com/infectious-diseases/fungal-infections)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Mycetomas in Animals
+By[Tamara Gull](https://www.msdvetmanual.com/authors/gull-tamara), DVM, PhD, DACVM, DACVIM (LA), DACVPM, University of Missouri, Veterinary Medical Diagnostic Laboratory
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Apr 2023 | Modified Sept 2024
+v3273207
+Mycetomas are granulomatous nodules in subcutaneous tissue that contain often macroscopically visible grains or granules. Within the grains are dense colonies of the organism. When such lesions are due to fungi, they are known as eumycotic mycetomas.
+* [Clinical Findings and Lesions](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/mycetomas-in-animals#Clinical-Findings-and-Lesions_v3273216)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/mycetomas-in-animals#Diagnosis_v3273220)|
+* [Treatment](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/mycetomas-in-animals#Treatment_v3273223)|
+
+The causal agents of eumycotic mycetomas include a variety of saprophytic geophilic fungi that are included in both the hyalohyphomycetes and the phaeohyphomycetes. Eumycotic mycetomas due to phaeohyphomycete pigmented fungi such as _Curvularia_ spp and _Madurella_ spp are called **black- or dark-grain mycetomas**. **White-grain mycetomas** are due to unpigmented hyalohyphomycete fungi such as _Acremonium_ spp and _Scedosporium_ spp.
+## Clinical Findings and Lesions of Mycetomas in Animals
+Most eumycotic mycetomas are confined to the subcutaneous tissue; however, white-grain mycetomas may be extensions of abdominal cavity disease. Peritonitis or abdominal masses may occur with white-grain mycetomas. Black-grain mycetomas are usually characterized by poorly circumscribed cutaneous nodules on the extremities or face.
+The lesions may ulcerate or form fistulas. When the feet or limbs are involved, the infection may extend to the underlying bone.
+The fungal mycelia proliferate in the lesions and organize into aggregates known as granules or grains. In these granules, the mycelium is compact and frequently bizarre and distorted in form. Chlamydospores are frequent, especially at the periphery, and the mycelium may or may not be embedded in an amorphous mineral substance.
+Histologically, the granules are frequently surrounded by eosinophilic deposits. Granules may be of various colors and sizes, depending on the species of fungus involved.
+## Diagnosis of Mycetomas in Animals
+* Grains in exudate
+* Culture or molecular identification
+
+A presumptive diagnosis of mycetoma can be made if there are grains within the exudate. Exudates from draining wounds or ascites should be palpated between the fingers to assess for grains; microscopic examination may also be done. For cytology, the grains should be examined under higher magnification for the presence of fungal elements.
+If no tissue grains are found in the exudate, a biopsy of the lesion should be taken for histopathologic examination. Cultures should be performed to confirm cytologic findings and to identify the causative agent. Either tissue grains or biopsy specimens should be cultured for morphologic or molecular identification.
+## Treatment of Mycetomas in Animals
+* Surgical excision with or without antifungal drugs
+* Antifungal treatment may be unrewarding
+
+The prognosis for abdominal mycetomas is guarded because tissue involvement is usually extensive and resection may be impossible. Cutaneous mycetomas, while not life-threatening, are often difficult to resolve. Radical surgical excision, including limb amputation, may be effective for some cases of cutaneous mycetoma.
+Effectiveness of antifungal chemotherapy has been reported in only a few cases. In one report, fluconazole, 50 mg every 24 hours for 6 weeks, was used to successfully treat a dog with intra-abdominal maduromycosis. In another report, longterm treatment with itraconazole, 5–10 mg/kg every 24 hours, failed to resolve a disseminated _Acremonium_ infection in a dog. A literature review reveals more treatment failures than successes.
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

@@ -1,0 +1,137 @@
+1. <[Tyzzer Disease](https://www.msdvetmanual.com/digestive-system/tyzzer-disease)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+PROFESSIONAL VERSION
+# Tyzzer Disease in Animals
+By[Tamara Gull](https://www.msdvetmanual.com/authors/gull-tamara), DVM, PhD, DACVM, DACVIM (LA), DACVPM, University of Missouri, Veterinary Medical Diagnostic Laboratory
+Reviewed By[João Brandão](https://www.msdvetmanual.com/authors/brandao-joao), LMV, DECZM (Avian), DACZM, Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University
+Reviewed/Revised Modified Mar 2026
+v3261788
+Recently Added
+0px
+* Coverage of Tyzzer disease in kittens.
+
+Tyzzer disease is caused by the bacterium _Clostridium piliforme_. The disease affects a variety of animals, including mammals and birds; it is most commonly recognized in foals and kittens. Tyzzer disease is characterized by a triad of lesions: colitis, hepatitis, and myocarditis; however, the three are usually not present together in a single animal. Treatment is supportive and nonspecific, with a low success rate.
+* [Etiology and Pathogenesis](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#Etiology-and-Pathogenesis_v3261792)|
+* [Clinical Findings](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#Clinical-Findings_v3261803)|
+* [Diagnosis](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#Diagnosis_v3261811)|
+* [Treatment and Control](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#Treatment-and-Control_v3261814)|
+* [Key Points](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#Key-Points_v54077495)|
+* [For More Information](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#For-More-Information_v54077506)|
+* [References](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#References_v107988230)|
+* Multimedia|
+
+Tyzzer disease is caused by the **bacterium _Clostridium piliforme_** and affects a wide range of animals in many regions of the world. It was first described in mice in 1917. Several years later, it was reported in laboratory rabbits and then in other small laboratory mammals, including guinea pigs, hamsters, gerbils, and rats.
+Tyzzer disease is **highly fatal in young foals** , but it is rare in other domestic animals, including dogs, cats, and calves. It has been reported, albeit rarely, in a variety of wildlife, including muskrats, cottontail rabbits, coyotes, gray foxes, lesser pandas, snow leopards, raccoons, marsupials, white-tailed deer, and a few avian species.
+Tyzzer disease **affects primarily young, well-nourished animals** , especially those **fed high-protein diets** ,**during periods of stress**. Some species appear resistant unless stressed or immunosuppressed; others appear to be susceptible without immunosuppression. Dietary factors, including excessive amounts of nitrogen fed to laboratory animals or to nursing mares, can cause immunosuppression and can predispose susceptible animals to the disease.
+In most animal species, Tyzzer disease is characterized by primarily **liver failure and icterus** , a consequence of **hepatic necrosis**. Less frequently, diarrhea occurs. A triad of lesions consisting of **hepatitis, colitis, and myocarditis** is considered typical for the disease. However, although hepatitis seems to be constant in all species, colitis and myocarditis occur sporadically in some species.
+Little is known about predisposing factors; however, **immunosuppressive agents and drugs such as sulfonamides can predispose** animals to Tyzzer disease.
+Diagnosis of Tyzzer disease is usually confirmed by histological evaluation and supported by PCR assay for _C piliforme_. Treatment is mostly supportive, via fluid therapy. Foals may be treated with penicillin; the rate of success, however, is low.
+## Etiology and Pathogenesis of Tyzzer Disease
+Tyzzer disease is caused by **_Clostridium piliforme_** , a Gram-variable, motile, **spore-forming** , rod-shaped, flagellated, obligate, **intracellular bacterium** (see C piliforme image). It does not grow in cell-free media but can be cultured in the yolk sac of chick embryos or tissue culture cells.
+_Clostridium piliforme_ , liver, photomicrograph
+Image
+Photomicrograph of _Clostridium piliforme_ rods (black) in the cytoplasm of hepatocytes. Note the characteristic bundling of the rods. Silver stain; high power.
+Courtesy of Dr. Francisco Uzal.
+The vegetative phase of _C piliforme_ is very labile, but its spores can survive in soiled bedding at room temperature for > 1 year and are resistant to heating up to 60°C (140°F) for 30 minutes, or to exposure to 70% ethanol, 3% cresol, 4% chlorhexidine, and 0.037% formaldehyde. However, spores are susceptible to 0.4% peracetic acid, 0.015% sodium hypochlorite, 1% iodophor, and 5% phenol.
+_C piliforme_ appears to be common in the environment and in the GI tracts of many animal species. Because it is a difficult organism to culture, little is known about the epidemiology or pathogenesis of this infection, or about immunity to it.
+Most information about the pathogenesis of Tyzzer disease comes from experimental work in laboratory animals; little is known about the pathogenesis of the spontaneous disease in domestic or wild animals. The **feces of sick or carrier animals are the primary source of spores that contaminate the environment**.
+Once Tyzzer disease is present on a farm, it can occur sporadically. The **mode of transmission is believed to be fecal-oral, by ingestion of spores** , after which most immunocompetent animals clear the infection within a few weeks.
+In susceptible individuals, _C piliforme_ replicates in the intestinal mucosa, likely the ileum, colon, and cecum, where it results in enterocyte death and, in some cases, associated inflammation. The microorganism is then absorbed into the portal circulation, from where it is distributed to the liver and other organs.
+_C piliforme_ has an affinity for epithelial and smooth muscle cells of the intestines, hepatocytes, and cardiac myocytes. **Stresses such as capture, overcrowding, shipping, and poor sanitation or nutrition appear to be predisposing factors.** Sulfonamide administration predisposes rabbits to the disease.
+_C piliforme_**infections are often subclinical** ; however, they **can be severe or lethal**. Susceptibility varies between animal species. B lymphocytes, T lymphocytes, and natural killer cells might play a role in mediating strain susceptibility in laboratory animals.
+Tyzzer disease is relatively **common in horses** , which are susceptible to at least two distinct strains; however, very little information is available about specific features of the disease caused by each of these strains. Some isolates of  _C piliforme_ produce toxins; others do not. The nature and role of these toxins in the pathogenesis of infection are unknown, but toxic isolates are generally more virulent than nontoxic isolates.
+Tyzzer disease usually occurs **between 1 and 6 weeks of age in foals** , with most cases occurring between 1 and 2 weeks; **at weaning in rabbits** ; and **between 1 and 8 weeks of age in kittens**. In some species, the disease has been identified concurrently with other diseases, such as [feline infectious peritonitis](https://www.msdvetmanual.com/infectious-diseases/feline-infectious-peritonitis/feline-infectious-peritonitis) and feline herpesvirus infection in cats, [distemper](https://www.msdvetmanual.com/infectious-diseases/canine-distemper/canine-distemper) and [mycotic pneumonia](https://www.msdvetmanual.com/respiratory-system/fungal-pneumonia-in-small-animals/fungal-pneumonia-in-small-animals) in dogs, and cryptosporidial and coronaviral enteritis in calves.
+**In foals** , Tyzzer disease is more common **in spring** , when **nursing mares are exposed to lush, high-protein pastures**. The increase in availability of nutrients from pasture forages and supplemental diets might encourage the overgrowth of _C piliforme_ in the gut of nursing mares. This process predisposes **neonatal foals** to the disease by **exposing them to massive numbers of the bacterium when they ingest the feces of their dams soon after birth** , as a mechanism to establish their normal intestinal flora. The immature gut is likely more permeable to pathogens such as _C piliforme_.
+**In foals** , Tyzzer disease affects primarily the **liver** , where it induces **widespread multifocal necrosis** ; affected foals usually **die of acute liver failure**. Only young foals ≤ 6 weeks old develop lesions. In one study in California, all foals with Tyzzer disease had liver lesions, and fewer than one-third of those animals had enteric or myocardial lesions ([1](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#60180257-23d3-4585-aeb7-1fb382cf0aa9)).
+**Older foals become more resistant** to Tyzzer disease as the gut matures. The disease is not recognized in adult horses; however, they carry the bacterium in their gut.
+In horses, immunological factors seem to affect the likelihood of Tyzzer disease, because many adults have antibodies against _C piliforme_ and do not develop clinical signs. The disease is more common in foals suckling young mares that have been introduced to a farm where the disease is endemic. It is less common in foals suckling older mares, suggesting that older mares are immune to the disease and might transfer _C piliforme_ antibodies to their foals in colostrum.
+In cats, Tyzzer disease is most commonly recognized in **orphaned kittens** born to feral queens, and immunosuppression due to environmental or nutritional causes is often present. **Colitis is the most common lesion in kittens** ; however, hepatitis, myocarditis, and perianal cutaneous infection also occur.
+## Clinical Findings of Tyzzer Disease
+Tyzzer disease often affects apparently **healthy, fast-growing foals**. The incubation period in experimentally infected foals is 4–7 days after oral exposure to bacterial spores. Most **affected foals are found in a coma or dead**.
+**Clinical signs** of Tyzzer disease, if present, are of **short duration** , lasting from a few hours to 2 days. Clinical signs vary; they can include **depression, anorexia, pyrexia, jaundice, diarrhea, and recumbency**. Near death, **seizures and coma** occur.
+Laboratory animals, including **rabbits** , are sometimes **found dead** at the start of a Tyzzer disease outbreak. As the disease progresses in the colony, animals might show **depression, a ruffled coat** , and varying extents of **watery diarrhea**.
+Among cats, **orphaned kittens appear to be at higher risk** for Tyzzer disease. The most common clinical sign in kittens is **diarrhea**. Data suggest that, compared with foals, kittens have more prolonged disease course and a **lower mortality rate**. Affected kittens had littermates with diarrhea that survived; however, antemortem testing was not conducted on these littermates. Concurrent sepsis was the most common comorbidity among deceased kittens ([2](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#60180257-23d3-4585-aeb7-1fb382cf0aa9)).
+In foals with Tyzzer disease, the serum enzymes sorbitol dehydrogenase, AST, ALP, LDH, and GGT are increased. Hyperbilirubinemia, leukopenia, hemoconcentration, and terminally profound hypoglycemia can also develop. Clinicopathological tests are of minimal value in laboratory animals because of quick death. Clinicopathological data have not been reported for kittens.
+Wildlife species can be subclinically colonized by _Clostridium piliforme_ ; however, rare cases of Tyzzer disease are reported (eg, [3](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#60180257-23d3-4585-aeb7-1fb382cf0aa9), [4](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#60180257-23d3-4585-aeb7-1fb382cf0aa9), [5](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#60180257-23d3-4585-aeb7-1fb382cf0aa9), [6](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#60180257-23d3-4585-aeb7-1fb382cf0aa9)).
+### Lesions of Tyzzer Disease
+Characteristic gross lesions of Tyzzer disease occur in the liver, and less frequently in the myocardium and/or intestinal tract. Rarely, lesions occur in other organs.
+In most species of animals affected by Tyzzer disease, many **white, gray, or yellowish foci of necrosis** , approximately 2 mm in diameter, occur **throughout the liver** (see gross specimen image). In addition, **hepatomegaly** is marked, and the hepatic lymph nodes are edematous and hyperplastic.
+Tyzzer disease, hepatic necrosis, foal, gross specimen
+Image
+Gross specimen showing multifocal necrosis in the liver of a foal with Tyzzer disease. Note the orange discoloration of the entire liver.
+Courtesy of Dr. Francisco Uzal.
+Foals with Tyzzer disease always have liver lesions; lesions in the colon and heart are much less common.
+In **rabbits** with Tyzzer disease, in addition to liver lesions, **severe lesions develop in the intestine and heart**. The ileum, cecum, and proximal colon are diffusely reddened. Ecchymoses frequently occur on the serosa of the colon and cecum. Patchy areas of mucosal necrosis and transmural edema are present in these organs. Mesenteric lymph nodes can be enlarged and edematous. White streaks in the myocardium might be present, especially near the apex.
+In **kittens** with Tyzzer disease, large intestinal lesions, including ulcerative and/or erosive **colitis or typhlitis** , predominate. In most animals of other species, intestinal and heart lesions are generally milder or absent.
+Microscopically, **in all animal species with Tyzzer disease** , there are **multifocal areas of lytic hepatic necrosis** (see photomicrograph). In foals, hepatic lesions are more pronounced than in other animals. The necrotic foci tend to coalesce. The hepatocytes in the center of the necrotic foci are replaced by a mixture of cell debris, mononuclear cells, neutrophils, and RBCs.
+Tyzzer disease, hepatic necrosis, foal, photomicrograph
+Image
+Photomicrograph of a histological specimen showing multifocal necrosis in the liver of a foal with Tyzzer disease. H&E stain; medium power.
+Courtesy of Dr. Francisco Uzal.
+The filamentous _Clostridium piliforme_ bacilli that cause Tyzzer disease occur in a crisscross pattern in the cytoplasm of hepatocytes and rarely in the interstitium; they are located mostly at the periphery of the necrotic foci. In kittens, neutrophilic crypt abscesses and crypt degeneration with lymphohistiocytic and neutrophilic infiltrate are reported.
+In the **cecum and colon of rabbits** with Tyzzer disease, **multifocal mucosal ulceration** is associated with infiltrates of neutrophils (see colitis image). _C piliforme_ bacilli can be found in enterocytes and smooth muscle cells of the muscularis mucosa and muscularis externa. If present, cardiac lesions consist of foci of **myocardial necrosis** , with minimal inflammatory cell infiltration.
+Tyzzer disease, colitis, rabbit, photomicrograph
+Image
+Photomicrograph showing histopathological lesions in a rabbit with Tyzzer disease, illustrating colitis with mucosal necrosis and filamentous bacilli (arrows) in the cytoplasm of enterocytes. H&E stain; high power.
+Courtesy of Dr. Francisco Uzal.
+Tyzzer disease lesions in other animal species vary but tend to resemble those described for foals and/or rabbits; however, other systems can also be affected.
+## Diagnosis of Tyzzer Disease
+* Clinical signs
+* Gross and histological postmortem findings
+* Silver staining and/or PCR assay of tissues
+
+**Clinical signs and results of clinicopathological testing compatible with liver failure** are only suggestive of Tyzzer disease. **PCR assay for _Clostridium piliforme_ in feces** of suspect infected animals adds certainty to a presumptive clinical diagnosis. Because **healthy animals can be _C piliforme_ carriers**, however, results of PCR assay must be interpreted with caution.
+In deceased animals, a presumptive diagnosis of Tyzzer disease is based on gross findings during necropsy, particularly the **characteristic multifocal liver necrosis** , frequently coupled with **diffuse icterus**. Confirmation of the diagnosis should be based on microscopic lesions, including demonstration of organisms in tissue sections with special stains.
+_C piliforme_ stains poorly with H&E and Gram stains. With Giemsa or silver (Warthin-Starry, Levaditi, or Gomori methenamine) stains, the bacilli stain well in the hepatocytes and intestinal epithelium and in smears of infected organs. However, they are difficult to see in cardiac muscle cells.
+**PCR assay for _C piliforme_ in liver tissue** from animals with characteristic gross and microscopic lesions is also diagnostic for Tyzzer disease. **In formalin-fixed tissues, silver staining** might be more sensitive than PCR assay.
+## Treatment and Control of Tyzzer Disease
+* Supportive care
+* Decreased stress and immunosuppression
+* Decreased dietary protein and nitrate
+
+_Clostridium piliforme_ is **susceptible to tetracycline and partially susceptible in vitro to streptomycin, erythromycin, penicillin, and chlortetracycline**. It is **resistant to sulfonamides and chloramphenicol**. However, there is limited information on the effectiveness of antimicrobial treatment of Tyzzer disease.
+**In neonatal foals, Tyzzer disease is fatal in nearly all cases.** Occasionally, however, a foal survives, particularly if it is older and less severely affected.
+A few presumptive cases of Tyzzer disease in foals have been treated successfully with **aggressive supportive care** , including administration of IV dextrose, sodium bicarbonate, potassium chloride, penicillin, and sulfamethoxazole-trimethoprim ([7](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#60180257-23d3-4585-aeb7-1fb382cf0aa9), [8](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#60180257-23d3-4585-aeb7-1fb382cf0aa9)).
+Because Tyzzer disease in foals is sporadic and not highly contagious, specific preventive measures are usually not indicated. In areas where spores are present in the environment, many foals might be exposed; however, only a few immunosuppressed individuals become acutely affected.
+On premises where Tyzzer disease is prevalent, overfeeding of mares, especially with high-protein diets, seems to predispose neonatal foals to the disease. **Decreasing nitrogenous compounds, including protein and nitrate, in the diet** that might induce immunosuppression in neonatal foals can lessen the incidence of the disease. In general, factors that cause **stress and immunosuppression should also be decreased**.
+Pearls & Pitfalls
+|
+* When Tyzzer disease occurs in a colony of laboratory animals, treatment is not recommended, because it prolongs the disease and possibly produces carrier animals.
+
+|
+| --- |
+No data are available on the treatment of Tyzzer disease in kittens; anecdotally, however, some diarrheic littermates of infected kittens survived with doxycycline treatment ([2](https://www.msdvetmanual.com/digestive-system/tyzzer-disease/tyzzer-disease-in-animals#60180257-23d3-4585-aeb7-1fb382cf0aa9)).
+When Tyzzer disease occurs in a colony of laboratory animals, treatment is not recommended, because it prolongs the disease and possibly produces carrier animals. The best approach is to euthanize all animals in the colony, decontaminate the environment, and restock with disease-free animals.
+## Key Points
+* Tyzzer disease is a highly fatal disease caused by _Clostridium piliforme_ and characterized mainly by liver lesions and liver failure; lesions in the intestines, heart, and other organs are less common.
+* Tyzzer disease affects mostly young animals of various species.
+* A presumptive diagnosis is based on clinical findings; however, confirmation should be based on analysis of gross and microscopic lesions and/or PCR assay for _C piliforme_.
+* Treatment of Tyzzer disease is supportive and nonspecific; the success rate is usually very low.
+
+## For More Information
+* Fresneda KC, Carvallo Chaigneau FR. [Tyzzer’s disease](https://onlinelibrary.wiley.com/doi/10.1002/9781118728291.ch24). In: Uzal FA, Songer WG, Prescot J, Popof M, eds. _Clostridial Diseases of Animals_. John Wiley & Sons; 2016:281-291.
+* Sellon DC, Peek SF. [Systemic clostridial infections](https://doi.org/10.1016/B978-1-4557-0891-8.00042-7). In: Sellon DC, RW Long, eds. _Equine Infectious Diseases_. 2nd ed. Saunders Elsevier; 2014:359-363.e3.
+* Swerczek T. [Tyzzer’s disease in foals: retrospective studies from 1969 to 2010](https://pubmed.ncbi.nlm.nih.gov/24155494). _Can Vet J_. 2013;54(9):876-880.
+
+## References
+1. Garcia JA, Navarro MA, Fresneda K, Uzal FA. [Clostridium piliforme infection (Tyzzer disease) in horses: retrospective study of 25 cases and literature review](https://doi.org/10.1177/10406387211031213). _J Vet Diagn Invest_. 2022;34(3):421-428. doi:10.1177/10406387211031213
+2. Fingerhood S, Mendonca FS, Uzal FA, et al. [Tyzzer disease in 19 preweaned orphaned kittens](https://doi.org/10.1177/10406387231154554). _J Vet Diagn Invest_ 2023;35(2):212-216. doi:10.1177/10406387231154554
+3. Jacobson SA, Ferro PJ, Navarro MA, Uzal FA, Edwards EE. [Clostridium piliforme and canine distemper coinfection in 2 domestic dog littermates and a gray fox kit](https://doi.org/10.1177/10406387221109899). _J Vet Diagn Invest_. 2022;34(5):894-897. doi:10.1177/10406387221109899
+4. Mete A, Rogers KH, Woods L. Tyzzer's disease in free-ranging passerine birds in California, USA. _J Wildl Dis_ 2017;53(4):938-941.
+5. Yoshida K, Nibe K, Nakamura T, et al. [Spontaneous Tyzzer's disease with central nerve involvement in a newborn common marmoset](https://doi.org/10.1292/jvms.13-0121). _J Vet Med Sci_. 2013;75(8):1119-1121. doi:10.1292/jvms.13-0121
+6. Wobeser G, Campbell GD, Dallaire A, McBurney S. [Tularemia, plague, yersiniosis and Tyzzer's disease in wild rodents and lagomorphs in Canada: a review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2777287). _Can Vet J_. 2009: 50(12) pp 1251-1256
+7. Peek SF, Byars TD, Rueve E. [Neonatal hepatic failure in a Thoroughbred foal: successful treatment of a case of presumptive Tyzzer's disease](https://doi.org/10.1111/j.2042-3292.1994.tb01160.x). _Equine Vet J_. 1994;6(6):307-309. doi:10.1111/j.2042-3292.1994.tb01160.x
+8. Borchers A, Magdesian KG, Holland S, Pusterla N, Wilson WD. [Successful treatment and polymerase chain reaction confirmation of Tyzzer's disease in a foal and clinical and pathologic characteristics of 6 additional foals (1986–2005)](https://doi.org/10.1111/j.1939-1676.2006.tb00725.x). _J Vet Intern Med_. 2006;20(5):1212-1218. doi:10.1892/0891-6640(2006)20[1212:stapcr]2.0.co;2
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#digestive-system)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

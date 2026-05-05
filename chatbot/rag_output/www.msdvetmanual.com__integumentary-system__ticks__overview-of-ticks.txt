@@ -1,0 +1,40 @@
+1. <[Ticks](https://www.msdvetmanual.com/integumentary-system/ticks)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Overview of Ticks
+By[Michael L. Levin](https://www.msdvetmanual.com/authors/levin-michael1), PhD, Division of Vector-Borne Diseases, Centers for Disease Control and Prevention
+Reviewed By[Alejandro Ramirez](https://www.msdvetmanual.com/authors/ramirez-alejandro), DVM, PhD, DACVPM, College of Veterinary Medicine, University of Arizona
+Reviewed/Revised Jun 2025 | Modified Jul 2025
+v3279993
+Ticks are obligate ectoparasites of most types of terrestrial vertebrates virtually wherever these animals are found.
+Ticks are large mites and thus are arachnids, members of the subclass Acari. They are more closely related to spiders than to insects.
+The approximately 900 recognized species are exclusively bloodsucking in all feeding stages. There are two major tick families of veterinary importance: [Argasidae](https://www.msdvetmanual.com/integumentary-system/ticks/argasid-ticks), or soft ticks, and [Ixodidae](https://www.msdvetmanual.com/integumentary-system/ticks/ixodid-ticks), or hard ticks. Although they share certain basic properties, argasids and ixodids differ in many structural, behavioral, physiological, ecological, feeding, and reproductive patterns.
+Ticks transmit a greater variety of infectious organisms than any other group of arthropods and, worldwide, are second only to mosquitoes in terms of their public health and veterinary importance. Some tickborne agents are only mildly pathogenic to livestock but can cause disease in humans; others cause diseases in livestock that are of major economic importance.
+In addition to transmitting infection, ticks can harm their hosts directly by inducing toxicosis (eg, sweating sickness, [tick paralysis](https://www.msdvetmanual.com/nervous-system/tick-paralysis)) caused by salivary fluids containing toxins, skin wounds susceptible to secondary bacterial infections and screwworm infestations, and anemia and death.
+International movement is widely restricted for animals infected with certain tick-transmitted blood parasites (_Theileria_ , _Babesia_ , and _Anaplasma_ spp) and with _Ehrlichia ruminantium_ hard ticks.
+Movement of tick-infested livestock over great distances is an important factor in the extensive distribution and prevalence of many tick species and tickborne disease agents. A number of introduced tick species thrive in the vast grazing and browsing environments established during recent centuries of human and livestock population explosions. Conversely, introduction of livestock into areas with exotic tick species and tickborne agents to which they have no immunity or innate resistance often results in substantial losses.
+Tropical and subtropical tick species may undergo one, two, or rarely three complete life cycles annually. In temperate zones, there is often one annual cycle; in northern regions and at higher elevations in temperate regions, most species require at least 2–4 years to complete a life cycle.
+There are **four developmental stages: egg, larva, nymph, and adult. All larvae have three pairs of legs; all nymphs and adults have four pairs of legs.**
+Adults have a distinctive genital and anal area on the ventral body surface. The foreleg tarsi of all ticks bear a unique sensory apparatus—Haller’s organ—to sense carbon dioxide, chemical stimuli (odor), temperature, humidity, etc. Pheromones stimulate group assembly, species recognition, mating, and host selection.
+Certain tick species that parasitize livestock can survive several months, and occasionally a few years, without food if environmental conditions permit.
+Tick host preferences are often limited to a particular genus, family, or order of vertebrates; however, certain ticks are exceptionally adaptable to a variety of hosts, so each species must be evaluated separately. The larvae and nymphs of most ixodids that parasitize livestock feed on small wildlife such as birds, rodents, small carnivores, or even lizards.
+## For More Information
+* Sonenshine DE, Roe RM, eds. _Biology of Ticks_. Vols 1 and 2. Oxford University Press; 2014.
+* Bowman AS, Nuttall PA, eds. _Ticks: Biology, Disease and Control_. Cambridge University Press; 2009.
+* [Ticks for dogs: guidelines](https://capcvet.org/guidelines/ticks/). Companion Animal Parasite Council.
+* Also see pet owner content regarding ticks of [dogs](https://www.msdvetmanual.com/dog-owners/skin-disorders-of-dogs/ticks-of-dogs), [cats](https://www.msdvetmanual.com/cat-owners/skin-disorders-of-cats/ticks-of-cats), and [horses](https://www.msdvetmanual.com/horse-owners/skin-disorders-of-horses/ticks-of-horses).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#integumentary-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

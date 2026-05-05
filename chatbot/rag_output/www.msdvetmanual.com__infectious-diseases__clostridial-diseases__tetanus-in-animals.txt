@@ -1,0 +1,66 @@
+1. <[Clostridial Diseases](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Tetanus in Animals
+## (Lockjaw)
+By[Henry R. Stämpfli](https://ovc.uoguelph.ca/clinical-studies/faculty/Henry-St%C3%A4mpfli%20), DMV, Dr Med Vet, DACVIM-LAIM, Department of Clinical Studies, Ontario Veterinary College, University of Guelph;
+[Olimpo J. Oliver-Espinosa](https://www.msdvetmanual.com/authors/oliver-olimpo), DVM, MSc, DVSc, National University of Colombia
+Reviewed/Revised Jul 2021 | Modified Sept 2024
+v3272413
+Tetanus is caused by the neurotoxin produced by _Clostridium tetani_ , which is found in soil and intestinal tracts and usually introduced into tissues through deep puncture wounds. The toxin causes a generalized muscular spastic paralysis. Clinical signs and history are usually sufficient for diagnosis. Treatment is supportive, including thorough flushing of the wound, along with injection of tetanus antitoxin. Tetanus toxoid is given for active immunization.
+* [Etiology and Pathogenesis](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/tetanus-in-animals#Etiology-and-Pathogenesis_v3272422)|
+* [Clinical Findings](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/tetanus-in-animals#Clinical-Findings_v3272429)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/tetanus-in-animals#Diagnosis_v3272434)|
+* [Treatment and Control](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/tetanus-in-animals#Treatment-and-Control_v3272437)|
+* [Key Points](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/tetanus-in-animals#Key-Points_v54343019)|
+* [For More Information](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/tetanus-in-animals#For-More-Information_v54343028)|
+
+Tetanus toxemia is caused by a specific neurotoxin produced by _Clostridium tetani_ in necrotic tissue. Almost all mammals are susceptible, although dogs and cats are relatively more resistant than any other domestic or laboratory mammal. Birds are quite resistant; the lethal dose for pigeons and chickens is 10,000–300,000 times greater (on a body weight basis) than that for horses. Horses and lambs seem to be the most sensitive of all species, with the possible exception of humans. Although tetanus is worldwide in distribution, there are some areas, such as the northern Rocky Mountain section of the US, where the organism is rarely found in the soil and where tetanus is almost unknown. In general, the occurrence of _C tetani_ in the soil, especially in cultivated soil, and the incidence of tetanus in humans, horses, and lambs is higher in the warmer parts of the various continents.
+## Etiology and Pathogenesis of Tetanus in Animals
+_C tetani_ , an anaerobe with terminal, spherical spores, is found in soil, especially cultivated soil, and intestinal tracts. In most cases, it is introduced into the tissues through wounds, particularly deep puncture wounds, that provide a suitable anaerobic environment. In lambs, however, and sometimes in other species, tetanus often follows docking or castration. Sometimes, the point of entry cannot be found because the wound itself may be minor or healed.
+The spores of _C tetani_ are unable to grow in healthy tissue or even in wounds if the tissue remains at the normal oxidation-reduction potential of the circulating blood. Suitable conditions for multiplication occur when a small amount of soil or a foreign object causes tissue necrosis. The bacteria remain localized in the necrotic tissue at the original site of infection and multiply. As bacterial cells undergo autolysis, the potent neurotoxin is released. The neurotoxin is a zinc-binding protease that cleaves synaptobrevin, a vesicle-associated membrane protein. Usually, toxin is absorbed by the motor nerves in the area and travels retrograde up the nerve tract to the spinal cord, where it causes ascending tetanus.
+The toxin causes spasmodic, tonic contractions of the voluntary muscles by interfering with the release of inhibitory neurotransmitters from presynaptic nerve endings. If more toxin is released at the site of the infection than the surrounding nerves can take up, the excess is carried off by the lymph to the bloodstream and thus to the CNS, where it causes descending tetanus. Even minor stimulation of the affected animal may trigger the characteristic tetanic muscular spasms. The spasms may be severe enough to cause bone fractures. Spasms affecting the larynx, diaphragm, and intercostal muscles lead to respiratory failure. Involvement of the autonomic nervous system results in cardiac arrhythmias, tachycardia, and hypertension.
+## Clinical Findings of Tetanus in Animals
+The incubation period of tetanus varies from one to several weeks but usually averages 10–14 days. Localized stiffness, often involving the masseter muscles and muscles of the neck, the hind limbs, and the region of the infected wound, is seen first; general stiffness becomes pronounced ~1 day later, and tonic spasms and hyperesthesia become evident. Because of their high resistance to tetanus toxin, dogs and cats often have a long incubation period and frequently develop localized tetanus; however, generalized tetanus does develop in these species.
+The reflexes increase in intensity, and the animal is easily excited into more violent, general spasms by sudden movement or noise. Spasms of head muscles cause difficulty in prehension and mastication of food, hence the common name, **lockjaw**. In horses, the ears are erect, the tail stiff and extended, the anterior nares dilated, and the third eyelid prolapsed. Walking, turning, and backing are difficult. Spasms of the neck and back muscles cause extension of the head and neck, while stiffness of the leg muscles causes the animal to assume a “sawhorse” stance. Sweating is common.
+General spasms disturb circulation and respiration, which results in increased heart rate, rapid breathing, and congestion of mucous membranes. Sheep, goats, and pigs often fall to the ground and exhibit opisthotonos when startled.
+Consciousness is not affected. In dogs and cats, localized tetanus often presents as stiffness and rigidity in a limb with a wound. The stiffness progresses to involve the opposing limb and may advance anteriorly. The appearance in generalized tetanus is similar to that described for horses except that the partially open mouth with the lips drawn back (as seen in humans) is usually evident. Young, large-breed dogs seem to be most commonly affected.
+Usually, body temperature remains slightly above normal, but it may rise to 108°–110°F (42°–43°C) toward the end of a fatal attack. In mild attacks, the pulse and body temperature remain nearly normal. Mortality rate averages ~80% (~50% in dogs in one study). In animals that recover, there is a convalescent period of 2–6 weeks; protective immunity usually does not develop after recovery.
+## Diagnosis of Tetanus in Animals
+* Clinical evaluation
+* Toxin presence confirmed by PCR assay of wound tissue
+
+The clinical signs and history of recent trauma are usually adequate for a clinical diagnosis of tetanus. It may be possible to confirm the diagnosis by detecting tetanus toxin in serum from the affected animal. In cases in which the wound is apparent, verification of the bacterium in gram-stained smears and by anaerobic culture may be attempted. PCR assay can be performed on wound material.
+## Treatment and Control of Tetanus in Animals
+* Early intervention, including wound cleaning, boosting immunity, parenteral antitoxin administration, and muscle relaxants
+
+When administered in the early stages of the disease, curariform agents, tranquilizers, or barbiturate sedatives, in conjunction with 300,000 IU of tetanus antitoxin, IV, every 12 hours, have been effective in treatment of horses. Good results have been obtained in horses by injecting 50,000 IU of tetanus antitoxin directly into the subarachnoid space through the cisterna magna. Such therapy should be supported by draining and cleaning the wounds and administering penicillin or broad-spectrum antimicrobials. Good nursing is invaluable during the acute period of spasms. The horse should be placed in a quiet, darkened box stall with feeding and watering devices high enough to allow use without lowering the head. Slings may be useful for horses having difficulty standing or rising.
+The same approach as described for horses is used in treatment of dogs and cats, except that caution must be exercised in the intravenous administration of antitoxin, because the equine antitoxin may induce anaphylaxis. In one study, antitoxin was given to dogs with tetanus only after an intradermal test to detect hypersensitivity reactions. In addition, all dogs received intravenous penicillin and some also received metronidazole orally. A combination of chlorpromazine and phenobarbital or diazepam may be administered to reduce hyperesthetic reactions and seizures.
+Active immunization can be accomplished with administration of tetanus toxoid. If a dangerous wound occurs after immunization, another injection of toxoid to increase the circulating antibody should be administered. If the patient has not been immunized previously, it should be treated with 1,500–3,000 IU or more of tetanus antitoxin, which usually provides passive protection for up to 2 weeks. Toxoid should be administered simultaneously with the antitoxin and repeated in 30 days.
+Although it is not scientifically based, yearly booster injections of toxoid in animals are advised; in humans, the toxoid is administered every 10 years. The toxoid vaccination interval is currently debated among vaccine recommendations for sport horses. Mares should be vaccinated during the last 6 weeks of pregnancy, and foals at 5–8 weeks of age. In high-risk areas, foals may be administered tetanus antitoxin immediately after birth and every 2–3 weeks until they are 3 months old, at which time they can be administered toxoid.
+The decision to vaccinate lambs or calves depends on the prevalence of the disease in the area. All animals that have recovered from tetanus should be regularly vaccinated. Animals surviving tetanus do not build a good immunity and should be vaccinated with tetanus toxoid.
+All surgical procedures should be conducted with the best possible aseptic techniques. After surgery, patients should be turned out on clean ground, preferably grass pastures. Only oxidizing disinfectants such as iodine or chlorine dependably kill the spores.
+## Key Points
+* Vaccinations should be administered according to current recommendations by the American Association of Equine Practitioners; pregnant mares should be vaccinated during the last 6 weeks of pregnancy.
+* Tetanus antitoxin is administered in clinical cases.
+* Immunity should be boosted in animals with wounds.
+
+## For More Information
+* Centers for Disease Control and Prevention: [Tetanus](https://www.cdc.gov/tetanus)
+* American Association of Equine Practitioners: [Tetanus](https://aaep.org/guidelines/vaccination-guidelines/core-vaccination-guidelines/tetanus)
+* Also see pet health content regarding tetanus in [dogs](https://www.msdvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/tetanus-in-dogs), [cats](https://www.msdvetmanual.com/cat-owners/disorders-affecting-multiple-body-systems-of-cats/tetanus-in-cats), and [horses](https://www.msdvetmanual.com/horse-owners/infectious-diseases-of-horses/tetanus-in-horses).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

@@ -1,0 +1,38 @@
+1. <[Immunologic Diseases](https://www.msdvetmanual.com/immune-system/immunologic-diseases)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Tumors of the Immune System in Animals
+By[Ian Rodney Tizard](https://www.msdvetmanual.com/authors/tizard-ian), BVMS, BSc, PhD, DSc (Hons), DACVM, Department of Veterinary Pathobiology, College of Veterinary and Biomedical Sciences, Texas A&M University
+Reviewed By[Joyce Carnevale](https://www.msdvetmanual.com/authors/carnevale-joyce), DVM, DABVP, College of Veterinary Medicine, Iowa State University
+Reviewed/Revised Jan 2024 | Modified Sept 2024
+v3277493
+Immune system neoplasia most often involves lymphoid cells but can involve myeloid cells as well. The neoplastic cells may generate a solid tumor or may be circulating in the bloodstream (leukemia).
+Lymphomas are common tumors in dogs and cats. The normal adaptive response requires a burst of rapid proliferation of lymphocytes. On occasion, however, this proliferation may be uncontrolled, and lymphoid neoplasms result. Because lymphocytes are present in all organs, lymphoid tumor development can occur in any organ or lymph node. Less commonly, they occur in the eyes, skin, or nose. To determine the stage of the disease, the following tools are useful:
+* CBC
+* serum chemistry profiles
+* abdominal ultrasonography
+* abdominal radiography
+* bone marrow analyses
+
+Immunofluorescent staining and immunophenotyping can be performed in dogs and cats to characterize lymphomas. They may be either T cell or B cell in origin.
+Most cases of canine lymphosarcoma, Marek's disease, calf leukosis, and feline leukemia are of T-cell origin, as are thymomas. Many T-cell lymphomas are associated with a simultaneous immunosuppression manifested by a predisposition to recurrent infections.
+Adult bovine and ovine leukosis, alimentary feline leukemia, and avian leukosis are usually of B-cell origin. Under some circumstances, neoplastic B cells may develop into plasma cells.
+Plasma-cell tumors are known as myelomas. Because neoplastic plasma cells can secrete immunoglobulins, they give rise to [gammopathies](https://www.msdvetmanual.com/immune-system/immunologic-diseases/gammopathies-in-animals).
+The treatment and prognosis for neoplasia of the immune system depend on the tumor type, location, and the affected species.
+## For More Information
+* Also see pet health information regarding [immune system tumors in dogs](https://www.msdvetmanual.com/dog-owners/immune-disorders-of-dogs/immune-system-tumors-in-dogs) and [immune system tumors in cats](https://www.msdvetmanual.com/cat-owners/immune-disorders-of-cats/immune-system-tumors-in-cats).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#immune-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

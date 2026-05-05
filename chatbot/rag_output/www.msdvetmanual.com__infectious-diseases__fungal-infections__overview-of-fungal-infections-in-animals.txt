@@ -1,0 +1,26 @@
+1. <[Fungal Infections](https://www.msdvetmanual.com/infectious-diseases/fungal-infections)
+
+* Find In Topic
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Overview of Fungal Infections in Animals
+## (Mycoses)
+By[Tamara Gull](https://www.msdvetmanual.com/authors/gull-tamara), DVM, PhD, DACVM, DACVIM (LA), DACVPM, University of Missouri, Veterinary Medical Diagnostic Laboratory
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Apr 2023 | Modified Sept 2024
+v3272970
+Systemic mycoses are infections with fungal organisms that exist in the environment, enter the host from a single portal of entry, and disseminate within the host to multiple organ systems. The soil reservoir is the primary source of most infections, which can be acquired by inhalation, ingestion, or traumatic introduction of fungal elements. Certain fungi are ubiquitous; others are more regionally specific. Treatment is prolonged in all cases.
+Pathogenic fungi establish infection in apparently normal hosts, and such diseases as histoplasmosis, coccidioidomycosis, blastomycosis, and cryptococcosis are regarded as primary systemic mycoses. Opportunistic fungi are more likely to establish infection in an immunosuppressed host, but this is not a prerequisite to infection in animals. Prolonged administration of antimicrobials or immunosuppressive agents appears to increase the likelihood of infection by the opportunistic fungi that cause diseases such as aspergillosis and candidiasis, which may be focal or systemic.
+Clinical findings, gross lesions and serology are often suggestive of systemic mycoses; however, definitive diagnosis requires microscopic identification, culture of the organism, or PCR assay. Identification of the fungus and the tissue reaction via microscopic examination of exudates and biopsy material is adequate for diagnosis of [histoplasmosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/histoplasmosis-in-animals), [cryptococcosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/cryptococcosis-in-animals), [blastomycosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/blastomycosis-in-animals), [coccidioidomycosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/coccidioidomycosis-in-animals), and [sporotrichosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/sporotrichosis-in-animals). Other diseases, such as [candidiasis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/candidiasis-in-animals), [aspergillosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/aspergillosis-in-animals), [phaeohyphomycosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/phaeohyphomycosis-in-animals), [hyalohyphomycosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/phaeohyphomycosis-in-animals), and [oomycosis](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/oomycosis-in-animals) (pythiosis and lagenidiosis), require more than microscopic evaluation for a definitive diagnosis.
+Some fungi are commonly found as normal flora as well as contaminants of cultures; thus, tissue invasion and reaction must be demonstrated for the culture isolation to be considered noteworthy. Serologic testing may be useful for diagnosis (and prognosis) of some mycotic diseases such as coccidioidomycosis, pythiosis, and lagenidiosis. Antigen titers have proved useful for cryptococcosis, histoplasmosis, and blastomycosis.
+For treatment,seediscussions of specific systemic mycoses below and under pharmacotherapeutics of the[ integumentary system](https://www.msdvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-integumentary-system/overview-of-systemic-pharmacotherapeutics-of-the-integumentary-system-in-animals).
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

@@ -1,0 +1,45 @@
+1. <[Immunologic Diseases](https://www.msdvetmanual.com/immune-system/immunologic-diseases)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Gammopathies in Animals
+By[Ian Rodney Tizard](https://www.msdvetmanual.com/authors/tizard-ian), BVMS, BSc, PhD, DSc (Hons), DACVM, Department of Veterinary Pathobiology, College of Veterinary and Biomedical Sciences, Texas A&M University
+Reviewed By[Joyce Carnevale](https://www.msdvetmanual.com/authors/carnevale-joyce), DVM, DABVP, College of Veterinary Medicine, Iowa State University
+Reviewed/Revised Jan 2024 | Modified Sept 2024
+v3277502
+Gammopathies are conditions in which serum immunoglobulin levels are greatly increased. They can be classified either as polyclonal (increases in all major immunoglobulin classes) or monoclonal (increases in a single homogeneous immunoglobulin).
+**Polyclonal gammopathies** result from chronic stimulation of the immune system. They can therefore be caused by the following:
+* chronic [pyodermas](https://www.msdvetmanual.com/integumentary-system/pyoderma/pyoderma-in-dogs-and-cats)
+* chronic viral, bacterial, or fungal infections
+* [granulomatous](https://www.msdvetmanual.com/immune-system/immunologic-diseases/hypersensitivity-diseases-in-animals#v3277454) bacterial diseases
+* abscesses
+* chronic parasitic infections
+* chronic rickettsial diseases, such as tropical canine pancytopenia
+* chronic immunologic diseases, such as [systemic lupus erythematosus](https://www.msdvetmanual.com/immune-system/immunologic-diseases/hypersensitivity-diseases-in-animals#v48829637), [rheumatoid arthritis](https://www.msdvetmanual.com/immune-system/immunologic-diseases/hypersensitivity-diseases-in-animals#v48829524), and myositis
+* neoplasia
+
+In many cases, there is no obvious predisposing cause. In some patients, the gammopathy may initially be monoclonal because of the predominance of a single immunoglobulin class (usually IgG). This has been observed in cats with noneffusive [feline infectious peritonitis](https://www.msdvetmanual.com/infectious-diseases/feline-infectious-peritonitis/feline-infectious-peritonitis) and in dogs with chronic tropical canine pancytopenia.
+**Monoclonal gammopathies** are characterized by the production of large amounts of a single immunoglobulin protein. Monoclonal gammopathies are either benign (ie, associated with no underlying disease) or, more commonly, associated with immunoglobulin-secreting plasma cell tumors (myelomas).
+Tumors that secrete monoclonal antibodies originate from plasma cells. These myelomas can secrete intact proteins of any immunoglobulin class or immunoglobulin subunits (light chains or heavy chains). Myeloma proteins in dogs are commonly IgG or IgA and less commonly IgM. Myeloma proteins in cats and horses usually are IgG and, uncommonly, IgM, IgG3 (horses), or IgA.
+Clinical signs depend on the location and severity of the primary neoplasm and on the amount and type of immunoglobulin secreted. Plasma-cell myelomas frequently develop in marrow cavities of flat bones of the skull, ribs, and pelvis, and in the vertebrae, causing severe bone erosion. Pathologic fractures can lead to spinal pain and lameness.
+Disease can result from the presence of the monoclonal protein itself. For example, some forms of [amyloidosis](https://www.msdvetmanual.com/immune-system/amyloidosis) are due to deposition of immunoglobulin light chains in tissues (AL amyloid).
+Hyperviscosity syndrome occurs in 20% of dogs with IgM or IgA monoclonal proteins if the protein levels in blood are high. In this syndrome, plasma viscosity can be many times normal, resulting in profound vascular disturbances, thrombosis, and bleeding. Depression, blindness, and neurologic manifestations can be due to hemorrhage in the nervous system and retina.
+Some IgM monoclonal proteins are cryoglobulins and aggregate in vitro and in vivo when the plasma is cooled. Patients with cryoglobulinemia often develop gangrenous sloughs of the ear tips, eyelids, digits, and tip of the tail, especially during cold weather.
+Animals with monoclonal gammopathies may have depressed levels of normal immunoglobulins and are therefore immunodeficient.
+Immunoglobulin-secreting tumors usually are treated with appropriate chemotherapy. Plasmapheresis may be required to lower serum viscosity in patients with clinical signs of hyperviscosity syndrome.
+## For More Information
+* Also see pet health information regarding [gammopathies in dogs](https://www.msdvetmanual.com/dog-owners/immune-disorders-of-dogs/gammopathies-in-dogs) and [gammopathies in cats](https://www.msdvetmanual.com/cat-owners/immune-disorders-of-cats/gammopathies-in-cats).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#immune-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

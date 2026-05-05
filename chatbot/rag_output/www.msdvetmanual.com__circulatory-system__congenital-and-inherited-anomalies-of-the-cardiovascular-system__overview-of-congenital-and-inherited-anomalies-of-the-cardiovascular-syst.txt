@@ -1,0 +1,89 @@
+1. <[Congenital and Inherited Anomalies of the Cardiovascular System](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Overview of Congenital and Inherited Anomalies of the Cardiovascular System in Animals
+By[Sandra P. Tou](https://cvm.ncsu.edu/directory/tou-sandra/%20), DVM, DACVIM-Cardiology, DACVIM-SAIM, Department of Clinical Sciences, College of Veterinary Medicine, North Carolina State University
+Reviewed By[Joyce Carnevale](https://www.msdvetmanual.com/authors/carnevale-joyce), DVM, DABVP, College of Veterinary Medicine, Iowa State University
+Reviewed/Revised May 2025 | Modified Jun 2025
+v3259121
+Congenital and inherited anomalies of the cardiovascular system include abnormalities present at birth or due to genetic factors. The range of clinical signs includes no ill effects, audible heart murmurs, signs of congestive heart failure, and death. Definitive diagnosis of cardiovascular anomalies typically requires echocardiography. Depending on the anomaly, a variety of medical and surgical treatments may be appropriate.
+* [Diagnosis](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/overview-of-congenital-and-inherited-anomalies-of-the-cardiovascular-system-in-animals#Diagnosis_v21494172)|
+* [Pathophysiology](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/overview-of-congenital-and-inherited-anomalies-of-the-cardiovascular-system-in-animals#Pathophysiology_v21494177)|
+* [Innocent Murmurs](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/overview-of-congenital-and-inherited-anomalies-of-the-cardiovascular-system-in-animals#Innocent-Murmurs_v21494182)|
+* [Key Points](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/overview-of-congenital-and-inherited-anomalies-of-the-cardiovascular-system-in-animals#Key-Points_v45672749)|
+* [For More Information](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/overview-of-congenital-and-inherited-anomalies-of-the-cardiovascular-system-in-animals#For-More-Information_v45672758)|
+* Multimedia|
+
+Congenital anomalies of the cardiovascular system are defects that are present at birth. They can occur as a result of genetic, environmental, infectious, toxicological, pharmaceutical, nutritional, or other factors, or a combination. For many defects, an inherited basis is known or suspected based on strong breed predilections and genetic studies.
+Congenital heart disease is of consequence not only for the affected animal but also for the potential transmission to offspring and effect on an entire breeding population.
+In addition to congenital heart defects, many acquired cardiovascular disorders have been shown, or are suspected, to have a genetic basis. Diseases such as [hypertrophic cardiomyopathy](https://www.msdvetmanual.com/circulatory-system/cardiomyopathy-in-dogs-and-cats/hypertrophic-cardiomyopathy-in-dogs-and-cats), [dilated cardiomyopathy](https://www.msdvetmanual.com/circulatory-system/cardiomyopathy-in-dogs-and-cats/dilated-cardiomyopathy-in-dogs-and-cats), and [degenerative valvular disease](https://www.msdvetmanual.com/circulatory-system/various-heart-diseases-in-dogs-and-cats/myxomatous-atrioventricular-valve-degeneration-in-dogs-and-cats) have proven heritability in certain breeds and may have a heritable component in others.
+In dogs, the prevalence of congenital heart disease is estimated at < 1%. In multiple large studies of congenital heart disease **in dogs, the three most common defects are[ aortic stenosis](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/stenosis-of-the-semilunar-valves-in-animals#405c3ffd-05ee-4c29-9670-df73414b9547), [pulmonic stenosis](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/stenosis-of-the-semilunar-valves-in-animals#b33a9a89-e43b-4221-bff8-c637fadc425a), and [patent ductus arteriosus (PDA)](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/cardiac-shunts-in-animals#c3f0885f-7022-484a-bac6-8215e607e60f)**. Less-common defects include [ventricular septal defect](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/cardiac-shunts-in-animals#323079d3-e5d4-4e93-86b9-39823e6bec20), [atrial septal defect](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/cardiac-shunts-in-animals#8726bbb3-de38-4c33-a668-67bcc5800721), [mitral valve dysplasia](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/dysplasia-and-stenosis-of-atrioventricular-valves-in-animals#89a53ae7-eb08-44db-ba47-b97fb738af07), [tricuspid valve dysplasia](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/dysplasia-and-stenosis-of-atrioventricular-valves-in-animals), [tetralogy of Fallot](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/uncommon-congenital-defects-of-the-cardiovascular-system-in-animals), [cor triatriatum](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/uncommon-congenital-defects-of-the-cardiovascular-system-in-animals), and [persistent right aortic arch](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/vascular-malformations-in-animals).
+Prevalence differs by region. The most common congenital cardiac defects in dogs in the US differ from those reported in the UK and may differ from those in Europe and other regions.
+In cats, the prevalence of congenital heart disease has been estimated at 0.2–1%. **The most common congenital heart diseases in cats are atrioventricular (AV) septal defects, PDA, and[ AV valve dysplasia](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/dysplasia-and-stenosis-of-atrioventricular-valves-in-animals).** AV septal defects include ventricular septal defect, atrial septal defect, and combined atrial and ventricular septal defect (AVSD, previously called endocardial cushion defect). Other congenital heart diseases affecting cats include endocardial fibroelastosis, aortic stenosis, and tetralogy of Fallot.
+The prevalence of congenital heart disease is considered low in horses; however, reported cases range widely in severity from singular defects (eg, ventricular or atrial septal defect, PDA, valve dysplasia) to more complex defects (tetralogy of Fallot, double outlet right ventricle). A familial risk is likely in Arabian horses, given their relatively higher incidence of congenital heart disease compared to other breeds.
+A variety of congenital cardiovascular defects occur in livestock species (see the table Common Congenital Cardiovascular Defects in Domestic Livestock).
+Table
+Common Congenital Cardiovascular Defects in Domestic Livestock
+Table
+Common Congenital Cardiovascular Defects in Domestic Livestock
+Common Congenital Cardiovascular Defects in Domestic Livestock
+| Species  | Most Common Defects  |
+| --- | --- |
+| Cattle  | Ventricular or atrial septal defect, double outlet right ventricle, aortic stenosis, PDA, tetralogy of Fallot, transposition of great arteries, ectopic heart   |
+| Sheep  | Ventricular septal defect  |
+| Pigs  | Tricuspid valve dysplasia, atrial septal defect, subaortic stenosis  |
+| Abbreviations: PDA, patent ductus arteriosus. |
+| Abbreviations: PDA, patent ductus arteriosus. |
+## Diagnosis of Congenital and Inherited Cardiovascular Anomalies in Animals
+* Physical examination
+* Echocardiography
+
+Definitive diagnosis of cardiovascular anomalies typically requires echocardiography and is crucial to assessing risk and determining optimal treatment recommendations.
+Detection and characterization of a [heart murmur](https://www.msdvetmanual.com/circulatory-system/diagnosis-of-heart-disease/diagnosis-of-heart-disease-in-animals#v3259396) may provide some limited information about the potential for heart disease:
+* Quiet systolic murmurs (grade II/VI or softer) at the left base in puppies and kittens may be physiologic.
+* Loud systolic murmurs (grade III/VI or higher), continuous murmurs, and diastolic murmurs warrant further diagnostic testing.
+
+It is not always possible to tell from auscultation alone whether a systolic heart murmur is physiologic or pathologic.
+**Early detection of a congenital heart defect is critical** for several reasons:
+* Certain defects are correctable with interventional or surgical treatments, and treatment is ideal before the onset of congestive heart failure (CHF) or irreversible cardiac damage.
+* Recently purchased animals may be returned to avoid economic loss.
+* Pets with congenital heart defects may die prematurely, causing emotional distress.
+* Animals purchased for performance may have limited potential.
+* Early detection can minimize incorporation of genetic defects into breeding lines.
+
+Suspected congenital cardiac defects in small animals are usually evaluated by means of physical examination, radiography, electrocardiography, and echocardiography. Doppler echocardiography has supplanted the use of invasive cardiac catheterization studies for evaluating most cardiac defects. These diagnostic modalities allow both a definitive diagnosis and an assessment of disease severity, so that treatment options can be provided and prognosis can be better determined.
+The clinical implications of congenital heart disease depend on the particular defect's severity. Mildly affected animals can exhibit no ill effects and have a normal lifespan. Defects causing substantial circulatory derangement will likely cause neonatal death. Such defects, many incompatible with life, can cause fetal death and smaller litter size.
+Medical, interventional, or surgical management is most likely to benefit animals with congenital cardiac defects of moderate or greater severity. Left-to-right shunting [PDA](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/cardiac-shunts-in-animals#c3f0885f-7022-484a-bac6-8215e607e60f) is one notable exception in which interventional occlusion or surgical ligation is indicated in nearly all affected animals.
+## Pathophysiology of Congenital and Inherited Anomalies of the Cardiovascular System in Animals
+Congenital heart defects produce signs of cardiac failure through a variety of pathophysiological mechanisms.
+**Defects causing pressure overload and concentric hypertrophy** : Stenotic defects that cause obstruction to normal outflow of blood from the heart, such as [pulmonic stenosis](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/stenosis-of-the-semilunar-valves-in-animals#b33a9a89-e43b-4221-bff8-c637fadc425a) and [subaortic stenosis](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/stenosis-of-the-semilunar-valves-in-animals#405c3ffd-05ee-4c29-9670-df73414b9547), may result in right- and left-sided heart failure, respectively. [Outflow obstruction](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/stenosis-of-the-semilunar-valves-in-animals) leads to concentric hypertrophy of the respective ventricle, possible clinical signs of low cardiac output (eg, exertional syncope, exercise intolerance, lethargy), ischemia-induced arrhythmias, and sudden death.
+**Defects causing volume overload and eccentric hypertrophy** : Cardiac shunts such as PDA and septal defects are abnormal communications between the systemic and pulmonary circulatory systems or heart chambers, respectively. The direction of shunting is typically left to right, based on the pressure gradient between communicating structures. The recirculation of blood through the pulmonary circulation and into the left heart chambers can precipitate signs of left-sided CHF (eg, pulmonary edema, dyspnea, cough, fatigue).
+Larger defects typically result in a greater degree of volume overcirculation to the left heart chambers. Large defects with substantial left-to-right shunting can result in [pulmonary hypertension](https://www.msdvetmanual.com/circulatory-system/various-cardiovascular-diseases-in-dogs-and-cats/systemic-and-pulmonary-hypertension-in-dogs-and-cats) and shunt reversal (Eisenmenger's physiology), such as **reverse (right-to-left) PDA**. Animals with [right-to-left shunting defects](https://www.msdvetmanual.com/circulatory-system/congenital-and-inherited-anomalies-of-the-cardiovascular-system/uncommon-congenital-defects-of-the-cardiovascular-system-in-animals) (tetralogy of Fallot, reverse PDA) may develop right-sided heart failure and/or have clinical signs associated with [polycythemia](https://www.msdvetmanual.com/circulatory-system/erythrocytosis-polycythemia), which develops subsequent to renal perfusion with mixed oxygenated and deoxygenated blood. This results in an increase in renal erythropoietin production and consequent polycythemia. Such cases may require medical treatment for pulmonary hypertension and management of polycythemia.
+## Innocent Murmurs in Animals
+A heart murmur in a young animal is not pathognomonic for a congenital heart defect. During the rapid-growth phase of life, many young animals will have a low-grade systolic murmur (often grade II/VI or less) that is "innocent" and caused by mild physiological turbulence that is not associated with a congenital heart defect. Innocent murmurs usually disappear by the time dogs and cats are 6 months old.
+Innocent murmurs are heard in the absence of any other demonstrable evidence of cardiovascular disease.
+**Loud systolic murmurs (grade III/VI or greater), soft but persistent systolic murmurs, continuous murmurs, and diastolic murmurs** are concerning for congenital heart disease and warrant further investigation.
+## Key Points
+* The most common congenital defects of dogs are patent ductus arteriosus, pulmonic stenosis, and aortic stenosis.
+* The most common congenital defects of cats are atrioventricular septal defects, patent ductus arteriosus, and atrioventricular valve dysplasia.
+* A loud systolic murmur, or any diastolic or continuous murmur in a young dog or cat, is supportive of congenital heart disease and warrants further investigation. Congenital heart defects range in severity and complexity, and early detection and treatment may improve the outcome with certain conditions.
+
+## For More Information
+* Côté E, Edwards NJ, Ettinger SJ, et al. [Management of incidentally detected heart murmurs in dogs and cats](https://doi.org/10.2460/javma.246.10.1076).  _J Am Vet Med Assoc_. 2015;246(10):1076-1088. doi:10.2460/javma.246.10.1076
+* Also see pet owner content regarding congenital and inherited anomalies of the cardiovascular system in [dogs](https://www.msdvetmanual.com/dog-owners/heart-and-blood-vessel-disorders-of-dogs/congenital-and-inherited-disorders-of-the-cardiovascular-system-in-dogs), [cats](https://www.msdvetmanual.com/cat-owners/heart-and-blood-vessel-disorders-of-cats/congenital-and-inherited-disorders-of-the-cardiovascular-system-of-cats), and [horses](https://www.msdvetmanual.com/horse-owners/heart-and-blood-vessel-disorders-of-horses/congenital-and-inherited-disorders-of-the-cardiovascular-system-in-horses).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#circulatory-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

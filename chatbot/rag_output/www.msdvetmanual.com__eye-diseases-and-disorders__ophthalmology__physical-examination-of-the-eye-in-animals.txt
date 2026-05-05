@@ -1,0 +1,32 @@
+1. <[Ophthalmology](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Physical Examination of the Eye in Animals
+By[Ralph E. Hamor](https://www.msdvetmanual.com/authors/hamor-ralph), DVM, MS, DACVO, University of Florida, College of Veterinary Medicine
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Feb 2023 | Modified Sept 2024
+v3269107
+* Multimedia|
+
+Eye anatomy
+Image
+Median section of the eye and eyelids.
+Illustration by Dr. Gheorghe Constantinescu./
+An ocular examination is best performed in a quiet, well-lit room that can also be darkened. The initial examination of the eye and orbit should assess for symmetry, normal conformation, and the presence of any gross lesions. The patient should initially be viewed from 2–3 feet (~1 meter) away, in good light, and with minimal restraint of the head. The menace response, pupillary light reflexes (PLRs), and dazzle reflex should be assessed with a strong light and magnification in both bright and dim lighting. Routine baseline tests like the [Schirmer tear test](https://www.msdvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-eye/diagnostic-tests-pertaining-to-ocular-medications-in-animals) (STT), fluorescein staining, and tonometry (intraocular pressure [IOP] measurement) are generally performed next. An STT should be performed before any drops are placed on the eye or the eye is cleansed. If indicated, a culture should be taken before any other routine baseline test. If indicated, corneal or conjunctival cytology can be performed after topical anesthesia is administered. The adnexa and anterior segment should then be evaluated in both bright and dim lighting with a strong light and magnification. Depending on the type of tonometer used, prior instillation of a topical anesthetic may be required. Tonometry should be performed before dilation of the pupil; the pupil should not be dilated if the IOP is elevated, because pupillary dilation may further increase the IOP. Diseases of the lens, vitreous, and ocular fundus are best evaluated by direct and indirect ophthalmoscopic examination (usually performed after inducing mydriasis with tropicamide); without dilation, examination of these structures is challenging and they cannot be fully evaluated. Vision can be further evaluated by maze testing in both bright and dim lighting. If indicated, the nasolacrimal duct can be flushed. If fluorescein stain is visible in the nostril after the cornea is stained, then the nasolacrimal system is patent and functioning (positive Jones test).
+When possible, corneal or conjunctival cultures should be performed before topical anesthetic is instilled. Fluorescein staining and eversion of the eyelids do not require topical anesthesia; however, tonometry (depending on the type of tonometer), examination of the bulbar surface of the nictitating membrane, conjunctival and corneal cytology, gonioscopy, and lavage of the nasolacrimal system usually do. To avoid false-positives, samples for corneal and conjunctival cytology that will be analyzed by fluorescent antibody procedures should be collected before topical fluorescein staining.
+Special methods of examination, such as slit-lamp biomicroscopy, ultrasonography, fluorescein angiography, and electroretinography, may require sedation or local, regional, or general anesthesia, depending on the species.
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#eye-diseases-and-disorders)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

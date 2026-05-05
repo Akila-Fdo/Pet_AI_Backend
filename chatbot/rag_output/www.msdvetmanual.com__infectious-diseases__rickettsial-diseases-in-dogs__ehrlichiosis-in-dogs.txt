@@ -1,0 +1,102 @@
+1. <[Rickettsial Diseases in Dogs](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Ehrlichiosis in Dogs
+By[Jean-Sebastien Palerme](https://www.msdvetmanual.com/authors/palerme-jean-sebastien), DVM, MSc, DACVIM, Iowa State University
+Reviewed By[Joyce Carnevale](https://www.msdvetmanual.com/authors/carnevale-joyce), DVM, DABVP, College of Veterinary Medicine, Iowa State University
+Reviewed/Revised Modified Sept 2025
+v3276756
+The term "ehrlichiosis" refers to a group of tickborne diseases caused by obligate, intracellular bacteria that infect their host's neutrophils (_Ehrlichia ewingii_) or monocytes (_Ehrlichia canis_ and _Ehrlichia chaffeensis_). These infections lead to clinical signs that include fever, bleeding tendencies, lymphadenomegaly, lameness, and neurological signs. Diagnosis is based on cytological examination, serological testing, and PCR assay. Doxycycline is the treatment of choice.
+* [Etiology and Epidemiology](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/ehrlichiosis-in-dogs#Etiology-and-Epidemiology_v3276765)|
+* [Clinical Findings](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/ehrlichiosis-in-dogs#Clinical-Findings_v3276798)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/ehrlichiosis-in-dogs#Diagnosis_v3276820)|
+* [Treatment](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/ehrlichiosis-in-dogs#Treatment_v3276836)|
+* [Prevention](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/ehrlichiosis-in-dogs#Prevention_v3276843)|
+* [Zoonotic Risk](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/ehrlichiosis-in-dogs#Zoonotic-Risk_v3276847)|
+* [Key Points](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/ehrlichiosis-in-dogs#Key-Points_v49300962)|
+* [For More Information](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/ehrlichiosis-in-dogs#For-More-Information_v49300971)|
+
+## Etiology and Epidemiology of Ehrlichiosis in Dogs
+Canine monocytic ehrlichiosis is caused by  _**Ehrlichia canis**_. This organism appears to be transmitted mainly by the **brown dog tick** (_**Rhipicephalus sanguineus**_) and infects the host's monocytes.
+Ehrlichiosis is reported on all continents, with the exception of Australia and Antarctica. In North America, most cases occur within the southeastern and southwestern US.
+_**Ehrlichia ewingii**_ causes granulocytic ehrlichiosis in both humans and dogs. The organism is transmitted by the **lone star tick** (_**Amblyomma americanum**_), resulting in infection of the host's monocytes. The distribution of the disease closely parallels the distribution of the tick, affecting mainly the southeastern and central southern US.
+Although there are some conflicting data, infection with _E ewingii_ appears to be more common in summer than at other times of year. [Human monocytic ehrlichiosis](https://www.msdmanuals.com/professional/infectious-diseases/rickettsiae-and-related-organisms/ehrlichiosis-and-anaplasmosis) is caused by  _**Ehrlichia chaffeensis**_ and transmitted by  _A americanum_.
+Dogs naturally infected by _E chaffeensis_ can develop systemic signs of infection but also be healthy carriers. The disease occurs predominantly in humans, and dogs are suspected to be a possible infection reservoir.
+As with all other bloodborne infections, ehrlichiosis can also be transmitted via blood transfusions.
+## Clinical Findings of Ehrlichiosis in Dogs
+Infection with _E canis_ can result in subclinical, acute, or, in rare cases, chronic ehrlichiosis. The acute form of disease occurs within 1–3 weeks after infection and can manifest with fever, bleeding tendencies (petechiation, ecchymosis, melena, epistaxis), splenomegaly, lymphadenomegaly, and neurological signs.
+Most dogs clear the infection within 2–4 weeks; however, some dogs develop the chronic form of ehrlichiosis, which is characterized by bone marrow hypoplasia and deposition of immune complexes in various organs, resulting in clinical signs that include [anterior uveitis](https://www.msdvetmanual.com/emergency-medicine-and-critical-care/ophthalmic-emergencies-in-small-animals/anterior-uveitis-in-small-animals), [polymyositis](https://www.msdvetmanual.com/musculoskeletal-system/myopathies-in-dogs-and-cats/polymyositis-in-dogs-and-cats), vasculitis, and [glomerulonephritis](https://www.msdvetmanual.com/urinary-system/noninfectious-diseases-of-the-urinary-system-in-small-animals/glomerular-disease-in-dogs-and-cats). Consequently, physical examination findings for acute and chronic forms of ehrlichiosis might include fever, splenomegaly, lymphadenomegaly, evidence of bleeding, pitting edema, **pain** , and neurological abnormalities.
+The chronic form of ehrlichiosis appears to occur more commonly in German Shepherd Dogs than in other breeds. The bleeding tendencies observed in _Ehrlichia_ infections appear to be secondary to altered platelet function, because bleeding occurs in dogs with only mild [thrombocytopenia](https://www.msdvetmanual.com/circulatory-system/hemostatic-disorders/platelet-disorders-in-animals).
+Dogs infected with _E ewingii_ show clinical signs similar to those of _E canis_ infection, with the exception that _E ewingii_ causes acute disease, and inflammatory arthropathy has been reported in dogs with _E ewingii_.
+CBCs of dogs infected with _E canis_ commonly show thrombocytopenia accompanied by mild [nonregenerative anemia](https://www.msdvetmanual.com/circulatory-system/anemia/nonregenerative-anemias-in-animals). Patients with chronic ehrlichiosis show pancytopenia; however, leukocytosis due to either neutrophilia or lymphocytosis can occur. In addition, increased nucleated RBC counts can occur.
+Blood smears from dogs with ehrlichiosis can reveal the presence of intramonocytic morulas. However, blood smear evaluation is insensitive and cannot distinguish _E canis_ from _E chaffeensis_. Serum biochemical analysis most commonly reveals hyperglobulinemia that can be monoclonal.
+Review of blood smears from dogs infected with _E ewingii_ can reveal the presence of morulas within the neutrophils, as well as thrombocytopenia and nonregenerative anemia. The finding of intraneutrophilic morulas does not distinguish ehrlichiosis from [anaplasmosis](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/anaplasmosis-in-dogs).
+### Lesions of Ehrlichiosis
+During the acute or self-limiting phase of _E canis_ infections, lesions generally are nonspecific, but **splenomegaly is common**. Histologically, there is lymphoreticular hyperplasia and lymphocytic and plasmacytic perivascular cuffing.
+In chronic cases, these lesions can be accompanied by widespread hemorrhage and increased mononuclear cell infiltration in perivascular regions of many organs. In dogs with chronic ehrlichiosis, **bone marrow analysis commonly shows hypoplasia with plasmacytosis**. Similarly, cytological examination of lymph nodes can reveal plasmacytosis.
+## Diagnosis of Ehrlichiosis in Dogs
+* Cytological evaluation
+* Serological testing
+* PCR assay
+
+Because hematologic abnormalities are common with many vector-borne infections, additional testing is required to obtain a diagnosis of ehrlichiosis.
+Serological tests for ehrlichiosis are available based on point-of-care enzyme immunoassays and immunofluorescence assays (IFAs). In acute cases, dogs might develop clinical signs before seroconversion. This is especially true for _E ewingii_ infections, which can take up to 4 weeks before demonstrating substantial seroconversion.
+Thus, in cases with a high index of suspicion for acute ehrlichiosis, convalescent titers should be tested with IFA 2–4 weeks after the initial testing. **A 4-fold or greater increase in titers is consistent with a diagnosis of ehrlichiosis.** Likewise, because antibody titers can remain increased for months after infection, the use of paired serological titers can help discriminate acute from chronic forms of the disease.
+Pearls & Pitfalls
+|
+* Because seroconversion can take up to 4 weeks in some animals, convalescent titers should be tested with IFA 2–4 weeks after initial testing if the index of suspicion for acute ehrlichiosis is high.
+
+|
+| --- |
+Point-of-care tests cannot be used for paired titers, because they do not provide a quantitative result. Serological cross-reactivity is high, so serological testing does not distinguish _E canis_ , _E ewingii_ , and _E chaffeensis_.
+**PCR assay** can sometimes lack sensitivity if the number of organisms is low or the patient has already received antimicrobials. Nonetheless, this technology **enables speciation of the organisms** , as well as earlier diagnosis because seroconversion is not necessary.
+Samples appropriate for PCR assay include blood, tissue aspirates, or biopsy specimens of lymph nodes, spleen, liver, or bone marrow. PCR assay can also be used to detect the effectiveness of treatment in clearing infection; however, false-positive results can occur briefly after treatment because the target for the test is DNA, which might remain at a site even after the pathogen has been killed.
+**Differential diagnoses for ehrlichiosis include the following** :
+* Acute stage:
+* Chronic stage:
+* drug toxicosis (from estrogen, fenbendazole, chloramphenicol, etc)
+* myelophthisis
+* multisystemic diseases associated with specific organ dysfunction (eg, glomerulonephritis)
+
+## Treatment of Ehrlichiosis in Dogs
+* Doxycycline or minocycline
+* Supportive care
+
+To treat infection with _Ehrlichia_ , the drug of choice is **doxycycline** because of its superior intracellular penetration and bacteriostatic properties against rickettsiae. Doxycycline (5 mg/kg every 12 hours or 10 mg/kg every 24 hours, PO or IV, for 28 days) is recommended for dogs of all ages. If doxycycline is not available, **minocycline** (5–10 mg/kg, PO, every 12 hours for 28 days) can be substituted.
+If infection is suspected, dogs should be treated pending diagnostic results. Early seronegative tests should not be considered a reason to stop treatment, because antibodies can take ≥ 1 week to develop in acute cases.
+In acute cases of ehrlichiosis treated with appropriate antimicrobials, fever is expected to resolve within 24–48 hours after initiation of treatment. In chronic cases associated with _E canis_ infection, hematologic abnormalities can persist for 3–6 months; however, clinical response to treatment often occurs much sooner.
+If a dog is thought to have chronic ehrlichiosis, the _E canis_ antibody titer and whole blood PCR assay should be repeated after 6 months of illness to confirm successful treatment. Serum titers that persist at lower but positive levels after 6 months should be rechecked in another 6 months to confirm that they are not increasing.
+Supportive care might be necessary for ehrlichiosis patients with fever or bleeding tendencies, or in patients with chronic disease complicated by wasting and specific organ dysfunction. Patients with blood loss anemia or severe thrombocytopenia should be treated with platelet or whole blood transfusions as appropriate, particularly if hemorrhage is extensive.
+## Prevention of Ehrlichiosis in Dogs
+Ehrlichiosis can be prevented by [controlling tick exposure](https://www.msdvetmanual.com/integumentary-system/ticks/tick-control) of dogs. Dogs in areas infested by ticks should be restricted from walking off-trail, in certain grassy areas, and where there might be ticks in leaf litter. Dogs should be examined after walks, and any ticks should be removed carefully (to prevent human exposure). It is unrealistic, however, to expect that owners will find all ticks in the coat of a dog.
+Multiple topical medications are available to prevent tick bites; these should be used in compliance with labeling before dogs are brought into areas infested with ticks.Formulations containing **fipronil, isoxazoline, pyrethroid, or amitraz** are approved for this indication and are the most effective against ticks when used as labeled.
+Transfusion-associated _E canis_ transmission can be decreased by using seronegative screened blood donors; however, new donors with a negative screen cannot be presumed free of infection for several weeks, because they could be incubating infection.
+## Zoonotic Risk of Ehrlichiosis in Dogs
+**_E chaffeensis_ and _E ewingii_ are considered zoonotic agents.** Even though these infections occur in both animals and humans, the involvement of a required intermediate tick vector for transmission means that dogs and other infected animals do not pose a direct transmission risk to humans in normal circumstances.
+Infection in dogs can indicate a heightened risk of infection in humans from tick exposure in a given area.
+## Key Points
+* Multiple ehrlichioses can be transmitted by ticks from wildlife to pets and humans (or from dog to dog in the case of canine monocytic ehrlichiosis).
+* Ehrlichioses have similar clinical signs, with acute fever and hematologic abnormalities commonly occurring.
+* Ehrlichial infection can be prevented by tick preventatives or can be treated with doxycycline.
+
+## For More Information
+* [Canine ehrlichiosis prevalence map](https://capcvet.org/maps\\#/2025/all-year/ehrlichiosis/dog/united-states). Companion Animal Parasite Council.
+* [Ehrlichia spp. and Anaplasma spp.](https://capcvet.org/guidelines/ehrlichia-spp-and-anaplasma-spp/) Companion Animal Parasite Council.
+* Diniz PPVP, de Aguiar DM. [Ehrlichiosis and anaplasmosis: an update](https://doi.org/10.1016/j.cvsm.2022.07.002). _Vet Clin North Am Small Anim Pract_. 2022;52:1225-1266.
+* Sykes JE. _Canine and Feline Infectious Diseases_. Elsevier/Saunders; 2014.
+* Also see pet owner content regarding [ehrlichiosis and related infections in dogs](https://www.msdvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/ehrlichiosis-and-related-infections-in-dogs).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

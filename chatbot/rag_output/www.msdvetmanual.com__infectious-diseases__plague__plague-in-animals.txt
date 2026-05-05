@@ -1,0 +1,87 @@
+1. <[Plague](https://www.msdvetmanual.com/infectious-diseases/plague)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+PROFESSIONAL VERSION
+# Plague in Animals
+By[Jennifer A. House](https://www.msdvetmanual.com/authors/house-jennifer), DVM, MPH, DACVPM
+Reviewed By[Joyce Carnevale](https://www.msdvetmanual.com/authors/carnevale-joyce), DVM, DABVP, College of Veterinary Medicine, Iowa State University
+Reviewed/Revised Apr 2023 | Modified Sept 2024
+v3274109
+Plague is a serious, life-threatening disease caused by infection with the bacterium  _Yersinia pestis_. Enzootic foci of plague exist in the western US. Cases are most commonly reported from Arizona, California, Colorado, and New Mexico and are present in other western states. The disease may also be found in other parts of the Americas, Africa, and Asia. Plague is listed as a category A bioterrorism agent.
+* [Etiology](https://www.msdvetmanual.com/infectious-diseases/plague/plague-in-animals#Etiology_v3274114)|
+* [Epidemiology and Transmission](https://www.msdvetmanual.com/infectious-diseases/plague/plague-in-animals#Epidemiology-and-Transmission_v3274120)|
+* [Clinical Findings and Lesions](https://www.msdvetmanual.com/infectious-diseases/plague/plague-in-animals#Clinical-Findings-and-Lesions_v3274135)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/plague/plague-in-animals#Diagnosis_v3274143)|
+* [Treatment](https://www.msdvetmanual.com/infectious-diseases/plague/plague-in-animals#Treatment_v3274150)|
+* [Control and Public Health Response](https://www.msdvetmanual.com/infectious-diseases/plague/plague-in-animals#Control-and-Public-Health-Response_v3274155)|
+* [Key Points](https://www.msdvetmanual.com/infectious-diseases/plague/plague-in-animals#Key-Points_v80036852)|
+* Multimedia|
+
+The bacterium that causes plague is sustained in a rodent-flea transmission cycle involving numerous wild rodent species. In addition to rodents, many mammalian species can be infected with  _Yersinia pestis_ , including canids, felids, lagomorphs, mustelids, and occasionally ungulates. Birds and nonmammalian vertebrates do not appear to be susceptible to infection.
+## Etiology of Plague in Animals
+Plague's causative bacterium,  _Y pestis_ , is a gram-negative, facultative, nonspore-forming coccobacillus that belongs to the Enterobacteriaceae family. On Wright, Giemsa, or Wayson stains it may exhibit a bipolar staining with a "safety pin" appearance. The bacterium may be grown in various types of media, including blood agar, nutrient broth, and unenriched agar; however, it grows slowly even at optimal temperatures.
+## Epidemiology and Transmission of Plague in Animals
+In nature, the bacterium causing plague,  _Y pestis_ , is maintained between various rodent species (including chipmunks, squirrels and prairie dogs) and their associated fleas. The most common route of infection to pet animals is consuming infected rodents and lagomorphs or being bitten by an infected flea.
+Transmission from pets to humans has occurred in various ways: transportation of infected fleas into the home, bites and scratches, aerosol droplet transmission, and contact with infectious tissues and fluids. The incubation period is normally 1–7 days.
+Risk factors for pets include roaming in enzootic areas, hunting or consuming wild rodents and lagomorphs, and exposure to infected fleas. Some rodent and lagomorph species may experience high-mortality events from exposure to  _Y pestis_ , resulting in their fleas seeking alternative hosts, including cats, dogs, and humans.
+## Clinical Findings and Lesions of Plague in Animals
+Cats present with three clinical manifestations of plague:
+* Cats with **bubonic plague** , the most commonly observed form in cats, usually present with high fever, lethargy, anorexia, and regional lymphadenopathy (buboes) that may be either unilateral or bilateral. Abscessed lymph nodes are frequently submandibular; however, enlargement of the medial retropharyngeal, sublingual, or tonsillar regions has also occurred. Abscessed lymph nodes may appear similar to abscesses from bite wounds or other causes. Oral lesions, skin abscesses, ocular discharge, diarrhea, vomiting, and cellulitis have also been documented.
+* Cats with **septicemic plague** present with high fever, lethargy, and anorexia, progressing to overt signs of sepsis, including vomiting, diarrhea, tachycardia, prolonged capillary refill time, cold extremities, pale mucous membranes, disseminated intravascular coagulopathy (DIC), multiorgan failure, and acute respiratory distress syndrome (ARDS). Patients do not necessarily have enlarged lymph nodes.
+* **Pneumonic plague** may develop secondary to the other forms and is characterized by fever, dyspnea, oral/nasal discharge, and coughing or sneezing. It can be transmitted to cat owners and veterinary clinic staff via respiratory droplets.
+
+All suspected plague cases require auscultation of the chest, and thoracic radiographs should be used to assess pulmonary involvement. Typical radiographic findings include changes suggestive of diffuse interstitial pneumonia or coalescing areas of necrosis forming an abscess.
+Flea-bite plague lesions, cat
+Image
+This plague-positive cat shows two ulcerative lesions on its legs, most likely due to the bites of plague-infected fleas.
+Courtesy of Ted Brown, New Mexico Environment Department, 1992.
+Draining abscess from plague bubo, cat
+Image
+This fatal plague case in a cat shows a submandibular lymphadenopathy with a draining abscess. The plague bacteria in this abscess are potentially infectious to other animals and people.
+Courtesy of Ted Brown, New Mexico Environment Department, 1988.
+Dogs are less likely than cats to develop clinical illness from infection with  _Y pestis_ ; however, it has been documented on several occasions. Transient fever and anorexia of short duration (< 72 hours) may be noted, accompanied rarely by lymphadenopathy. Severe disease including respiratory involvement is possible in dogs (but rare) and can result in a fatal illness.
+There have been at least two dogs documented in the literature that died from plague in the US. Both of these dogs presented with high fever, malaise, and lobar pneumonia that progressed to hemoptysis within 24 hours of illness onset.
+Plague bubo, dog
+Image
+A dog with laboratory-confirmed bubonic plague. Note the healing bubo on the dog's throat.
+Courtesy of Ted Brown, New Mexico Environment Department, 1997.
+Domestic production animals have rarely been reported infected with  _Y pestis_. Cattle, horses, sheep, and pigs are not known to develop clinical illness. There are rare reports of clinical illness in camels, camelids, and goats.
+Clinical plague is present in wildlife species including antelope, deer, and felids (bobcat, lynx). Wild canids (coyote, fox) are generally resistant to illness but are frequently found to be seropositive in plague-endemic areas.
+## Diagnosis of Plague in Animals
+* Culture: gold standard but takes longer
+* PCR
+* Direct fluorescent antibody testing
+* Serology: may yield false negative
+
+Specimen collection for plague diagnosis should be done using appropriate personal protective equipment (PPE), including gloves, masks, and eye protection, and samples should be clearly labelled as from a plague suspect so that the lab personnel receiving the sample can take the same precautions when they handle it. Samples should be collected prior to initiation of antimicrobial therapy; however, samples can still be taken and submitted for testing even if antimicrobials have been administered. The preferred specimens for diagnosing infection with  _Y pestis_ are lymph node aspirates, whole blood or fresh tissue for PCR assay, or direct fluorescent antibody (DFA) testing at an approved laboratory.
+Culture is the gold standard but will take longer to obtain results. Serology testing may result in false negatives if serum is collected too early in the course of illness; it may take up to 17 days for antibodies to develop. If serum is collected, a 4-fold rise in plague antibody titers on paired acute and convalescent serum collected 3 to 4 weeks apart is confirmatory. However, a presumptive diagnosis can be based on a single elevated antibody titer of 1:32 or greater. The WBC count is generally elevated with a marked neutrophilia.
+The pneumonic form may show evidence of pneumonic lesions on thoracic radiographs. Buboes are highly suggestive when present, but lymph node enlargement may be absent in septicemic and pneumonic plague.
+## Treatment of Plague in Animals
+* Antibiotics according to severity and species
+* Early treatment improves outcomes
+
+Do not delay treatment for plague while waiting for diagnostic results. Early antimicrobial treatment will improve the chances of survival. The patient should be hospitalized and treated in isolation by personnel wearing appropriate PPE. Treatment is recommended to continue for 10–21 days. Antibiotic choices include fluoroquinolones, doxycycline, trimethoprim-sulfonamide, gentamicin, and chloramphenicol.
+Severity of disease and animal species should be considered when choosing an antibiotic. Clinical response to antimicrobial therapy is generally rapid, except in moribund cases, and the prognosis for recovery is good. Animals are generally considered noninfectious after 48–72 hours of antibiotic therapy; however, the duration of infectivity in pets is not completely known.
+Parenteral treatment is preferable for the first 48–72 hours to prevent human exposure during dosing of oral antibiotics. Patients receiving parenteral antibiotics may be switched to oral therapy after 48–72 hours. Beta-lactam antimicrobials are not efficacious and should not be administered to treat suspect plague cases.
+## Control and Public Health Response of Plague in Animals
+Every case of veterinary plague represents a potential risk for human exposure and illness. Veterinary clinic personnel and owners should be advised of these risks. Suspect plague patients should be immediately placed in isolation and given flea control.
+Infection-control procedures including gloves, masks, eye protection, and standard disinfection procedures should be used when handing the animal or infectious materials. The usual incubation period for plague in humans is 1–7 days.
+Public health officials, beginning with the state veterinarian, should be notified as soon as plague is suspected. They can assist with rapid diagnostics, environmental controls to prevent additional cases, and assessment of exposures. Persons potentially exposed will either be recommended to initiate a 7-day active fever watch or start antibiotic prophylaxis, depending on the type and timing of the exposure to the infected animal.
+Animal owners in plague-endemic areas are advised to keep pets from roaming and hunting, avoid exposure to rodent and lagomorph carcasses, maintain pets on a veterinarian-recommended flea-control program, and ensure any sick pet is examined promptly by a veterinarian. Clients should be warned that sick pets should not share sleeping areas with family members. Additional information is available at [CDC: Plague](https://www.cdc.gov/plague/).
+## Key Points
+* Transmission is often by the consumption of infected prey animals or the bite of an infected flea.
+* Diagnosis is by PCR assay, DFA, or culture. Antibodies to  _Y pestis_ may take up to 17 days to develop, which could cause false-negative serology results early in the course of disease.
+* Treatment choice is antimicrobials effective against gram-negative bacteria, including fluoroquinolones, doxycycline, trimethoprim-sulfonamide, gentamicin, and chloramphenicol, with appropriate supportive care and monitoring as needed.
+* Zoonotic infections are possible, and occupational exposure is a risk factor. The principal route of transmission in the veterinary setting is inhalation of droplets from pneumonic animals.
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

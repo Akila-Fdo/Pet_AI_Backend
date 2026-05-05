@@ -1,0 +1,212 @@
+1. <[Tick Paralysis](https://www.msdvetmanual.com/nervous-system/tick-paralysis)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+PROFESSIONAL VERSION
+# Tick Paralysis in Animals
+By[Rhian B. Cope](https://www.linkedin.com/in/rhian-cope-aa64b9154/?originalSubdomain=au%20), BVSc, BSc, PhD, DABT, DABVT, FACTRA, Australian Pesticides and Veterinary Medicines Authority, Australian Government
+Reviewed By[Ahna Brutlag](https://www.msdvetmanual.com/authors/brutlag-ahna), DVM, DABT, DABVT, College of Veterinary Medicine, University of Minnesota
+Reviewed/Revised Oct 2023 | Modified Sept 2024
+v3289663
+Tick paralysis (also known as tick toxicosis) is an acute, progressive, symmetrical, ascending motor paralysis due to salivary neurotoxins produced by certain species of ticks. With some species, other clinical signs of systemic "single-organ" toxicity (eg, cardiac, airway, bladder, lung, esophagus, etc) may be observed separate from or within the typical paretic-paralysis presentation. Very severe cases require intensive care, including artificial ventilation, to maximize recovery rates. Generally, only tick removal and administration of tick antitoxin serum (not commercially available in the US) and antimicrobials have a major effect on overall mortality rate. Reports of tick paralysis are more common in Australia than in the US.
+* [Etiology and Pathogenesis](https://www.msdvetmanual.com/nervous-system/tick-paralysis/tick-paralysis-in-animals#Etiology-and-Pathogenesis_v3289673)|
+* [Epidemiology](https://www.msdvetmanual.com/nervous-system/tick-paralysis/tick-paralysis-in-animals#Epidemiology_v84390340)|
+* [Clinical Findings](https://www.msdvetmanual.com/nervous-system/tick-paralysis/tick-paralysis-in-animals#Clinical-Findings_v3289704)|
+* [Diagnosis](https://www.msdvetmanual.com/nervous-system/tick-paralysis/tick-paralysis-in-animals#Diagnosis_v3289723)|
+* [Treatment](https://www.msdvetmanual.com/nervous-system/tick-paralysis/tick-paralysis-in-animals#Treatment_v3289730)|
+* [Prognosis](https://www.msdvetmanual.com/nervous-system/tick-paralysis/tick-paralysis-in-animals#Prognosis_v3289753)|
+* [Prevention and Control](https://www.msdvetmanual.com/nervous-system/tick-paralysis/tick-paralysis-in-animals#Prevention-and-Control_v3289758)|
+* [For More Information](https://www.msdvetmanual.com/nervous-system/tick-paralysis/tick-paralysis-in-animals#For-More-Information_v84390556)|
+
+Humans (usually children) and a wide variety of other mammals, birds, and reptiles may be affected.
+## Etiology and Pathogenesis of Tick Paralysis in Animals
+Tick paralysis is unique among toxicoses because it is due to pulsed toxin flow associated with repeated tick feeding over a set period of time.
+The potential to induce tick paralysis has been demonstrated, described, or suspected in 64 species of ticks belonging to 7 ixodid and 8 argasid genera. In humans, cases caused by the genera _Ixodes_ , _Dermacentor_ , and _Amblyomma_ have been reported from Australia, North America, Europe, and South Africa. These three genera plus _Rhipicephalus_ , _Haemaphysalis_ , _Otobius_ , and _Argas_ have been associated with varying levels of paralysis in animals.
+The severity of this neurotoxicosis does not necessarily relate directly to tick size, number, or duration of attachment. The clinical signs produced in various hosts depend on several variables, including rate and volume of toxin secretion, local site responsiveness, host immunity and susceptibility, and specific organ susceptibility.
+In the specific case of _I holocyclus,_ clinical signs of tick envenomation typically develop after 72 hours of tick attachment and with a tick size of ~4 mm on the fourth day of attachment. Critically, tick size by itself may not be a reliable indicator, given that there have been rare anecdotal reports of ticks < 4 mm causing clinical signs of envenomation and of large ticks not causing disease.
+Systemic toxicosis follows injection of toxin into the host, especially during periods of rapid engorgement, although large numbers of larval or nymphal ticks may also cause paralysis.
+The toxin is presumed to travel from the attachment site via the lymph to the systemic circulation and then to all areas of the body, where it has a direct effect on cellular potassium channels and thus on intracellular calcium levels. However, primary hypoventilation is the main cause of death in most severe cases, in which alveolar disease may also be present.
+## Epidemiology of Tick Paralysis in Animals
+Tick paralysis is **most common in Australia**.
+On the eastern coast of Australia, the paralysis tick _I holocyclus_ (and to a lesser extent _I cornuatus_ and _I hirsti_ , in which morphological classification has been shown to be unreliable) causes the most severe form of tick paralysis, with a mortality rate of up to 10% in dogs (usually 4%–5%), irrespective of treatment. _I holocyclus_ in Australia causes a much more severe disease than that observed in North America and elsewhere.
+Dogs and cats are affected, as well as sheep, goats, calves, foals, horses, pigs, flying foxes, poultry, birds (ostrich), reptiles (snakes and lizards), and humans. Both local (less common) and systemic paresis and paralysis are present. The natural hosts (bandicoots) are rarely affected, presumably acquiring immunity at an early age. However, without exposure to the toxin, they too become susceptible.
+Cats appear to be resistant to the disease caused by _I cornuatus_ and _I hirsti_ but are affected by _I holocyclus_. Toxicity is usually less severe than in dogs, does not include respiratory complications, and has a better prognosis.
+In the US, at least anecdotally, cases of tick paralysis are more commonly seen in dogs, and an affected horse has been reported.
+In **North America** , _D andersoni_ (the Rocky Mountain wood tick) and _D variabilis_ (the American dog tick) are the most common vectors. Sheep, cattle, and humans may be affected, as well as dogs. Other species that may cause paralysis include _D albipictus_ , _I scapularis_ , _Amblyomma americanum_ , _A maculatum_ , _R sanguineus_ , and _O megnini_.In fowl, _Argas radiatus_ and _A persicus_ have caused paralysis.
+In **Africa** , _I rubicundus_ (Karoo tick paralysis) and _R punctatus_ in South Africa, _R evertsi evertsi_ and _Argas walkerae_ in sub-Saharan Africa, and _R evertsi mimeticus_ in Namibia can cause the disease.
+**Host factors** influencing epidemiology include
+* species
+* sensitivity to the toxin
+* age
+* acquired immunity
+* field behavior
+* concurrent physiological demands
+* reaction to environmental factors
+* population density
+
+Antitoxin immunity, starting at least 2 weeks after primary tick exposure and lasting a few weeks, can be boosted by further infestations; however, chronic tick exposure eventually is associated with a decline in immunity, possibly due to toxin-neutralizing effects by the host.
+The maximal prevalence of tick paralysis is associated with **seasonal activity** of female ticks, mainly in spring and early summer; however, in some areas ticks are active throughout the year.
+**Environmental factors** such as temperature and humidity also play a major role in tick morbidity and mortality (ie, ticks are easily killed by both hot, dry conditions and wet conditions).
+Modern rapid transport of ticks attached to humans, animals, or plant material can give rise to isolated cases of tick paralysis, far removed from the particular geographic area (or country) where the ticks are naturally found. The diagnosis may be delayed or made incorrectly when infested animals travel to areas where tick paralysis is not typically observed.
+## Clinical Findings in Tick Paralysis in Animals
+Animals are generally affected by paralysis; however, other very odd clinical manifestations are possible.
+Deterioration can be unpredictable and rapid in some cases, and some patients may have prolonged and unexplainable recovery.
+In tick paralysis other than that due to _I holocyclus_ , clinical signs are generally observed ~5–9 days after tick attachment and progress over the next 24–72 hours.
+When _I holocyclus_ is involved, clinical signs usually appear 3–5 days (rarely longer, eg, up to 18 days) after attachment and usually progress rapidly throughout the next 24–48 hours.
+Time periods can vary with _I holocyclus_ because of tick factors, environmental humidity, temperature (microclimate), and host factors. Both shorter onset to severe clinical signs and delayed "quiet" attachments with minimal clinical signs may be present.
+Removal of _I holocyclus_ ticks does not immediately halt progression of disease. In severe cases, death from respiratory muscle failure and other respiratory complications can occur within 1–2 days of the onset of clinical signs.
+**Early clinical signs of tick paralysis** may include:
+* change or loss of voice (due to laryngeal paresis)
+* hind limb incoordination (presumed to be due to weakness and not CNS ataxia)
+* change in breathing rhythm, rate, depth, and effort
+* gagging, grunting, or coughing
+* regurgitation or vomiting
+* pupillary dilation
+
+Dogs with a grunt are believed to have increased airway resistance.
+**Hind limb paralysis** begins as slight to pronounced incoordination and weakness, which is best observed with the animal turning or walking away from the observer (or climbing stairs or jumping up). As paralysis progresses, the animal becomes unable to move its hind limbs and forelimbs, to stand, to sit, to right, and finally to lift its head.
+A four-stage classification system based on systemic limb activity may enable clinical predictability:
+* Stage 1: The dog’s voice is changed (usually noticed retrospectively), and the dog is weakened but can still walk and stand.
+* Stage 2: The dog cannot walk but can stand.
+* Stage 3: The dog cannot stand but can right.
+* Stage 4: The dog cannot right.
+
+Stages 3 and 4 (~30% of cases) indicate a poor prognosis. However, some dogs show few clinical signs because of low levels of toxin or protective skin or systemic immunologic factors, and some show signs in only one organ (eg, esophageal paralysis).
+Sensation is usually preserved; however, it is increasingly harder to detect the clinical responses to stimuli due to lower motor neuron paralysis. Visual analog scale scoring is also performed for the neuromuscular junction, overall toxicity, and dyspnea, with highly predictive results.
+Breathing abnormalities include:
+* choke
+* upper respiratory tract obstruction
+* bronchoconstriction (especially evident early in cats)
+* progressive fatigue of respiratory muscles
+* aspiration of esophageal or gastric contents (due to loss of pharyngeal and laryngeal function), leading to aspiration pneumonia
+
+Aspiration can be pronounced, and the lung severely affected before any obvious clinical signs.
+It is possible to have a silent (no crackles), severely pneumonic lung if there is poor airflow into the affected lobe. Some dogs have profound dyspnea, no crackles, and extensive pulmonary radiographic opacity (due to aspiration pneumonia); such cases are usually terminal.
+Dogs with upper respiratory tract obstruction have a marked expiratory stridor (not the inspiratory stridor typical of primary laryngeal paralysis of large breeds), often with the head and forelimbs extended to maximize air flow and exchange.
+If there is thoracic disease as well, the patient is usually very dyspneic. A thrill can be felt at or just below the larynx in association with the obstructed expiratory effort and stridor. The upper respiratory tract lesion can be easily missed, especially if the dog is paralyzed. Often the respiratory rate is high and forced.
+In cats, the doll test can be used to assess upper respiratory tract function. If finger and thumb compression of the chest induces a stridor, then this supports paresis or paralysis, irrespective of other respiratory tract defects. It is essential that any upper respiratory tract obstruction be diagnosed, because the associated workload, anxiety, and resultant fatigue can quickly become terminal.
+Paralysis of esophageal muscles develops in most dogs (but not cats), with or without obvious esophageal dilation. Saliva and ingested food or fluid pool in the esophagus and may be regurgitated into the pharynx and mouth. Loss of pharyngeal function makes it difficult for the patient to clear material from the upper respiratory tract, which may then lead to aspiration pneumonia.
+Vomiting (with evidence of bile) may occur in _I holocyclus_ paralysis; a central action of the toxin on the vomiting center has been suggested. Most cases of vomiting reported by owners are probably regurgitation, although drug-induced vomiting can be a complication. Dogs will gag and retch in an attempt to clear secretions and move their head and jaw in an odd way, associated with a characteristic groan, to further attempt clearance of materials.
+Body temperature may be normal in the early stages; however, because of the toxin’s effect on arteriovenous anastomoses (shunts), normal thermoregulation is lost. This can cause hyper- and hypothermia as animals are affected by local environmental factors. The ability to shiver is also lost in severe cases.
+Profound hypo- and hyperthermia can occur suddenly and can be easily misdiagnosed; hypothermia clinically resembles tick paralysis in several ways. When body temperature is restored, the level of tick paralysis in some cases can be mild.
+Rarely in dogs, acute congestive heart failure can present with extensive pulmonary edema due to diastolic myocardial dysfunction (the myocardium is unable to correctly relax, decreasing efficient chamber filling and therefore systolic cardiac output). Venous return may also be decreased, and systemic venous pressure is increased.
+Some dogs have a prolonged QT interval on ECG, which can result in a lethal ventricular arrhythmia. The frequency of these unexplained deaths, which follow complete gross clinical recovery, is not known; however, most veterinarians who treat many cases report such events.
+Cats with moderate to severe cases can be anxious. It is essential not to interfere with these patients until they have settled in their cage. If procedures are forced on them, they can die from obstructive dyspnea and the (presumed) associated hypoxemia, acidosis, and hypercapnea. Patients can deteriorate if compromised by excessive hospital stress (eg, nursing attention, noise, smell).
+Cats may develop an asthmalike airway constriction, usually when they are mildly paretic; expiratory wheeze on auscultation, forced abdominal expiratory effort, and very easily induced exercise intolerance are typical clinical signs at this time. These cats often have a positive findings on the doll test and will, after a few steps, sit on their hindquarters with the chest in a more upright vertical position than normal, often with an increased respiratory focus or effort.
+[Feline asthma](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals) can be easily misdiagnosed at this stage if a tick is not found or suspected.
+## Diagnosis of Tick Paralysis in Animals
+* Compatible clinical signs and history of tick bite exposure or known tick area
+* Ancillary diagnostic testing
+* Recovery after treatment
+
+Australian practitioners involved in the diagnosis and treatment of _I holocyclus_ envenomations are strongly urged to consult the most recent [Australian Paralysis Tick Advisory Panel guidance](https://www.vpb.nsw.gov.au/tick-paralysis-dogs-and-cats) on diagnosis, management, treatment, and prevention of tick paralysis in dogs and cats _._
+The presence of a tick in conjunction with the sudden appearance of limb weakness and/or respiratory impairment is diagnostic. The offending tick may no longer be attached, but a “skin crater” (a hole 1–2 mm deep and 1–3 mm wide, surrounded by a variably raised and inflamed area) confirms the diagnosis.
+Sometimes neither tick nor crater can be found (ticks attached deep in the ear, between toes, or in the mouth or anus may be missed). However, with the appropriate clinical signs, in a known tick area without another obvious cause of lower motor neuron or neuromuscular disease, tick antitoxin serum (TAS) treatment is still indicated.
+TAS is only available in Australia. Recovery after treatment subjectively confirms the provisional diagnosis.
+Specific laboratory diagnostic techniques are not available. PCV, serum protein, and radiographic evaluation to assess presence and extent of pulmonary edema, megaesophagus, and pneumonia due to aspiration may be helpful. Specific clinical signs (eg, congestive heart failure, urethral obstruction) require routine evaluation and treatment of that body area or system.
+**Differential diagnoses** include:
+* tetrodotoxin poisoning (eg, puffer fish, toadfish, blue-ringed octopus)
+* ciguatoxin poisoning from affected fish
+* saxitoxin poisoning (eg, paralytic shellfish poisoning)
+
+In regions where ticks are endemic, tick paralysis is usually high on the list of differential diagnoses for any flaccid, clinically ascending motor paralysis. It should also be considered in the differential diagnosis of [megaesophagus](https://www.msdvetmanual.com/digestive-system/diseases-of-the-esophagus-in-small-animals/dilatation-of-the-esophagus-in-small-animals), unexplained vomiting, acute left congestive heart failure (dogs), or asthma (cats [in areas where feline tick paralysis is a concern]).
+The tick season is usually well known for various areas (eg, a local creek) within the environment of a particular practice, and often most tick paralysis cases come from a few well-defined, highly endemic areas.
+Serum biochemical parameters are unchanged in the early stages. Increased PCV (with normal serum protein) indicates a fluid shift into the lungs and a more guarded prognosis.
+Other changes may include increased concentrations of blood glucose, cholesterol, and phosphate; increased CK activity; and decreased blood potassium concentration. However, none of these changes are specific for tick paralysis, nor do they indicate severity or prognosis.
+A number of diagnostic tools are available:
+* **Echocardiography** reveals both diastolic and secondary systolic myocardial dysfunction associated with decreased ventricular filling, possibly both peripheral venous pooling and poor diastolic myocardial relaxation.
+* Nonstressful **radiography** gives the best available prognostic support.
+
+Pulse oximetry, capnography, and arterial blood gas analysis may be helpful for monitoring. However, the stress of any such testing should be considered; positioning for thoracic radiographs (eg, dorsoventral to lateral) can tip patients into a terminal hypoventilatory decline associated with acute respiratory or cardiac arrest.
+## Treatment of Tick Paralysis in Animals
+* Tick removal
+* Tick antitoxin serum
+
+Best practices for the treatment of tick paralysis and envenomation (especially _I holocyclus_) are a rapidly developing field. Veterinarians who are required to manage patients with _I holocyclus_ envenomations are urged to consult the most recent [Australian Paralysis Tick Advisory Panel guidelines](https://www.vpb.nsw.gov.au/tick-paralysis-dogs-and-cats) on diagnosis, management, treatment, and prevention of tick paralysis in dogs and cats.
+**Tick antitoxinserum** (only available in Australia) is an immune serum against the toxin (similar to tetanus antitoxin) and is the product of choice. It should be administered as early in the disease as possible; subsequent top-up doses are not effective, because they are too late.
+For dogs, a minimal dosage of 0.1–1 mL/kg should be administered slowly IV over at least 20 minutes to avoid any shock reaction. Notably, the limited available data have demonstrated that increasing the dose of TAS above 0.1 mL/kg does not alter the mortality rate or improve the time to recovery.
+Management in dogs and cats is similar. TAS is regularly used in cats because it is the only effective and viable treatment option**irrespective of the potential for adverse effects**. Dosage and other information is available in the [Australian Paralysis Tick Advisory Panel guidelines](https://www.vpb.nsw.gov.au/tick-paralysis-dogs-and-cats).
+In Australia a tick antiserum for specifically made for cats is available. However, the product is only registered under a permit in Australia; it does not have full APVMA approval.
+In most infestations (except _I holocyclus_), removal of all ticks usually results in improvement within 24 hours and complete recovery within 72 hours. If ticks are not removed, death may occur from respiratory paralysis in 1–5 days.
+Removal of _I holocyclus_ ticks does not immediately halt progression of disease. Clinical signs can deteriorate for ~24 hours and longer; however, most dogs start to improve 6–12 hours after treatment with TAS.
+In any infestation, removal of all ticks is absolutely necessary. The entire integument should be searched, diligently and repeatedly, especially on longhaired animals or those with thick coats. Most ticks (80%) are located around the head or neck; however, they can be found anywhere on the body.
+**Minimum standards for tick search** (MSTS), also published in the [Australian Paralysis Tick Advisory Panel guidelines](https://www.vpb.nsw.gov.au/tick-paralysis-dogs-and-cats), have been developed.
+The MSTS stipulate that the search pattern must be systematic, and the finger walking method is recommended. The MSTS emphasize that ticks can be difficult to locate and stress the importance of searching the ear canals, lip margins, gums, hard palate, underside of collars, prepuce or vulva, rectum, tail tip, interdigital spaces, and area under dressings.
+Recognizing asymmetric focal neurologic deficits may aid in the detection of ticks.
+Based on the MSTS, a minimum of 3 initial searches involving 3 separate people should be performed. More than one tick may be involved in the envenomation, and a full-body hair clip should be performed, when necessary, to ensure removal of the entire tick burden.
+The MSTS also emphasize that repeated tick searches **every 6–12 hours** should be performed, provided the procedure does not cause undue stress. Plucking the ticks yields the best result (in dogs) and does not induce anaphylaxis.
+In situations in which a tick or tick crater has been located but there are no clinical signs of envenomation, currently recommended best practice is to adopt a risk-benefit approach in relation to treatment. Potential welfare, ethical, and legal considerations when considering this approach include:
+* relevant case history and signalment
+* likelihood of disease progression
+* access to veterinary treatment
+* risk of adverse effects of TAS treatment
+
+An important consideration with this approach is that clinical signs of tick envenomation typically develop after 72 hours of tick attachment and with a tick size of ~4 mm on the fourth day of attachment.
+Critically, tick size by itself may not be a reliable indicator, given that there have been rare anecdotal reports of ticks < 4 mm causing clinical signs of envenomation and of large ticks not causing disease.
+Treatment options when following the risk-benefit approach include hospitalizing the patient for 24 hours and following MSTS protocols or close observation by the animal owner at home with instructions to seek treatment immediately if any clinical signs develop. Administering tick antitoxin serum is also a possibility in higher-risk patients, upon owner request, or if intensive monitoring is not feasible.
+If a cat does not have clinical signs at the time of initial evaluation, it is recommended to remove the tick and monitor closely for progression of clinical signs. Administration of TAS to cats that have previously been sensitized to it is associated with an increased risk of anaphylaxis.
+Preventive treatment should be considered when using the risk-benefit approach. This involves treating the patient with an appropriate acaricide and educating the owner on the use of ongoing prophylaxis.
+In situations where there are clinical signs of tick paralysis with or without evidence of a tick or tick crater, a treatment approach is recommended. Clinical signs associated with a guarded prognosis in dogs include:
+* presence of inspiratory dyspnea or crackles
+* progression to expiratory dyspnea and an audible expiratory wheeze within 24 hours after hospital admission
+* retching or vomiting
+
+In patients with a guarded prognosis, a decision regarding early euthanasia should be discussed with the owner. Importantly, with all cases of tick paralysis the outcome can be unpredictable despite the use of appropriate treatment.
+Treatment must address primary toxemia and paralysis, secondary issues (eg, esophageal reflux, aspiration pneumonia), and potential tertiary factors (eg, chronic weakness, esophageal stricture). When possible based on appropriate clinical judgment, a tick search that follows the MSTS should be performed concurrently with treatment.
+Rapid IV administration of TAS can induce adverse clinical reactions in > 80% of dogs. Anaphylaxis can occur unpredictably (as with all products), necessitating the administration of high-dose soluble cortisol and rapid fluid loading, etc. Cats are believed to be somewhat more susceptible than dogs, presumably with a second dose, a few weeks (not days) after the first dose.
+TAS administered IP is the best alternative in cats or in small dogs for which the IV route is an issue (eg, respiratory distress, restraint dangers, dyspnea). However, its clinically effective half-life is believed to be short (days, not weeks), and it will have no effect if the toxin is already tissue-bound and the patient is severely ill or about to become so (with toxin in the perivascular space).
+Minimizing stress and anxiety is essential. Acepromazine (0.03 mg/kg) may be administered SC before any other medication or handling that may upset the patient. However, high doses should be avoided, especially if the patient is listless, hypotensive, or hypothermic. Overdosage may induce hypotension and hypothermia or increase the risk of aspiration. Opiates (eg, butorphanol, 0.1–0.4 mg/kg of body weight, IV, IM, or SC) are potential alternatives.
+Oxygen therapy (nonstressful, usually nasal) is implemented (as indicated); however, progressive disease requires more intensive treatment.
+General anesthesia is indicated in patients that are severely fatigued and dyspneic to allow for better administration of oxygen, esophageal drainage, and upper respiratory tract suction. Pentobarbitone (not available in the US) can be administered as a constant-rate infusion or administered periodically IV to induce light anesthesia, with repeated doses as needed. Another potential benefit of pentobarbitone may be control of long QT syndrome.
+The chief benefits of some form of anesthesia (eg, propofol) are decreasing dyspnea, enabling muscle rest, and helping overcome primary muscle fatigue and general exhaustion. Periods of 6–8 hours of light anesthesia are best, with reassessment of clinical status after each period.
+Mechanical or manual ventilation may be required but should be carefully assessed because recovery can be delayed, especially in brachycephalic patients. Longer-term ventilation cases can have a 70% recovery rate.
+It is essential to assess pulmonary (expired CO2 levels) and alveolar (pulse oximetry) ventilatory capacity and to be aware of profound respiratory muscle fatigue. Alveolar disease (edema or pneumonia) has a poor prognosis in such cases.
+Atropine (repeated every 6 hours, lowest dose) can be administered if GI and respiratory secretions are excessive; however, its effect on tear secretion (and the host’s potential for eyelid paralysis, decreased blink reflex, and corneal drying), cardiac rate, and rhythm changes should be considered.
+Treatment with antiemetics should be performed on patients that are vomiting, which is usually a poor prognostic sign. If the patient is regurgitating, the esophagus should be aspirated along with the upper respiratory tract. Correct drainage positioning then becomes a vital factor in helping to avoid aspiration. Care is needed with gastroesophageal reflux cases regarding their chronicity and tissue damage.
+Broad-spectrum bactericidal antimicrobials are indicated (especially in severe cases) to help avoid development of aspiration pneumonia; however, they must be administered as soon as possible. Dogs with upper respiratory tract obstruction require either tracheotomy or anesthesia and intubation to overcome the potentially lethal effects of such obstruction.
+Diuretics (eg, furosemide) with maximally appropriate oxygen treatment are indicated to treat congestive heart failure. Verapamil has been administered to counter the pathologic inotropic effects of tick toxin on the myocardium. The toxin does unbind, so if the patient can be kept free of terminal pulmonary edema (or arrhythmia), the cardiac failure will reverse over a few days, provided routine support is given.
+Esmolol has been administered to affected patients that have a long QT interval and the potential for a lethal, unpredictable ventricular arrhythmia.
+Fluid therapy should be used with great care, because pulmonary edema can be induced easily. Staying below maintenance levels and ensuring the patient is assessed for edema, both before and during IV fluid therapy, should be routine.
+Dehydration can occur in tick paralysis but not usually in routine cases until the second day of hospitalization, when increased PCV and protein values may be evident. In small patients, SC or IP fluids can be administered if lung status is a concern.
+Exceptional cases (eg, paralyzed in the sun with high humidity and temperature for a day before presentation) may require extensive rehydration; however, the extent of the underlying organ dysfunction should be assessed before intensive fluids are administered.
+The asthmalike disease in cats is hard to reverse, because routine bronchodilators do not seem to be effective.
+Muscle fatigue can be decreased (with recovery of some muscle strength) by short periods (6–8 hours) of anesthesia. The patients remain hypercapneic but, with endotracheal intubation and oxygen therapy, can establish reasonable hemoglobin saturation (> 95%), provided there is no extensive alveolar disease.
+Intoxicated animals lose their ability to regulate body temperature. Animals with a body temperature < 32°C (90°F) for a long period may be hard to resuscitate. Various heating mechanisms are used (hot water bottles, blankets, hot air flow blankets); however, peripheral heat absorption cannot occur if arteriovenous anastomoses (shunts) are shut because of the effect of the toxin and the host’s vasoconstrictive reaction to hypothermia.
+Warmth applied at the lower limbs (especially the hind limbs) will be of maximal benefit; direct application to the groin area may also potentially be useful. Some patients may need warmed fluids, administered IV or rectally, to reverse a very cold body temperature (eg, ≤ 32°C).
+Sudden hyperthermia (> 42°C [107.6°F]) can be observed in hospitalized dogs. They usually show exaggerated head and possibly forelimb movements and clinical signs of anxiousness. With cooling (eg, wet towels, direct fan flow, high rate of air changes), these signs abate.
+For animals that have lost their ability to thermoregulate or for those with severe hyperthermia, cooling measures should cease at 39.2°C (102.5°F) to prevent progression to hypothermia.
+Because the patient’s condition is expected to deteriorate after ticks are removed and TAS is administered, hospitalization with minimally invasive monitoring and good nursing care is necessary.
+The patient should be kept in a quiet, dark, comfortable area of the hospital where it can be easily observed. It should be placed on the sternum to maximize lung function. Lateral recumbency, left side down with the shoulder (not the pharynx or neck) as the highest point, is the best position for drainage. If possible, slight “head down” is also advised. Patients should never be rotated unless it can be done frequently (every 1–2 hours), day and night.
+Because the patient cannot void urine, catheterization is necessary, with the bladder expressed at least twice daily to avoid infection. As with other localized toxic effects, this may persist beyond the period when the patient has generally recovered.
+Eye protectants should be used to prevent corneal ulceration or dryness (lid closure, artificial tears, contacts). Suction of the pharynx, larynx, and proximal esophagus minimizes upper respiratory tract distress due to saliva pooling and regurgitation.
+An esophageal tube may be slowly inserted to remove any pooled material; in some cases, this is voluminous and the tube may possibly prevent choke (present mostly in brachycephalic breeds with laryngeal blockage by foreign material).
+Fluid and oxygen therapy should be monitored to avoid overhydration or undersupply, respectively. Nutritional support should be provided carefully to ensure that GI and respiratory function can continue with any offered food and water.
+Repeated tick searches should be performed during hospitalization, especially if the patient deteriorates unexpectedly or is slow to recover. Long or matted hair should be clipped, especially about the head and neck. Application of an acaricide may kill any ticks missed in searching. However, the stress of searching, clipping, or bathing can be detrimental in severely affected or nervous patients, in which sedation is recommended.
+## Prognosis of Tick Paralysis in Animals
+Prolonged recovery and weight loss can occur with various complications, and death can also occur due to choke, respiratory muscle fatigue, cardiac arrhythmias, congestive heart failure, and cardiopulmonary arrest. Older animals are at greater risk, as are very young pups.
+More severe cases are observed at the start of the season, and a second (close to the first) infestation will be more severe.
+Dyspnea, crackles, and wheezes are poor prognostic signs, as are high neuromuscular junction scores (3 and 4) or high visual analog scale scores (≥ 75%) for toxicosis or respiratory distress.
+Before discharge, the drop test can be used in cats to assess neuromuscular function and three-dimensional gravitational control. Cats should be able to correct a fall from 10–20 cm above the top of the table. Still-affected cats will not correct in time and land more heavily, with the chin hitting the padded table top. Recovered cats land lightly with good head control.
+Jumping up to and down from the cage can also be used to assess muscle strength in cats. In dogs, jumping down from a cage can induce stridor, indicating unresolved respiratory paresis with forced expiratory air flow, because the unsupported abdominal momentum affects the diaphragm and lung air flow, producing a high-volume expiration.
+Lifting a dog (with the holder’s arms wrapped outside the fore- and hind legs) with unresolved tick paralysis often produces stridor, indicating abnormal laryngeal function. Patients should be able to eat, drink, and walk normally without any stridor before discharge.
+Owners should be advised to continue to search recovered animals for ticks; use appropriate preventive methods to avoid reattachment of ticks; and keep animals from high temperatures, stress, and strenuous exercise for at least the first month. Smaller, more frequent meals may also be indicated if there was esophageal dysfunction. This rest period especially applies to working farm dogs, in which early overexercise may lead to permanent muscle damage.
+## Prevention and Control of Tick Paralysis in Animals
+Owners should not rely solely on chemical control to prevent tick infestation, because no product is totally effective and a single attached tick can cause tick paralysis. They should be advised about when and where their pets will be at risk and encouraged to take the following measures:
+* thoroughly search the coat daily
+* keep the coat as short as possible (to aid searching)
+* understand the efficacy, appropriateness, safety, and limitations of available preventive products (sprays, topical spot-ons, tablets, and collars)
+
+Combination treatment (eg, spray and collar) may give better results by using two modes of action; however, there are no published data to support this concept.
+Attempts to produce an effective vaccine against the _I holocyclus_ toxin have so far been unsuccessful, as have been attempts at “in-field” tick control. Ticks vary geographically, and such genetic differences may explain why clinical signs of tick paralysis and visual analog scale toxicity scores can vary between different areas at the same time of the year in the same season.
+## For More Information
+* Australian Tick Advisory Panel. _Tick Paralysis of Dogs and Cats: An Updated Guide to Diagnosis, Management, Treatment, and Prevention_. 2020. <https://www.vpb.nsw.gov.au/tick-paralysis-dogs-and-cats>
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#nervous-system)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

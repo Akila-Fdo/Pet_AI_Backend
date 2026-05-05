@@ -1,0 +1,69 @@
+1. <[Immune Disorders of Horses](https://www.msdvetmanual.com/horse-owners/immune-disorders-of-horses)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PET OWNER VERSION
+# The Immune System of Horses
+By[Ian Rodney Tizard](https://www.msdvetmanual.com/authors/tizard-ian), BVMS, BSc, PhD, DSc (Hons), DACVM, Department of Veterinary Pathobiology, College of Veterinary and Biomedical Sciences, Texas A&M University
+Reviewed/Revised Mar 2019 | Modified Sept 2024
+v3219049
+* [Physical Barriers](https://www.msdvetmanual.com/horse-owners/immune-disorders-of-horses/the-immune-system-of-horses#Physical-Barriers_v42463309)|
+* [Nonspecific Immunity](https://www.msdvetmanual.com/horse-owners/immune-disorders-of-horses/the-immune-system-of-horses#Nonspecific-Immunity_v42463313)|
+* [Specific Immunity](https://www.msdvetmanual.com/horse-owners/immune-disorders-of-horses/the-immune-system-of-horses#Specific-Immunity_v42463317)|
+* [Mounting an Immune Response](https://www.msdvetmanual.com/horse-owners/immune-disorders-of-horses/the-immune-system-of-horses#Mounting-an-Immune-Response_v42463322)|
+* [Types of Immune System Disorders](https://www.msdvetmanual.com/horse-owners/immune-disorders-of-horses/the-immune-system-of-horses#Types-of-Immune-System-Disorders_v42463328)|
+* [For More Information](https://www.msdvetmanual.com/horse-owners/immune-disorders-of-horses/the-immune-system-of-horses#For-More-Information_v42463354)|
+* Multimedia|
+
+The immune system consists of a network of white blood cells, antibodies, and other substances that fight off infections and reject foreign proteins. In addition, the immune system includes several organs. Some, such as the thymus gland and the bone marrow, are the sites where white blood cells are produced. Others, including the spleen, lymph nodes, and liver, trap microorganisms and foreign substances and provide a place for immune system cells to collect, interact with each other and with foreign substances, and generate an immune response.
+The primary role of the immune system is to defend the body against foreign invaders or abnormal cells that invade or attack it. To do this, the immune system must distinguish between “self” and “non-self.” By recognizing invading microorganisms (such as viruses), chemical agents, or other foreign substances that are “non-self,” a body can protect itself from attack. Substances that stimulate an immune response in the body are called**antigens**. Antigens may be contained within or on bacteria, viruses, other microorganisms, or cancer cells. Antigens may also exist on their own—for example, as pollen or food molecules. A normal immune response consists of recognizing a foreign antigen, mobilizing forces to defend against it, and attacking it.
+There are three lines of defense against invaders: physical barriers, nonspecific (or innate) immunity, and specific (or adaptive) immunity. Nonspecific and specific immunity involve various white blood cells.
+Table
+Specialized Cells and Molecules of the Immune System
+Table
+Specialized Cells and Molecules of the Immune System
+Specialized Cells and Molecules of the Immune System
+| Lymphocytes  | Small white blood cells found in all organs and tissues. There are 2 principal types: B lymphocytes (B cells), which mature in the bone marrow, and T lymphocytes (T cells), which mature in the thymus.  |
+| --- | --- |
+| B cells  | These lymphocytes are responsible for the production of antibodies, an important part of the immune response.  |
+| T cells  | These lymphocytes include **killer (cytotoxic) T cells** , which detect and kill cells that are abnormal (such as cancer cells), and **helper T cells** , which help other lymphocytes mount an immune response.  |
+| Antigens  | Any substances that can induce an immune response.  |
+| Antigen-presenting cells  | Specialized cells that engulf antigens and process them so that they can be recognized by lymphocytes.  |
+| Neutrophils  | All-purpose scavenger cells that ingest and destroy antigens and cell debris.  |
+| Macrophages  | White blood cells that stimulate healing and remove antigens, injured cells, and neutrophils from tissue.  |
+| Eosinophils  | White blood cells that ingest bacteria and other foreign cells, participate in allergic reactions, and help destroy cancer cells.  |
+| Mast cells  | Cells that release histamine and other substances involved in allergic reactions.  |
+| Cytokines  | The immune system’s messengers, typically small proteins, which help regulate an immune response by delivering signals from one cell to another.  |
+| Antibodies  | Also called **immunoglobulins** , antibodies are proteins produced by B cells that interact with specific antigens. They can form immune complexes, label antigens for removal by other cells, or block the ability of a virus to enter its target cell.  |
+## Physical Barriers
+The first lines of defense against invaders are mechanical or physical barriers. These include the skin, the cornea of the eye, and the membranes lining the respiratory, digestive, urinary, and reproductive tracts. As long as these barriers remain unbroken, many invaders cannot penetrate them. However, if a barrier is broken (for example, if the skin is broken by a wound), the risk of infection increases.
+In addition, the physical barriers are defended by "good" bacteria that live in the area and by secretions containing enzymes that can destroy harmful bacteria. Examples are tears in the eyes, secretions in the digestive tract, and normal "gut flora" (bacteria) that live in the digestive tract.
+## Nonspecific Immunity
+Nonspecific (innate) immunity is present at birth. It is so named because its components treat all foreign substances in much the same way. Acute inflammation is the most important process involved in nonspecific immunity. During inflammation, white blood cells (such as neutrophils and macrophages) rapidly travel from the blood into the tissues to kill invading organisms and remove injured cells. Other white blood cells involved in nonspecific immunity are monocytes (which develop into macrophages), eosinophils, basophils, and natural killer cells. These nonspecific types of white blood cells usually act on their own to destroy invaders. The complement system and cytokines are molecules produced by the immune system that also participate in nonspecific immunity.
+## Specific Immunity
+Specific (adaptive) immunity is acquired and improves with time. As the immune system encounters different antigens, it learns the best way to attack each type, and it begins to develop a memory for that antigen. Specific immunity is so named because it tailors its attack to a specific antigen previously encountered. It takes time to develop specific immunity after initial exposure to a new antigen; however, when the antigen is encountered in the future, the response is more rapid and more effective than that generated by nonspecific immunity. Specific immunity involves the action of lymphocytes (B cells and T cells), antibodies, antigen-presenting cells, and cytokines.
+Most vaccines work by stimulating the development of specific immunity. Vaccines have been developed for many diseases in horses and are an effective way to enhance the immune response.
+## Mounting an Immune Response
+To destroy invaders, the immune system must first recognize them. It can make this distinction because all cells have unique markers on their surface that identify them. A cell with markers on its surface that are not identical to those on the body’s own cells is identified as being foreign. The immune system then attacks that cell.
+Some white blood cells (B cells) recognize invaders, or antigens, directly. When a B cell recognizes and attaches to the antigen, it produces antibodies, which coat the surface of the virus or bacteria to stop it from multiplying or infecting other cells. This process is called neutralization. Antibodies also label the foreign invaders so that other immune defenses can find and attack them. To prevent inappropriate immune responses, B cells usually require "permission" from helper T cells to produce antibodies.
+T-cells are white blood cells that also need help from cells that first ingest the invader and break it into fragments. The fragments are then presented to the T cells so that they can recognize and destroy them. These helper cells are called antigen-presenting cells.
+Antigens and T cells
+| --- |
+After an infectious organism has been eliminated, most of the immune cells and antibodies that fought the infection disappear. However, a small group of “memory” immune cells remain in the body. If the memory cells are later exposed to an antigen they remember, they help the body respond much faster and more strongly. This is why vaccines successfully prevent many diseases. Vaccines prime the immune system to respond quickly by exposing the T and B cells to the antigens on the infectious organism.
+## Types of Immune System Disorders
+The immune system does not always function properly. Immune system disorders, called **immune-mediated disorders** , occur when the immune system is overactive or underactive. Disorders resulting from an underactive immune system, called **immunodeficiencies** , put animals at an increased risk for infections. Alternatively, an overactive immune system can attack parts of its own body that it misidentifies as foreign, causing what is known as an **autoimmune disorder**. At other times, the immune system overreacts to foreign invaders by producing too many antibodies (called gammopathies) or other chemicals (known as hypersensitivity or allergic reactions). There can be excessive responses of nonspecific (innate) or specific (adaptive) immunity.
+## For More Information
+.Also see professional content regarding [the immune system](https://www.msdvetmanual.com/immune-system/the-biology-of-the-immune-system/biology-of-the-immune-system-in-animals)
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#horse-owners)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

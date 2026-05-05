@@ -1,0 +1,44 @@
+1. <[Ophthalmology](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# The Conjunctiva in Animals
+By[Ralph E. Hamor](https://www.msdvetmanual.com/authors/hamor-ralph), DVM, MS, DACVO, University of Florida, College of Veterinary Medicine
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Feb 2023 | Modified Sept 2024
+v3269216
+* Multimedia|
+
+The conjunctiva consists of the palpebral conjunctiva (lining the posterior eyelids), the fornix or conjunctival cul-de-sac (where the palpebral and bulbar conjunctiva connect), the bulbar conjunctiva (covering the anterior globe or episclera), and the conjunctiva covering the nictitating membrane. The conjunctiva has important roles in tear dynamics, immunologic protection, ocular movement, and corneal healing. Because it is loosely attached to the episclera, the bulbar conjunctiva is a useful tissue for creating conjunctival grafts to repair weakened, ulcerated corneas.
+Subconjunctival hemorrhage, dog
+Image
+Subconjunctival hemorrhage in the eye of a dog.
+Courtesy of K. Gelatt.
+**Subconjunctival hemorrhage** may arise from trauma or blood dyscrasias, von Willebrand factor deficiency, and certain infectious diseases. In dogs, the cause should be ascertained. Subconjunctival hemorrhage is often unilateral and secondary to a traumatic event. When bilateral, the cause may be secondary to a systemic platelet abnormality or other clotting disorder and require systemic treatment. Subconjunctival hemorrhage is generally treated with a topical broad-spectrum antimicrobial/anti-inflammatory agent. Close inspection of the entire globe is warranted to determine whether there is evidence of intraocular bleeding or whether other intraocular lesions are present. If definite evidence or history of trauma is not present, then systemic physical examination is also indicated to search for any evidence of bleeding in other tissues. Blood work (CBC and chemistry panel) and urinalysis are also indicated to search for the cause of the spontaneous hemorrhage.
+Chemosis, puppy
+Image
+Chemosis in a puppy's eye.
+Courtesy of K. Gelatt.
+**Chemosis** , or **conjunctival edema** , occurs to some extent in all cases of conjunctivitis; the most dramatic examples, however, occur with trauma, hypoproteinemia, allergic reactions, and insect bites. The latter are treated with topical corticosteroids (if no corneal ulcer is present) and usually resolve rapidly. If a specific etiologic agent is found, then treatment for that etiologic agent is indicated.
+Conjunctivitis, cat
+Image
+Chemosis in the eye of a cat with acute conjunctivitis.
+Courtesy of K. Gelatt.
+**Conjunctivitis** is common in all domestic species. Primary infectious conjunctivitis caused by different bacteria, viruses, mycoplasmas, fungi, and parasites affect several species. The etiologic agents vary from infectious to environmental irritants. The clinical signs are hyperemia, chemosis, ocular discharge, follicular hyperplasia, and mild ocular discomfort. The appearance of the conjunctiva usually is not sufficiently distinctive to suggest the etiologic agent, and specific diagnosis depends on history, physical examination, conjunctival scrapings and culture, the Schirmer tear test (STT), and occasionally biopsy. Unilateral conjunctivitis may result from a foreign body, dacryocystitis, or keratoconjunctivitis sicca (see [Nasolacrimal and Lacrimal Apparatus](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology/nasolacrimal-and-lacrimal-apparatus-in-animals)). Mechanical factors such as foreign bodies, environmental irritants, parasites, and eyelid conformational defects should be removed or corrected. Environmental irritants and allergens are common causes of conjunctivitis in all species.
+In cats, feline herpesvirus 1 (FHV-1), _Mycoplasma_ , or _Chlamydia psittaci_ may produce conjunctivitis that begins in one eye and may become bilateral. Cats often develop chemosis as part of acute conjunctivitis. Specific diagnosis is made most rapidly by finding inclusions or the etiologic agent in conjunctival scrapings; however, these can be challenging to demonstrate routinely. Bilateral conjunctivitis is common with viral infections in all species. Herpesviruses produce conjunctivitis in cats, cattle, horses, and pigs. Topical and/or systemic treatment is indicated for herpesvirus infections, depending on the ocular tissues involved and the severity of the lesions. Numerous topical antiviral preparations (eg, 0.1–0.5% compounded idoxuridine, or 1% trifluridine) have been used to treat ocular viral infections with only varying success. Trifluridine ophthalmic solution use should not exceed 3 weeks because it is a corneal toxin and it also causes much stinging on application which may cause undue stress for patients with a disease precipitated by stress.
+The most useful topical antiviral preparation for cats with FHV-1 is 0.5% cidofovir. Treatment with topical cidofovir every 8–12 hours has been shown to be effective and reasonably well tolerated by both cats and owners. If a systemic antiviral agent is indicated, then famciclovir (90 mg/kg PO q12h) is safe and effective. Most other oral antiviral agents can be toxic to cats and should be avoided. Oral supplementation in cats with 250–500 mg of l-lysine daily long term (often placed in treats) has shown varying success, but it may decrease the severity and frequency of recurrence of FHV-1 conjunctivitis and keratitis; although other studies have suggested it may worsen disease. lysine is not a first line treatment for cats with FHV-1.
+Purulent discharge indicates a bacterial component of the conjunctivitis, but the bacterium may be opportunistic, becoming pathogenic because of debilitation of the mucous membrane. Topical antimicrobial treatment is indicated in this case, but it may not be curative if other predisposing factors are involved. Selected antimicrobials are indicated for chlamydial and mycoplasmal infections and generally include topical oxytetracycline. In more severe or chronic cases, systemic tetracycline, oxytetracycline, or doxycycline may be indicated.
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#eye-diseases-and-disorders)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

@@ -1,0 +1,109 @@
+1. <[Ophthalmology](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# The Anterior Uvea in Animals
+By[Ralph E. Hamor](https://www.msdvetmanual.com/authors/hamor-ralph), DVM, MS, DACVO, University of Florida, College of Veterinary Medicine
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Feb 2023 | Modified Sept 2024
+v3269279
+* Multimedia|
+
+Persistent pupillary membranes (PPM), dog
+Image
+Iris-to-cornea PPM are evident in this photograph of a dog's eye. The lesions start from the center of the iris and project to the axial cornea.
+Courtesy of K. Gelatt.
+Persistent pupillary membranes, cat
+Image
+Iris-to-cornea PPM originating from the iris collarette region and adhering to the central posterior cornea in a cat.
+Courtesy of K. Gelatt.
+The anterior uvea consists of the iris, ciliary body, and anterior chamber (or iridocorneal) angle. The iris provides most of the eye color, as well as an aperture (the pupil) to regulate the amount of light that enters the eye and posterior segment. Pupil shape varies widely among animal species, including circle, vertical slit, horizontal oval, square, or even multiple pupils. The ciliary body processes provide most of the aqueous humor to nourish the anterior segment and remove its metabolic wastes, as well as the outflow channels (anterior chamber angle) for aqueous humor to reenter the venous system. The ciliary body musculature also regulates lens curvature (accommodation), which is more limited in domesticated animals than in humans. The ciliary body continues posteriorly as the choroid, and diseases of the iris and ciliary body also often involve the choroid. Diseases of the anterior uvea are common in domestic animals.
+Advanced iris atrophy with complete cataract formation, dog
+Image
+Full-thickness stromal iris atrophy, causing pseudopolycoria (multiple pupillary openings in the iris).
+Courtesy of K. Gelatt.
+**Persistent pupillary membranes** (PPMs) are remnants of the normal prenatal vascular network that fills the pupillary region. These strands are generally the color of the iris. Iris-to-iris PPMs are not uncommon in dogs and horses. Iris-to-lens and iris-to-cornea PPMs can also occur. In Basenjis, the condition is inherited. Treatment is generally not required or recommended.
+**Atrophy of the iris** is common in older dogs and may involve the pupillary margin or the stroma. Atrophy of the pupillary margin creates a scalloped border and a weakening of the sphincter muscle, which is manifested as moderate dilation of the pupil(s) or as sluggish pupillary light reflexes and increased sensitivity to bright illumination. Stromal atrophy results in dramatic holes in the iris and, often, displacement of the pupil. Neither form of atrophy appears to affect vision. Animals lacking a functional iridal sphincter may show increased sensitivity to bright light.
+Anterior uveal cyst, Golden Retriever
+Image
+Anterior uveal cysts (black cyst in the iris; translucent cysts in the ciliary body) in a Golden Retriever's eye, suggesting the serious ocular disease, Golden Retriever uveitis.
+Courtesy of K. Gelatt.
+Iridic cyst, dog
+Image
+Iridic cyst floating in the anterior chamber. The pupil has been dilated.
+Courtesy of Dr. Ralph Hamor.
+**Iridic cysts** occur in dogs, cats, and horses. In dogs, they are usually free-floating, pigmented spheres in the aqueous humor within the pupil and anterior and posterior chambers. Although innocuous in most breeds of dogs, anterior uveal cysts (iris and ciliary body) in Golden Retrievers and Great Danes are often associated with exfoliation of pigmented cells, chronic uveitis, glaucoma, and cataract formation. In cats, the cysts are usually attached at the pupillary margin, rather than free-floating. In horses, they are present in the stroma of the iris, more frequently involve blue irides, and are most often located in the corpora nigra. Enlarged and cystic dorsal corpora nigra may impair vision and mimic iridic melanomas in horses. Transillumination will usually demonstrate their cystic nature and differentiate them from neoplasms. If needed, examination by ocular ultrasonography will differentiate a cyst from a melanoma. Because vision is infrequently impaired, treatment is rarely necessary; however, noninvasive laser-induced deflation can be performed to rupture the cyst wall.
+**Iris colobomas** are rare in animals, but they occur occasionally in Australian Shepherds. They are usually in the upper iris, mainly in heterochromic irides, and cause an irregularity to the pupil. Up-close viewing shows that the defect involves the iridal anterior stroma and apparently the sphincter muscle; however, the pigment layer is present.
+**Anterior uveitis** , or **iridocyclitis** , when acute, is manifested by miosis, increased protein and cells in the anterior chamber (aqueous flare), low intraocular pressure, bulbar conjunctival hyperemia, episcleral injection, iridal swelling, photophobia, and blepharospasm. Secondary glaucoma, cataract, and corneal opacification may be complications. Concurrent posterior uveitis or choroiditis may also be present, depending on the cause of the uveitis. Causes of anterior uveitis can be separated into exogenous and endogenous. In all species, the cause is usually idiopathic. Penetrating and nonpenetrating trauma and, more rarely, intraocular neoplasms or intraocular helminths are causes of unilateral uveitis. Common causes of bilateral uveitis include immune-mediated diseases and infectious diseases such as [feline infectious peritonitis](https://www.msdvetmanual.com/infectious-diseases/feline-infectious-peritonitis) (FIP), [feline leukemia](https://www.msdvetmanual.com/infectious-diseases/feline-leukemia-virus), feline immunodeficiency virus (FIV), feline [toxoplasmosis](https://www.msdvetmanual.com/generalized-conditions/toxoplasmosis/toxoplasmosis-in-animals), systemic [mycoses](https://www.msdvetmanual.com/infectious-diseases/fungal-infections/overview-of-fungal-infections-in-animals) in dogs and cats, [canine brucellosis](https://www.msdvetmanual.com/reproductive-system/brucellosis-in-dogs), [leptospirosis in horses](https://www.msdvetmanual.com/infectious-diseases/leptospirosis/leptospirosis-in-horses), bovine [malignant catarrhal fever](https://www.msdvetmanual.com/generalized-conditions/malignant-catarrhal-fever/malignant-catarrhal-fever-in-animals), infectious bovine rhinotracheitis, [equine viral arteritis](https://www.msdvetmanual.com/generalized-conditions/equine-viral-arteritis/equine-viral-arteritis), [classical swine fever](https://www.msdvetmanual.com/generalized-conditions/classical-swine-fever/classical-swine-fever), [canine ehrlichiosis](https://www.msdvetmanual.com/infectious-diseases/rickettsial-diseases-in-dogs/ehrlichiosis-in-dogs), and neonatal bacterial infections (joint, navel, and gut) of calves, lambs, kids, and foals. Recurrent uveitis that is, at least in part, immune-mediated affects horses (and is also called "recurrent uveitis" or "moon blindness") and dogs (panuveitis with dermal depigmentation syndrome). Recurrent and chronic anterior uveitis are usually associated with complications and can produce secondary cataract formation with posterior synechiae, and glaucoma. A thorough history, examination of the cornea for injuries, physical examination, complete blood work, and serum serology may help to elicit a diagnosis. If a systemic disease is suspected, thoracic radiography and abdominal ultrasonography are helpful in the staging process for small animals.
+Nonspecific treatment of anterior uveitis consists of topical mydriatics to maintain pupillary dilation and movement, topical corticosteroids (if fluorescein stain negative) or topical nonsteroidals and systemic anti-inflammatory agents. If an infectious agent is found or suspected, systemic NSAIDs are safer than steroids. If an infectious cause is identified, then topical and systemic treatment specific for that agent is indicated. Treatment of immune-mediated processes may require topical and/or systemic corticosteroids or other immunomodulators, such as oral azathioprine or cyclosporine.
+Anterior Uveitis in Animals
+Anterior uveitis, _Ehrlichia canis_ infection
+Anterior uveitis secondary to _E canis_ infection. The photograph shows diffuse episcleral injection, mild perilimbal corneal edema, and a blood clot (hyphema) in the anterior chamber.
+Anterior uveitis secondary to _E canis_ infection. The photograph shows diffuse episcleral injection, mild perilimbal corn
+... read more
+Courtesy of K. Gelatt.
+Anterior uveitis associated with feline immunodeficiency virus
+Chronic anterior uveitis associated with FIV in the eye of a cat. Associated inflammatory deposits (keratic precipitates) are visible on the peripheral cornea and anterior lens capsule.
+Chronic anterior uveitis associated with FIV in the eye of a cat. Associated inflammatory deposits (keratic precipitate
+... read more
+Courtesy of K. Gelatt.
+Anterior uveitis, secondary to feline infectious peritonitis
+Anterior uveitis secondary to FIP in the eye of a cat. Diffuse episcleral injection, dense keratic precipitates, aqueous flare, miosis, and diffuse iritis are evident.
+Anterior uveitis secondary to FIP in the eye of a cat. Diffuse episcleral injection, dense keratic precipitates, aqueou
+... read more
+Courtesy of K. Gelatt.
+Active anterior uveitis, horse
+Features of active anterior uveitis in the eye of a horse: conjunctival hyperemia, episcleral injection, deep perilimbal corneal vascularization with edema, aqueous flare, and miosis.
+Features of active anterior uveitis in the eye of a horse: conjunctival hyperemia, episcleral injection, deep perilimba
+... read more
+Courtesy of Dr. Ralph Hamor.
+Recurrent uveitis, horse
+Recurrent uveitis in the eye of a horse, with iridal hyperpigmentation, atrophy of the corpora nigra, central posterior synechia, and cataract formation.
+Recurrent uveitis in the eye of a horse, with iridal hyperpigmentation, atrophy of the corpora nigra, central posterior
+... read more
+Courtesy of K. Gelatt.
+Anterior uveitis, _Ehrlichia canis_ infection
+Anterior uveitis secondary to _E canis_ infection. The photograph shows diffuse episcleral injection, mild perilimbal corneal edema, and a blood clot (hyphema) in the anterior chamber.
+Anterior uveitis secondary to _E canis_ infection. The photograph shows diffuse episcleral injection, mild perilimbal corn
+... read more
+Courtesy of K. Gelatt.
+Anterior uveitis associated with feline immunodeficiency virus
+Chronic anterior uveitis associated with FIV in the eye of a cat. Associated inflammatory deposits (keratic precipitates) are visible on the peripheral cornea and anterior lens capsule.
+Chronic anterior uveitis associated with FIV in the eye of a cat. Associated inflammatory deposits (keratic precipitate
+... read more
+Courtesy of K. Gelatt.
+Anterior uveitis, secondary to feline infectious peritonitis
+Anterior uveitis secondary to FIP in the eye of a cat. Diffuse episcleral injection, dense keratic precipitates, aqueous flare, miosis, and diffuse iritis are evident.
+Anterior uveitis secondary to FIP in the eye of a cat. Diffuse episcleral injection, dense keratic precipitates, aqueou
+... read more
+Courtesy of K. Gelatt.
+Active anterior uveitis, horse
+Features of active anterior uveitis in the eye of a horse: conjunctival hyperemia, episcleral injection, deep perilimbal corneal vascularization with edema, aqueous flare, and miosis.
+Features of active anterior uveitis in the eye of a horse: conjunctival hyperemia, episcleral injection, deep perilimba
+... read more
+Courtesy of Dr. Ralph Hamor.
+Recurrent uveitis, horse
+Recurrent uveitis in the eye of a horse, with iridal hyperpigmentation, atrophy of the corpora nigra, central posterior synechia, and cataract formation.
+Recurrent uveitis in the eye of a horse, with iridal hyperpigmentation, atrophy of the corpora nigra, central posterior
+... read more
+Courtesy of K. Gelatt.
+Hyphema secondary to intraocular disease, dog
+Image
+Hyphema in the eye of a dog with intraocular disease. The entire anterior chamber is filled with fresh hemorrhage that obscures visualization of the iris and pupil.
+Courtesy of Dr. Ralph Hamor.
+**Hyphema** , or hemorrhage in the anterior chamber, has several clinical appearances, including the following: 1) small, focal blood clots suspended within the anterior chamber or adhered to the posterior cornea, iris, or anterior lens capsule; 2) diffuse, unclotted hemorrhage throughout the entire anterior chamber, precluding deeper eye examination and vision; and 3) multiple layers of recurrent or chronic unclotted hemorrhage (the oldest is a purple or black layer in the bottom of the anterior chamber, and the most recent hemorrhage is the dorsal bright red layer). Causes of hyphema include uveitis, trauma, intraocular neoplasia, retinal detachments and retinal tears, systemic hypertension, coagulation factor abnormalities, platelet disorders, hyperviscosity, congenital ocular anomalies, anterior segment neovascularization, and glaucoma. Resolution of hyphema requires intact RBCs to exit through the aqueous humor outflow channels.
+Acute hyphema generally has a good prognosis, provided the cause is identified and treated. Traumatic hyphema usually clots and is self-limiting; if other ocular tissues have also been traumatized, the prognosis can worsen. Recurrent and/or chronic hyphema has a poor to guarded prognosis, because secondary glaucoma or phthisis bulbi may occur. No drugs have been proved to help resolve hyphema; however, intracameral tissue-plasminogen activator (TPA) can dissolve fibrin that is < 10–14 days old and release the RBCs trapped within the anterior chamber. TPA does not prevent future fibrin formation, but topical and systemic corticosteroids may. If the cause of hyphema is not resolved, TPA may also potentiate bleeding.
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#eye-diseases-and-disorders)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

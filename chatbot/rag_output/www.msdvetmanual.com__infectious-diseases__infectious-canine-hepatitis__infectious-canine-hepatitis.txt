@@ -1,0 +1,81 @@
+1. <[Infectious Canine Hepatitis](https://www.msdvetmanual.com/infectious-diseases/infectious-canine-hepatitis)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+PROFESSIONAL VERSION
+# Infectious Canine Hepatitis
+By[Kate E. Creevy](https://scholars.library.tamu.edu/vivo/display/nf40f2eea/Persons/View%20All%20), DVM, MS, DACVIM-SAIM, College of Veterinary Medicine & Biomedical Sciences, Texas A & M University;
+[Jeremy B. Evans](https://www.msdvetmanual.com/authors/evans-jeremy), DVM, Department of Small Animal Clinical Sciences, School of Veterinary Medicine & Biomedical Sciences, Texas A&M University
+Reviewed/Revised Nov 2022 | Modified Sept 2024
+v3276648
+Adenoviral hepatitis in dogs results in fever, vasculitis and hepatitis, with possible sequelae of coagulopathy and subsequent immune-mediated corneal or renal effects. Most dogs recover but the disease can be fatal. Treatment is supportive; ante-mortem diagnosis is by PCR, ELISA or serology. Vaccination with modified live canine adenovirus-2 is protective against this disease caused by canine adenovirus-1, and is considered a core vaccine.
+* [Etiology and Pathogenesis](https://www.msdvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis#Etiology-and-Pathogenesis_v3276651)|
+* [Clinical Findings](https://www.msdvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis#Clinical-Findings_v3276658)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis#Diagnosis_v3276669)|
+* [Treatment](https://www.msdvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis#Treatment_v3276673)|
+* [Prevention](https://www.msdvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis#Prevention_v3276677)|
+* [Key Points](https://www.msdvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis#Key-Points_v73974753)|
+* [For More Information](https://www.msdvetmanual.com/infectious-diseases/infectious-canine-hepatitis/infectious-canine-hepatitis#For-More-Information_v73974764)|
+
+Infectious canine hepatitis (ICH) due to **canine adenovirus 1 (CAV-1)** is a worldwide, infectious disease of dogs, with clinical signs that vary from a slight fever and congestion of the mucous membranes to severe depression, marked leukopenia, and coagulation disorders. Clinical signs and laboratory abnormalities often relate to the tendency of the virus to cause **hepatocellular necrosis** and diffuse **endothelial cell damage** ; however, virus-associated **immune complex deposition** can also lead to uveitis, corneal clouding, and glomerulonephritis. Diagnosis can be made by the use of ELISA, serologic, or PCR testing, and postmortem diagnostics include identification of intranuclear inclusion bodies in the liver, PCR assay, and/or FISH of infected tissue.
+Although the disease results from infection by CAV-1, administration of live, attenuated CAV-2 vaccine results in adequate protection. Supportive care is aimed at maintaining fluid balance, addressing hepatic dysfunction, managing the coagulopathic state, and treating secondary bacterial infections. The mortality rate ranges from ~10% to 30%; in some surviving dogs, however, organ disease such as hepatitis or glomerulonephritis may persist after recovery.
+ICH has also been reported in foxes, wolves, coyotes, bears, lynx, and some pinnipeds; other carnivores may become infected without developing clinical illness. The disease has become uncommon in areas where routine immunization is performed; however, periodic outbreaks, which may reflect maintenance of the disease in wild and feral hosts, reinforce the need for continued vaccination.
+## Etiology and Pathogenesis of Infectious Canine Hepatitis
+Infectious canine hepatitis is due to a nonenveloped DNA virus, canine adenovirus 1 (CAV-1), which is antigenically related to CAV-2 (one of the causes of [canine infectious tracheobronchitis](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/kennel-cough)).
+**Oronasal exposure** to urine, feces, or saliva from infected dogs is the main route of infection. Transmission via either fomites or ectoparasites is also possible. Recovered dogs shed virus in their urine for ≥ 6 months. **Initial infection occurs in the tonsillar crypts** and regional lymph nodes, followed by viremia and disseminated infection. Vascular endothelial cells are the primary target; hepatic and renal parenchyma, spleen, and lungs become infected as well. Chronic kidney lesions and corneal clouding (blue eye) result from immune-complex reactions after recovery from acute or subclinical disease.
+## Clinical Findings of Infectious Canine Hepatitis
+Clinical signs of infectious canine hepatitis vary from a slight fever to peracute death. The **mortality rate ranges from 10% to 30%** and is typically highest in very young dogs. Concurrent parvoviral or distemper infection worsens the prognosis. The incubation period is 4–9 days. The first sign is commonly fever of > 40°C (104°F), which lasts 1–6 days and is usually biphasic. If the fever is of short duration, leukopenia may be the only other sign; if fever persists for > 1 day, however, acute illness develops.
+**Clinical signs may include:**
+* nonspecific signs such as lethargy, thirst, or anorexia
+* conjunctivitis, serous oculonasal discharge, or corneal clouding (blue eye)
+* abdominal pain and vomiting, including hematemesis
+* signs consistent with coagulopathy or vasculitis, such as petechia of the oral mucosa
+
+In some cases, the tonsils may be enlarged, and tachycardia out of proportion to the fever may occur. There may be subcutaneous edema of the head, neck, and trunk. Despite hepatic involvement, there is a notable absence of icterus in most acute clinical cases.
+**Clotting time is directly correlated with the severity of illness** ; vascular endothelial compromise can lead to disseminated intravascular coagulation, coupled with failure of the liver to rapidly replace consumed clotting factors. It may be difficult to control hemorrhage, which is manifested by bleeding around deciduous teeth and by spontaneous hematomas.
+CNS involvement is unusual and may represent either hepatic encephalopathy or intracranial vasculitis, hemorrhage, or thrombosis. Severely infected dogs may develop seizures from forebrain damage. Paresis may result from brainstem hemorrhages, and ataxia and central blindness have also been described. Foxes more consistently have CNS signs and intermittent seizures during the course of illness, and paralysis may involve one or more limbs or the entire body. Dogs with ICH usually do not show respiratory signs; however, CAV-1 has been recovered from dogs with clinical signs of infectious tracheobronchitis.
+Clinicopathologic findings reflect the coagulopathy, when present (prolonged prothrombin time, thrombocytopenia, and increased fibrin degradation products). Severely affected dogs show acute hepatocellular injury (increased ALT and AST activity). Proteinuria is common. Leukopenia typically persists throughout the febrile period. The extent of leukopenia varies and seems to be correlated with the severity of illness.
+On recovery, dogs eat well but regain weight slowly. Hepatic transaminase activities peak around day 14 of infection and then decline slowly. In ~25% of recovered dogs, bilateral **corneal opacity** develops 7–10 days after acute clinical signs disappear, and it usually resolves spontaneously. In mild cases, transient corneal opacity may be the only clinical sign of disease.
+### Lesions
+Endothelial damage results in **“paint brush” hemorrhages** on the gastric serosa, lymph nodes, thymus, pancreas, and subcutaneous tissues. Hepatic cell necrosis produces a variegated color change in the liver, which may be normal in size or swollen. Histologically, there is **centrilobular necrosis** , with neutrophilic and monocytic infiltration, and hepatocellular intranuclear inclusions. The gallbladder wall is typically edematous and thickened; edema of the thymus may be found. Grayish white foci may be evident in the kidney cortex.
+## Diagnosis of Infectious Canine Hepatitis
+* Clinical evaluation
+* Testing
+
+Although clinical signs of infectious canine hepatitis can be nonspecific, **any young puppy with evidence of severe hepatic dysfunction, coagulopathy or disseminated intravascular coagulation, or corneal clouding should be considered a suspect for ICH**. Commercially available ELISA, serologic, and PCR tests are available to obtain an antemortem diagnosis.
+Usually, the abrupt onset of illness and bleeding suggest ICH, although clinical evidence is not always sufficient to differentiate ICH from [canine distemper](https://www.msdvetmanual.com/infectious-diseases/canine-distemper). Definitive antemortem diagnosis is not required before supportive care is instituted; however, it can be pursued with commercially available ELISA, serologic, and PCR testing. PCR assay or restriction fragment length polymorphism is required to definitively distinguish CAV-1 from CAV-2, if clinically necessary. Postmortem gross changes in the liver and gallbladder are more conclusive, and diagnosis is confirmed by virus isolation, immunofluorescence, detection of characteristic intranuclear inclusion bodies in the liver, or PCR or fluorescence in situ hybridization analysis of infected tissue.
+## Treatment of Infectious Canine Hepatitis
+* Supportive care
+
+The treatment for infectious canine hepatitis is supportive care, which includes the following goals:
+* to provide fluid support (balanced IV electrolyte solutions and dextrose supplementation as necessary)
+* to maintain adequate nutrition
+* to address coagulopathy (plasma and/or whole blood transfusions and/or anticoagulant therapy)
+* to limit secondary bacterial invasion (IV antimicrobials)
+
+Although transient corneal opacity (which may occur during the course of ICH or may be associated with the administration of live, attenuated CAV-1 vaccines) usually requires no treatment, applying atropine ophthalmic ointment may alleviate the painful ciliary spasm sometimes associated with it. Dogs with corneal clouding should be protected against bright light. Systemic corticosteroids are contraindicated for the treatment of corneal opacity associated with ICH.
+## Prevention of Infectious Canine Hepatitis
+Injectable modified live virus (MLV) **vaccines are available** and are often combined with other vaccines. Vaccination against infectious canine hepatitis is recommended at the time of canine distemper vaccination. Maternal antibody from immune bitches interferes with active immunization in puppies until they are 9–12 weeks old.
+Live, attenuated CAV-1 vaccines have produced transient unilateral or bilateral opacities of the cornea, and the virus may be shed in urine. For these reasons, live, attenuated CAV-2 strains, which provide cross-protection against CAV-1, are preferentially administered because they have very little tendency to produce corneal opacities or uveitis, and the virus is not shed in urine.
+Historically, annual revaccination against ICH was standard, and many vaccines are labeled for annual administration. Increasing evidence suggests that immunity induced by injectable MLV CAV-1 vaccines lasts ≥ 3 years, and labels of some commercial vaccines are beginning to reflect a longer revaccination interval.
+With regard to disinfection of veterinary premises and kennels, it should be noted that CAV-1 is durable in the environment, surviving outside the host for weeks or months. It is resistant to lipid solvents (such as ether), as well as to acid and formalin; however, it can be inactivated by steam cleaning or by exposure to a 1%–3% solution of sodium hypochlorite (household bleach).
+## Key Points
+* Infectious canine hepatitis is a viral disease that affects young dogs and can be accompanied by a wide variety of clinical signs, ranging from fever and lethargy to hepatic failure, severe coagulopathy, and death.
+* Diagnosis can be obtained by ELISA, PCR assay, or serologic evaluation, but is not required before initiation of treatment, which consists mainly of supportive care.
+* Supportive care is aimed at maintaining nutrition and adequate fluid balance while addressing hepatic dysfunction and bleeding tendencies.
+* Approximately 10%–30% of affected puppies die from CAV-1; however, vaccination with MLV CAV-2 provides adequate protection.
+
+## For More Information
+* VCA Animal Hospitals: [Infectious Hepatitis (Adenovirus) in Dogs](https://vcahospitals.com/know-your-pet/hepatitis-adenovirus-infection-in-dogs)
+* Sykes JE. [Infectious canine hepatitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151783). In: _Canine and Feline Infectious Diseases_. Elsevier/Saunders; 2014:182-186.
+* Also see pet health content regarding [infectious canine hepatitis](https://www.msdvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/infectious-canine-hepatitis).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

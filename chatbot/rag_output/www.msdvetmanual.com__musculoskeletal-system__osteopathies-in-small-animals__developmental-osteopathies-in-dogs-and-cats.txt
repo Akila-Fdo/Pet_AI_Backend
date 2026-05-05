@@ -1,0 +1,153 @@
+1. <[Osteopathies in Small Animals](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Developmental Osteopathies in Dogs and Cats
+By[Po-Yen Chou](https://www.msdvetmanual.com/authors/chou-po-yen), BVM, MVM, MS, University of California - Davis
+Reviewed By[Patrick Carney](https://www.msdvetmanual.com/authors/carney-patrick), DVM, PhD, DACVIM, Cornell University College of Veterinary Medicine
+Reviewed/Revised Modified Nov 2025
+v3286513
+* [Angular Deformity of the Forelimb (Radial and Ulnar Dysplasia)](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#Angular-Deformity-of-the-Forelimb-\(Radial-and-Ulnar-Dysplasia\)_v104426857)|
+* [Craniomandibular Osteopathy](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#Craniomandibular-Osteopathy_v104426869)|
+* [Hypertrophic Osteodystrophy (Metaphyseal Osteopathy)](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#Hypertrophic-Osteodystrophy-\(Metaphyseal-Osteopathy\)_v104426908)|
+* [Multiple Cartilaginous Exostoses](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#Multiple-Cartilaginous-Exostoses_v104426924)|
+* [Panosteitis](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#Panosteitis_v104426933)|
+* [Retained Ulnar Cartilage Core](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#Retained-Ulnar-Cartilage-Core_v104426946)|
+* [Scottish Fold Osteochondrodysplasia](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#Scottish-Fold-Osteochondrodysplasia_v104426959)|
+* [Feline Patellar Fracture and Dental Anomaly Syndrome](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#Feline-Patellar-Fracture-and-Dental-Anomaly-Syndrome_v104426968)|
+* [Key Points](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#Key-Points_v104426988)|
+* [For More Information](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#For-More-Information_v50504774)|
+* [References](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#References_v104427001)|
+* Multimedia|
+
+## Angular Deformity of the Forelimb in Dogs and Cats
+Angular limb deformity in dogs and cats is a condition characterized by abnormal spatial alignment of bones in a limb. This issue most commonly affects forelimbs, particularly the radius and ulna, and can arise because of asynchronous growth of paired bones, traumatic injury of the physis during development, or hereditary breed characteristics (eg, of Bulldogs, Pugs, Boston Terriers, Basset Hounds, Dachshunds).
+The **distal ulnar physis** accounts for 80% of total ulnar growth and is the **most common location for physeal injury**. **Asynchronous growth of the radius and ulna** leads to **shortened limbs, cranial bowing, torsion, and valgus or varus deformity** of the radius and ulna, as well as to elbow joint or carpal joint subluxation.
+**Clinical signs** of angular limb deformity include **lameness and decreased, painful motion in the joints adjacent to the deformity, such as elbow or carpal joints for radius and ulna deformity**.
+[Radiography](https://www.msdvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/overview-of-diagnostic-imaging-of-animals) reveals the bone deformations and premature closed physes. Nonfunctional physes can have a normal radiographic appearance; therefore, the presence of open physes does not rule out physeal damage (see angular limb deformity radiographs). CT scans provide additional information for complete evaluation of complex angular deformities.
+Angular limb deformity, radiographs, dog
+Image
+Radiographs showing premature closure of distal ulnar and radial physis in an 8-month-old mixed-breed dog. Short radius and ulna, carpal joint subluxation, and incongruity of radioulnar, humeroulnar, and radioulnar joints are evident.
+Courtesy of Dr. Po-Yen Chou.
+For symmetrical, nonpainful deformities that do not cause mechanical lameness, conservative treatment may be sufficient. For patients with pain or lameness, **treatment** is based on correcting angulation and length of the limb and reestablishing joint congruity. Surgical procedures include **tension-releasing osteotomies or ostectomy** in growing dogs as well as **corrective osteotomy** and stabilization with internal or external implants.
+**The prognosis** is good for animals without severe limb deformations.
+## Craniomandibular Osteopathy in Dogs and Cats
+Craniomandibular osteopathy (also known as craniomandibular osteoarthropathy, craniomandibular osteodystrophy, or lion jaw) is a nonneoplastic, **proliferative bone disorder of growing dogs** that affects the **mandible and tympanic bullae**.
+Craniomandibular osteopathy affects **dogs aged 3–12 months** with no sex predisposition. The cause is unknown; however, Scottish Terriers are overrepresented and accounted for 65% of cases in one study, suggesting a genetic predisposition ([1](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#a26f6d20-80ad-42d7-b6a8-9abb9c2678b6), [2](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#a26f6d20-80ad-42d7-b6a8-9abb9c2678b6)). Other breeds, such as Cairn Terriers and Jack Russell Terriers, are also affected.
+Craniomandibular osteopathy is characterized by cyclical resorption of normal bone and replacement by immature bone along endosteal and periosteal surfaces. A recent whole genome sequencing study demonstrated considerable genetic heterogeneity among hyperostotic disorders in dogs, including craniomandibular osteopathy. These findings indicate that while prevalence might be higher in certain breeds, suggesting breed-specific genetic risk factors, multiple genetic variants across different breeds contribute to the development and expression of hyperostotic conditions ([3](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#a26f6d20-80ad-42d7-b6a8-9abb9c2678b6)).
+**Clinical signs** vary in severity and include **oral discomfort, weight loss, fever, and painful palpable enlargement of the mandible**.
+Radiography reveals **bilateral bone proliferation in the mandibles and tympanic bullae**. On radiographs, craniomandibular osteopathy appears as irregular bone proliferation, often affecting the mandible, tympanic bulla, and temporomandibular joint. Concurrent otitis externa and craniomandibular osteopathy may exacerbate discomfort and should be managed concurrently. In severe disease, craniomandibular osteopathy leads to numerous complications:
+* intense pain on jaw movement
+* inability to fully open the mouth
+* mechanical or bony fusion of the temporomandibular joint
+* marked difficulty in grasping and chewing food
+* severe drooling
+* facial swelling
+* substantial weight loss due to malnutrition
+* chronic otitis
+* nasopharyngeal narrowing
+* external ear canal stenosis
+
+Neurological deficits can result if the bone proliferation compresses brain structures.
+**Treatment** is supportive and consists of [NSAIDs](https://www.msdvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals)**, opioids, or**[ corticosteroids](https://www.msdvetmanual.com/pharmacology/inflammation/corticosteroids-in-animals) to decrease inflammation and discomfort, along with a **soft-food diet**.
+The **prognosis** is good. Craniomandibular osteopathy is **self-limiting** with mild bone proliferation and animal maturation.
+Calvarial hyperostosis syndrome is another self-limiting bone proliferation disorder in juvenile large-breed dogs. It is characterized by rapid, often painful, swelling of the flat bones of the skull, including the frontal, parietal, occipital, and temporal bones. Similar to craniomandibular osteopathy, the treatment is supportive and is self-limiting with animal maturation.
+## Hypertrophic Osteodystrophy in Dogs and Cats
+Hypertrophic osteodystrophy, also known as metaphyseal osteopathy, is a **developmental disorder of the metaphyses in long bones of young, growing dogs** , usually of a **large or giant breed**.
+The exact etiology is unknown, with several potential causes suggested, including viral infection, vaccination reactions, nutritional deficiencies or excess, and genetic predispositions. The pathophysiology is based on metaphyseal vascular impairment, leading to a failure in ossification and to trabecular necrosis and inflammation.
+**Clinical signs** include **bilateral metaphyseal pain and swelling**. The most common location of disease is in the **distal radius and ulna** ; however, other locations have also been reported. The condition can accompany systemic clinical signs such as **fever, anorexia, depression** , and sometimes GI signs such as **diarrhea**. Clinical signs may be periodic. [Angular limb deformities](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#cfa7a03e-4ed4-492b-8c6f-c806a07b21bf) can develop in severely affected dogs.
+[Radiography](https://www.msdvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/overview-of-diagnostic-imaging-of-animals) reveals **metaphyseal bone lucencies and circumferential periosteal bone formation** (see radiographs of hypertrophic osteodystrophy).
+Hypertrophic osteodystrophy, radiographs, dog
+Image
+Right carpal radiographs of a 3-month-old Boxer that developed fever, lethargy, and severe peripheral lymphadenopathy, along with swollen and painful paws. There is a paired radiopaque and radiolucent set of lines proximal to the distal radial physis. A less distinct radiodense line is associated with the distal ulnar physis. Soft tissue swelling extends from the distal radial and ulnar physes to encompass the manus.
+Courtesy of Dr. Po-Yen Chou
+**Treatment** is supportive and aimed at relieving pain (eg, [NSAIDs](https://www.msdvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals)**, opioids**),**stopping dietary supplementation beyond what is provided in a balanced, age-appropriate commercial diet** , and providing supportive fluid care. Treatment with [corticosteroids](https://www.msdvetmanual.com/pharmacology/inflammation/corticosteroids-in-animals) (**prednisone or prednisolone** at 0.5 mg/kg, PO, every 12 hours for 5 days, then tapered as needed) may be superior to treatment with NSAIDs in Weimaraners ([4](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#a26f6d20-80ad-42d7-b6a8-9abb9c2678b6)).
+**The prognosis** is favorable for mild to moderate cases but can be guarded in severe cases.
+## Multiple Cartilaginous Exostoses (Osteochondromatosis) in Dogs and Cats
+Multiple cartilaginous exostoses is a rare condition of **young dogs and cats** , characterized by the development of **osteochondromas arising from metaphyseal cortical surfaces of the long bones, vertebrae, and ribs**.
+The exact etiology is unknown; however, hereditary (in dogs) and viral (in cats) causes are suspected.
+Cartilaginous exostoses can lead to various clinical signs, depending on their location and size. Patients may be subclinically affected or show clinical signs of **pain, lameness, and neurological deficits**.
+**Diagnosis** is typically achieved through a combination of clinical examination and imaging techniques, such as radiography or CT.
+**Surgical excision of exostosis** masses is recommended, especially when there are noteworthy clinical signs, such as lameness or pain.
+**The prognosis** varies and depends on the lesions' severity and location. Most affected animals show improvement in clinical signs after surgery.
+## Panosteitis in Dogs and Cats
+Panosteitis is a condition primarily affecting **young, rapidly growing large- and giant-breed dogs** and is characterized by **inflammation of the diaphyses and metaphyses of long bones, leading to lameness**.
+The exact etiology is unknown; however, genetics (in German Shepherd Dogs), stress, infection, and nutritional, metabolic, and autoimmune causes have been suspected.
+Panosteitis in cats has been reported only anecdotally, and the etiology and pathophysiology in cats remains unclear. The pathophysiology of the disease in dogs is characterized by intramedullary fat necrosis, excessive osteoid production, and vascular congestion. Endosteal and periosteal bone reactions can also occur.
+**Clinical signs** include **acute and cyclical lameness** and can involve **single or multiple bones** in **dogs 6–16 months old**. Affected animals are lame, febrile, and inappetent, and have long-bone pain on palpation.
+**Diagnosis** is based on clinical signs and radiography, which can reveal **increased multifocal intramedullary densities and irregular endosteal surfaces** along long bones (see panosteitis radiograph).
+Panosteitis, radiograph, dog
+Image
+Radiograph of the left radius and ulna of a 7-month-old German Shepherd Dog with panosteitis. In the radius, there is diffuse increased medullary opacity of the proximal diaphysis to distal metaphysis, with periosteal and endosteal reaction. Mild increased medullary radiopacity is also evident in the distal ulnar metaphyseal region.
+Courtesy of Dr. Kathryn L. Phillips.
+**Treatment** is aimed at relieving pain and discomfort; **oral**[ NSAIDs](https://www.msdvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals)**and opioids** can be used during periods of illness. Excessive calorie and dietary supplementation, including calcium, phosphorus, and vitamin D, in young, growing dogs should be avoided.
+**The prognosis** is good. Panosteitis is a **self-limiting condition** and typically resolves when the dog reaches skeletal maturity; however, episodes of lameness can recur for several months.
+## Retained Ulnar Cartilage Core in Dogs and Cats
+Retained ulnar cartilage core is a developmental disorder of the **distal ulnar physis** characterized by **abnormal endochondral ossification**. As a result, progressive physeal calcification ceases, and **forelimb bone growth is restrained** , leading to **limb deformities and lameness**.
+Retained ulnar cartilage core is often observed in **young, growing, large- and giant-breed dogs and can affect cats, too.** The exact etiology is unknown; however, dietary causes are suspected.
+**Clinical signs** include **lameness and**[ angular limb deformities](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/developmental-osteopathies-in-dogs-and-cats#cfa7a03e-4ed4-492b-8c6f-c806a07b21bf)**.**
+Radiography and CT are helpful for diagnosing retained cartilage core (see retained ulnar cartilage core radiograph). A reverse "V" shape ("candle flame" sign) local radiolucency in the distal ulna physis is pathognomonic. A definitive diagnosis can be made through histological evaluation, which shows hypertrophic chondrocytes and uncalcified matrix septa.
+Pearls & Pitfalls
+|
+* A reverse '"V" shape ("candle flame" sign) local radiolucency in the distal ulnar physis is pathognomonic for a retained ulnar cartilage core.
+
+|
+| --- |
+Retained ulnar cartilage core, radiograph, dog
+Image
+Lateral radiograph of the radius and ulna in a 6-month-old Great Dane with retained ulnar cartilage core. A reverse "V" shape ("candle flame" sign) local radiolucency in the left distal ulna physis is evident and is pathognomonic for the diagnosis of retained ulnar cartilage core.
+Courtesy of Dr. Po-Yen Chou.
+**Treatments** include **cessation of dietary supplements** beyond what is provided in a balanced, age-appropriate commercial diet and **osteotomy or ostectomies** of the bone to decrease limb deformation.
+**The prognosis** depends on severity of the condition.
+## Scottish Fold Osteochondrodysplasia
+Scottish Fold osteochondrodysplasia is a genetic disorder affecting cartilage and bone development in **Scottish Fold cats**.
+Scottish Fold osteochondrodysplasia is primarily linked to a TRPV4 gene mutation, which affects cartilage development and unique ear folding appearance; however, the mutation also leads to **severe exostosis and skeletal deformations** , such as shortened feet, splayed phalanges, thick and inflexible tails, and ankylosing polyarthropathy.
+**Clinical signs** are primarily caused by exostosis and skeletal deformities and can include **lameness, pain, and reluctance to jump** , and in severe cases, difficulty in urination, defecation, and respiration.
+**Diagnosis** is based on history, clinical signs, and radiographic evidence of bone proliferation, misshapen phalanges, and secondary arthritis around affected joint lesions.
+**Treatment** is primarily by managing pain and improving quality of life. **Surgical removal of exostoses** , **radiation therapy** , and **pentosan polysulfate injection** may improve gait and activity level.
+**The prognosis** is generally poor, due to the progressive nature of the disease.
+## Feline Patellar Fracture and Dental Anomaly Syndrome
+Feline patellar fracture and dental anomaly syndrome (PADS) is a congenital and developmental bone disorder characterized by **atraumatic fracture, persistent deciduous teeth, and unerupted permanent teeth**.
+This syndrome is thought to stem from an underlying primary bone disorder or defect in bone development, such as [osteogenesis imperfecta](https://www.msdvetmanual.com/musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system-in-dogs-and-cats#bb37c787-5741-41b8-b9b7-257bdcba65bd) or [osteopetrosis](https://www.msdvetmanual.com/musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system/congenital-and-inherited-anomalies-of-the-musculoskeletal-system-in-dogs-and-cats#9b91c94c-0181-4d9f-bc67-53a6c83958f2), which leads to **insufficient bone strength and abnormal skeletal development**.
+Because PADS is a developmental disease, patients often exhibit clinical signs early in life; however, they can also develop the disease in midlife or later.
+**Clinical signs** of PADS vary but belong to one or both of the following categories:
+* **Orthopedic abnormalities** : Cats with PADS often develop **nontraumatic fractures**. The **patella is the most common bone affected** , and fractures may extend to other bones, such as the pelvis, tibia, or femur.
+* **Dental abnormalities** : **Persistent deciduous teeth and unerupted permanent teeth** are most common. These dental abnormalities can lead to secondary **mandibular or maxillary deformities and**[ osteomyelitis](https://www.msdvetmanual.com/musculoskeletal-system/osteopathies-in-small-animals/osteomyelitis-in-dogs-and-cats). (See radiograph of PADS, cat.)
+
+Feline patellar fracture and dental anomaly syndrome, radiograph, ca...
+Image
+Left mandibular dental radiograph of feline patellar fracture and dental anomaly syndrome in a 5-year-old cat that developed mild periodontal disease. Embedded left mandibular canine, third premolar, and fourth premolar teeth (#), retained roots of the deciduous left third premolar and fourth premolar teeth with absent coronal segments (*), and root dysplasia of left mandibular M1 (arrow) are evident.
+Courtesy of Dr. Po-Yen Chou.
+**Treatment** includes medical management with **rest, anti-inflammatory medications (NSAIDs and corticosteroids), and antimicrobials** for osteomyelitis.
+**Surgery to extract persistent or unerupted teeth** and to debride the necrotic and proliferative bone may be considered; however, complications such as jaw fracture and damage to the neuromuscular bundle can occur.
+Patella fracture is usually managed conservatively because surgical intervention usually fails. The short-term **prognosis** varies; whereas some cats recover well with care, others may face recurrent fracture or osteomyelitis. The long-term prognosis is poor, due to the progressive nature of the disease.
+## Key Points
+* Treatment of developmental osteopathy is generally to ensure patient comfort.
+* The prognosis depends on the underlying disease status.
+* Angular limb deformity is possible if physeal involvement is evident.
+
+## For More Information
+* Phillips KL. Orthopedic diseases of young and growing dogs and cats. In: Seiler GS, Thrall DE, eds, _Thrall's Textbook of Veterinary Diagnostic Radiology_. 8th ed. Elsevier; 2025:365-383.
+* Towle Millard HA, Breur GJ. Miscellaneous orthopedic conditions, In: Johnston SA, Tobias KM. _Veterinary Surgery: Small Animal_. 2nd ed. Elsevier; 2017:1288-1315.
+* Also see pet owner content regarding developmental bone disorders in [dogs](https://www.msdvetmanual.com/dog-owners/bone-joint-and-muscle-disorders-of-dogs/bone-disorders-in-dogs#v3205478) and [cats](https://www.msdvetmanual.com/cat-owners/bone-joint-and-muscle-disorders-of-cats/bone-disorders-in-cats#v3245624).
+
+## References
+1. Perez Lopez LA, Almansa Ruiz JC, Steenkamp G, Holdsworth A. [Computed tomographic characteristics of craniomandibular osteopathy in 20 dogs](https://doi.org/10.3389/fvets.2024.1436356).  _Front Vet Sci_. 2024;11:1436356. doi:10.3389/fvets.2024.1436356
+2. LaFond E, Breur GJ, Austin CC. [Breed susceptibility for developmental orthopedic diseases in dogs](https://doi.org/10.5326/0380467).  _J Am Anim Hosp Assoc_. 2002;38(5):467-477. doi:10.5326/0380467
+3. Letko A, Leuthard F, Jagannathan V, et al. [Whole genome sequencing indicates heterogeneity of hyperostotic disorders in dogs](https://doi.org/10.3390/genes11020163). _Genes_ (Basel). 2020;11(2):163. doi:10.3390/genes11020163.
+4. Abeles V, Harrus S, Angles JM, et al. [Hypertrophic osteodystrophy in six Weimaraner puppies associated with systemic signs](https://doi.org/10.1136/vr.145.5.130).  _Vet Rec_. 1999;145(5):130-134. doi:10.1136/vr.145.5.130
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#musculoskeletal-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

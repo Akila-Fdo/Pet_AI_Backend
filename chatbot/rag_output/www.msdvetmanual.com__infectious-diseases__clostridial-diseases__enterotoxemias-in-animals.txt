@@ -1,0 +1,84 @@
+1. <[Clostridial Diseases](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Enterotoxemias in Animals
+## (Clostridium perfringens Infections)
+By[Henry R. Stämpfli](https://ovc.uoguelph.ca/clinical-studies/faculty/Henry-St%C3%A4mpfli%20), DMV, Dr Med Vet, DACVIM-LAIM, Department of Clinical Studies, Ontario Veterinary College, University of Guelph;
+[Olimpo J. Oliver-Espinosa](https://www.msdvetmanual.com/authors/oliver-olimpo), DVM, MSc, DVSc, National University of Colombia
+Reviewed/Revised Jul 2021 | Modified Sept 2024
+v3272293
+* [Enterotoxemia Caused by _Clostridium perfringens_ Type A](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#Enterotoxemia-Caused-by-Clostridium-perfringens-Type-A_v3272297)|
+* [Enterotoxemia Caused by _Clostridium perfringens_ Types B and C](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#Enterotoxemia-Caused-by-Clostridium-perfringens-Types-B-and-C_v3272311)|
+* [Clinical Findings](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#Clinical-Findings_v3272318)|
+* [Treatment and Control](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#Treatment-and-Control_v3272324)|
+* [Type D Enterotoxemia](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#Type-D-Enterotoxemia_v3272383)|
+* [Etiology](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#Etiology_v3272393)|
+* [Clinical Findings](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#Clinical-Findings_v3272400)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#Diagnosis_v3272406)|
+* [Control](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#Control_v3272409)|
+* [For More Information](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#For-More-Information_v54342992)|
+* Multimedia|
+
+## Enterotoxemia Caused by _Clostridium perfringens_ Type A
+Type A strains of _C perfringens_ are commonly found as part of the normal intestinal microflora of animals and lack some of the powerful toxins produced by strains of other types. _C perfringens_ enterotoxin (CPE) is the principal toxin involved in _C perfringens_ foodborne illness and is associated with nonfoodborne diarrheal disease in different animals. _C perfringens_ also produces a necrotizing toxin associated with [necrotic enteritis](https://www.msdvetmanual.com/poultry/necrotic-enteritis) in poultry and dogs, colitis in horses, and diarrhea in pigs.
+_C perfringens_ type A is implicated in a rarely occurring hemorrhagic diarrhea in dogs and has been associated with nosocomial and acquired acute and chronic diarrhea in dogs. The acute form is characterized by a necrotic enteritis in which there is massive destruction of the villi and coagulation necrosis of the small intestine. Many large, gram-positive rods are visible in fecal smears, and large numbers of _C perfringens_ type A are recovered from anaerobic culture of feces of dogs with acute diarrhea. However, fecal tests are not useful in determining the cause of diarrhea because of a high number of false-positive results.
+A commercial ELISA for CPE in dogs is quite specific. PCR assay for CPE gene expression in dogs is being evaluated. Type A strains from pigs with diarrhea have produced enterotoxin in vitro, and anti-enterotoxin antibodies in sows indicate that enterotoxin is produced in vivo. Enterotoxin has also been demonstrated in the feces of pigs with diarrhea but not in feces of healthy animals. _C perfringens_ isolated from pigs with diarrhea are typically nonenterotoxigenic but produce the cytotoxic beta-2 toxin, which possibly plays a role in disease. Experimental disease has been produced in pigs challenged orally with _C perfringens_ type A.
+## Enterotoxemia Caused by _Clostridium perfringens_ Types B and C
+Infection with _C perfringens_ types B and C causes severe enteritis, dysentery, toxemia, and high mortality in young lambs, calves, pigs, and foals ([Enterotoxemia Caused by _Clostridium perfringens_ Types B and C](https://www.msdvetmanual.com/infectious-diseases/clostridial-diseases/enterotoxemias-in-animals#v54968986)). Types B and C both produce the highly necrotizing and lethal beta toxin responsible for severe intestinal damage. This toxin is sensitive to proteolytic enzymes, and disease is associated with inhibition of proteolysis in the intestine. Sow colostrum, which contains a trypsin inhibitor, has been suggested as a factor increasing the susceptibility of young piglets. Type C also causes enterotoxemia in adult cattle, sheep, and goats.
+Table
+Enterotoxemia Caused by _Clostridium perfringens_ Types B and C
+Table
+Enterotoxemia Caused by _Clostridium perfringens_ Types B and C
+Enterotoxemia Caused by <i >Clostridium perfringens</i> Types B and C
+| Disease  | _C perfringens_ Type  | Host  |
+| --- | --- | --- |
+| Lamb dysentery  | Type B  | Lambs ≤3 weeks old  |
+| Calf enterotoxemia  | Types B and C  | Well-fed calves ≤1 month old  |
+| Pig enterotoxemia  | Type C  | Piglets in first few days of life  |
+| Foal enterotoxemia  | Type B  | Foals in first week of life  |
+| Struck  | Type C  | Adult sheep  |
+| Goat enterotoxemia  | Type C  | Adult goats  |
+### Clinical Findings of Enterotoxemia Caused by _Clostridium perfringens_ Types B and C
+Lamb dysentery is an acute disease of lambs < 3 weeks old. Many may die before clinical signs are seen, but some newborn lambs stop nursing, become listless, and remain recumbent. Fetid, blood-tinged diarrhea is common, and death usually occurs within a few days. In calves, there is acute diarrhea, dysentery, abdominal pain, seizures, and opisthotonos. Death may occur in a few hours, but less severely affected lambs may survive for a few days, and recovery is possible. Pigs become acutely ill within a few days of birth, and there is diarrhea, dysentery, reddening of the anus, and a high fatality rate; most affected piglets die within 12 hours. In foals, there is acute dysentery, toxemia, and rapid death. Struck in adult sheep is characterized by death without premonitory clinical signs.
+### Lesions
+Hemorrhagic enteritis with ulceration of the mucosa is the major lesion in all species. Grossly, the affected portion of the intestine is deep blue-purple and appears at first glance to be an infarction associated with mesenteric torsion. Smears of intestinal contents can be examined for large numbers of gram-positive, rod-shaped bacteria, and filtrates can be made for detection of toxin and subsequent identification by neutralization with specific antisera.
+### Treatment and Control of Enterotoxemia Caused by _Clostridium perfringens_ Types B and C
+Treatment is usually ineffective because of the severity of the disease but, if attempted, includes administration of specific hyperimmune sera and oral antimicrobials. The disease is best controlled by vaccination of the pregnant dam during the last third of pregnancy, initially with two vaccinations 1 month apart and annually thereafter. When outbreaks occur in newborn animals from unvaccinated dams, antiserum should be administered immediately after birth.
+## Type D Enterotoxemia
+## (Pulpy Kidney Disease, Overeating Disease)
+Type D enterotoxemia, a classic enterotoxemia of sheep, is seen less frequently in goats and rarely in cattle. It has a worldwide distribution and affects animals of any age. It is most common in lambs either < 2 weeks old or weaned in feedlots and on a high-carbohydrate diet or, less often, on lush, green pastures. The disease has been suspected in well-nourished beef calves nursing high-producing cows grazing lush pasture and in sudden death syndrome in feedlot cattle; however, supportive laboratory evidence in the latter is lacking.
+### Etiology of Type D Enterotoxemia
+The causative agent of Type D enterotoxemia is _C perfringens_ type D. Predisposing factors are essential, the most common being ingestion of excessive amounts of feed or milk in the very young and of grain in feedlot lambs. In young lambs, the disease usually is restricted to ewes with single lambs, because ewes with twins seldom give enough milk to allow enterotoxemia to develop. In the feedlot, the disease usually is seen in lambs switched rapidly to high-grain diets. As starch intake increases, it provides a suitable medium for overgrowth of _C perfringens_ , producing epsilon toxin. The toxin causes vascular damage, particularly in capillaries of the brain. Many adult sheep carry strains of _C perfringens_ type D as part of their normal intestinal microflora, which is the source of organisms that infect the newborn. Most such carriers have nonvaccinal antitoxin serum titers.
+### Clinical Findings of Type D Enterotoxemia
+Usually, sudden deaths in the best-conditioned lambs are the first indication of enterotoxemia. In some cases, excitement, incoordination, and seizures occur before death. Opisthotonos, circling, and pushing the head against fixed objects are common neurologic clinical signs; frequently, hyperglycemia or glycosuria is present. Diarrhea may develop. Occasionally, adult sheep are affected, too, with weakness, incoordination, seizures, and death within 24 hours. In goats, the course of disease ranges from peracute to chronic, with clinical signs that vary from watery diarrhea with or without blood to sudden death. Affected calves not found dead show mania, seizures, blindness, and death within a few hours. Subacutely affected calves are stuporous for a few days and may recover. In goats, diarrhea and nervous signs are seen, and death may occur over several weeks. Type D enterotoxemia occasionally is seen in young horses that have overeaten.
+### Lesions
+Necropsy findings may reveal only a few hyperemic areas on the intestine and a fluid-filled pericardial sac. This is particularly the case in young lambs. In older animals, hemorrhagic areas on the myocardium may be found, as well as petechiae and ecchymoses of the abdominal muscles and serosa of the intestine. Bilateral pulmonary edema and congestion frequently occur, but usually not in young lambs. The rumen and abomasum contain an abundance of feed, and undigested feed often is found in the ileum. Edema and malacia can be detected microscopically in the basal ganglia and cerebellum of lambs. Rapid postmortem autolysis of the kidneys has led to the popular term **pulpy kidney disease** ; however, pulpy kidneys are by no means always found in affected young lambs and are seldom found in affected goats or cattle. Hemorrhagic or necrotic enterocolitis may be seen in goats.
+### Diagnosis of Type D Enterotoxemia
+* Sudden death in overfed sheep
+* Demonstration of epsilon toxin in small-intestinal fluid
+
+A presumptive diagnosis of enterotoxemia is based on sudden, seizuring deaths in lambs on carbohydrate-rich feed. Smears of intestinal contents reveal many short, thick, gram-positive rods. Confirmation requires detection of epsilon toxin in the small-intestinal fluid. Fluid, not ingesta, should be collected in a sterile vial within a few hours after death and sent refrigerated to a laboratory for toxin identification. Chloroform, added at 1 drop for each 10 mL of intestinal fluid, will stabilize any toxin present. Although immunologic tests have been developed to replace the traditional mouse assay for detection of toxin, they are less sensitive. A PCR assay for detection of epsilon toxin gene is available for identification of the isolates as either type B or D.
+### Control of Type D Enterotoxemia
+* Immunization
+* Dietary changes in feedlot lambs
+
+The method to control type D enterotoxemia depends on the age of the lambs, the frequency with which the disease appears on a particular property, and the method of husbandry. If the disease is seen consistently in young lambs, ewe immunization probably is the most satisfactory method of control. Breeding ewes should be administered two injections of type D toxoid in their first year, with a booster injection 4–6 weeks before lambing and each year thereafter.
+Enterotoxemia in feedlot lambs can be controlled by reducing the amount of concentrate in the diet. However, this may not be economical, and immunization of all lambs with toxoid upon entering the feedlot likely will reduce losses to an acceptable level. Two injections, 2 weeks apart, will protect lambs through the feeding period. When aluminum-precipitated toxoids or bacterins are used, the injection should be administered at such a site that the local cold abscesses, which commonly develop, can be removed easily during normal dressing and will not blemish the carcass.
+### For More Information
+* Also see pet health content regarding [enterotoxemias in dogs](https://www.msdvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/enterotoxemia-in-dogs).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

@@ -1,0 +1,81 @@
+1. <[Canine Herpesvirus Infection](https://www.msdvetmanual.com/infectious-diseases/canine-herpesvirus-infection)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+PROFESSIONAL VERSION
+# Canine Herpesvirus Infection
+By[Kate E. Creevy](https://scholars.library.tamu.edu/vivo/display/nf40f2eea/Persons/View%20All%20), DVM, MS, DACVIM-SAIM, College of Veterinary Medicine & Biomedical Sciences, Texas A & M University;
+[Jeremy B. Evans](https://www.msdvetmanual.com/authors/evans-jeremy), DVM, Department of Small Animal Clinical Sciences, School of Veterinary Medicine & Biomedical Sciences, Texas A&M University
+Reviewed/Revised Nov 2022 | Modified Mar 2025
+v3276260
+Canine herpesvirus infection is a systemic viral infection that affects puppies worldwide, with mortality rates often reaching 100% in affected litters. Clinical signs, though severe, are nonspecific and can include anorexia, weight loss, inappropriate vocalization, blindness, abdominal distention, dyspnea or tachypnea, and diarrhea. For neonatal infections, treatment consists of nonspecific supportive care.
+* [Etiology and Pathogenesis](https://www.msdvetmanual.com/infectious-diseases/canine-herpesvirus-infection/canine-herpesvirus-infection#Etiology-and-Pathogenesis_v3276263)|
+* [Clinical Findings](https://www.msdvetmanual.com/infectious-diseases/canine-herpesvirus-infection/canine-herpesvirus-infection#Clinical-Findings_v3276268)|
+* [Diagnosis](https://www.msdvetmanual.com/infectious-diseases/canine-herpesvirus-infection/canine-herpesvirus-infection#Diagnosis_v3276276)|
+* [Treatment](https://www.msdvetmanual.com/infectious-diseases/canine-herpesvirus-infection/canine-herpesvirus-infection#Treatment_v3276283)|
+* [Prevention](https://www.msdvetmanual.com/infectious-diseases/canine-herpesvirus-infection/canine-herpesvirus-infection#Prevention_v3276287)|
+* [Key Points](https://www.msdvetmanual.com/infectious-diseases/canine-herpesvirus-infection/canine-herpesvirus-infection#Key-Points_v73974685)|
+* [For More Information](https://www.msdvetmanual.com/infectious-diseases/canine-herpesvirus-infection/canine-herpesvirus-infection#For-More-Information_v73974694)|
+
+Canine herpesvirus is considered a potential cause of any acute neonatal puppy death or failure to thrive. No vaccine is available in the US. Because the disease progresses rapidly in susceptible neonates, antemortem diagnosis is difficult; it is possible, however, if clinical signs are recognized promptly and antibody or PCR assays are used. The disease is diagnosed most often during necropsy, via PCR assay and microscopy of affected tissues. For neonatal infections, treatment consists of nonspecific supportive care, but the overall prognosis is guarded to grave.
+Clinically, neonatal canine herpesvirus is characterized by the following:
+* severe nonspecific systemic signs in a neonatal puppy
+* diarrhea, inappetence, lack of weight gain
+* tachypnea, pneumonia
+* corneal edema, conjunctivitis
+* lack of fever
+* rapidly progressive illness
+* failure to thrive or sudden death
+
+Canine herpesvirus infection is best known as a severe viral infection of puppies; however, increasingly sensitive molecular diagnostics have enabled its recognition in adult dogs with upper respiratory infection, ocular disease, or vesicular vaginitis or posthitis, as well as in dogs with no clinical signs. As is typical of herpesviruses, recovery from clinical signs is associated with lifelong latent infection. Only canids (dogs, wolves, coyotes) are known to be susceptible. The seroprevalence in dog populations worldwide ranges from 20% to 98%, depending on the region and population studied. Because latently infected animals may transiently convert to seronegative status, any seroprevalence study likely underestimates the true rate of exposure and carriage.
+## Etiology and Pathogenesis of Canine Herpesvirus Infection
+Infectious canine herpesvirus is due to an enveloped DNA canine herpesvirus (CHV) that is relatively unstable outside the host, so close contact is required for transmission.
+CHV is usually transmitted by contact between susceptible individuals and the infected oral, nasal, or vaginal secretions of shedding dogs. Many dogs shedding virus exhibit no clinical signs. Immunologically naive pregnant bitches are at risk of acute infection, which may be transmitted to fetuses or neonatal pups; previously infected bitches are unlikely to transmit infection. The most important systemic disease occurs in fetal or neonatal puppies as a result of in utero infection or infection in the first 3 weeks of life. After this time, natural resistance to infection improves as puppies mature and maintain a higher body temperature.
+Infection of susceptible animals results in the replication of CHV in the surface cells of the nasal mucosa, pharynx, and tonsils. In newborn susceptible pups or other immunocompromised dogs, viremia arises and diverse visceral organs are invaded. Primary systemic infection is associated with copious viral shedding; shedding by latently infected animals after clinical or subclinical recrudescence is of lesser severity and duration.
+## Clinical Findings of Canine Herpesvirus Infection
+Because canine herpesvirus replicates more efficiently at the lower body temperatures maintained by neonates, deaths due to CHV infection occur usually in puppies 1–3 weeks old, occasionally in puppies up to 1 month old, and rarely in pups as old as 6 months. Typically, onset is sudden, and death occurs after an illness of ≤ 24 hours. If clinical signs are observed, they may include lethargy, decreased suckling, diarrhea, nasal discharge, conjunctivitis, corneal edema, erythematous rash, oral or genital vesicles (rarely), and the notable absence of fever. Thoracic radiographs show a diffuse unstructured interstitial pattern that is typical of viral pneumonitis; in contrast to other viral diseases of puppies, however, leukocytosis may be present.
+Older dogs exposed to or experimentally inoculated with CHV may develop mild upper respiratory tract signs, which may be part of the **kennel cough** syndrome ([infectious tracheobronchitis](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/kennel-cough)). They may also develop vesicular vaginitis or posthitis. Conjunctivitis and dendritic corneal ulcers have also been reported in the absence of other upper respiratory signs. Acutely infected pregnant bitches may abort a litter or deliver a partially stillborn litter; however, they seldom exhibit other clinical signs, and future breeding is likely to be successful.
+### Lesions
+The characteristic gross lesions of CHV infection at necropsy consist of disseminated focal necrosis and hemorrhages. The most pronounced lesions occur in the lungs, cortical portion of the kidneys, adrenal glands, liver, and GI tract. All lymph nodes are enlarged and hyperemic, and the spleen is swollen. Lesions may also be found in the eyes and CNS. The basic histologic lesion is necrosis, with hemorrhage in the adjacent parenchyma. The inflammatory reaction in many organs may be limited; however, marked neutrophilic and mononuclear infiltration is observed in ocular lesions. Single, small, basophilic, intranuclear inclusion bodies are most common in areas of necrosis in the lung, liver, and kidneys; occasionally, they are evident as faintly acidophilic bodies located within the nuclear space.
+## Diagnosis of Canine Herpesvirus Infection
+* Clinical evaluation
+* Serologic testing
+
+Clinical signs of canine herpesvirus infection are often nonspecific. Any neonatal puppy that suddenly dies or is systemically ill without the presence of a fever should be considered a potential case of CHV. Older dogs with mild respiratory or ocular signs may also be infected. Prompt clinical recognition of CHV is needed to achieve antemortem diagnosis. Antibody ELISA or PCR assays can be used to confirm the diagnosis.
+Necropsy of one deceased puppy in an affected litter may be the most efficient diagnostic strategy. In systemically affected puppies, CHV infection may be confused with [infectious canine hepatitis](https://www.msdvetmanual.com/infectious-diseases/infectious-canine-hepatitis); however, it is not accompanied by the thickened, edematous gallbladder often associated with the latter. The focal areas of necrosis and hemorrhage, especially those that occur in the kidneys, distinguish CHV infection from hepatitis and [neosporosis](https://www.msdvetmanual.com/infectious-diseases/neosporosis-in-dogs/neosporosis-in-dogs). CHV causes serious disease only in very young puppies. The rapid death and characteristic lesions distinguish it from [canine distemper](https://www.msdvetmanual.com/infectious-diseases/canine-distemper).
+Hemagglutination, ELISA, and immunofluorescence antibody tests are available, and PCR is highly sensitive and specific when used on fresh tissue and fluid samples. In cases of neonatal mortality, the diagnosis typically is made postmortem with virus isolation from fresh lung, liver, kidney, and spleen by cell culture techniques, followed by identification using PCR assay and sequencing, transmission electron microscopy, immunofluorescence, or fluorescence in situ hybridization. The tissues should be submitted to the laboratory refrigerated but not frozen.
+## Treatment of Canine Herpesvirus Infection
+* Supportive care
+
+The mainstay of treatment for canine herpesvirus infection is supportive care, which can include provision of each of the following:
+* balanced IV electrolyte solutions with or without dextrose supplementation to address dehydration, maintain volume status, and correct possible neonatal hypoglycemia
+* antinausea medications
+* supplemental oxygen
+* antimicrobials for possible secondary bacterial infections
+* active warming
+* supplemental nutrition
+
+Treatment is typically unrewarding in systemically affected puppies, and the prognosis for puppies that do survive is guarded because damage to lymphoid organs, brain, kidneys, and liver may be irreparable. Before the onset of clinical signs in littermates or other nearby puppies, rearing in incubators at an increased temperature (35°C [95°F], 50% relative humidity) and/or passive immunization with intraperitoneal serum may decrease losses within an exposed litter. Limited studies with antiviral agents are inconclusive; however, any possibility of success requires immediate recognition and treatment.
+Adult dogs with ocular, respiratory, or genital disease often experience mild and self-limiting clinical signs of CHV infection. Ophthalmic antivirals, such as cidofovir (0.5% every 12 hours) or trifluridine (1% every 4–6 hours), have been used successfully to treat ocular infections in adult dogs and may be useful for persistent or painful ocular lesions.
+## Prevention of Canine Herpesvirus Infection
+No vaccine against canine herpesvirus infection is currently available in the US. Previously infected bitches generally develop antibodies, and litters that follow the first infected litter receive maternal antibodies in the colostrum. Puppies that receive maternal antibodies may be infected with the virus, but disease does not result. Isolation of pregnant bitches from other dogs during the last 3 weeks of gestation and first 3 weeks postpartum, with excellent hygiene by human handlers, is the most effective way to minimize risk to puppies. Because of the high seroprevalence among adult dogs and because virus may be shed by clinically normal individuals, complete avoidance of exposure is not a reasonable management strategy for most dogs.
+With regard to disinfection of veterinary and kennel premises, canine herpesvirus is sensitive to lipid solvents (such as ether and chloroform) and to most disinfectants.
+## Key Points
+* Canine herpesvirus infection is a rapidly progressive and fatal multisystemic disease of neonatal puppies. It can result in lifelong latent infections and can lead to mild respiratory and ocular signs in older dogs.
+* Diagnosis depends on recognition of the characteristic clinical signs in an at-risk dog, followed by specific detection of the virus itself, or an immune response against the virus.
+* No vaccine is available in the US. Treatment is primarily supportive; after disease onset, however, the prognosis is generally poor for puppies. Prophylactic administration of immunized serum and of antiviral medications may be helpful to reduce risk of infection in exposed littermates.
+
+## For More Information
+* PetMD: [Canine Herpesvirus](https://www.petmd.com/dog/conditions/infectious-parasitic/canine-herpesvirus-causes-diagnosis-and-treatment)
+* Rakosky E. [Canine herpes virus: what breeders should know](https://www.akc.org/expert-advice/health/canine-herpes-virus-information). American Kennel Club. June 2, 2020.
+* Also see pet health content regarding [canine herpesvirus](https://www.msdvetmanual.com/dog-owners/disorders-affecting-multiple-body-systems-of-dogs/canine-herpesvirus).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#infectious-diseases)
+* [Cookie Preferences](javascript:void\(0\))
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

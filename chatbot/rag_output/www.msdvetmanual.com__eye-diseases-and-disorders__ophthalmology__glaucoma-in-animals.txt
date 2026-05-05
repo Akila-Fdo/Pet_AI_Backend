@@ -1,0 +1,60 @@
+1. <[Ophthalmology](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Glaucoma in Animals
+By[Ralph E. Hamor](https://www.msdvetmanual.com/authors/hamor-ralph), DVM, MS, DACVO, University of Florida, College of Veterinary Medicine
+Reviewed By[Angel Abuelo](https://www.msdvetmanual.com/authors/abuelo-angel), DVM, PhD, DABVP, DECBHM, FHEA, MRCVS, Michigan State University, College of Veterinary Medicine
+Reviewed/Revised Feb 2023 | Modified Sept 2024
+v3269317
+* Multimedia|
+
+Acute glaucoma, Cocker Spaniel
+Image
+Acute glaucoma in a Cocker Spaniel's eye: episcleral injection and diffuse corneal edema are visible. The pupil is dilated. This dog had an intraocular pressure of 55 mm Hg (normal is < 20mmHg).
+Courtesy of K. Gelatt.
+Glaucoma in animals is related to decreased outflow of aqueous humor either through the trabecular meshwork of the anterior chamber or iridocorneal angle (conventional outflow, ~85% in dogs) or through the uveoscleral network (through the ciliary body and subscleral space, ~15% in dogs). Changes in the composition of aqueous humor have been reported recently in human and animal glaucomas, and these compositional changes appear important in the disease genesis and progression.
+Glaucoma is a group of diseases characterized by increased intraocular pressure (IOP) with resultant retinal and optic disc destruction. In dogs, primary (inherited) and secondary glaucomas occur in ~1.7% of the North American canine population. Bilateral primary breed-predisposed glaucoma occurs in nearly 1% of purebred dogs, the highest of any animal species. Primary open-angle glaucoma in Beagles has been associated with the _ADAMTS10_ mutation. In cats, glaucoma is predominantly secondary to anterior uveitis and neoplasms; however, primary open-angle glaucoma occurs in the Siamese breed. In horses, glaucoma appears underdiagnosed because applanation tonometry is not routinely done; it appears most frequently in older animals, Appaloosas, and with concurrent anterior uveitis. In cattle, glaucoma has been associated with congenital iridocorneal anomalies and anterior uveitis.
+Tonometry and ophthalmoscopy (direct and/or indirect) are essential in the diagnosis of glaucoma. Gonioscopy (measurement of the drainage angle) and/or high-frequency ocular ultrasonography (visualization of the iridocorneal angle and anterior ciliary cleft) may also be helpful in determining prognosis. More involved electrophysiologic techniques, such as pattern electroretinography and visual evoked potentials, estimate damage to the retinal ganglion cells and their axons and appear to be sensitive indicators of glaucoma-related destruction of these cells. New, clinical high-resolution imaging techniques, including ultrasonographic biomicroscopy for anterior segment changes and optical coherence tomography for retinal and optic disc changes, permit noninvasive detailed intraocular examinations. In small animals, the Schiøtz indentation tonometer has been replaced by newer and more accurate applanation or rebound tonometers used to estimate IOP. These tonometers can also be used in large animals.
+IOP is reasonably consistent in most species ( see Table: [Normal Intraocular Pressure (IOP) Values in Animals - Applanation Method](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology/glaucoma-in-animals#v3269339)), and diurnal variations have been documented in dogs, cats, rabbits, and nonhuman primates. Ophthalmoscopy permits the detection of IOP-related damage to the retina and optic disc. Gonioscopy is the basis for classification of all glaucomas; it detects iridocorneal and sclerociliary cleft opening outflow changes as the glaucoma progresses, and it helps determine the most appropriate medical and surgical treatments. Ultrasonographic biomicroscopy (50–100 MHz) permits further examination of the anterior chamber angle and the entire sclerociliary cleft.
+Table
+Normal Intraocular Pressure (IOP) Values in Animals - Applanation Method
+Table
+Normal Intraocular Pressure (IOP) Values in Animals - Applanation Method
+Normal Intraocular Pressure (IOP) Values in Animals - Applanation Method
+| Species  | IOP (mm Hg) Mean ± SDa  |
+| --- | --- |
+| Dog  | 18.7 ± 5.5a  |
+| Cat  | 19.7 ± 5.6  |
+| Rabbit  | 19.5 ± 1.8b  |
+| Horse  | 29.6 ± 6.2  |
+| Cow  | 26.9 ± 6.7  |
+| Llama/alpaca  | 16.6 ± 3.6  |
+| Monkey (ketamine)  | 13.6 ± 3.7  |
+| Alligator  | 23.7 ± 2.1  |
+| Ferret  | 22.8 ± 5.5  |
+| Rat  | 17.3 ± 5.3  |
+| Hawk  | 20.6 ± 3.4  |
+| Owl  | 10.8 ± 3.6  |
+|  a10.8 ± 3.1 reported as measured in dogs with Rebound method. bRabbit values measured with pneumatography.  |
+|  a10.8 ± 3.1 reported as measured in dogs with Rebound method. bRabbit values measured with pneumatography.  |
+Chronic glaucoma, Cocker Spaniel
+Image
+Chronic glaucoma in a Cocker Spaniel's eye. Buphthalmos; episcleral injection; mild, perilimbal corneal edema; and a cataractous, subluxated lens are evident.
+Courtesy of K. Gelatt.
+Clinical signs of glaucoma are traditionally divided into acute and chronic; in reality, most cases of acute high-pressure glaucoma are superimposed on chronic glaucoma rather than occurring as singular events. Most dogs with early to moderate chronic glaucoma are not taken to the veterinarian, because the early clinical signs—sluggish to slightly dilated pupils, mild bulbar conjunctival venous congestion, and early enlargement of the eye (buphthalmos or megaloglobus)—are subtle. In chronic glaucoma, globes often have luxated and cataractous lenses. To aid in the detection of early glaucoma, repeated tonometry should be routinely performed on high-risk breeds of dogs as part of the annual, general physical examination. The clinical signs of acute and often markedly increased levels of IOP are a dilated, fixed, or sluggish pupil; bulbar conjunctival venous congestion; episcleral injection; and corneal edema. With prolonged increases of IOP, secondary enlargement of the globe (buphthalmos), lens displacement, and breaks in Descemet's membrane (corneal striae) result. Pain varies with chronicity: acute glaucoma is more painful than chronic glaucoma.
+Classification of glaucoma assists in the optimal plan for its treatment and the preservation of vision. The choice of medical or surgical treatment, or most frequently a combination of both, is based on the progressive iridocorneal angle closure that occurs in most glaucomas. As the glaucoma progresses and aqueous humor outflow continues to decrease, the need for a combination of medical treatments increases. For open-angle glaucoma in dogs, short- and longterm treatment is the administration of miotics, topical carbonic anhydrase inhibitors, prostaglandins, osmotics, and beta-blocking adrenergics. These same treatments are used for the initial control of narrow and closed-angle glaucoma; however, short- and longterm treatment often requires supplemental surgery—eg, filtering procedures, anterior chamber shunts, cyclocryotherapy, or laser transscleral or endoscopic cyclophotocoagulation. Short- and longterm treatment of end-stage glaucoma with buphthalmos and blindness in dogs—eg, intrascleral prosthesis, enucleation, cyclocryotherapy, or intravitreal gentamicin (25 mg)—also requires surgery. Surgical procedures in dogs have traditionally provided only short-term resolution, because the filtering fistulas eventually scar over and fail. More recently, anterior chamber shunts, with and without valves, have offered better results. Antifibrotic drugs, such as mitomycin C and 5-fluorouracil, may delay or prevent scarring of the alternative aqueous outflow channels and prolong their function. In cats, medical treatment is usually the mainstay and consists of the administration of topical beta-blocking adrenergics (these should be used with caution in small cats), topical carbonic anhydrase inhibitors, and, for glaucoma associated with anterior uveitis, topical and/or systemic corticosteroids. In horses, single and/or repeated laser transscleral cyclophotocoagulation (laser ablation of the ciliary processes) is the most effective.
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#eye-diseases-and-disorders)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

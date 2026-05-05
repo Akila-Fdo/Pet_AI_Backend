@@ -1,0 +1,56 @@
+1. <[Respiratory Diseases of Small Animals](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals)
+
+* Find In Topic
+
+IN THIS TOPIC
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Allergic Pneumonitis in Dogs and Cats
+By[Caroline C. Tonozzi](https://www.msdvetmanual.com/authors/tonozzi-caroline), DVM, DACVECC, Mission Veterinary Partners
+Reviewed/Revised Feb 2022 | Modified Sept 2024
+v3294782
+Allergic pneumonitis in dogs and cats is a hypersensitivity reaction of the lungs and airways that can be acute or chronic. The most common sign is coughing, and diagnosis is usually based on history, radiographs, and other laboratory tests as indicated. If the underlying cause can be identified, it should be eliminated; additional treatment generally consists of steroids (to reduce the inflammation) and bronchodilators.
+* [Etiology](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/allergic-pneumonitis-in-dogs-and-cats#Etiology_v3294787)|
+* [Clinical Findings](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/allergic-pneumonitis-in-dogs-and-cats#Clinical-Findings_v3294798)|
+* [Diagnosis](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/allergic-pneumonitis-in-dogs-and-cats#Diagnosis_v3294801)|
+* [Treatment](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/allergic-pneumonitis-in-dogs-and-cats#Treatment_v3294804)|
+* [Key Points](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/allergic-pneumonitis-in-dogs-and-cats#Key-Points_v62076607)|
+* [For More Information](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/allergic-pneumonitis-in-dogs-and-cats#For-More-Information_v62076616)|
+
+## Etiology of Allergic Pneumonitis in Dogs and Cats
+An underlying cause is rarely determined in pulmonary hypersensitivity reactions in dogs and cats. Type I or immediate hypersensitivity is probably the most common mechanism, although Type III and IV mechanisms may also be involved ( see [The Biology of the Immune System](https://www.msdvetmanual.com/immune-system/the-biology-of-the-immune-system) et seq). The cellular infiltrate is typically eosinophilic; however, mixed inflammatory infiltrates consisting of mononuclear cells, eosinophils, and neutrophils, or predominantly lymphocytic infiltrates can be seen.
+**Eosinophilic bronchopneumopathy (formerly [pulmonary infiltration](https://www.msdvetmanual.com/immune-system/immunologic-diseases/hypersensitivity-diseases-in-animals#v3277284) with eosinophilia [PIE]**, ) can be seen in dogs of any age, breed, or sex, but Siberian Huskies and Malamutes may be predisposed. A precipitating cause is rarely identified, and a hypersensitivity reaction is suspected. This is not the same mechanism as feline asthma. The patient may or may not have a peripheral eosinophilia. [Heartworm disease](https://www.msdvetmanual.com/circulatory-system/heartworm-disease/heartworm-disease-in-dogs-cats-and-ferrets) is a differential diagnosis, and, when dogs become sensitized to microfilariae, pneumonitis can develop. A similar reaction may be seen in cats with heartworms. Migrating intestinal parasites and primary lung parasites may induce either subclinical or mild signs of allergic pneumonitis.
+**Pulmonary nodular eosinophilic granulomatous syndrome** is a rare, severe eosinophilic bronchopneumopathy–like syndrome that occurs in dogs and is most often associated with heartworm infection or possibly an uncontrollable progressive form of eosinophilic bronchopneumopathy. In this condition, a severe granulomatous hypersensitivity reaction to microfilariae (or other antigen) results in mixed alveolar and interstitial pulmonary infiltrates plus variably sized, multiple pulmonary nodules scattered throughout the lung fields. Associated pathology may include eosinophilic granulomatous lymphadenitis, tracheitis, tonsillitis, splenitis, enteritis, gastritis, and pericholangitis. Pulmonary hypersensitivity also may be caused by drugs and reactions to inhaled allergens; however, this is poorly documented in small animals.
+## Clinical Findings of Allergic Pneumonitis in Dogs and Cats
+Chronic cough is the most common sign of allergic pneumonitis. It may be mild or severe, productive or nonproductive, and progressive or nonprogressive. Weight loss, tachypnea, dyspnea, wheezing, exercise intolerance, and occasionally hemoptysis may be seen. Severely affected animals may exhibit moderate to severe respiratory distress and cyanosis at rest. Results of thoracic auscultation vary from unremarkable to increased breath sounds, crackles, or wheezes. Fever is usually absent. The extent of breathing difficulty and coughing is related to the severity of inflammation within the airways.
+## Diagnosis of Allergic Pneumonitis in Dogs and Cats
+* History
+* Thoracic radiography and clinicopathologic testing
+
+Diagnosis of allergic pneumonitis is based largely on history and on radiographic and clinicopathologic findings. Thoracic radiographs frequently show irregular patchy alveolar infiltrates and increased bronchial and interstitial markings. Radiographic evidence of heartworm disease or parasitic pulmonary disease may suggest an underlying cause. Typical hematologic changes are mild leukocytosis, variable peripheral eosinophilia (4%–50%), and occasionally basophilia. Fecal analysis and an occult heartworm test are indicated when lung parasitism or heartworm disease is suspected. Bronchoalveolar lavage for cytologic analysis, culture, and detection of larval forms is often helpful. In allergic pneumonitis, bronchoalveolar lavage cytology generally reveals a predominance of eosinophils. Bacterial cultures of aseptically collected lavage specimens are commonly negative unless there is a secondary bronchopneumonia.
+## Treatment of Allergic Pneumonitis in Dogs and Cats
+* Elimination of the offending agent
+* Glucocorticoids
+* Bronchodilators
+* Oxygen therapy in severe cases
+
+When an underlying cause can be found, elimination of the offending agent and a short-term course of glucocorticoids typically resolves the problem. Prednisolone beginning at 1–2 mg/kg, PO, tapered over 10–14 days is often sufficient. When eosinophilic bronchopneumopathy is secondary to heartworm disease or pulmonary parasites, treatment with prednisolone before or during treatment for the parasite controls the pulmonary signs. When an underlying cause cannot be determined, prolonged therapy with prednisolone for 3–12 weeks is often required. When severe bronchoconstriction is suspected, bronchodilators or beta2-agonists may be helpful. Severely dyspneic animals may require short-term oxygen therapy.
+## Key Points on Allergic Pneumonitis in Small Animals
+* Eosinophilic bronchopneumopathy is well recognized but uncommon in dogs.
+* The benefit of allergy testing has not been documented.
+* Consistent treatment with corticosteroids is highly recommended, as well as diligent monitoring to prevent additional respiratory infections from developing.
+
+## For More Information
+* Clercx C, et al. Canine eosinophilic bronchopneumopathy. _Vet Clin North Am Small Animal Pract_. 2007;37:917–935.
+* Also see pet health content regarding allergic pneumonitis in [dogs](https://www.msdvetmanual.com/dog-owners/lung-and-airway-disorders-of-dogs/allergic-pneumonitis-in-dogs) and [cats](https://www.msdvetmanual.com/cat-owners/lung-and-airway-disorders-of-cats/allergic-pneumonitis-in-cats).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#respiratory-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings

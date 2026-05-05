@@ -1,0 +1,74 @@
+1. <[Respiratory Diseases of Small Animals](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals)
+
+* Find In Topic
+
+IN THIS TOPIC
+* Multimedia
+
+OTHER TOPICS IN THIS CHAPTER
+
+PROFESSIONAL VERSION
+# Rhinitis and Sinusitis in Dogs and Cats
+By[Caroline C. Tonozzi](https://www.msdvetmanual.com/authors/tonozzi-caroline), DVM, DACVECC, Mission Veterinary Partners
+Reviewed/Revised Feb 2022 | Modified Sept 2024
+v3295038
+* [Etiology](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/rhinitis-and-sinusitis-in-dogs-and-cats#Etiology_v3295043)|
+* [Clinical Findings](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/rhinitis-and-sinusitis-in-dogs-and-cats#Clinical-Findings_v3295053)|
+* [Diagnosis](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/rhinitis-and-sinusitis-in-dogs-and-cats#Diagnosis_v3295061)|
+* [Treatment](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/rhinitis-and-sinusitis-in-dogs-and-cats#Treatment_v3295069)|
+* [For More Information](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/rhinitis-and-sinusitis-in-dogs-and-cats#For-More-Information_v62077109)|
+* Multimedia|
+
+Rhinitis is defined as inflammation of the mucous membranes of the nose. In dogs and cats, it may be acute or chronic and may have a viral, bacterial, or allergic cause. Sinusitis is usually associated with diseases of the nasal cavity but is most often related to fungal infiltrates in the sinus itself.
+## Etiology of Rhinitis and Sinusitis in Dogs and Cats
+Viral infection, specifically feline viral rhinotracheitis (FVR) and feline calicivirus (FCV), is the most common cause of acute rhinitis in cats. Rhinitis is a common manifestation of canine distemper.
+Chronic states exist for FVR and FCV, with intermittent shedding associated with stress. Bacterial rhinitis or sinusitis is a common secondary complication in cats. Primary bacterial rhinitis is extremely rare in dogs. It may result from infection with _Bordetella bronchiseptica_ in dogs. Allergic rhinitis or sinusitis is uncommon. Smoke aspiration, inhalation of irritant gases and dusts, or foreign bodies lodged in the nasal passages also may cause acute rhinitis.
+Chronic rhinitis in dogs may be caused by idiopathic lymphocytic-plasmacytic rhinitis. Underlying causes are not often known but may be related to allergic or immune-mediated disease, trauma, parasites (_Cuterebra_), foreign bodies, or cancer. In cats, chronic rhinosinusitis is a frequent sequela of acute viral infections of the nasal and sinus mucosa that result in hyperplastic glandular and epithelial changes. Rhinitis or sinusitis may result when an apical tooth root abscess extends into the maxillary recess. Mycotic rhinosinusitis may be caused by _Cryptococcus neoformans_ , _Aspergillus_ spp, and _Penicillium_ spp. Cats are more often affected with _Cryptococcus_ spp than dogs, whereas aspergillosis is frequent in dogs but rare in cats.
+## Clinical Findings of Rhinitis and Sinusitis in Dogs and Cats
+Acute rhinitis is characterized by nasal discharge, sneezing, pawing at the face, respiratory stertor, open-mouth breathing, and/or cyanosis, if severe. Lacrimation and conjunctivitis may be present, especially with viral infection. Affected tissues are often hyperemic and edematous. The nasal discharge is serous but becomes mucoid as a result of secondary bacterial infection. If inflammatory cells infiltrate the mucosa, the discharge may become mucopurulent. Sneezing, in an attempt to clear the upper airways of discharge or exudate, is seen most frequently in acute rhinitis and tends to be intermittent in chronic rhinitis. Aspiration reflex (“reverse sneeze”), a short paroxysmal episode of inspiratory effort in an attempt to clear the nasopharynx of obstructing material, may also be seen.
+Fungal rhinitis, CT, dog
+Image
+Fungal rhinitis involving the right nasal cavity of a dog. There is extensive turbinate loss within the right nasal cavity. Scattered soft-tissue attenuating material (mucus) with compartmentalized air is present in the right nasal cavity. The left nasal cavity is normal.
+Courtesy of Dr. Ned F. Kuehn.
+Fungal sinusitis, CT, dog
+Image
+Fungal plaque in the left frontal sinus of a dog. Fungal plaques within the sinuses are irregularly marginated soft-tissue attenuating densities. There is mild periosteal bone reaction of the left frontal bone. Mucosal thickening is also present in the left frontal sinus.
+Courtesy of Dr. Ned F. Kuehn.
+Nasal foreign body, radiograph, dog
+Image
+Hair pin nasal foreign body, ventrodorsal view, in a dog.
+Courtesy of Ontario Veterinary College.
+Nasal foreign body, radiograph, dog
+Image
+Hair pin nasal foreign body, lateral view, in a dog.
+Courtesy of Ontario Veterinary College.
+Respiratory stertor, open-mouth breathing, and hypoxia occur when the nasal passages are narrowed from inflamed mucosa, glandular elements, and secretions. An acute unilateral nasal discharge, possibly accompanied by pawing at the face, suggests a foreign body. Neoplastic or mycotic disease is suggested by a chronic nasal discharge that was initially unilateral but becomes bilateral or that changes in character from mucopurulent to serosanguineous or hemorrhagic. Approximately 35% of cats with nasal cryptococcosis have facial deformity (dorsal lump) of the rostral aspect of the nose in the area of the sinus.
+## Diagnosis of Rhinitis and Sinusitis in Dogs and Cats
+* History and physical examination
+* Radiography
+* Rhinoscopy
+
+Diagnosis of rhinitis and/or sinusitis is based on history, physical examination, radiographic findings (especially [CT](https://www.msdvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/computed-tomography-in-animals)), rhinoscopy, nasal biopsy, deep nasal tissue culture, and elimination of other causes of nasal discharge and sneezing. Advanced imaging studies and biopsy may identify a specific etiologic diagnosis for nasal discharge (eg, fungal rhinitis, neoplasia, foreign body) in as few as 36% of cats and 63% of dogs with chronic nasal disease.
+Pneumonyssus caninum (nasal mite)
+Image
+_Pneumonyssus caninum_ (nasal mite).
+Courtesy of Ontario Veterinary College.
+Serum titer for cryptococcal antigen is a very specific and sensitive test for nasal cryptococcosis. Serologic evaluation for aspergillosis is more problematic in that negative test results do not exclude infection, and positive results may indicate exposure to the fungus in the environment without actual infection. Nasal tissue culture for _Aspergillus_ may also result in false-positive results; as many as 30% of normal dogs and 40% of dogs with nasal neoplasia have positive culture results. The combination of seropositivity for and culture identification of _Aspergillus_ is highly suggestive of infection, although negative test results do not exclude nasal aspergillosis. Direct sampling of visualized suspected fungal plaques may potentially yield _Aspergillus_ hyphae in all cases.
+## Treatment of Rhinitis and Sinusitis in Dogs and Cats
+* Supportive care
+* Specific therapy depending on cause (eg, antimicrobials, antifungals)
+
+In mild or acute cases of rhinitis and/or sinusitis, supportive treatment may be effective. Severe cases of rhinosinusitis in kittens or adult cats may require IV or SC fluids to manage dehydration, and nutritional support via a nasogastric tube to maintain weight. Chronic secondary bacterial rhinosinusitis may be treated with antimicrobial agents for 3–6 weeks pending results of culture and sensitivity. Intermittent use of vasoconstrictive nasal decongestants usually provides only temporary relief of congestion and should be used only as needed.
+Mycotic rhinosinusitis requires antifungal therapy based on identification of a fungal etiologic agent. Fluconazole (50–100 mg/day, PO) or itraconazole (50–100 mg/day, PO) may be effective for treatment of nasal cryptococcosis in cats. Treatment for sinonasal aspergillosis is locally administered clotrimazole or enilconazole infusion based on an intact cribriform plate (seen on CT scan before infusion). This is usually administered via trephination and debridement of the nasal passages/sinuses. Systemic therapy is not recommended unless there are systemic signs, which are rare.
+Radiation therapy is the most viable treatment for intranasal neoplasia.
+## For More Information
+* Also see pet health content regarding rhinitis and sinusitis in [dogs](https://www.msdvetmanual.com/dog-owners/lung-and-airway-disorders-of-dogs/rhinitis-and-sinusitis-in-dogs) and [cats](https://www.msdvetmanual.com/cat-owners/lung-and-airway-disorders-of-cats/rhinitis-and-sinusitis-in-cats).
+
+Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#respiratory-system)
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+* Cookie Preferences
+
+**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
+We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+
+Customize my Settings
