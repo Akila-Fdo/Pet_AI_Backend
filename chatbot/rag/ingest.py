@@ -7,7 +7,9 @@ from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
 
-DATA_PATH = "rag_output"        # your crawler output
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_PATH = BASE_DIR / "rag_output"
+      # your crawler output
 DB_PATH = "chatbot/db"
 
 
@@ -34,6 +36,12 @@ def split_documents(docs):
     return chunks
 
 
+from langchain_community.vectorstores import Chroma
+from langchain_community.embeddings import HuggingFaceEmbeddings
+
+BATCH_SIZE = 1000  # safe size
+
+
 def build_db():
     docs = load_documents()
     chunks = split_documents(docs)
@@ -42,13 +50,21 @@ def build_db():
         model_name="sentence-transformers/all-MiniLM-L6-v2"
     )
 
-    db = Chroma.from_documents(
-        documents=chunks,
-        embedding=embeddings,
+    db = Chroma(
+        embedding_function=embeddings,
         persist_directory=DB_PATH
     )
 
+    print("Storing in batches...")
+
+    for i in range(0, len(chunks), BATCH_SIZE):
+        batch = chunks[i:i + BATCH_SIZE]
+        print(f"Processing batch {i} → {i + len(batch)}")
+
+        db.add_documents(batch)
+
     db.persist()
+
     print("✅ Chroma DB built successfully!")
 
 
