@@ -1,12 +1,12 @@
 * Multimedia
 # Proper Nutrition for Cats
-Reviewed By[Manuals Staff](https://www.msdvetmanual.com/authors/staff-manuals)
+Reviewed ByManuals Staff
 * Multimedia|
 Making sure your pet has good nutrition is a crucial but often overlooked part of being a responsible pet owner. Cats need a diet rich in high-quality fats and proteins, along with specific amino acids, like taurine, that aren’t found in dog food or human food. Cats should be fed commercially formulated, nutritionally balanced food rather than homemade diets, which are often deficient in key essential vitamins and minerals.
 ## What Are The Nutritional Standards for Cats?
-The Feline Nutrition Expert Subcommittee of the [Association of American Feed Control Officials](https://www.aafco.org) (AAFCO) has set basic nutritional requirements for cats.
-The [National Research Council](https://animalnutrition.org/nrc_reports) (NRC) has created nutrient profiles for both cats and kittens.
-The [World Small Animal Veterinary Association](https://wsava.org) (WSAVA) offers guidelines for nutrition of cats and other small animals worldwide.
+The Feline Nutrition Expert Subcommittee of the Association of American Feed Control Officials (AAFCO) has set basic nutritional requirements for cats.
+The National Research Council (NRC) has created nutrient profiles for both cats and kittens.
+The World Small Animal Veterinary Association (WSAVA) offers guidelines for nutrition of cats and other small animals worldwide.
 In the United States, pet food must include a “nutritional adequacy statement.” This statement shows that the food provides complete and balanced nutrition for a specific life stage, such as growth, reproduction, or adult maintenance. If the food doesn’t meet these standards, it must be labeled only as a treat or for occasional feeding.
 ## What Should I Feed My Cat?
 Cats are carnivores, meaning they eat mainly meat. But they should not just be fed the kind of meat humans eat. There are many commercial cat foods designed to provide complete and balanced nutrition for cats at different life stages, including kittens, adults, and seniors. However, not all cat foods are of the same quality.
@@ -34,5 +34,5 @@ Always provide multiple bowls of fresh, clean water for your cat, and be sure to
 Feeding wet food, like canned cat food, can also help your cat get enough water. This is one reason many veterinarians recommend wet food over dry food.
 You might also consider using a water fountain to encourage your cat to drink more, because cats are often attracted to, and like to play with, moving streams of water.
 If your cat seems to drink a lot and pee a lot, there might be a problem. Talk to your veterinarian.
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

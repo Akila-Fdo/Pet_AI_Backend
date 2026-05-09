@@ -1,5 +1,5 @@
 # Disorders Involving Cytotoxic Antibodies (Type II Reactions) in Dogs
-By[Ian Rodney Tizard](https://www.msdvetmanual.com/authors/tizard-ian), BVMS, BSc, PhD, DSc (Hons), DACVM, Department of Veterinary Pathobiology, College of Veterinary and Biomedical Sciences, Texas A&M University
+ByIan Rodney Tizard, BVMS, BSc, PhD, DSc (Hons), DACVM, Department of Veterinary Pathobiology, College of Veterinary and Biomedical Sciences, Texas A&M University
 Type II reactions occur when an antibody binds to an antigen present at the surface of its own cells. These reactions can lead to several types of diseases in dogs, including anemia, blood clotting problems, and skin and muscle disorders. They may be associated with other immune system disturbances, such as systemic lupus erythematosus, or triggered by a drug, vaccine, or infection. Most often, the triggering cause cannot be pinpointed. Immune-mediated hemolytic anemia and thrombocytopenia are the most common Type II reactions.
 ## Immune-mediated Hemolytic Anemia
 Anemia occurs when an animal has an abnormally low number of red blood cells. Immune-mediated hemolytic anemia is a severe and life-threatening disease in which the dog’s immune system sees its own red blood cells as foreign invaders, and therefore produces antibodies to destroy them. Red blood cells are manufactured as usual in the bone marrow, but once released into the bloodstream, they are attacked and destroyed by antibodies. Signs of anemia may include fatigue, paleness of the lips and gums, and depression, along with jaundice in some cases. Other signs your veterinarian may find include an enlarged liver or spleen.
@@ -15,6 +15,6 @@ Treatment is often continued for 1 to 3 months after the platelet counts return 
 ## Myasthenia Gravis
 Myasthenia gravis is an autoimmune neuromuscular disease seen in both people and animals, including dogs. It can be congenital (present at birth) or immune-mediated, developing later in life. Weakness is the primary sign. Affected animals produce antibodies to certain nerve receptors and destroy them. This leads to the inability to contract muscles and extreme muscle weakness. In older dogs, the first sign of problems may be an enlargement of the esophagus (megaesophagus) due to the muscular weakness. The enlargement of the esophagus leads to difficulty swallowing and can cause regurgitation, which can cause inhalation pneumonia. Myasthenia gravis is diagnosed using blood tests to search for the antibody to the nerve receptor and other tests for nerve activity. Your veterinarian will prescribe drugs to control this disease. Remissions can occur, and many dogs that develop this condition do well with continued treatment.
 ## For More Information
-Also see professional content regarding [Type II reactions](https://www.msdvetmanual.com/immune-system/immunologic-diseases/hypersensitivity-diseases-in-animals#v3277325).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding Type II reactions.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

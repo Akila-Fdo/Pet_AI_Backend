@@ -1,5 +1,5 @@
 # Rabies in Dogs
-By[Charles E. Rupprecht](https://www.researchgate.net/profile/Charles_Rupprecht2%20), VMD, PhD, LYSSA LLC
+ByCharles E. Rupprecht, VMD, PhD, LYSSA LLC
 Rabies is a viral infection of the nervous system that mainly affects carnivores and bats, although it can affect any mammal. It is caused by the rabies virus. It causes sudden, progressive inflammation in the brain and spinal cord. Once clinical signs appear, it is fatal. Rabies is found throughout the world, although a few countries are declared rabies-free due to successful elimination programs. Islands that have a strict quarantine program in effect are often rabies-free. In North America and Europe, rabies has been mostly eliminated in domestic dogs, although it affects wildlife, especially foxes, raccoons, skunks, and bats.
 Transmission is almost always by the bite of an infected animal, when the saliva containing the rabies virus is introduced into the body. The virus can be in the body for weeks before signs develop. Most cases in dogs develop within 21 to 80 days after exposure, but the incubation period may be considerably shorter or longer.
 ## Signs and Diagnosis
@@ -18,6 +18,6 @@ Any wild carnivore or bat suspected of exposing a person to rabies should be con
 Any healthy domestic dog, cat, or ferret, whether vaccinated or not, that bites a person or otherwise deposits saliva into a fresh wound, should be confined for 10 days for observation. If the animal develops signs within those 10 days, it should be promptly euthanized and submitted for testing. If the animal responsible for the exposure is stray or unwanted, it should be euthanized and submitted for testing immediately.
 Pre-exposure vaccination is strongly recommended for all people in high-risk groups, such as veterinary staff, animal control officers, rabies and diagnostic laboratory workers, and travelers working in countries where canine rabies is prevalent. However, pre-exposure vaccination alone cannot be relied on in the event of later exposure to rabies virus and must be supplemented by additional doses of vaccine. For healthy, unvaccinated people bitten by a rabid animal, treatment consists of wound care, local injection of rabies antibodies into the wound, and several doses of vaccine over a 2-week period. When provided in a timely and appropriate manner, modern postexposure treatment virtually assures human survival.
 ## For More Information
-Also see professional content regarding [rabies](https://www.msdvetmanual.com/nervous-system/rabies/rabies-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding rabies.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

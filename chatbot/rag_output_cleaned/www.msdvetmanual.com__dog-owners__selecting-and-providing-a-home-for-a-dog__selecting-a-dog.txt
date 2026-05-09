@@ -1,6 +1,6 @@
 * Multimedia
 # Selecting a Dog
-By[Natalie Antinoff](https://www.msdvetmanual.com/authors/antinoff-natalie), DVM, DABVP (Avian Practice), Texas Avian & Exotic Hospital
+ByNatalie Antinoff, DVM, DABVP (Avian Practice), Texas Avian & Exotic Hospital
 * Multimedia|
 ## What Type of Dog Is Right for Me?
 Dogs come in many sizes and shapes, and they have different personalities. Different breeds of dogs were bred for specific jobs and behaviors. When choosing a dog, think about its size, activity level, temperament, and coat type. Picking the wrong dog can cause stress for both your family and the dog and might lead to behavior issues.
@@ -27,8 +27,7 @@ Before getting a dog, it’s important to check where it comes from. If you’re
 Judging the Physical and Social Health of a New Dog
 Judging the Physical and Social Health of a New Dog
 Judging the Physical and Social Health of a New Dog
-| Positive Attributes  | Negative Attributes  |
-| --- | --- |
+| Positive Attributes  | Negative Attributes  | --- | --- |
 * Active, friendly, social, curious
 * Healthy weight
 * Clean, shiny coat free of mats, sores, and fleas
@@ -44,5 +43,5 @@ Judging the Physical and Social Health of a New Dog
 * Signs of respiratory problems (cough, runny eyes or nose)
 * History of illness (vomiting, diarrhea, etc.)
 When visiting a kennel, pet shop, or shelter, pay attention to the environment. It’s a good idea to visit before you’re ready to choose a dog so you can look around without getting distracted by wanting to adopt a pet. Check if the facility is clean and organized. Do the dogs seem happy or scared? Are they healthy and clean, or do they look sickly? Is the building comfortable, with fresh water available for all the animals? A clean kennel should smell slightly of disinfectant, not strongly of urine or feces. Puppies also should not smell like urine or feces.
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

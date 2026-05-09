@@ -1,5 +1,5 @@
 # Reproductive Disorders of Male Dogs
-By[Autumn P. Davidson](https://loneoakvet.com/veterinarian-visalia-ca/autumndavidson.php%20), DVM, MS, DACVIM, Department of Medicine and Epidemiology, School of Veterinary Medicine, University of California, Davis
+ByAutumn P. Davidson, DVM, MS, DACVIM, Department of Medicine and Epidemiology, School of Veterinary Medicine, University of California, Davis
 Several reproductive diseases can affect male dogs. This section discusses the most common of these disorders.
 ## Cryptorchidism
 Cryptorchidism is a failure of one or both testicles to descend into the scrotum. It is the most common disorder of sexual development in dogs. The condition has a genetic basis and can be inherited from either parent. If both testicles are affected, the dog is sterile. Because the retained testicles still produce male hormones, these animals have normal mating behavior and sexual characteristics. If only one testicle is retained (unilateral cryptorchidism), the dog can still mate normally, as the one normal testicle will produce normal sperm. Because the condition is inherited, cryptorchid dogs should not be used for breeding. This condition occurs in all breeds but is commonly seen in the Toy and Miniature Poodle, Pomeranian, Dachshund, Chihuahua, Maltese, Boxer, Pekingese, English Bulldog, Miniature Schnauzer, and Shetland Sheepdog. Affected animals should be neutered due to an increased risk of developing testicular cancer.
@@ -26,5 +26,5 @@ Large cysts are occasionally found within or near (paraprostatic) the prostate g
 ### Prostate Cancer
 Prostate cancer is a serious, yet uncommon, disorder in dogs. Neutering does not protect against future development of prostate cancer in dogs. The signs are similar to those of other prostatic diseases. Pain and fever may be present. Furthermore, the cancer frequently spreads to other tissue and organs (metastasis). If the cancer invades the urethra, urination can be difficult or urine outflow can be blocked. Diagnosis is made using rectal examination, ultrasonography, biopsy, and other tests (such as x-rays) to look for evidence of metastasis. There is no effective curative treatment, but some medications may prolong survival time. Consultation with a veterinary oncologist (cancer specialist) is recommended.
 ## For More Information
-Also see professional content regarding [reproductive diseases of male dogs](https://www.msdvetmanual.com/reproductive-system/reproductive-system-diseases-of-male-dogs-and-cats).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding reproductive diseases of male dogs.
+Test your Knowledge nowTake a Quiz!

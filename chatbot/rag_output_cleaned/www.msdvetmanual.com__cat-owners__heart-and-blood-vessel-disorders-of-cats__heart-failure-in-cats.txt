@@ -1,5 +1,5 @@
 # Heart Failure in Cats
-By[Mark D. Kittleson](https://www.vetmed.ucdavis.edu/faculty/mark-d-kittleson%20), DVM, PhD, DACVIM-Cardiology, Department of Medicine and Epidemiology, University of California, Davis
+ByMark D. Kittleson, DVM, PhD, DACVIM-Cardiology, Department of Medicine and Epidemiology, University of California, Davis
 Heart failure is not a specific disease or diagnosis. It is a syndrome in which severe dysfunction results in failure of the cardiovascular system to maintain adequate blood circulation. There are limited and specific mechanisms by which heart disease can bring on failure of the cardiovascular system. Therefore, there are limited and specific signs that can develop as a result of heart failure.
 ## Types of Heart Failure
 Heart failure can be divided into 4 functional classifications: systolic myocardial failure, impedance to cardiac inflow, pressure overload, and volume overload.
@@ -19,6 +19,6 @@ There are many types of drugs available for treating heart failure. The specific
 Diuretics are usually prescribed to reduce fluid overload. Digoxin and pimobendan, part of a group of drugs known as positive inotropes, may be used to help the heart muscle contract. ACE inhibitors (ACE stands for angiotensin-converting enzyme) and vasodilators can widen blood vessels and thus lower blood pressure. Beta-adrenergic blocking drugs (also called beta-blockers) and calcium channel blockers are also helpful in some cases of congestive heart failure.
 In addition to drugs, other types of treatment are sometimes recommended. These may include a low-sodium diet (prescription or commercial diets are available), oxygen therapy to raise the level of oxygen in the blood, taurine supplementation in cats with verified deficiencies, surgical procedures to remove excess fluid buildup from the chest cavity or abdomen, or anti-anxiety medications for cats that are having trouble breathing.
 ## For More Information
-Also see professional content regarding [heart failure](https://www.msdvetmanual.com/circulatory-system/heart-failure-in-dogs-and-cats/heart-failure-in-dogs-and-cats).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Also see professional content regarding heart failure.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

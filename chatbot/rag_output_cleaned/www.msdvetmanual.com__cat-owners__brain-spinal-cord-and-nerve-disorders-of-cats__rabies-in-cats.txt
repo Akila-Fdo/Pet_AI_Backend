@@ -1,5 +1,5 @@
 # Rabies in Cats
-By[Charles E. Rupprecht](https://www.researchgate.net/profile/Charles_Rupprecht2%20), VMD, PhD, LYSSA LLC
+ByCharles E. Rupprecht, VMD, PhD, LYSSA LLC
 Rabies is an acute viral infection of the nervous system that affects mainly carnivores and bats, although it can affect any mammal. It is caused by the rabies virus. Once signs appear, it is fatal. Rabies is found throughout the world, although a few countries are declared rabies-free due to successful elimination standards. Islands that have a strict quarantine program in effect are often rabies-free. In North America and Europe, rabies has been mostly eliminated in domestic animals, although it still affects wildlife.
 No cat-to-cat rabies transmission has been recorded, and no feline strain of rabies virus is known. However, cats are the most commonly reported rabid domestic animal in the United States. The virus is present in the saliva of rabid cats, and people have developed rabies after being bitten by a rabid cat. Reported cases in domestic cats have outnumbered those in dogs in the United States in every year since 1990.
 Transmission is almost always by the bite of an infected animal, when the saliva containing the rabies virus is introduced into the body. The virus can be in the body for weeks or months before signs develop.
@@ -18,6 +18,6 @@ When a person is exposed to an animal suspected of rabies, the risk of rabies tr
 Any healthy domestic dog, cat, or ferret, whether vaccinated or not, that bites a person or otherwise deposits saliva into a fresh wound, should be confined for 10 days for observation. If the animal develops signs within those 10 days, it should be promptly euthanized and submitted for testing. If the animal responsible for the exposure is stray or unwanted, it should be euthanized and submitted for testing immediately.
 Pre-exposure vaccination is strongly recommended for all people in high-risk groups, such as veterinary staff, animal control officers, rabies and diagnostic laboratory workers, and travelers working in countries where canine rabies is common. However, pre-exposure vaccination alone cannot be relied on in the event of later exposure to rabies virus and must be supplemented by additional doses of vaccine. For healthy, unvaccinated people bitten by a rabid animal, treatment consists of wound care, local injection of rabies antibodies into the wound, and several doses of vaccine over a 2-week period. When provided in a timely and appropriate manner, modern postexposure treatment virtually assures human survival.
 ### For More Information
-Also see professional content regarding [rabies](https://www.msdvetmanual.com/nervous-system/rabies/rabies-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Also see professional content regarding rabies.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

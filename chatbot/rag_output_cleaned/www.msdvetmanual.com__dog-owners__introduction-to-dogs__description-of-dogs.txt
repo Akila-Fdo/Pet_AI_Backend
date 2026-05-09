@@ -1,9 +1,9 @@
 * Multimedia
 # Description of Dogs
-By[Natalie Antinoff](https://www.msdvetmanual.com/authors/antinoff-natalie), DVM, DABVP (Avian Practice), Texas Avian & Exotic Hospital
-Reviewed By[Joyce Carnevale](https://www.msdvetmanual.com/authors/carnevale-joyce), DVM, DABVP, College of Veterinary Medicine, Iowa State University
+ByNatalie Antinoff, DVM, DABVP (Avian Practice), Texas Avian & Exotic Hospital
+Reviewed ByJoyce Carnevale, DVM, DABVP, College of Veterinary Medicine, Iowa State University
 * Multimedia|
-Dogs are related to wolves and have been companions to people for thousands of years. At first, they were used as helpers for work and to protect people. Today, they do many jobs, such as helping people with disabilities, finding illegal drugs, looking for survivors after disasters, and even detecting illnesses like cancer. But the most important job dogs have is being loyal [companions to people](https://www.msdvetmanual.com/special-pet-topics/health-and-the-human-animal-bond/the-human-animal-bond).
+Dogs are related to wolves and have been companions to people for thousands of years. At first, they were used as helpers for work and to protect people. Today, they do many jobs, such as helping people with disabilities, finding illegal drugs, looking for survivors after disasters, and even detecting illnesses like cancer. But the most important job dogs have is being loyal companions to people.
 Even though dogs look very different from people, they have some of the same body features. They have hearts to pump blood, lungs to help them breathe, and stomachs to process food.
 Dogs are wonderful companions and have unique needs and characteristics that make them special friends to people.
 ## What Size Are Most Dogs?
@@ -21,25 +21,11 @@ In general, smaller dogs tend to live longer than larger ones.
 Dog Years Versus Human Years
 Dog Years Versus Human Years
 Dog Years Versus Human Years
-| Dog Years  | Human Years  |
-| --- | --- |
-| 6–12 months  | 10–15 years  |
-| 12–18 months  | 15–20 years  |
-| 18–24 months  | 20–24 years  |
-| 4 years  | 32 years  |
-| 6 years  | 40 years  |
-| 8 years  | 48 years  |
-| 10–12 years  | 56–64 years  |
-| 13–14 years  | 68–72 years  |
-| 15–20 years  | 76–96 years  |
+| Dog Years  | Human Years  | --- | --- | 6–12 months  | 10–15 years  | 12–18 months  | 15–20 years  | 18–24 months  | 20–24 years  | 4 years  | 32 years  | 6 years  | 40 years  | 8 years  | 48 years  | 10–12 years  | 56–64 years  | 13–14 years  | 68–72 years  | 15–20 years  | 76–96 years  |
 Normal Physiological Values for Dogs
 Normal Physiological Values for Dogs
 Normal Physiological Values for Dogs
-| Body temperature (average)  | 101–102.5°F (38.3–39.2°C)  |
-| --- | --- |
-| Heart rate  | 70–120 beats per minute (small dogs have faster heart rates than larger dogs have)  |
-| Respiratory rate (at rest)  | 18–34 breaths per minute  |
-| Average lifespan  | 8–16 years (depends on the breed)  |
+| Body temperature (average)  | 101–102.5°F (38.3–39.2°C)  | --- | --- | Heart rate  | 70–120 beats per minute (small dogs have faster heart rates than larger dogs have)  | Respiratory rate (at rest)  | 18–34 breaths per minute  | Average lifespan  | 8–16 years (depends on the breed)  |
 ## How Do Dogs Stay Warm or Cool?
 Dogs are generally better at keeping warm than cooling down. Some dogs, like sled dogs, can survive in really cold weather because their fur keeps them warm. But they struggle to cool off in hot weather.
 Dogs can't sweat like humans, so they cool down by panting. When they pant, they take quick breaths to help release heat, but they need to pause sometimes to take deeper breaths.
@@ -72,10 +58,10 @@ Dogs' teeth are similar to those of their wolf ancestors. They have 28 baby teet
 Dogs can get tartar on their teeth just like humans. Brushing your dog's teeth regularly and feeding your dog harder food can help prevent tartar buildup on its teeth, just like with human teeth.
 ## How Do Dogs Digest Food?
 Dogs digest food in their stomach and intestines, absorbing nutrients and getting rid of waste in their pee and poop. A dog with a digestive problem might vomit or have diarrhea for many reasons, like having an infection or eating something it shouldn’t have eaten.
-The urinary system helps filter and remove waste from a dog's body. Female dogs can get urinary infections more easily, often causing them to have blood in their urine. If your dog has difficulty pooping or peeing, it’s essential to [monitor the dog closely](https://www.msdvetmanual.com/dog-owners/kidney-and-urinary-tract-disorders-of-dogs/detecting-disorders-of-the-kidneys-and-urinary-tract-in-dogs), and consult a veterinarian if the symptoms don't go away.
+The urinary system helps filter and remove waste from a dog's body. Female dogs can get urinary infections more easily, often causing them to have blood in their urine. If your dog has difficulty pooping or peeing, it’s essential to monitor the dog closely, and consult a veterinarian if the symptoms don't go away.
 ## Why Do Dogs Sometimes "Scoot" on the Ground?
 Dogs have anal glands on their rear ends that contain oils that get released as they poop. This helps dogs mark their territories.
 Sometimes anal glands get backed up with oils, and dogs will try to empty them by dragging, or "scooting," their rear ands across the ground. If the glands are not emptied, they can cause pain and can even become infected.
 Many dogs that have problems emptying their anal glands on their own need the glands cleaned out regularly by a vet.
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

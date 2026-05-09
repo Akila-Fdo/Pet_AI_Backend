@@ -1,6 +1,6 @@
 * Multimedia
 # Selecting a Cat
-Reviewed By[Manuals Staff](https://www.msdvetmanual.com/authors/staff-manuals)
+Reviewed ByManuals Staff
 * Multimedia|
 ## Is a Cat the Right Pet for Me?
 As pets, cats generally require less attention and activity than dogs. This makes them suitable for people who have busy lifestyles, small living spaces (such as apartments), or limited mobility.
@@ -23,7 +23,7 @@ Kittens that are handled by people when they are 2–7 weeks old tend to be frie
 Kittens can leave their mother when they are weaned (able to feed themselves), which is usually when they're about 6–7 weeks old.
 ## Where Should I Get a Cat?
 You can get a cat from various places:
-* **Breeders.** If you have a particular type of purebred cat in mind, you will probably need to find a breeder. Be sure the breeder has long-term, reliable experience breeding a particular type of cat before you purchase a cat from them. Finding a good, responsible breeder can be tricky, so consult your veterinarian for help. Articles like [How to Find a Good, Responsible Breeder](https://veterinarypartner.vin.com/default.aspx?pid=19239&id=11221584) can also be helpful.
+* **Breeders.** If you have a particular type of purebred cat in mind, you will probably need to find a breeder. Be sure the breeder has long-term, reliable experience breeding a particular type of cat before you purchase a cat from them. Finding a good, responsible breeder can be tricky, so consult your veterinarian for help. Articles like How to Find a Good, Responsible Breeder can also be helpful.
 * **Shelters.** Adopting from a shelter helps save cats that need homes. Cats from shelters are typically already spayed or neutered and vaccinated.
 * **Pet stores.** Some veterinarians advise against purchasing pets from pet stores, because of concerns about animal welfare and health. Although pet stores might provide health records, you might not know how the cat was raised.
 * **Stray cats.** Some people take in stray cats from their neighborhoods. But doing so can be risky because the cat might be unhealthy or fearful of people.
@@ -34,14 +34,7 @@ When choosing a cat, look for signs of good health and a friendly personality. H
 Judging the Physical and Social Health of a New Cat
 Judging the Physical and Social Health of a New Cat
 Judging the Physical and Social Health of a New Cat
-| Positive Attributes  | Negative Attributes  |
-| --- | --- |
-| Active, friendly, curious  | Timid or aggressive (hissing, spitting)  |
-| Healthy weight  | Thin or scrawny  |
-| Clean, shiny coat  | Dirty coat with stains or sores  |
-| Clean ears and eyes  | Discharge from eyes, dirty ears  |
-| History of vaccinations  | Respiratory problems (coughing, runny nose)  |
-| Good diet history  | History of illness or behavior problems (such as litter box issues)  |
+| Positive Attributes  | Negative Attributes  | --- | --- | Active, friendly, curious  | Timid or aggressive (hissing, spitting)  | Healthy weight  | Thin or scrawny  | Clean, shiny coat  | Dirty coat with stains or sores  | Clean ears and eyes  | Discharge from eyes, dirty ears  | History of vaccinations  | Respiratory problems (coughing, runny nose)  | Good diet history  | History of illness or behavior problems (such as litter box issues)  |
 Healthy cats are usually lively and friendly. Kittens should be curious and playful, not shy or aggressive.
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

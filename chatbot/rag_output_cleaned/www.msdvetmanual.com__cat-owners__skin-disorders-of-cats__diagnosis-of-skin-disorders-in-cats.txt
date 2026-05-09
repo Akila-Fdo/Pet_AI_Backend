@@ -1,6 +1,6 @@
 * Multimedia
 # Diagnosis of Skin Disorders in Cats
-By[Karen A. Moriello](https://www.vetmed.wisc.edu/people/moriellk/%20), DVM, DACVD, Department of Medical Sciences, School of Veterinary Medicine, University of Wisconsin-Madison
+ByKaren A. Moriello, DVM, DACVD, Department of Medical Sciences, School of Veterinary Medicine, University of Wisconsin-Madison
 * Multimedia|
 A precise diagnosis of the causes of a skin disease requires a detailed history, physical examination, and appropriate diagnostic tests. Many skin diseases have similar signs and an immediate diagnosis may not be possible. Based on your cat’s history and the physical examination, your veterinarian may order any of a number of laboratory procedures. These may include microscopic analysis of skin scrapings and hair, cultures of hair or skin swabs, specialized skin tests, blood and urine tests, and even biopsies. It may take several days before laboratory results are available. Your veterinarian may also evaluate how your cat responds to treatment in order to diagnose a specific skin problem. More than one visit is often required for an accurate diagnosis.
 Skin Disease History Checklist
@@ -19,6 +19,6 @@ Skin Disease History Checklist
 * The health of other animals with which your cat has been in contact.
 * The environment of your cat. Changes in the animal’s environment can influence the development of certain skin diseases.
 * The presence of any additional signs (such as increased thirst or urination, change in appetite or energy level, or increased panting). The skin can be the first place that signs of a body-wide illness are noted.
-**Also see professional content regarding**[ diagnosis of skin diseases](https://www.msdvetmanual.com/integumentary-system/integumentary-system-introduction/diagnosis-of-skin-diseases-in-small-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+**Also see professional content regarding** diagnosis of skin diseases.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

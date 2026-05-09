@@ -1,6 +1,6 @@
 * Multimedia
 # Trichinellosis (Trichinosis) in Cats
-By[Bert E. Stromberg](https://vetmed.umn.edu/bio/veterinary-and-biomedical-scie/bert-stromberg%20), PhD, Veterinary and Biomedical Sciences, College of Veterinary Medicine, University of Minnesota
+ByBert E. Stromberg, PhD, Veterinary and Biomedical Sciences, College of Veterinary Medicine, University of Minnesota
 * Multimedia|
 Trichinellosis is a parasitic disease that can be transmitted to people. It is caused by a type of worm known as a nematode. The name of the disease comes from the scientific name for the worm, _Trichinella spiralis_. Humans become infected when they eat undercooked infected meat, usually pork or bear, although other meats can also be responsible. Natural infections occur in wild meat-eating animals; most mammals are susceptible.
 Infection occurs when an animal eats meat with cysts containing the _Trichinella_ larvae. The life cycle continues inside the animal, with larvae eventually migrating throughout the body, where they form cysts in muscles. Larvae may remain viable in the cysts for years, and their development continues only if they are ingested by another suitable host. If larvae pass through the intestine and are eliminated in the feces before maturation, they may be infective to other animals.
@@ -11,8 +11,8 @@ Preventing Trichinellosis (Trichinosis)
 * 5°F (-15°C) for 20 days,
 * -9.4°F (-23°C) for 10 days, or
 * -22°F (-30°C) for 6 days.
-Freezing cannot be relied on to kill cysts in meat other than pork.  |
+Freezing cannot be relied on to kill cysts in meat other than pork.  | --- |
 Treatment is generally impractical in animals. Making sure that ingestion of viable _Trichinella_ cysts in muscle does not occur is the best way to prevent disease in both animals and humans. Raw or improperly cooked meat should not be fed to cats. In North America, the assumption is that pork may be infected. Cooking meat to an internal temperature of at least 145°F (63°C) for roasts or 160°F (71°C) for ground meats will kill the cysts. Freezing cannot be relied on to kill cysts in meat other than pork.
-**Also see professional content regarding**[ trichinellosis](https://www.msdvetmanual.com/generalized-conditions/trichinella-spp-infections-trichinellosis-trichinosis/trichinella-spp-infections-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+**Also see professional content regarding** trichinellosis.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

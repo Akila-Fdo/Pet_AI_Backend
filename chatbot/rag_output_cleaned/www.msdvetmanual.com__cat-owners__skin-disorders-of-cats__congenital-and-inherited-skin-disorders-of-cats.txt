@@ -1,6 +1,6 @@
 * Multimedia
 # Congenital and Inherited Skin Disorders of Cats
-By[Karen A. Moriello](https://www.vetmed.wisc.edu/people/moriellk/%20), DVM, DACVD, Department of Medical Sciences, School of Veterinary Medicine, University of Wisconsin-Madison
+ByKaren A. Moriello, DVM, DACVD, Department of Medical Sciences, School of Veterinary Medicine, University of Wisconsin-Madison
 * Multimedia|
 Cats can be born with or may inherit several different kinds of skin abnormalities. Some inherited skin disorders can become visible weeks to months after birth. Most of these conditions are uncommon to rare. Some occur with greater frequency in particular breeds of cats.
 ## Congenital Skin Disorders
@@ -11,7 +11,7 @@ In cats, hair growth abnormalities known as follicular dysplasia have been repor
 ## Skin Color (Pigmentary) Abnormalities
 Some skin color abnormalities may be acquired, while others are hereditary. Abnormalities in skin and coat color are sometimes related. Some of the associations are mentioned in hereditary hair loss (see above).
 **Albinism** is rare in cats. True albinism is always associated with pink or pale irises and with visual defects and increased risk of skin damage from sunlight. Albinism is different from extreme white spotting. Some animals with extreme piebaldism (spotted or blotched with black and white) or dominant white have associated nervous system abnormalities or deafness in one or both ears. About 75% of white cats with 2 blue eyes are deaf. Albino and white skin on piebald cats is subject to solar damage and sun-induced skin cancer, especially where the hair is short or thin (such as on the ears).
-A defect in the cells that produce color pigment can result in a "diluted" coat color (called color dilution). For example, color dilution in Persian cats can result in the "blue smoke" coat color. This blue smoke color is associated with **[Chédiak-Higashi syndrome](https://www.msdvetmanual.com/cat-owners/blood-disorders-of-cats/white-blood-cell-disorders-leukemia-and-lymphoma-of-cats)**, which causes defects in certain blood cells. These cats may bleed abnormally, have decreased immune function, and have a shortened life span.
+A defect in the cells that produce color pigment can result in a "diluted" coat color (called color dilution). For example, color dilution in Persian cats can result in the "blue smoke" coat color. This blue smoke color is associated with **Chédiak-Higashi syndrome**, which causes defects in certain blood cells. These cats may bleed abnormally, have decreased immune function, and have a shortened life span.
 The areas of orange coat color in male tricolor cats (calico and tortoiseshell) are a result of a genetic abnormality. These cats are unable to produce offspring.
 **Lentigo** occurs in orange and orange-faced male cats. It is marked by the development of pigmented spots. Marks are first seen on the lips and eyelids at 1 year of age. Marks later develop on the nose and lips. Lentigo spots are not precancerous and have no medical consequence.
 Lentigo, cat
@@ -26,6 +26,6 @@ This disease has been seen in Siamese, domestic shorthair, and Persian cats.
 Congenital tumors are rare in cats. Abnormal growth and spread of mast cells in the skin (benign familial cutaneous mastocytosis) has been reported in young Siamese cats. This rare, inherited condition causes skin to thicken and have a leathery, bark-like appearance. Intense itching is evident. Treatment includes medication to control itching and prevent self-inflicted skin damage.
 Abnormal growth of mast cells also causes urticaria pigmentosa in cats. Affected cats have multiple crusted bumps on the head, neck, and legs. This hereditary condition is diagnosed by skin biopsy.
 ### For More Information
-Also see professional content regarding [congenital and inherited skin disorders](https://www.msdvetmanual.com/integumentary-system/congenital-and-inherited-anomalies-of-the-integumentary-system/congenital-anomalies-of-the-skin-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Also see professional content regarding congenital and inherited skin disorders.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

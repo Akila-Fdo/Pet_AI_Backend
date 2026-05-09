@@ -1,6 +1,6 @@
 * Multimedia
 # Eye Structure and Function in Cats
-By[Kirk N. Gelatt](https://vivo.ufl.edu/display/n7704%20), VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
+ByKirk N. Gelatt, VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
 * Multimedia|
 The Eyes of animals, including cats, function much like your eyes. Animals also develop many of the same eye problems that people can have, including cataracts, glaucoma, and other disorders. It is important for your cat to receive good eye care to protect its sight and allow it to interact comfortably with its environment.
 The eye is an organ that constantly adjusts the amount of light it lets in and focuses on objects near and far. It produces continuous images that are quickly relayed to the brain (see figure below).
@@ -17,6 +17,6 @@ The first step of the examination involves checking to be sure that the shape an
 A test, called the Schirmer tear test, may be performed to ensure that the eyes are producing enough tears to keep them moist. This is a relatively simple test in which a small paper strip is inserted under the eyelid to measure the amount of moisture produced. Another common test involves placing a small drop of fluorescein stain into each eye, which allows defects—such as scratches in the cornea of the eye—to be detected.
 Pressure within the eye is measured painlessly using an instrument called a tonometer. If eye pressure is too high, optic nerve damage can occur, leading to irreversible blindness. A swab may also be done to culture for bacteria or fungi. The eyelids may be turned inside out to examine the underside. The nasolacrimal tear duct may be flushed to evaluate the external parts of the eye. Drops may be added to the eyes to allow the pupils to stay dilated so that the veterinarian may examine the internal part of the eye using an ophthalmoscope.
 ## For More Information
-Also see professional content regarding [eye structure and function](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology/physical-examination-of-the-eye-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Also see professional content regarding eye structure and function.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

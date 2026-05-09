@@ -1,6 +1,6 @@
 * Multimedia
 # Other Joint Disorders in Dogs
-By[Joseph Harari](https://www.linkedin.com/in/joseph-harari-4b53a333/%20), MS, DVM, DACVS, Veterinary Surgical Specialists, Spokane, WA
+ByJoseph Harari, MS, DVM, DACVS, Veterinary Surgical Specialists, Spokane, WA
 * Multimedia|
 Some joint diseases, such as arthritis, affect the joint membranes themselves. Other types of joint conditions affect the tendons, cartilage, bursae, and fluid within the joint. Joint disorders may be congenital (present at birth) or may be the result of injury to the joint, degeneration (deterioration with loss of function), abnormal development, immune-related conditions, cancers, or infections.
 Leg joints, dog
@@ -20,7 +20,7 @@ Elbow dysplasia is an abnormal development of the elbow joint in young, large, r
 Lameness can develop slowly between 4 and 8 months of age; however, some cases may not be diagnosed until the dogs are more than 1 year old. The joint may appear stiff or unable to move freely. Advanced cases develop osteoarthritis, fluid buildup within the joint, and a grating or crackling sound. Physical examination and the presence of the characteristic signs suggest the diagnosis, and x-rays can confirm it. Both elbows should be examined because the condition can develop in both at the same time.
 Surgery should be performed before the degenerative changes of osteoarthritis occur. The outlook for recovery after surgery is good if degenerative joint disease has not developed in the joint. Nonsteroidal anti-inflammatory drugs (as prescribed by your veterinarian) can reduce pain and inflammation. Joint fluid modifiers may also be helpful.
 ## Septic Arthritis
-Infectious, or septic, arthritis is usually caused by bacteria that spread through the blood or enter the body as a result of trauma (with penetrating wounds) or surgery. Other causes of septic arthritis include rickettsia (Rocky Mountain spotted fever, ehrlichiosis) and spirochetes (Lyme disease).  See also heading on page [Introduction to Infections](https://www.msdvetmanual.com/special-pet-topics/infections/introduction-to-infections)
+Infectious, or septic, arthritis is usually caused by bacteria that spread through the blood or enter the body as a result of trauma (with penetrating wounds) or surgery. Other causes of septic arthritis include rickettsia (Rocky Mountain spotted fever, ehrlichiosis) and spirochetes (Lyme disease).  See also heading on page Introduction to Infections
 Signs of septic arthritis include lameness, swelling, pain of affected joint(s), fever, listlessness, loss of appetite, and stiffness. Laboratory tests on fluid removed from the joint may be useful in confirming the diagnosis.
 Treatment consists of antibiotics administered orally or intravenously, flushing of the joint cavity, and surgical removal of dead, damaged or infected tissue in severe cases.
 ## Immune-mediated Arthritis
@@ -49,6 +49,6 @@ The goal of treatment is to allow the fracture to heal in proper alignment while
 ### Palmar Carpal Ligament Breakdown
 Injuries sustained when falling or jumping can cause hyperextension, in which the limb extends beyond its normal range of motion. This produces excessive force on the wrist (carpus), which can cause tearing of the palmar carpal ligaments and fibrocartilage, leading to collapse of the joints. Signs include lameness, swelling of the carpal joint, and a characteristic stance in which the heel is touching the ground. For mild cases a splint or cast may be sufficient, but surgery is usually required. Surgery involves fusing the affected joints using a bone plate and screws, pins and wires, or an external system. The outlook for recovery is good.
 ## For More Information
-Also see professional content regarding [other joint disorders](https://www.msdvetmanual.com/musculoskeletal-system/arthropathies-and-related-disorders-in-small-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding other joint disorders.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

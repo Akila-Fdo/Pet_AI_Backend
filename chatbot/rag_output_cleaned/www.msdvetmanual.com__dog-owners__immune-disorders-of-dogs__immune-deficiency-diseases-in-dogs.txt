@@ -1,6 +1,6 @@
 * Multimedia
 # Immune-deficiency Diseases in Dogs
-By[Ian Rodney Tizard](https://www.msdvetmanual.com/authors/tizard-ian), BVMS, BSc, PhD, DSc (Hons), DACVM, Department of Veterinary Pathobiology, College of Veterinary and Biomedical Sciences, Texas A&M University
+ByIan Rodney Tizard, BVMS, BSc, PhD, DSc (Hons), DACVM, Department of Veterinary Pathobiology, College of Veterinary and Biomedical Sciences, Texas A&M University
 * Multimedia|
 Immune-deficiency diseases have serious consequences and often lower the body’s defenses against infection. Some are inherited, and others are caused by viral infections or cancer.
 ## Deficiencies in Phagocytosis
@@ -25,6 +25,6 @@ Localized and whole-body fungal infections affect certain types of dogs. Long-no
 ## Immunodeficiencies Caused by Viruses
 These types of diseases can be caused by a number of viruses in animals. In dogs, distemper virus kills lymphocytes, a type of white blood cell. The infection is associated with a progressive decline in levels of antibodies and an increased susceptibility to bacterial infections that are normally controlled by the immune system. Parvovirus infection in dogs causes a huge decrease in the number of white blood cells and a weakened immune response to bacterial and fungal infections.
 ## For More Information
-Also see professional content regarding [immunodeficiency diseases](https://www.msdvetmanual.com/immune-system/immunologic-diseases/immunodeficiency-diseases-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding immunodeficiency diseases.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

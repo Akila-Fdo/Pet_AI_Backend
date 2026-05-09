@@ -1,6 +1,6 @@
 * Multimedia
 # Structure of the Skin in Dogs
-By[Karen A. Moriello](https://www.vetmed.wisc.edu/people/moriellk/%20), DVM, DACVD, Department of Medical Sciences, School of Veterinary Medicine, University of Wisconsin-Madison
+ByKaren A. Moriello, DVM, DACVD, Department of Medical Sciences, School of Veterinary Medicine, University of Wisconsin-Madison
 * Multimedia|
 The skin is the largest organ of your dog’s body. It provides a protective barrier against the environment, regulates temperature, and gives your dog its sense of touch. Depending on the species and age, the skin may be 12 to 24% of a dog’s body weight. The skin has 3 major layers: the epidermis or outermost layer, the dermis or middle layer, and subcutis or innermost layer. Other important parts of the skin include skin appendages (such as hair and claws) and subcutaneous muscles and fat.
 Anatomy of a dog's skin
@@ -22,5 +22,5 @@ Dogs have sweat glands on the feet that may have a minor role in cooling of the 
 ## Subcutis
 The subcutis is the innermost layer of the skin. It contains the subcutaneous fat and muscles. (The word subcutaneous means “beneath the skin.”) The twitch muscle is the major muscle immediately beneath the skin. The subcutaneous fat provides many functions, including insulation; a reservoir for fluids, electrolytes, and energy; and a shock absorber.
 ## For More Information
-Also see professional content regarding [skin structure](https://www.msdvetmanual.com/integumentary-system/integumentary-system-introduction).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding skin structure.
+Test your Knowledge nowTake a Quiz!

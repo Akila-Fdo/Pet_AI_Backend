@@ -1,13 +1,12 @@
 * Multimedia
 # Dental Disorders of Dogs
-By[Alexander M. Reiter](https://www.vet.upenn.edu/people/faculty-clinician-search/ALEXANDERREITER%20), Dipl. Tzt., DEVDC, DAVDC, Department of Clinical Sciences & Advanced Medicine, School of Veterinary Medicine, University of Pennsylvania
+ByAlexander M. Reiter, Dipl. Tzt., DEVDC, DAVDC, Department of Clinical Sciences & Advanced Medicine, School of Veterinary Medicine, University of Pennsylvania
 * Multimedia|
 Many of the dental disorders of dogs are similar to those found in people. Proper dental care, including preventive methods like tooth brushing, can help keep your dog’s teeth and gums healthy.
 Dental Terms
 Dental Terms
 Dental Terms
-| What Most People Call It  | What Your Veterinarian Might Call It  |
-| --- | --- |
+| What Most People Call It  | What Your Veterinarian Might Call It  | --- | --- |
 1. Adult tooth
 2. Baby tooth
 3. Bad breath
@@ -52,7 +51,7 @@ In periodontitis, the tissue damage is more severe and includes the gums, ligame
 Periodontitis is treated with thorough professional cleaning above and below the gum line. In some cases, surgery will be needed to gain access to the root surface for cleaning. Your veterinarian can determine the extent of bone support loss by taking x-rays of the jaws. These are usually recommended as a normal part of periodontal disease diagnosis and treatment planning. Extractions are often necessary for dogs with periodontitis. Extractions allow the tissue to heal, and dogs do surprisingly well without the teeth. Finally, veterinarians will treat any factors contributing to periodontitis, such as tooth crowding or underlying diseases.
 If your dog has been treated for periodontitis, you will need to continue oral hygiene care at home. Follow your veterinarian’s instructions, which might include daily toothbrushing, dietary changes, plaque prevention gel, and oral rinses.
 ### Prevention
-The most important thing to remember is that gum disease will not develop around clean teeth. At-home methods to keep your pet’s teeth clean, such as toothbrushing and diet, along with regular dental examinations, are the best ways to help prevent gum disease. Daily toothbrushing is best, but wiping the teeth with a gauze at least every 2–3 days can remove plaque in dogs that do not allow toothbrushing. Only the outside surface of the teeth needs to be brushed or wiped. Toothpastes made for people should not be used. Your veterinarian might recommend foods, toys, and treats to help clean plaque off of teeth. Reliable recommendations for treats and food that can help control plague are available at [the Veterinary Oral Health Council website](https://www.vohc.org/accepted_products.htm).
+The most important thing to remember is that gum disease will not develop around clean teeth. At-home methods to keep your pet’s teeth clean, such as toothbrushing and diet, along with regular dental examinations, are the best ways to help prevent gum disease. Daily toothbrushing is best, but wiping the teeth with a gauze at least every 2–3 days can remove plaque in dogs that do not allow toothbrushing. Only the outside surface of the teeth needs to be brushed or wiped. Toothpastes made for people should not be used. Your veterinarian might recommend foods, toys, and treats to help clean plaque off of teeth. Reliable recommendations for treats and food that can help control plague are available at the Veterinary Oral Health Council website.
 ## Endodontic Disease
 Endodontic disease occurs inside the teeth. Several different conditions fall into this category. The causes include injury, tooth fracture, enamel abnormality, and tooth decay. Teeth can be fractured from external trauma (eg, aggressive play or automobile accident) or from biting inappropriate objects (eg, real bones, hooves, antlers, hard nylon toys, rocks, fences, or cages). Treatment is either tooth extraction or a root canal procedure. Signs can include painful teeth that your pet resists having touched or tapped; a tooth with a reddish-brown, purple, or gray color; a visible fracture; a red or black hole on a crown; a swelling on the face; or a decrease in appetite. In advanced cases dental fistulas (draining tracts) occur. However, most dogs mask their pain, making diagnosis difficult. X-rays of the mouth are used to identify affected teeth and help determine the proper treatment.
 ## Developmental Abnormalities
@@ -76,6 +75,6 @@ Fractures of the bone will need to be stabilized by the veterinarian. Stabilizat
 ## Tooth Decay (Cavities)
 Tooth decay is uncommon in dogs. When it does occur, decay usually is seen as pits on the bite surfaces of the molar teeth. If cavities do occur, they can be filled in a way similar to that used in human dentistry.
 ## For More Information
-Also see professional content regarding [dental disorders](https://www.msdvetmanual.com/digestive-system/dentistry-in-horses).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding dental disorders.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

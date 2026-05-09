@@ -1,6 +1,6 @@
 * Multimedia
 # Pneumonia in Dogs
-By[Ned F. Kuehn](https://www.researchgate.net/scientific-contributions/80151229-Ned-F-Kuehn%20), DVM, MS, DACVIM, Michigan Veterinary Specialists
+ByNed F. Kuehn, DVM, MS, DACVIM, Michigan Veterinary Specialists
 * Multimedia|
 Pneumonia is an inflammation of the lungs and airways that causes breathing difficulties and deficiency of oxygen in the blood. There are many possible causes. The most common cause of pneumonia is a viral infection of the lower respiratory tract. Canine distemper virus, adenovirus types 1 and 2, canine influenza virus, and parainfluenza virus cause damage to the airways and make the animal susceptible to the development of pneumonia.
 Parasitic invasion of the bronchi can also result in pneumonia. Tuberculous pneumonia, although uncommon, is sometimes seen in dogs. Fungal pneumonia (see below) is also seen in dogs. Injury to the mucous membranes of the bronchial tubes and inhalation of irritants may cause pneumonia directly, as well as making the animal susceptible to bacterial infection. Aspiration pneumonia (see below) may result from persistent vomiting, abnormal movement of the esophagus, or improperly administered medications (for example, oil or barium) or food (forced feeding).
@@ -25,5 +25,5 @@ Although fungal pneumonia cases with sudden, severe onset occur rarely, the most
 A tentative diagnosis of fungal pneumonia can be made if an animal with long-term respiratory disease exhibits typical signs and does not respond to antibiotic therapy. (Antibiotics are effective against bacteria but not against fungi or other organisms.) However, a definite diagnosis requires identification of the fungus using appropriate laboratory tests. X-rays and blood tests may be useful.
 Antifungal drugs are used to treat fungal pneumonia. Extended drug therapy, which may be needed for several months after signs have disappeared, is usually necessary to effectively treat the infection.
 ## For More Information
-Also see professional content regarding [pneumonia](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/pneumonia-in-dogs-and-cats).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding pneumonia.
+Test your Knowledge nowTake a Quiz!

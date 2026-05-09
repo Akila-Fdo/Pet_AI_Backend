@@ -1,6 +1,6 @@
 * Multimedia
 # Disorders of the Nasal Cavity and Tear Ducts in Dogs
-By[Kirk N. Gelatt](https://vivo.ufl.edu/display/n7704%20), VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
+ByKirk N. Gelatt, VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
 * Multimedia|
 The lacrimal or tear gland, located at the top outer edge of the eye, produces the watery portion of tears. Nasolacrimal ducts allow tears to drain from each eye into the nose. Disorders of these structures can lead to either eyes that water excessively or dry eyes. They may be congenital (present at birth) or caused by infection, foreign objects in the eye, or trauma.
 ## Cherry Eye (Prolapsed Nictitans Gland)
@@ -14,6 +14,6 @@ Absence of the nasal tear duct openings at birth is known as imperforate lacrima
 ## Dry Eye (Keratoconjunctivitis Sicca, or KCS)
 The condition known as dry eye results from inadequate tear production. It often causes a persistent, thick eye discharge and reddened eyes. There may also be slow-healing sores and scarring on the cornea. In dogs, it is often associated with an autoimmune inflammation of both the tear and nictitans glands. Less frequent causes of dry eye in dogs are distemper (a viral disease), therapy with sulfonamide antibiotics, heredity, and injury. To treat this condition, your veterinarian may prescribe eye medications to increase tear production (such as cyclosporine), increase moisture (artificial tear solutions), and reduce mucus. If there are no sores on the cornea, an antibiotic-corticosteroid combination may be added. An additional medication may be added if the dry eye is due to a neurologic condition. In long-term dry eye resistant to medical therapy, surgery may be required to correct the condition. In general, the condition requires longterm—often lifelong—use of eye medications.
 ## For More Information
-Also see professional content regarding [nasal cavity and tear duct disorders](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology/nasolacrimal-and-lacrimal-apparatus-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding nasal cavity and tear duct disorders.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

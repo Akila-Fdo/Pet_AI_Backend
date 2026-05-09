@@ -1,5 +1,5 @@
 # Central Nervous System Disorders Caused by Parasites in Dogs
-By[Charles M. Hendrix](https://www.vetmed.auburn.edu/faculty/hendrix-charles/%20), DVM, PhD, Department of Pathobiology, College of Veterinary Medicine, Auburn University
+ByCharles M. Hendrix, DVM, PhD, Department of Pathobiology, College of Veterinary Medicine, Auburn University
 A number of parasites (including worms and insects) are associated with central nervous system disease. Diagnosis requires eliminating other possible causes of illness, such as rabies, and identifying the specific parasite responsible.
 ## Tapeworms
 **Coenurosis** (also called gid, sturdy, or staggers) is caused by _Taenia multiceps multiceps_, an intestinal tapeworm of dogs and people. Other animals, such as sheep, goats, deer, rabbits, horses, and cattle, can carry and spread this parasite to dogs. The larval stage of the parasite can invade the nervous system and lead to swelling of the brain and spinal cord. The adult worm may grow to more than 2 inches in diameter and cause increased pressure on the brain, which results in loss of muscle control, blindness, head tilting, stumbling, and paralysis. Dogs that are around sheep and other livestock should not be fed body parts of infected animals and should be dewormed regularly.
@@ -12,8 +12,8 @@ The larvae of some ascarid roundworms, including _Toxocara_ species, can invade 
 _Baylisascaris procyonis_ is a roundworm found in the small intestine of raccoons. Its larvae can infect people and domesticated animals and migrate to the central nervous system. This parasite can also cause central nervous system and eye damage in people, particularly children.
 _Dirofilaria immitis_ is the canine heartworm. In addition to the heart, other parts of the body, including the central nervous system and the eye, can be infected.
 ## Disease Caused by Insects
-**Myiasis** is the development of larval dipteran flies (bots and warbles) within the body’s tissues or organs. The larvae of _Cuterebra_, which are deposited under the skin in dogs or cats, have been known to wander into the central nervous system and affect the cerebrum or cerebellum. Organophosphate drugs can eliminate certain dipteran larvae from the nervous system, but they can also cause nervous system damage. Corticosteroid drugs are often recommended to prevent additional inflammatory damage and pressure on the brain during treatment ( See also heading on page [Flies and Mosquitoes of Dogs](https://www.msdvetmanual.com/dog-owners/skin-disorders-of-dogs/flies-and-mosquitoes-of-dogs)).
+**Myiasis** is the development of larval dipteran flies (bots and warbles) within the body’s tissues or organs. The larvae of _Cuterebra_, which are deposited under the skin in dogs or cats, have been known to wander into the central nervous system and affect the cerebrum or cerebellum. Organophosphate drugs can eliminate certain dipteran larvae from the nervous system, but they can also cause nervous system damage. Corticosteroid drugs are often recommended to prevent additional inflammatory damage and pressure on the brain during treatment ( See also heading on page Flies and Mosquitoes of Dogs).
 ## For More Information
-Also see professional content regarding [CNS disorders caused by parasites](https://www.msdvetmanual.com/nervous-system/central-nervous-system-diseases-caused-by-helminths-and-arthropods).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding CNS disorders caused by parasites.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

@@ -1,5 +1,5 @@
 # Fever of Unknown Origin in Dogs
-By[Andrew J. Allen](https://www.msdvetmanual.com/authors/allen-andrew), DVM, PhD, DACVIM-LAIM, Department of Veterinary Clinical Sciences, College of Veterinary Medicine, Washington State University
+ByAndrew J. Allen, DVM, PhD, DACVIM-LAIM, Department of Veterinary Clinical Sciences, College of Veterinary Medicine, Washington State University
 In both animals and people, fever may indicate infection, inflammation, an immune-mediated disease, or cancer. Determining the cause of a fever requires a history, physical examination, and sometimes laboratory or other diagnostic tests. Often, a fever resolves on its own or in response to antibiotic therapy. However, in a small percentage of animals, the fever continues or keeps coming back and the cause cannot be determined. This is called fever of unknown origin. In dogs, the most common causes of fever of unknown origin are infections, immune-mediated diseases, and cancer.
 ## Body Temperature Regulation
 Body temperature is regulated by an area of the brain called the **hypothalamus**. The hypothalamus acts as a thermostat to maintain temperature as close to normal as possible, and it sets off activities in the body that influence heat production, heat loss, and heat gain. In true fever, the thermostat is reset to a higher temperature.
@@ -12,6 +12,6 @@ For further diagnostic efforts, some initial tests may need to be repeated (part
 In some fever of unknown origin cases a specific diagnosis cannot be found, or diagnostic testing is discontinued, and different treatments are tried without a diagnosis. Options include antibiotics, antifungal agents, and anti-inflammatory or immunosuppressive therapy. Although trial therapy can resolve the clinical signs or may confirm a tentative diagnosis, it can also carry significant risk, and careful monitoring is needed.
 In true fever, the high body temperature is being regulated by the body, so cooling methods such as water baths work against the body’s own regulatory mechanisms. It is also likely that fever itself has some beneficial effects, particularly in infectious diseases. However, fever can lead to loss of appetite, loss of energy, and dehydration. Because of this, animals with fever of unknown origin may benefit from intravenous fluid therapy or from the use of fever-reducing medications.
 ## For More Information
-Also see professional content regarding [fever of unknown origin](https://www.msdvetmanual.com/metabolic-disorders/fever-of-unknown-origin/fever-of-unknown-origin-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding fever of unknown origin.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

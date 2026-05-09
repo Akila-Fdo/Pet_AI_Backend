@@ -192,14 +192,35 @@ def extract_semantic_content(text: str) -> str:
     return "\n".join(semantic_lines)
 
 
+def remove_urls(text: str) -> str:
+    """Remove URLs while preserving link text."""
+    # Pattern 1: Remove markdown links [text](url) - keep the text
+    text = re.sub(r'\[([^\]]+)\]\(https?://[^\)]+\)', r'\1', text)
+    
+    # Pattern 2: Remove markdown links with other protocols [text](url)
+    text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
+    
+    # Pattern 3: Remove bare URLs (http, https, ftp, etc.)
+    text = re.sub(r'https?://[^\s)]+', '', text)
+    text = re.sub(r'ftps?://[^\s)]+', '', text)
+    text = re.sub(r'www\.[^\s)]+', '', text)
+    
+    # Pattern 4: Clean up leftover brackets and pipes
+    text = re.sub(r'\[\s*\]', '', text)  # Empty brackets
+    text = re.sub(r'\|\s*\|', '|', text)  # Double pipes
+    
+    return text
+
+
 def clean_text_content(text: str) -> str:
     """
     Main cleaning pipeline:
     1. Remove author/reviewer metadata
     2. Remove junk lines
     3. Remove table of contents
-    4. Extract semantic content
-    5. Normalize whitespace
+    4. Remove URLs
+    5. Extract semantic content
+    6. Normalize whitespace
     """
     # Step 1: Remove author metadata
     text = remove_author_metadata(text)
@@ -210,10 +231,13 @@ def clean_text_content(text: str) -> str:
     # Step 3: Remove TOC and navigation links
     text = remove_table_of_contents(text)
     
-    # Step 4: Extract semantic content
+    # Step 4: Remove URLs entirely
+    text = remove_urls(text)
+    
+    # Step 5: Extract semantic content
     text = extract_semantic_content(text)
     
-    # Step 5: Normalize whitespace
+    # Step 6: Normalize whitespace
     text = normalize_whitespace(text)
     
     return text

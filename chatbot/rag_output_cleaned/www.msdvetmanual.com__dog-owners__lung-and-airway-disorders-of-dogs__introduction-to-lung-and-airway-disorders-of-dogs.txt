@@ -1,6 +1,6 @@
 * Multimedia
 # Introduction to Lung and Airway Disorders of Dogs
-By[Ned F. Kuehn](https://www.researchgate.net/scientific-contributions/80151229-Ned-F-Kuehn%20), DVM, MS, DACVIM, Michigan Veterinary Specialists
+ByNed F. Kuehn, DVM, MS, DACVIM, Michigan Veterinary Specialists
 * Multimedia|
 The respiratory system consists of the large and small airways and the lungs. When a dog breathes air in through its nose or mouth, the air travels down the trachea, which divides into the tubes known as the right and left bronchi, then into the smaller airways called bronchioles in the lungs. The bronchioles end in the small sacs called alveoli, where the barrier between the air and the blood is a thin membrane.
 Nose and throat, dog
@@ -11,23 +11,7 @@ When the level of oxygen in the blood is too low (called hypoxia or anoxia), the
 Terms Used to Describe the Respiratory System
 Terms Used to Describe the Respiratory System
 Terms Used to Describe the Respiratory System
-| Medical Term  | Description or Common Term  |
-| --- | --- |
-| Alveoli  | The sacs in the lungs where oxygen is transferred into the blood and carbon dioxide is transferred out of the blood  |
-| Bronchi  | The largest branches from the trachea into the lungs  |
-| Bronchioli  | The fine branches coming off of the bronchi  |
-| Epiglottis  | Serves as a “trap door” on top of the larynx; keeps food out of the larynx and trachea while the animal is swallowing  |
-| Larynx  | Voice box; located at the top of the windpipe (trachea)  |
-| Nasal  | Pertaining to the nose  |
-| Nasopharynx  | The upper part of the pharynx, at the far back of the nasal passages  |
-| Oral  | Pertaining to the mouth  |
-| Oropharynx  | The middle part of the pharynx, at the far back of the mouth  |
-| Paranasal sinuses  | Often just called “sinuses”; the tissue-lined cavities in the skull just behind and above the eyes and along the sides of the nose  |
-| Pharynx  | The passage between the back of the nose and the throat; it is separated (top to bottom) into the nasopharynx, oropharynx, and hypopharynx (throat)  |
-| Pleura  | The sac that encloses the lung  |
-| Pulmonary  | Pertaining to the lung  |
-| Rhino-  | Pertaining to the nose  |
-| Trachea  | Windpipe  |
+| Medical Term  | Description or Common Term  | --- | --- | Alveoli  | The sacs in the lungs where oxygen is transferred into the blood and carbon dioxide is transferred out of the blood  | Bronchi  | The largest branches from the trachea into the lungs  | Bronchioli  | The fine branches coming off of the bronchi  | Epiglottis  | Serves as a “trap door” on top of the larynx; keeps food out of the larynx and trachea while the animal is swallowing  | Larynx  | Voice box; located at the top of the windpipe (trachea)  | Nasal  | Pertaining to the nose  | Nasopharynx  | The upper part of the pharynx, at the far back of the nasal passages  | Oral  | Pertaining to the mouth  | Oropharynx  | The middle part of the pharynx, at the far back of the mouth  | Paranasal sinuses  | Often just called “sinuses”; the tissue-lined cavities in the skull just behind and above the eyes and along the sides of the nose  | Pharynx  | The passage between the back of the nose and the throat; it is separated (top to bottom) into the nasopharynx, oropharynx, and hypopharynx (throat)  | Pleura  | The sac that encloses the lung  | Pulmonary  | Pertaining to the lung  | Rhino-  | Pertaining to the nose  | Trachea  | Windpipe  |
 Respiratory diseases are common in dogs. Although signs such as coughing and labored breathing are most commonly caused by problems of the respiratory tract, they may also occur because of disorders of other organ systems, such as congestive heart failure.
 Both very young and older animals are at increased risk of developing respiratory disease compared to healthy adult animals. At birth, the respiratory and immune systems are not fully developed; this makes it easier for disease organisms to enter and spread within the lungs. In aged animals, a decrease in the animal’s ability to filter out particles and fight off infection may render the lungs more vulnerable to airborne disease organisms and toxic particles.
 ## Causes of Lung and Airway Disorders
@@ -55,6 +39,6 @@ Animals with respiratory disorders should normally receive plenty of water unles
 When an animal has coughing that is not helping to remove mucus (a nonproductive cough), medicines are sometimes used to suppress the coughing. Increased airway resistance caused by contraction of the bronchial airway muscles is sometimes treated with bronchodilators, which expand the airways and may be prescribed for animals with asthma-like conditions and chronic respiratory disease. Antihistamines can be used to alleviate constriction triggered by allergies. Constriction of the bronchial tubes in the lungs can also be reduced significantly by removing irritating factors, using mild sedatives, or reducing periods of excitement. If a bacterial infection is present, antibiotics are often given. Diuretics (medicines that help the body get rid of excess fluid) are sometimes used when an animal has fluid buildup in the lungs.
 When a respiratory illness results in a lack of oxygen in the blood, this can usually be corrected by the administration of oxygen. However, this must be done carefully, because too much oxygen can lead to other problems.
 ## For More Information
-Also see professional content regarding [respiratory diseases of dogs](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/overview-of-respiratory-diseases-of-dogs-and-cats).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding respiratory diseases of dogs.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

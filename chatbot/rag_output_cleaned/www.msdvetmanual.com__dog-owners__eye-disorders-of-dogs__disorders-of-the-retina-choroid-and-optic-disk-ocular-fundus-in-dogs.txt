@@ -1,5 +1,5 @@
 # Disorders of the Retina, Choroid, and Optic Disk (Ocular Fundus) in Dogs
-By[Kirk N. Gelatt](https://vivo.ufl.edu/display/n7704%20), VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
+ByKirk N. Gelatt, VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
 The **ocular fundus** is the back of the eye opposite the pupil and includes the retina, the membrane (the choroid) between the retina and the white of the eye, and the optic disk. Diseases of the ocular fundus may occur on their own or as a part of generalized diseases. Inherited abnormalities, trauma, metabolic disturbances, generalized infections, tumors, blood disorders, high blood pressure, and nutritional deficiencies are possible underlying causes for diseases of the retina in all species.
 ## Inherited Diseases of the Retina
 Inherited abnormalities may be present at birth or appear later, and are important in the development of diseases of the retina in dogs.
@@ -20,6 +20,6 @@ When the retina becomes detached, it is separated from the back of the eye and f
 Signs that the retina has become detached include excessive or prolonged dilation of the pupil, pupils of different sizes, vision impairment, and bleeding within the eye. Eye examinations must be performed to confirm the diagnosis.
 Detachments of the retina are treated medically with therapy directed at the primary disease or surgically to correct the detachment. Retinal degeneration may be present in the reattached areas. Your veterinarian will select the treatment approach most appropriate for your pet’s condition.
 ## For More Information
-Also see professional content regarding [the ocular fundus](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology/the-ocular-fundus-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding the ocular fundus.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

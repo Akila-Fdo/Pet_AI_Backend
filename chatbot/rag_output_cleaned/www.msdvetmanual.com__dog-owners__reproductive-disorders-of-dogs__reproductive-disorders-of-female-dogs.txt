@@ -1,5 +1,5 @@
 # Reproductive Disorders of Female Dogs
-By[Mushtaq A. Memon](https://www.vetmed.ufl.edu/profile/memon-mushtaq/%20), BVSc, PhD, DACT, Department of Veterinary Clinical Sciences, Washington State University
+ByMushtaq A. Memon, BVSc, PhD, DACT, Department of Veterinary Clinical Sciences, Washington State University
 There are many reproductive diseases that can affect female dogs. The most common diseases are discussed in this section.
 ## Abnormal or Difficult Birth (Dystocia)
 Many factors can cause a difficult birth (dystocia), including uterine problems, a too-small birth canal, an oversized fetus, or abnormal position of the fetus during birth. Some breeds, such as Boxers, are more likely to have difficult births than others. Dystocia should be considered in any of the following situations: 1) dogs that have a history of dystocia; 2) birth that does not occur within 24 hours of a drop in rectal temperature to less than 100°F (a sign of impending birth); 3) continuous strong contraction for more than 1–2 hours with no birth; 4) active labor for more than 1 to 2 hours without a birth; 5) a resting period during labor that lasts more than 4 to 6 hours; 6) obvious pain or illness in the mother (for example, crying, licking, or biting of the vulva); and 7) abnormal discharge from the vulvar area. Once the cause is identified, the appropriate treatment can be determined. X-rays or ultrasonography can show how many fetuses are present. Medication may help the labor progress if the mother and fetuses are still in stable condition and there is no obstruction. Surgery (cesarean section) is performed if the mother or the fetuses are not stable, there is an obstruction, active labor is prolonged, or medications do not work.
@@ -25,6 +25,6 @@ In vaginal overgrowth, the vaginal tissue becomes swollen during estrus (heat). 
 ## Vaginitis
 Vaginitis, or inflammation of the vagina, may occur before puberty or in mature dogs. It is especially common in puppies. Vaginitis is primarily due to bacterial infection. Viral infections, vaginal foreign bodies, or cancer may also cause vaginitis. The most common sign is discharge from the vulva. Animals may also lick the vulva. Affected dogs may urinate frequently and attract males, but they otherwise appear healthy. The disease is diagnosed through physical examination, endoscopy, x-rays, ultrasonography, and laboratory tests. Vaginitis in puppies usually resolves on its own when the pup has reached physical maturity. In the case of a persistent infection, antibiotics are administered.
 ## For More Information
-Also see professional content regarding [reproductive diseases of female dogs](https://www.msdvetmanual.com/reproductive-system/reproductive-diseases-of-the-female-small-animal).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding reproductive diseases of female dogs.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

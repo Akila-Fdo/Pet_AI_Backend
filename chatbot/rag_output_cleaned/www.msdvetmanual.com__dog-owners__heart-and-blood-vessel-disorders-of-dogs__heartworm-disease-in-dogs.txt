@@ -1,6 +1,6 @@
 * Multimedia
 # Heartworm Disease in Dogs
-By[Clarke E. Atkins](https://cvm.ncsu.edu/directory/atkins-clarke/%20), DVM, DACVIM, College of Veterinary Medicine, North Carolina State University
+ByClarke E. Atkins, DVM, DACVIM, College of Veterinary Medicine, North Carolina State University
 * Multimedia|
 Heartworm disease is a potentially fatal, but preventable, infection caused by a worm parasite, _Dirofilaria immitis_. The organism is transmitted by mosquitoes, which carry the heartworm larvae (called microfilariae) from an infected animal host to a new animal host. Once the larvae arrive in a new host, they grow into adult worms in several months and live in the blood vessels that serve the heart and lungs. In advanced infections, the heartworms enter the heart as well. The presence of parasites stresses the dog’s heart and causes inflammation of the blood vessels and lungs. In addition, severe complications are possible when the number of worms present becomes high or when the heartworms die. Susceptible animals can be reinfected numerous times, so different stages of heartworm infections may be present in the same animal.
 Life cycle of a heartworm
@@ -23,6 +23,6 @@ Heartworm infection is preventable. Several medications that are both safe and e
 The most important thing that pet owners can do to protect their companions from heartworm infection is to be absolutely sure their pet receives the prescribed dose of medication at the correct time. Because the most common preventive drugs for dogs are given only once a month, many pet owners may forget to administer the medication. Pet owners may find it helpful to post the heartworm medication dates on their refrigerator door and then check off the administration dates as the prescription is provided. Free e-mail reminder services are also available from most manufacturers of heartworm preventive drugs.
 Missing an administration date may have serious consequences. If you miss a dose, you should contact your veterinarian regarding administration of the medication.
 ## For More Information
-Also see professional content regarding [heartworm in dogs](https://www.msdvetmanual.com/circulatory-system/heartworm-disease)
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding heartworm in dogs
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

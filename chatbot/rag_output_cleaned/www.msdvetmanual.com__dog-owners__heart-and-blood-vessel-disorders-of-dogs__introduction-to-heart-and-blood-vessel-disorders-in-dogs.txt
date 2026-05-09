@@ -1,7 +1,7 @@
 * Multimedia
 # Introduction to Heart and Blood Vessel Disorders in Dogs
-By[Suzanne M. Cunningham](http://vetprofiles.tufts.edu/doctor/suzanne-cunningham%20), DVM, DACVIM-Cardiology, Department of Clinical Sciences, Cummings School of Veterinary Medicine, Tufts University;
-[Kursten V. Roderick](https://www.msdvetmanual.com/authors/roderick-kursten), DVM, Tufts University
+BySuzanne M. Cunningham, DVM, DACVIM-Cardiology, Department of Clinical Sciences, Cummings School of Veterinary Medicine, Tufts University;
+Kursten V. Roderick, DVM, Tufts University
 * Multimedia|
 The cardiovascular system includes the heart and the blood vessels (the veins and the arteries). The function of the heart is to pump blood. The right side of the heart pumps blood to the lungs, where oxygen is added to the blood and carbon dioxide is removed from it. The left side pumps blood to the rest of the body, where oxygen and nutrients are delivered to tissues, and waste products (including carbon dioxide) are transferred to the blood for removal by other organs (such as the lungs and kidneys). The heart is a hollow, muscular organ which, in mammals and birds, is divided into 4 chambers. The muscular tissue is called the myocardium. There are upper chambers on both the left and right sides of the heart called the left and the right atria (the plural form of atrium). There are also 2 lower chambers called the left and right ventricles.
 Cardiovascular system of a dog
@@ -21,6 +21,6 @@ Heart rate also decreases as blood pressure rises, and vice versa. In heart fail
 Arrhythmias are abnormalities of the rate, regularity, or site of heartbeat formation. An arrhythmia does not necessarily indicate heart disease. Many arrhythmias are functionally insignificant and require no specific treatment. Some arrhythmias, however, may cause severe signs (such as loss of consciousness due to lack of blood flow to the brain) or lead to sudden death. Many disorders are associated with abnormal heart rhythms. Examples of arrhythmias are a rate that is too slow (bradycardia), a rate that is too fast (tachycardia), premature beats (a beat is heard too early), an irregular rhythm, and pauses within the rhythm. When an abnormal rhythm is heard with a stethoscope, your veterinarian may recommend an electrocardiogram (ECG) to help discover the cause.
 A pulse is the rhythmic expansion of an artery that can be felt with the fingertips during physical examination. In dogs, pulses are typically felt at the femoral artery (in the thigh). A jugular pulse in the neck can be noted in normal animals. A pulse may be absent, increased (strong), decreased (weak), or variable (alternating between weak and strong)—each of which may indicate a specific type of heart disease or defect.
 ## For More Information
-Also see professional content regarding [heart and blood vessel disorders](https://www.msdvetmanual.com/circulatory-system/cardiovascular-system-introduction/the-cardiovascular-system-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding heart and blood vessel disorders.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

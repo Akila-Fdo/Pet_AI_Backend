@@ -1,6 +1,6 @@
 * Multimedia
 # Disorders of the Conjunctiva in Dogs
-By[Kirk N. Gelatt](https://vivo.ufl.edu/display/n7704%20), VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
+ByKirk N. Gelatt, VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
 * Multimedia|
 The conjunctiva is a thin membrane that lines the inside of the eyelids and extends over the white of the eye in the front portion of the eyeball. It plays a role in creating tears, providing protection for the eye from foreign invaders, eye movement, and healing of the cornea after injury. It is important to identify and treat problems of the conjunctiva, because some can indicate generalized disease or lead to blindness if not treated.
 ## Ruptured Blood Vessels (Subconjunctival Hemorrhage)
@@ -9,9 +9,9 @@ Ruptured blood vessels beneath the conjunctiva may be the result of trauma, a bl
 Swelling of the conjunctival tissue around the cornea occurs to some degree with all cases of conjunctivitis, but the most dramatic examples are seen with trauma, a deficiency of proteins in the blood (hypoproteinemia), allergic reactions, and insect bites. Insect bites are treated with topical corticosteroids and usually heal rapidly. In other cases, specific therapy to treat the original cause is required.
 ## Conjunctivitis (Pink Eye)
 Conjunctivitis, also known as pink eye, is inflammation of the conjunctiva and is common in dogs. The causes vary from infections to environmental irritants. The signs are redness of the eye, swelling of the tissue around the cornea, discharge from the eye, and mild eye discomfort. The appearance of the conjunctiva usually is not enough, by itself, to allow your veterinarian to diagnose the cause with only a physical examination. A specific diagnosis often requires a medical history, physical exam, tests on conjunctival scrapings, Schirmer tear test, and occasionally biopsy.
-Conjunctivitis in only one eye may result from a foreign object, inflammation of the tear sac, or [dry eye](https://www.msdvetmanual.com/dog-owners/eye-disorders-of-dogs/disorders-of-the-nasal-cavity-and-tear-ducts-in-dogs#v3204025). Conjunctivitis occurring in both eyes is commonly caused by infection with a virus or bacteria. Environmental irritants and allergens are other common causes of conjunctivitis. If a mucus and pus-filled discharge is present, your veterinarian may prescribe a topical antibiotic. However, the antibiotic alone may not bring about healing if other factors are involved. Your veterinarian will also check for foreign objects in the eye, environmental irritants, parasites, and defects of eyelid shape, outline, or form, as these factors also contribute to pink eye. Because conjunctivitis can have multiple causes, your veterinarian may prescribe a combination of treatments.
+Conjunctivitis in only one eye may result from a foreign object, inflammation of the tear sac, or dry eye. Conjunctivitis occurring in both eyes is commonly caused by infection with a virus or bacteria. Environmental irritants and allergens are other common causes of conjunctivitis. If a mucus and pus-filled discharge is present, your veterinarian may prescribe a topical antibiotic. However, the antibiotic alone may not bring about healing if other factors are involved. Your veterinarian will also check for foreign objects in the eye, environmental irritants, parasites, and defects of eyelid shape, outline, or form, as these factors also contribute to pink eye. Because conjunctivitis can have multiple causes, your veterinarian may prescribe a combination of treatments.
 Eye drop administration, dog
 ## For More Information
-Also see professional content regarding [the conjunctiva](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology/the-conjunctiva-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding the conjunctiva.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

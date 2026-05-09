@@ -1,5 +1,5 @@
 # Disorders Associated with Calcium, Phosphorus, and Vitamin D in Cats
-By[Walter Grünberg](https://www.linkedin.com/in/walter-gruenberg-805a7812/%20), PhD, DECAR, DECBHM, Assoc DACVIM, Faculty of Veterinary Medicine, Justus-Liebig-Universität Giessen, Giessen, Germany
+ByWalter Grünberg, PhD, DECAR, DECBHM, Assoc DACVIM, Faculty of Veterinary Medicine, Justus-Liebig-Universität Giessen, Giessen, Germany
 Defective bone formation is called osteodystrophy. It is caused in most cases by deficiencies or imbalances of calcium, phosphorus, and vitamin D, and the hormone that regulates them (parathyroid hormone), all of which are important in creating and maintaining strong, healthy bones.
 The primary source of calcium and phosphorus is the diet, but a number of factors affect how the body absorbs these minerals. These include the type of food, pH within the intestines, as well as the levels of vitamin D in the body. Vitamin D is obtained either through the diet or by exposure to sunlight. Because of the role it plays in the body, if the vitamin or its activity is decreased, calcium and phosphorus absorption are reduced. Abnormalities of the bones can result, as well as other nutritional and metabolic complications.
 ## Rickets
@@ -23,6 +23,6 @@ The most obvious signs include those related to kidney malfunction (vomiting, de
 This type of hyperparathyroidism is diagnosed when laboratory test results show abnormalities consistent with kidney malfunction. Tests will also reveal increased levels of parathyroid hormone in the blood.
 Treatment options include modifying the diet, supplementing it with active vitamin D (calcitriol), and giving medication that binds phosphate. Any underlying kidney disease must be managed as well. Prescription diets with restricted dietary phosphorus are available. Your veterinarian can give you specific recommendations for proper treatment options for your cat. Be sure to follow those recommendations and any prescriptions precisely as directed.
 ## For More Information
-Also see professional content regarding [disorders associated with calcium, phosphorus, and Vitamin D](https://www.msdvetmanual.com/musculoskeletal-system/dystrophies-associated-with-calcium-phosphorus-and-vitamin-d/overview-of-dystrophies-associated-with-calcium-phosphorus-and-vitamin-d-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Also see professional content regarding disorders associated with calcium, phosphorus, and Vitamin D.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

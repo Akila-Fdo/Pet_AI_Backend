@@ -1,5 +1,5 @@
 # Disorders of the Rectum and Anus in Cats
-By[Stanley I. Rubin](https://www.msdvetmanual.com/authors/rubin-stanley), DVM, MS, DACVIM, Department of Veterinary Clinical Medicine, College of Veterinary Medicine, University of Illinois at Urbana-Champaign
+ByStanley I. Rubin, DVM, MS, DACVIM, Department of Veterinary Clinical Medicine, College of Veterinary Medicine, University of Illinois at Urbana-Champaign
 Rectal diseases in cats can result from injuries, tumors, or infections.
 ## Anal Sac Disease
 The anal sacs are glands located on each side of the anus. They are analogous to the scent glands in skunks and produce small amounts of dark, foul-smelling liquid which is normally squeezed out during defecation. Anal sacs may become clogged (impacted), infected, abscessed, or cancerous. Anal sac disease is much less common in cats than in dogs. In cats, the most common form of anal sac disease is impaction.
@@ -20,5 +20,5 @@ Identifying and eliminating the cause of prolapse is a key part of treatment. Sm
 A tear in the rectum or anus can be caused by a sharp object (such as a bone, needle, or other rough material) making its way through the digestive tract or from injury (such as a bite). The tear may involve only the surface layers of the rectum (partial tear) or penetrate all layers (complete tear). Signs may include constipation, straining, rectal bleeding, and reluctance to defecate. A diagnosis is based on these signs and inspection of the rectum and anus. Swelling may be present when the injury has been present for some time.
 Treatment to avoid infection and close the wound should be started immediately. The tear will be cleaned and stitched closed. Depending on the location, abdominal surgery may be required. Antibiotics and stool softeners will probably be prescribed after surgery.
 ## For More Information
-Also see professional content regarding [disorders of the rectum and anus](https://www.msdvetmanual.com/digestive-system/diseases-of-the-rectum-and-anus).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Also see professional content regarding disorders of the rectum and anus.
+Test your Knowledge nowTake a Quiz!

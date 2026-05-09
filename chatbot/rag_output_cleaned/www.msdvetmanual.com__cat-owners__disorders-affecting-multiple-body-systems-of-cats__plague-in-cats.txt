@@ -1,6 +1,6 @@
 * Multimedia
 # Plague in Cats
-By[Paul Ettestad](https://www.msdvetmanual.com/authors/ettestad-paul), DVM, MS, Epidemiology and Response Division, New Mexico Department of Health
+ByPaul Ettestad, DVM, MS, Epidemiology and Response Division, New Mexico Department of Health
 * Multimedia|
 Plague is a sudden and sometimes fatal bacterial disease caused by _Yersinia pestis_. It is transmitted primarily by the fleas of rats and other rodents. This is the disease, often called the Black Death, that swept through Asia and then Europe in the 14th century. Over 25 million people (one third of the population) died of this disease in Europe between 1347 and 1352. Devastating outbreaks of this disease recurred with regularity throughout the next 200 years.
 Today, this disease can be controlled with antibiotics and other medications; however, it has not been eradicated. Small numbers of cases occur in wild animals in the western United States and throughout the world, including Eurasia, Africa, and North and South America. On average, 10 human plague cases are reported each year in the United States; the majority are from New Mexico, California, Colorado, and Arizona.
@@ -20,7 +20,7 @@ Prevention of Plague in Cats
 Along with treatment and diagnostic considerations, protection of people and other animals and initiation of public health interventions are critical when an animal is suspected to have plague. Even before a diagnosis is complete, animals with signs that suggest plague should be placed in isolation at a veterinary hospital, and infection control measures should be implemented for the protection of you and your family, other household pets, and any other animals or individuals that have had contact with the infected animal. Examples of infection control measures include disinfection, protective clothing (such as gloves and face masks), and possibly preventive antibiotics for in-contact animals or people. Your veterinarian will contact local public health officials so they can help minimize spread of the disease.
 To decrease the risk of pets and humans being exposed to plague, pet owners in areas where the disease may be found should keep their pets from roaming and hunting, limit their contact with rodent or rabbit carcasses, and use appropriate flea control. Your veterinarian can suggest the most appropriate flea control product for your cat.
 ## For More Information
-See the [CDC map](https://www.cdc.gov/plague/maps/index.html) of where plague has been reported in the United States.
-Also see professional content regarding [plague](https://www.msdvetmanual.com/infectious-diseases/plague/plague-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+See the CDC map of where plague has been reported in the United States.
+Also see professional content regarding plague.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

@@ -1,6 +1,6 @@
 * Multimedia
 # Leg Paralysis in Dogs
-By[Thomas Schubert](https://www.researchgate.net/profile/Thomas_Schubert6%20), DVM, DACVIM, DABVP, Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
+ByThomas Schubert, DVM, DACVIM, DABVP, Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
 * Multimedia|
 Paralysis of a leg often results from damage to the peripheral spinal nerves. Paralysis of a front leg is usually associated with injury to the nerve roots in the neck or shoulder, injury to the network of nerves found deep in the armpit (brachial plexus), or injury to the radial, median, musculocutaneous, or ulnar nerve in the leg. Paralysis of a hind leg is usually associated with injury to the nerve roots in the lower back or tailbone, the network of nerves located between the spinal cord and the hind leg (lumbosacral plexus), or the femoral, sciatic, peroneal, or tibial nerve in the leg. Trauma is the most common cause of sudden limb paralysis.
 Leg paralysis, dog
@@ -12,5 +12,5 @@ No specific therapy is available to help nerve regeneration, but laser therapy a
 Tumors affecting nerves can cause a chronic, often painful lameness or weakness of a front or hind leg that worsens over time. Tumors can be identified using computed tomography (CT) or magnetic resonance imaging (MRI) scans. Surgical removal or biopsy of the tumor is necessary to determine the diagnosis and the chance for recovery.
 Nerve sheath tumors are common in dogs, and they often affect multiple nerves. These tumors are difficult to completely remove, even with limb amputation. The outlook for recovery is usually poor, but radiation therapy may help.
 ## For More Information
-Also see professional content regarding [limb paralysis](https://www.msdvetmanual.com/nervous-system/limb-paralysis/limb-paralysis-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding limb paralysis.
+Test your Knowledge nowTake a Quiz!

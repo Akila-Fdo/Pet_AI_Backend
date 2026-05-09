@@ -1,7 +1,7 @@
 * Multimedia
 # Introduction to Heart and Blood Vessel Disorders in Cats
-By[Suzanne M. Cunningham](http://vetprofiles.tufts.edu/doctor/suzanne-cunningham%20), DVM, DACVIM-Cardiology, Department of Clinical Sciences, Cummings School of Veterinary Medicine, Tufts University;
-[Kursten V. Roderick](https://www.msdvetmanual.com/authors/roderick-kursten), DVM, Tufts University
+BySuzanne M. Cunningham, DVM, DACVIM-Cardiology, Department of Clinical Sciences, Cummings School of Veterinary Medicine, Tufts University;
+Kursten V. Roderick, DVM, Tufts University
 * Multimedia|
 The cardiovascular system includes the heart and the blood vessels (the veins and the arteries). The function of the heart is to pump blood. The right side of the heart pumps blood to the lungs, where oxygen is added to the blood. The left side pumps blood to the rest of the body, where oxygen and nutrients are delivered to tissues, and waste products (such as carbon dioxide) are removed. The heart is a hollow, muscular organ which, in mammals and birds, is divided into 4 chambers. The muscular tissue is called the myocardium. There are upper chambers on both the left and ride sides of the heart called the left and right **atria** (the plural form of atrium). There are also 2 lower chambers called the left and right **ventricles**.
 Cardiovascular system of a cat
@@ -20,6 +20,6 @@ Heart rate is also inversely related to blood pressure. When blood pressure incr
 Arrhythmias are abnormalities of the rate, regularity, or site of heartbeat formation. An arrhythmia does not necessarily indicate heart disease. Many arrhythmias are functionally insignificant and require no specific treatment. Some arrhythmias, however, may cause severe signs (such as loss of consciousness due to lack of blood flow to the brain) or lead to sudden death. Many disorders are associated with abnormal heart rhythms. Common findings in animals with an arrhythmia are a rate that is too slow (bradycardia), a rate that is too fast (tachycardia), premature beats (a beat that is heard too early), an irregular rhythm, and pauses in the rhythm. If an abnormal rhythm is heard with a stethoscope, your veterinarian may recommend other tests, such as an electrocardiogram or echocardiogram.
 A pulse is the rhythmic expansion of an artery that can be felt with the fingertips during physical examination. In cats, pulses are typically felt at the femoral artery (in the thigh). A jugular pulse in the lower neck can be noted in healthy animals. A pulse may be absent, increased (strong), or decreased (weak)—each of which may indicate a specific type of heart disease or defect.
 ## For More Information
-Also see professional content regarding [heart and blood vessel disorders](https://www.msdvetmanual.com/circulatory-system/cardiovascular-system-introduction/the-cardiovascular-system-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Also see professional content regarding heart and blood vessel disorders.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

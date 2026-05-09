@@ -1,6 +1,6 @@
 * Multimedia
 # Disorders of the Nasal Cavity and Tear Ducts in Cats
-By[Kirk N. Gelatt](https://vivo.ufl.edu/display/n7704%20), VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
+ByKirk N. Gelatt, VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
 * Multimedia|
 The lacrimal or tear gland, located at the top outer edge of the eye, produces the watery portion of tears. The nasolacrimal duct system allows tears to drain from each eye into the nose. Disorders of these structures can lead to either eyes that water excessively or dry eyes. They may be congenital (present at birth) or caused by infection, foreign objects in the eye, or trauma.
 Disorders of the nasal cavity and tear ducts are not as common in cats as they are in dogs. However, a few disorders occasionally are seen in this species.
@@ -11,5 +11,5 @@ Inflammation of the tear sac (called dacryocystitis) is rare in cats. The tear s
 Eye drop administration, cat
 ## Dry Eye (Keratoconjunctivitis Sicca)
 The condition known as dry eye results from inadequate tear production. It often causes persistent mucus and pus-filled conjunctivitis and slow-healing sores (ulcers) and scarring on the cornea. Dry eye is not common in cats but has been associated with longterm feline herpesvirus-1 infections. Topical therapy consists of artificial tear solutions, ointments, and other medications. In longterm dry eye resistant to medical therapy, surgery may be required to correct the condition.
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

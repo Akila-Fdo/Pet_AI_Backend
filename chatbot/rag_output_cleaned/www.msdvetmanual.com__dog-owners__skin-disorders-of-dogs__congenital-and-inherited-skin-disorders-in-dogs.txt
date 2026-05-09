@@ -1,5 +1,5 @@
 # Congenital and Inherited Skin Disorders in Dogs
-By[Karen A. Moriello](https://www.vetmed.wisc.edu/people/moriellk/%20), DVM, DACVD, Department of Medical Sciences, School of Veterinary Medicine, University of Wisconsin-Madison
+ByKaren A. Moriello, DVM, DACVD, Department of Medical Sciences, School of Veterinary Medicine, University of Wisconsin-Madison
 Dogs can be born with or may inherit any of several different kinds of skin abnormalities. Most of these conditions are uncommon to rare. Some occur with greater frequency in particular breeds of dogs, as noted below. Some hereditary conditions are present at birth, whereas others can take months to appear.
 ## Congenital Skin Disorders
 **Epitheliogenesis imperfecta**, also called **aplasia cutis**, might be conventionally described as missing or absent skin. It is a congenital condition of unknown cause that is most frequently seen in cattle, pigs, sheep, and horses. It is a rare condition in cats and dogs. Animals with epitheliogenesis imperfecta have failed to develop part or all of the layers of the skin. As a result, the animal is born with ulcers or with areas that lack any skin covering. Missing claws and other abnormalities may also be present. The condition can be fatal if it involves large portions of the skin. Small defects can be surgically corrected.
@@ -33,5 +33,5 @@ Hereditary **zinc deficiency syndromes** occur in some breeds. In white Bull Ter
 ## Congenital and Inherited Skin Tumors
 Dogs are rarely born with skin tumors. Some lines of German Shepherds can develop **nodular dermatofibrosis**, which results in multiple pigmented masses on the skin (called nevi). Growths that form on the feet can develop sores or cause foot deformities or limping. The growths develop during adulthood and indicate the presence of other types of tumors in internal organs, such as the kidneys or uterus.
 ## For More Information
-Also see professional content regarding [congenital and inherited skin disorders](https://www.msdvetmanual.com/integumentary-system/congenital-and-inherited-anomalies-of-the-integumentary-system) in dogs.
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding congenital and inherited skin disorders in dogs.
+Test your Knowledge nowTake a Quiz!

@@ -1,6 +1,6 @@
 * Multimedia
 # Heartworm Disease in Cats
-By[Clarke E. Atkins](https://cvm.ncsu.edu/directory/atkins-clarke/%20), DVM, DACVIM, College of Veterinary Medicine, North Carolina State University
+ByClarke E. Atkins, DVM, DACVIM, College of Veterinary Medicine, North Carolina State University
 * Multimedia|
 Heartworm disease is a potentially fatal, but preventable, infection caused by a worm parasite, _Dirofilaria immitis_. The organism is transmitted by mosquitoes, which carry the heartworm larvae (called microfilariae) from an infected animal host to a new animal host. Once the larvae arrive in a new host, they grow into adult worms in several months and live in the blood vessels leading from the heart to the lungs. In advanced infections, the heartworms may enter the heart as well. The presence of parasites stresses the heart, blood vessels, and lungs. In addition, severe complications are possible when the heartworms die.
 Heartworm infection, cat
@@ -16,6 +16,6 @@ The American Heartworm Society does not currently recommend adulticide therapy i
 Heartworm infection is preventable. Heartworm preventive medication is recommended for all cats, whether they live indoors or outdoors, in areas where the disease is common. Because heartworm infection can be fatal or severely debilitating for cats, your veterinarian will likely prescribe a preventive medication for all cats, including kittens. This program should be continued for the cat’s entire life.
 The most important thing that pet owners can do to protect their companions from heartworm infection is to be absolutely sure their pet receives the prescribed dose of medication at the correct time. Because the most common preventive drugs for both dogs and cats are given only once a month, pet owners might forget to administer the medication. Take advantage of e-mail or other reminder systems offered by your veterinarian or other sources to ensure proper dosing. Neglecting to give the medication can have serious consequences. If you miss a dose, you should contact your veterinarian regarding administration of the medication and the need for retesting your cat to determine if an infection has occurred.
 ## For More Information
-Also see professional content regarding [heartworm](https://www.msdvetmanual.com/circulatory-system/heartworm-disease/heartworm-disease-in-dogs-cats-and-ferrets).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Also see professional content regarding heartworm.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

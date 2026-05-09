@@ -1,5 +1,5 @@
 # Congenital and Inherited Disorders of the Urinary System in Dogs
-By[Scott D. Fitzgerald](https://cvm.msu.edu/directory/fitzgerald%20), DVM, PhD, DACVP, DACPV, Department of Pathobiology and Diagnostic Investigation, College of Veterinary Medicine, Michigan State University
+ByScott D. Fitzgerald, DVM, PhD, DACVP, DACPV, Department of Pathobiology and Diagnostic Investigation, College of Veterinary Medicine, Michigan State University
 Certain urinary tract abnormalities are inherited or congenital (present at birth). These abnormalities are caused by abnormal genes or produced by injury, disease, or exposure to toxic substances in the womb. They may or may not cause health problems later in your pet’s life. They are rare, but important to consider, if your dog has urinary tract problems.
 ## Disorders of the Kidneys
 There are many congenital and inherited problems that can affect the kidneys. Among these are kidney malformations, failure of the kidney(s) to develop, polycystic kidneys, and kidney cysts.
@@ -14,7 +14,7 @@ Polycystic kidneys have multiple cysts inside the functional part of the organ. 
 ### Simple Kidney Cysts
 These usually occur as a single cyst. They generally do not interfere with kidney function, and the rest of the kidney is normal. It is unclear what causes these cysts. They are usually identified by accident.
 ### Other Kidney Disorders
-About 5% of dogs have 2 or more renal arteries. A normal kidney has 1 renal artery, which delivers blood to the kidneys. Other congenital problems include kidneys that are not positioned correctly, kidneys that are fused together, and **[nephroblastoma](https://www.msdvetmanual.com/dog-owners/kidney-and-urinary-tract-disorders-of-dogs/noninfectious-diseases-of-the-urinary-system-in-dogs#v3208100)**, a cancer that develops in the kidneys as a result of abnormal kidney tissue growth in the womb.
+About 5% of dogs have 2 or more renal arteries. A normal kidney has 1 renal artery, which delivers blood to the kidneys. Other congenital problems include kidneys that are not positioned correctly, kidneys that are fused together, and **nephroblastoma**, a cancer that develops in the kidneys as a result of abnormal kidney tissue growth in the womb.
 ## Disorders of the Ureters
 Several disorders can affect the ureter, the tube that connects the kidney to the bladder. Normal animals have 2 ureters, 1 for each kidney.
 ### Ectopic Ureter
@@ -38,6 +38,6 @@ In hypospadias, a condition of male dogs, the opening of the urethra occurs befo
 ### Urethrorectal and Rectovaginal Fistulas
 Dogs with a urethrorectal fistula have an abnormal opening between the urethra and the rectum. Rectovaginal fistulas are abnormal openings between the vagina and rectum. They are more common in English Bulldogs than any other breed. Dogs with these fistulas are prone to urinary tract infections. Signs of this condition are the same signs found in urinary tract infections and include blood in the urine and painful or difficult urination. Animals with this condition may also pass urine from the rectum while urinating. This condition can be corrected by surgery. Antibiotics may be necessary to treat urinary tract infections.
 ## For More Information
-Also see professional content regarding [congenital and inherited disorders of the urinary system](https://www.msdvetmanual.com/urinary-system/congenital-and-inherited-anomalies-of-the-urinary-system/overview-of-congenital-and-inherited-anomalies-of-the-urinary-system-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding congenital and inherited disorders of the urinary system.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

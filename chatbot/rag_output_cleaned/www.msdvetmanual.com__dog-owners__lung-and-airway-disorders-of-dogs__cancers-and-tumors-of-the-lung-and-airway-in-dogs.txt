@@ -1,5 +1,5 @@
 # Cancers and Tumors of the Lung and Airway in Dogs
-By[Ned F. Kuehn](https://www.researchgate.net/scientific-contributions/80151229-Ned-F-Kuehn%20), DVM, MS, DACVIM, Michigan Veterinary Specialists
+ByNed F. Kuehn, DVM, MS, DACVIM, Michigan Veterinary Specialists
 The respiratory system can be a host to many different tumors. The following are the more common tumors found in the lungs and airways of dogs.
 ## Tumors of the Nose and Sinuses
 Tumors of the nose and sinuses account for about 1 to 2% of all canine tumors. The incidence is slightly higher in males and in older dogs. The average age at time of diagnosis is 9.5–10 years of age. In dogs, virtually all of these tumors are cancerous (malignant). Long-nosed and medium-nosed breeds appear to be at higher risk than short-nosed (brachycephalic) breeds. Tumors of the nose and sinuses tend to aggressively invade surrounding tissues but are not as prone to spread to other areas of the body (metastasize). When they do metastasize, the most commonly affected sites are the lymph nodes, lungs, and brain. In general, if untreated, survival is 3 to 5 months after diagnosis.
@@ -17,6 +17,6 @@ Surgery to remove the portion of the lung containing the tumor is the recommende
 ## Metastatic Lung Tumors
 A metastatic lung tumor is one that originates in another part of the body and then spreads to the lungs. A tumor may spread to the lungs through the blood or lymph systems or by direct extension of tumor cells from a nearby location in the body. The signs of metastatic lung disease are similar to those of primary lung tumors except that coughing is less common. The severity of signs depends on the location of the tumor and whether the lesions are single or multiple. The diagnosis and treatment are similar to that for primary lung tumors. Chemotherapy or radiation therapy may be useful with certain tumor types that are not well-suited for surgery. Dogs that have tumors that commonly metastasize to the lungs should have chest x-rays done before surgery to help determine whether metastasis has occurred. However, more than 40% of dogs with metastatic lung tumors have tumors that are too small to be seen on x-rays. Computed tomography (CT scan) can be performed to identify some of these lung tumors. Because spread to the lung occurs late in the clinical course of a malignant tumor, the outlook is poor.
 ## For More Information
-Also see professional content regarding [cancer and tumors of the lung and airway](https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-small-animals/neoplasia-of-the-respiratory-system-in-dogs-and-cats).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding cancer and tumors of the lung and airway.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

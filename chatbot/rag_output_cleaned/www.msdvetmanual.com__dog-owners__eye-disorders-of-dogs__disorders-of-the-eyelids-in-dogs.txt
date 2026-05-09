@@ -1,6 +1,6 @@
 * Multimedia
 # Disorders of the Eyelids in Dogs
-By[Kirk N. Gelatt](https://vivo.ufl.edu/display/n7704%20), VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
+ByKirk N. Gelatt, VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
 * Multimedia|
 Problems affecting the eyelids may be congenital (present at birth) or may occur as a result of injury, infection, disease of the surrounding skin, body-wide diseases, or exposure to various types of irritants.
 ## Entropion
@@ -15,9 +15,9 @@ Lagophthalmos is an inability to fully close the eyelids and protect the cornea 
 Abnormalities of the eyelashes include extra eyelashes or misdirected eyelashes on the edge of the eyelid. These conditions may cause watering eyes, development of blood vessels in the cornea, and slow-healing sores and scarring in the cornea. In many instances, irregular eyelashes are very fine and do not cause signs of irritation or damage the eye. However, eyelashes in an unusual position sticking out through the back of the eyelid can cause profound pain. If the extra lashes cause damage to the cornea or conjunctiva, it may be necessary to surgically cut out or freeze and remove the eyelash follicles. Irregularities of the eyelashes are common in some dog breeds and are probably inherited.
 ## Inflammation of the Eyelids (Blepharitis)
 Inflammation of the eyelids can result from the spreading of a generalized inflammation of the skin, inflammation of the conjunctiva, local glandular infections, or irritants such as plant oils or sunlight. Fungi, mites, or bacteria can infect the eyelids, which can then lead to a generalized inflammation.
-Lesions of immune-mediated diseases can occur where the skin and conjunctiva join. [Pemphigus](https://www.msdvetmanual.com/dog-owners/immune-disorders-of-dogs/disorders-involving-cytotoxic-antibodies-type-ii-reactions-in-dogs#v3204854) is an example of a disease in which large blisters occur on the skin and mucous membranes. Pemphigus is often accompanied by itching or burning sensations. Skin scrapings, cultures, and biopsies may be required for an accurate diagnosis. Localized glandular infections may be short-term (for example, a stye) or longterm (for example, a Meibomian abscess).
+Lesions of immune-mediated diseases can occur where the skin and conjunctiva join. Pemphigus is an example of a disease in which large blisters occur on the skin and mucous membranes. Pemphigus is often accompanied by itching or burning sensations. Skin scrapings, cultures, and biopsies may be required for an accurate diagnosis. Localized glandular infections may be short-term (for example, a stye) or longterm (for example, a Meibomian abscess).
 When inflammation of the eyelids is caused by a generalized condition, whole-body therapy often is necessary in addition to treatment of the eye itself. Supportive therapy of hot packing and frequent cleansing is often used in severe cases. Your veterinarian will recommend a treatment program designed to control the generalized condition, make your pet more comfortable, and treat the eye condition. Be sure you thoroughly understand the treatment program your veterinarian recommends. Do not hesitate to ask for detailed instructions regarding any eye drops or other medication you will need to give to your pet. It is often helpful to have the veterinarian demonstrate the administration of these medications.
 ## For More Information
-Also see professional content regarding [eyelid disorders](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology/eyelids-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding eyelid disorders.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

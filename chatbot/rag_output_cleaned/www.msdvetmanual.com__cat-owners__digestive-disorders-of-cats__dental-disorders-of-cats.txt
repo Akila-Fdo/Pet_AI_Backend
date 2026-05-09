@@ -1,30 +1,12 @@
 * Multimedia
 # Dental Disorders of Cats
-By[Alexander M. Reiter](https://www.vet.upenn.edu/people/faculty-clinician-search/ALEXANDERREITER%20), Dipl. Tzt., DEVDC, DAVDC, Department of Clinical Sciences & Advanced Medicine, School of Veterinary Medicine, University of Pennsylvania
+ByAlexander M. Reiter, Dipl. Tzt., DEVDC, DAVDC, Department of Clinical Sciences & Advanced Medicine, School of Veterinary Medicine, University of Pennsylvania
 * Multimedia|
 Many of the dental disorders of cats are similar to those found in people. However, cavities almost never occur in cats. Treatment methods are also similar to those used with people. Proper dental care can help keep your cat’s teeth and gums healthy. Learning the terms your veterinarian uses to describe dental disorders will help you understand and discuss any dental problems your cat may develop (_see_ table Dental Terms below).
 Dental Terms
 Dental Terms
 Dental Terms
-|  What Most People Call It  | What Your Veterinarian Might Call It  |
-| --- | --- |
-| Adult tooth  | Permanent tooth  |
-| Baby tooth  | Deciduous tooth  |
-| Bad breath  | Halitosis  |
-| Bite  | Occlusion  |
-| Cavities or tooth decay  | Dental caries, tooth infection  |
-| Extra teeth  | Polyodontia  |
-| Eye teeth  | Canines  |
-| Front teeth  | Incisors and canines  |
-| Gum  | Gingiva  |
-| Gum disease  | Periodontal disease, periodontitis  |
-| Lower jaw  | Mandible  |
-| Roof of the mouth  | Palate  |
-| Root canal  | Endodontic treatment  |
-| Tartar  | Calculus  |
-| Teeth cleaning  | Dental prophylaxis  |
-| Uneven bite  | Malocclusion  |
-| Upper jaw  | Maxilla  |
+|  What Most People Call It  | What Your Veterinarian Might Call It  | --- | --- | Adult tooth  | Permanent tooth  | Baby tooth  | Deciduous tooth  | Bad breath  | Halitosis  | Bite  | Occlusion  | Cavities or tooth decay  | Dental caries, tooth infection  | Extra teeth  | Polyodontia  | Eye teeth  | Canines  | Front teeth  | Incisors and canines  | Gum  | Gingiva  | Gum disease  | Periodontal disease, periodontitis  | Lower jaw  | Mandible  | Roof of the mouth  | Palate  | Root canal  | Endodontic treatment  | Tartar  | Calculus  | Teeth cleaning  | Dental prophylaxis  | Uneven bite  | Malocclusion  | Upper jaw  | Maxilla  |
 ## Gum Disease
 Gum (periodontal) disease is infection and inflammation of the tissue surrounding the teeth. It is caused by the accumulation of many different bacteria (plaque) at and below the gum line due—in part—to a lack of proper oral hygiene. This infection causes inflammation of the gums, the ligaments that anchor the teeth, and the surrounding bone. If periodontal disease goes untreated, teeth can be lost due to the loss of their supporting tissues. There are 2 forms of periodontal disease: gingivitis and periodontitis. Treatment for gingivitis and periodontitis includes a professional dental cleaning by your veterinarian. This requires anesthesia. Treatments performed without anesthesia may make the tooth look better but do not treat the underlying problem: plaque below the gum line.
 ### Gingivitis
@@ -34,7 +16,7 @@ Gingivitis can usually be treated by thorough professional cleaning of the teeth
 ### Periodontitis
 In periodontitis, the tissue damage is more severe and includes the gums, the ligaments, and bone. It usually is seen after the development of plaque, tartar, and gingivitis. It is irreversible and results in permanent loss of tooth support. In some cats this disease can be seen as early as 1 year of age.
 What is Plaque?
-| Plaque is a thin film of food debris, bacteria, saliva, and dead cells that is continually deposited on your animal’s teeth. Plaque that is present for more than 72 hours begins to harden into a substance called tartar (calculus) that accumulates at the base of the teeth. This buildup irritates the gums and contributes to the development of gum disease. |
+| Plaque is a thin film of food debris, bacteria, saliva, and dead cells that is continually deposited on your animal’s teeth. Plaque that is present for more than 72 hours begins to harden into a substance called tartar (calculus) that accumulates at the base of the teeth. This buildup irritates the gums and contributes to the development of gum disease. | --- |
 Periodontitis is treated with a thorough professional cleaning above and below the gum line performed under anesthesia. Your veterinarian can determine the extent of bone support loss by taking x-rays of the jaws. Periodontitis often requires more thorough treatment than gingivitis, and additional procedures may be necessary to treat disease deep within the gums. Extractions are often necessary. They allow the tissue to heal, and cats do surprisingly well without the teeth. In addition, surgery may be needed to gain access to the root surface for cleaning. Finally, veterinarians will treat any factors contributing to periodontitis, such as tooth crowding or underlying diseases.
 If your cat has been treated for periodontitis, you will need to continue oral hygiene care at home. Follow your veterinarian’s instructions, which might include daily toothbrushing, dietary changes, plaque prevention gel, and oral rinses. Frequent (every 3 months to 1 year) preventive cleanings will help to avoid relapse and prevent further bone loss.
 ### Prevention
@@ -44,7 +26,7 @@ Endodontic disease occurs inside the teeth. The causes include injury, enamel de
 ## Feline Gingivitis/Stomatitis Syndrome
 A cat’s mouth may react intensely to disease and become severely inflamed. Signs include mouth pain, drooling, bad breath, and loss of appetite. A veterinarian’s examination may reveal inflammation of the gums, the inside of the mouth, and the upper throat. The underlying disease must be diagnosed accurately in order for treatment to be successful. Many viral and bacterial diseases contribute to this problem. Some cats are also infected by the bacteria that cause cat scratch fever (a disease that can be passed to people), which must be considered as a possible cause.
 The only effective treatment is the extraction of most or all of their teeth. This solution is not as bad as it sounds, because most cats can eat moist food (and eventually even solid food) even after the teeth have been extracted.
-Also see [feline stomatitis](https://www.msdvetmanual.com/cat-owners/digestive-disorders-of-cats/disorders-of-the-mouth-in-cats#v3243761).
+Also see feline stomatitis.
 ## Tooth Resorption (Cervical Line Lesions or Feline Odontoclastic Resorptive Lesions)
 Cats do not develop cavities like those seen in humans. However, they may develop resorptive lesions (also called cervical line lesions or feline odontoclastic resorptive lesions). In fact, these are the most frequently seen dental abnormality in cats. The cause is often unknown, but some resorptive lesions appear to be stimulated by inflammation (such as periodontitis or endodontic disease). The condition results in the breakdown and loss of tooth material and is often associated with bright red, inflamed gums. The crown of the tooth may be completely lost, with the root that is left covered over by the gum. Signs associated with cervical line lesions include pain on contact, loss of appetite, drooling, and generally not feeling well. Because cats are good at hiding pain, you may not notice any signs.
 Cervical line lesions, cat
@@ -64,6 +46,6 @@ During the development of tooth enamel, fevers and the deposition of certain che
 Fractured teeth and jaws often occur because of trauma (for example, fighting with other animals, falls, and automobile accidents). The jaw can also be fractured because it has been weakened by severe periodontitis or cancer. A cat with a fractured jaw may hold its mouth open or be unable to eat. Fractured teeth should be inspected by a veterinarian to determine whether there has been damage to the center of the tooth (the pulp). If fractures extend into the pulp, root canal treatment or tooth extraction will be needed. Wounds to the gums or other soft tissues should be treated by the veterinarian as well.
 Bone fractures will need to be stabilized by the veterinarian using wires, pins, or other materials. As long as the correct bite position can be maintained, healing is rapid and most of the supporting material can be removed by the veterinarian in about 6 to 8 weeks. A feeding tube may be needed if the cat has difficulty eating while the injury heals.
 ## For More Information
-Also see professional content regarding [dental disorders](https://www.msdvetmanual.com/digestive-system/dentistry-in-horses).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Also see professional content regarding dental disorders.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

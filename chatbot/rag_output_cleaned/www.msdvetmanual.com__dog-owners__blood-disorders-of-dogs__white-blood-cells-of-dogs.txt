@@ -1,5 +1,5 @@
 # White Blood Cells of Dogs
-By[Susan M. Cotter](http://vetprofiles.tufts.edu/faculty/susan-cotter%20), DVM, DACVIM, Cummings School of Veterinary Medicine, Tufts University
+BySusan M. Cotter, DVM, DACVIM, Cummings School of Veterinary Medicine, Tufts University
 The function of white blood cells (also called leukocytes) is to defend the body against infection. There are 2 main types of white blood cells formed in the bone marrow: phagocytes and lymphocytes.
 ## Phagocytes
 Phagocytes (from the Greek word meaning “to eat”) are cells in the bloodstream and tissues that surround and consume foreign particles, cell waste material, and bacteria. Their main function is to defend against invading microorganisms by engulfing and destroying them. There are 2 types of phagocytes: granulocytes and mononuclear phagocytes.
@@ -12,6 +12,6 @@ Lymphocytes usually act appropriately to rid the body of foreign “invaders” 
 An increase in the number of lymphocytes in the bloodstream occurs in some species as a response to the secretion of epinephrine (a hormone also known as adrenaline). A reduction in the number of circulating lymphocytes may be caused by hormones that may also be secreted in times of stress. Unusual lymphocytes may be seen in the blood in response to antigenic stimulation, such as vaccination.
 Malignant tumors originating in a lymph node (lymphoma) or lymphoid leukemia can also occur.
 ## For More Information
-Also see professional content regarding [white blood cells](https://www.msdvetmanual.com/circulatory-system/hematopoietic-system-introduction/white-blood-cells-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding white blood cells.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

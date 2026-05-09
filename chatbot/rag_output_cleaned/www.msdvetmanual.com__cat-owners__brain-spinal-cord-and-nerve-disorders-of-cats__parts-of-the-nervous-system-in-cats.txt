@@ -1,6 +1,6 @@
 * Multimedia
 # Parts of the Nervous System in Cats
-By[Thomas Schubert](https://www.researchgate.net/profile/Thomas_Schubert6%20), DVM, DACVIM, DABVP, Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
+ByThomas Schubert, DVM, DACVIM, DABVP, Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
 * Multimedia|
 The **central nervous system** includes the spinal cord and the brain. The brain is divided into 3 main sections—the **brainstem**, which controls many basic life functions, the **cerebrum**, which is the center of conscious decision-making, and the **cerebellum**, which is involved in movement and motor control. The spinal cord of cats is divided into regions that correspond to the vertebral bodies (the bones that make up the spine) in the following order from neck to tail: cervical, thoracic, lumbar, sacral, and caudal segments. Specialized tissues called **meninges** cover the brain and spinal cord, and cerebrospinal fluid surrounds and protects the brain and spinal cord.
 Nervous system, cat
@@ -13,5 +13,5 @@ Neurons in the peripheral nervous system combine to form pairs of **spinal nerve
 **Sensory neurons** carry information from the body to the spinal cord or brainstem, and then on to the cerebellum and cerebrum for interpretation. Sensory information includes sensations of pain, position, touch, temperature, taste, hearing, balance, vision, and smell.
 **Motor neurons** carry responses to the sensory information from the spinal cord and brain to the rest of the body. Inside the spinal cord, the axons of motor neurons form bundles known as **tracts**, which transmit this information to motor peripheral nerves going to muscles in the limbs. Motor neurons are important for voluntary movements and muscle control.
 A specialized set of neurons controls and regulates basic, unconscious bodily functions that support life, such as the pumping of the heart and digestion. These neurons make up what is called the **autonomic nervous system**, which sends axons from the brainstem and spinal cord to various areas of the body, such as the heart muscle, the digestive system, and the pupils of the eyes.
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**

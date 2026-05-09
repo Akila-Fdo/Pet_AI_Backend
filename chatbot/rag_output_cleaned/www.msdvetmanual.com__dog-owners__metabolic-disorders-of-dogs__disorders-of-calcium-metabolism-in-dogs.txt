@@ -1,8 +1,8 @@
 * Multimedia
 # Disorders of Calcium Metabolism in Dogs
-By[Jean A. Hall](https://vetmed.oregonstate.edu/people/jean-hall%20), DVM, PhD, DACVIM, Department of Biomedical Sciences, Carlson College of Veterinary Medicine, Oregon State University
+ByJean A. Hall, DVM, PhD, DACVIM, Department of Biomedical Sciences, Carlson College of Veterinary Medicine, Oregon State University
 * Multimedia|
-Calcium is an essential component of the skeleton, and it has important functions in muscle contraction, blood clotting, enzyme activity, the nervous system, and hormone release, among others. Many different metabolic disorders affect calcium metabolism and can lead to abnormal levels of calcium in the blood. A high level of calcium is known as **[hypercalcemia](https://www.msdvetmanual.com/cat-owners/hormonal-disorders-of-cats/disorders-of-the-parathyroid-glands-and-of-calcium-metabolism-in-cats#v3244639)**, while a low one is called **[hypocalcemia](https://www.msdvetmanual.com/cat-owners/hormonal-disorders-of-cats/disorders-of-the-parathyroid-glands-and-of-calcium-metabolism-in-cats#v3244561)**.
+Calcium is an essential component of the skeleton, and it has important functions in muscle contraction, blood clotting, enzyme activity, the nervous system, and hormone release, among others. Many different metabolic disorders affect calcium metabolism and can lead to abnormal levels of calcium in the blood. A high level of calcium is known as **hypercalcemia**, while a low one is called **hypocalcemia**.
 ## Puerperal Hypocalcemia
 In dogs, the most common disorder of calcium metabolism is **puerperal hypocalcemia**. Other names for this condition include postpartum hypocalcemia, periparturient hypocalcemia, puerperal tetany, and eclampsia. This life-threatening condition is usually seen 2 to 3 weeks after whelping, when the mammary glands are producing the greatest amount of milk. Small-breed dogs with large litters are affected most often, although puerperal hypocalcemia can occur in any breed of dog, with any litter size, and at any time during lactation. The disorder can also occur during labor and cause difficulties in giving birth (dystocia) or, rarely, during late pregnancy. Hypocalcemia most likely results from loss of calcium into the milk and too little calcium in the diet.
 Puerperal hypocalcemia, dog
@@ -13,6 +13,6 @@ Puerperal hypocalcemia is likely to recur with future pregnancies. Preventive me
 ## Hypocalcemia in Critically Ill or Injured Dogs
 Critically ill dogs can develop hypocalcemia. Dogs with body-wide inflammation triggered by a severe infection (called sepsis) are particularly at risk. In addition, dogs with traumatic injuries, especially to the abdomen, may develop hypocalcemia. Dogs with hypocalcemia require more intensive treatment and longer hospital stays than dogs with normal calcium levels. They are also less likely to survive the illness. The signs of hypocalcemia due to critical illness or injury are similar to those seen in dogs with puerperal hypocalcemia.
 ## For More Information
-Also see professional content regarding [disorders of calcium metabolism](https://www.msdvetmanual.com/metabolic-disorders/disorders-of-calcium-metabolism).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
+Also see professional content regarding disorders of calcium metabolism.
+Test your Knowledge nowTake a Quiz!
 **This Site Uses Cookies and Your Privacy Choice Is Important to Us**
