@@ -1,20 +1,16 @@
-1. <[Eye Disorders of Dogs](https://www.msdvetmanual.com/dog-owners/eye-disorders-of-dogs)
+1. <Eye Disorders of Dogs
 
-* Find In Topic
+*
 
-IN THIS TOPIC
 
-OTHER TOPICS IN THIS CHAPTER
 
-PET OWNER VERSION
 # Disorders of the Retina, Choroid, and Optic Disk (Ocular Fundus) in Dogs
-By[Kirk N. Gelatt](https://vivo.ufl.edu/display/n7704%20), VMD, DACVO, Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
 Reviewed/Revised Jun 2018 | Modified Sept 2024
 v3204256
-* [Inherited Diseases of the Retina](https://www.msdvetmanual.com/dog-owners/eye-disorders-of-dogs/disorders-of-the-retina-choroid-and-optic-disk-ocular-fundus-in-dogs#Inherited-Diseases-of-the-Retina_v3204260)|
-* [Inflammation of the Retina and Choroid (Chorioretinitis)](https://www.msdvetmanual.com/dog-owners/eye-disorders-of-dogs/disorders-of-the-retina-choroid-and-optic-disk-ocular-fundus-in-dogs#Inflammation-of-the-Retina-and-Choroid-\(Chorioretinitis\)_v3204283)|
-* [Retinal Detachments](https://www.msdvetmanual.com/dog-owners/eye-disorders-of-dogs/disorders-of-the-retina-choroid-and-optic-disk-ocular-fundus-in-dogs#Retinal-Detachments_v3204290)|
-* [For More Information](https://www.msdvetmanual.com/dog-owners/eye-disorders-of-dogs/disorders-of-the-retina-choroid-and-optic-disk-ocular-fundus-in-dogs#For-More-Information_v34435681)|
+* Inherited Diseases of the Retina|
+* Inflammation of the Retina and Choroid (Chorioretinitis)_v3204283)|
+* Retinal Detachments|
+* For More Information|
 
 The **ocular fundus** is the back of the eye opposite the pupil and includes the retina, the membrane (the choroid) between the retina and the white of the eye, and the optic disk. Diseases of the ocular fundus may occur on their own or as a part of generalized diseases. Inherited abnormalities, trauma, metabolic disturbances, generalized infections, tumors, blood disorders, high blood pressure, and nutritional deficiencies are possible underlying causes for diseases of the retina in all species.
 ## Inherited Diseases of the Retina
@@ -29,19 +25,14 @@ The first sign of progressive retinal atrophy is usually night blindness. This p
 ### Retinal Pigment Epithelial Dystrophy (Central Progressive Retinal Atrophy)
 This type of retinal degeneration occurs in Labrador Retrievers, smooth and rough Collies, Border Collies, Shetland Sheepdogs, and Briards. The condition is inherited in Labrador Retrievers. In many cases, early eye examinations can detect this disease before signs are apparent. Progressive vision loss occurs gradually over several years. Cataract formation occurs late in the disease. There is no treatment. Recent studies suggest systemic vitamin E disorders may also be important in the development of this disease complex.
 ## Inflammation of the Retina and Choroid (Chorioretinitis)
-Inflammation of the retina and choroid is frequently a result of a generalized infection that affects many areas of the body. Unless the abnormalities are widespread or involve the optic nerve, they often go undetected by owners. Inflammation of the retina and choroid may be present with canine distemper (a viral disease), fungal infections, protothecosis (an algal disease), toxoplasmosis (a disease caused by a parasitic microorganism), tuberculosis, and bacterial septicemias (infections of the blood by toxic microorganisms). Therapy is directed at the systemic disease causing the inflammation.
+Inflammation of the retina and choroid is frequently a result of a generalized infection that affects many areas of the body. Unless the abnormalities are widespread or involve the optic nerve, they often go undetected (a viral disease), fungal infections, protothecosis (an algal disease), toxoplasmosis (a disease caused ), tuberculosis, and bacterial septicemias (infections of the blood ). Therapy is directed at the systemic disease causing the inflammation.
 It is important to make sure that your pet receives regular, routine eye examinations. These examinations are important because they can often help diagnose many generalized diseases quickly and accurately.
 ## Retinal Detachments
 When the retina becomes detached, it is separated from the back of the eye and from part of its blood supply, preventing it from functioning properly. In dogs, detachments of the retina are associated with retinal disorders present at birth (retinal dysplasia and Collie eye anomaly), inflammation of the retina and choroid (chorioretinitis), injury and other trauma, eye surgery, and certain tumors.
 Signs that the retina has become detached include excessive or prolonged dilation of the pupil, pupils of different sizes, vision impairment, and bleeding within the eye. Eye examinations must be performed to confirm the diagnosis.
 Detachments of the retina are treated medically with therapy directed at the primary disease or surgically to correct the detachment. Retinal degeneration may be present in the reattached areas. Your veterinarian will select the treatment approach most appropriate for your pet’s condition.
 ## For More Information
-Also see professional content regarding [the ocular fundus](https://www.msdvetmanual.com/eye-diseases-and-disorders/ophthalmology/the-ocular-fundus-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
-* Cookie Preferences
-
-**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
-We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+Also see professional content regarding the ocular fundus.
+Test your Knowledge nowTake a Quiz!
 
 Customize my Settings

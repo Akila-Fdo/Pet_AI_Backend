@@ -1,12 +1,10 @@
-1. <[Brain, Spinal Cord, and Nerve Disorders of Cats](https://www.msdvetmanual.com/cat-owners/brain-spinal-cord-and-nerve-disorders-of-cats)
+1. <Brain, Spinal Cord, and Nerve Disorders of Cats
 
-* Find In Topic
+*
 
-OTHER TOPICS IN THIS CHAPTER
 
-PET OWNER VERSION
+
 # Leg Paralysis in Cats
-By[Thomas Schubert](https://www.researchgate.net/profile/Thomas_Schubert6%20), DVM, DACVIM, DABVP, Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida
 Reviewed/Revised Aug 2018 | Modified Sept 2024
 v3246005
 Paralysis of a leg often results from damage to the peripheral spinal nerves. Paralysis of a front leg is usually associated with injury to the nerve roots in the neck or shoulder, or injury to the musculocutaneous, radial, median, or ulnar nerve in the leg. Paralysis of a hind leg is usually associated with injury to the nerve roots in the lower back or tailbone, or the femoral, sciatic, peroneal, or tibial nerve in the leg.
@@ -17,7 +15,5 @@ Applying heat, performing massage, and stretching tendons should be done as dire
 No specific therapy is available to help nerve regeneration. Acupuncture or laser therapy may help recovery. If voluntary movement, pain sensation, and spinal reflexes improve over 1 to 2 months, the outlook for recovery is good. An Elizabethan collar may be needed to prevent the cat from chewing on its leg. If the nerve injury is suspected to be permanent and the animal is chewing the leg, amputation may be the best option. Three-legged cats generally have a good quality of life.
 Tumors located at or near the nerve roots can also result in paralysis of one limb. Lymphosarcoma is the most common tumor to affect these locations in cats. Chemotherapy may improve the length and quality of life in affected cats.
 ## For More Information
-Also see professional content regarding [limb paralysis](https://www.msdvetmanual.com/nervous-system/limb-paralysis/limb-paralysis-in-animals).
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#cat-owners)
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
-* Cookie Preferences
+Also see professional content regarding limb paralysis.
+Test your Knowledge nowTake a Quiz!

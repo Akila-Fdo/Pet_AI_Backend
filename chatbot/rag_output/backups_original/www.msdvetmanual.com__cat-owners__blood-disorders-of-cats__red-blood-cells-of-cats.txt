@@ -1,0 +1,22 @@
+1. <[Blood Disorders of Cats]()
+
+* Find In Topic
+
+OTHER TOPICS IN THIS CHAPTER
+
+PET OWNER VERSION
+# Red Blood Cells of Cats
+By[Nick Roman](), DVM, MPH, College Station Cat Clinic
+Reviewed By[Laurie Hess](), DVM, DABVP, The MSD Veterinary Manual
+Reviewed/Revised Modified Mar 2026
+v108069129
+The main job of red blood cells is to carry oxygen to various parts of the body.
+Oxygen is carried in the bloodstream inside red blood cells attached to hemoglobin molecules. Oxygen is delivered , which use it to generate energy and then produce the waste product carbon dioxide. Carbon dioxide is then carried , in the bone marrow. Every blood cell begins as a single kind of primitive cell called a stem cell. The stem cell divides to produce an immature red blood cell, [white blood cell](), or [platelet-forming cell](). This immature cell divides further, matures, and eventually becomes a fully developed red or white blood cell or platelet.
+In healthy animals, the total number of red blood cells remains stable over time. Mature red blood cells live for a limited period and then die off. New red blood cells are made to replace them. The production and destruction of red blood cells must stay in balance to avoid the development of disease.
+How fast blood cells are produced depends on what the body needs. Erythropoietin, a hormone that is made mainly , stimulates red blood cell production in the bone marrow. Erythropoietin levels rise when the body lacks oxygen (a condition called hypoxia).
+In most species, the kidney senses how much oxygen the body's organs receive and produces erythropoietin in response. [Chronic kidney disease (CKD)]() is a condition in which erythropoietin can't be made normally, so it can lead to anemia.
+Red blood cell production can also be affected (like iron and vitamins) the animal takes in and , animals such as dogs, cats, and horses have different blood types.
+A lack of red blood cells is called **[anemia]()**. Too many red blood cells is called **[erythrocytosis]()**.
+Test your Knowledge now[Take a Quiz!]()
+
+Customize my Settings

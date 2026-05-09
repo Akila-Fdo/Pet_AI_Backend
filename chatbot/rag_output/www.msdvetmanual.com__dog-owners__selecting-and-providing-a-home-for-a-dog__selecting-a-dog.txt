@@ -1,27 +1,24 @@
-1. <[Selecting and Providing a Home for a Dog](https://www.msdvetmanual.com/dog-owners/selecting-and-providing-a-home-for-a-dog)
+1. <Selecting and Providing a Home for a Dog
 
-* Find In Topic
+*
 
-IN THIS TOPIC
-* Multimedia
+*
 
-OTHER TOPICS IN THIS CHAPTER
 
-PET OWNER VERSION
+
 # Selecting a Dog
-By[Natalie Antinoff](https://www.msdvetmanual.com/authors/antinoff-natalie), DVM, DABVP (Avian Practice), Texas Avian & Exotic Hospital
-Reviewed By[Laurie Hess](https://www.msdvetmanual.com/authors/hess-laurie), DVM, DABVP, The MSD Veterinary Manual
-Reviewed/Revised Modified Jun 2025
+ByNatalie Antinoff, DVM, DABVP (Avian Practice), Texas Avian & Exotic Hospital
+Reviewed Reviewed/Revised Modified Jun 2025
 v101586099
-* [What Type of Dog Is Right for Me?](https://www.msdvetmanual.com/dog-owners/selecting-and-providing-a-home-for-a-dog/selecting-a-dog#What-Type-of-Dog-Is-Right-for-Me?_v101586101)|
-* [Does a Dog's Size Matter?](https://www.msdvetmanual.com/dog-owners/selecting-and-providing-a-home-for-a-dog/selecting-a-dog#Does-a-Dog's-Size-Matter?_v101586105)|
-* [How Do Dogs Do With Children?](https://www.msdvetmanual.com/dog-owners/selecting-and-providing-a-home-for-a-dog/selecting-a-dog#How-Do-Dogs-Do-With-Children?_v101586109)|
-* [Does Where I Live Matter?](https://www.msdvetmanual.com/dog-owners/selecting-and-providing-a-home-for-a-dog/selecting-a-dog#Does-Where-I-Live-Matter?_v101586113)|
-* [Should I Get a Puppy or an Older Dog?](https://www.msdvetmanual.com/dog-owners/selecting-and-providing-a-home-for-a-dog/selecting-a-dog#Should-I-Get-a-Puppy-or-an-Older-Dog?_v101586117)|
-* [Where Should I Get My Dog?](https://www.msdvetmanual.com/dog-owners/selecting-and-providing-a-home-for-a-dog/selecting-a-dog#Where-Should-I-Get-My-Dog?_v101586121)|
-* [What Questions Should I Ask?](https://www.msdvetmanual.com/dog-owners/selecting-and-providing-a-home-for-a-dog/selecting-a-dog#What-Questions-Should-I-Ask?_v101586126)|
-* [What Should I Look for in a Particular Dog?](https://www.msdvetmanual.com/dog-owners/selecting-and-providing-a-home-for-a-dog/selecting-a-dog#What-Should-I-Look-for-in-a-Particular-Dog?_v101586130)|
-* Multimedia|
+* What Type of Dog Is Right for Me?|
+* Does a Dog's Size Matter?|
+* How Do Dogs Do With Children?|
+* Does Where I Live Matter?|
+* Should I Get a Puppy or an Older Dog?|
+* Where Should I Get My Dog?|
+* What Questions Should I Ask?|
+* What Should I Look for in a Particular Dog?|
+* |
 
 ## What Type of Dog Is Right for Me?
 Dogs come in many sizes and shapes, and they have different personalities. Different breeds of dogs were bred for specific jobs and behaviors. When choosing a dog, think about its size, activity level, temperament, and coat type. Picking the wrong dog can cause stress for both your family and the dog and might lead to behavior issues.
@@ -44,8 +41,7 @@ Potential Sources for Obtaining a Pet Dog
 * Neighbors or relatives
 * Local marketplace or newspaper listings
 
-|
-| --- |
+|--- |
 ## What Questions Should I Ask?
 Before getting a dog, it’s important to check where it comes from. If you’re getting a dog from a friend, neighbor, or local ad, ask to see the dog’s parents, if possible. Ask about the dog’s health history, including any illnesses, vaccinations, heartworm prevention, and whether it's been spayed or neutered. Make sure to get these records for future vet visits. Before choosing a dog, ask for references from breeders and pet shops. Find out why the dog is up for adoption and if it has any known health or behavior issues. If you’re getting a purebred dog, ask if the parents have been tested for breed-specific diseases, like hip dysplasia in larger breeds.
 ## What Should I Look for in a Particular Dog?
@@ -54,10 +50,7 @@ Judging the Physical and Social Health of a New Dog
 Table
 Judging the Physical and Social Health of a New Dog
 Judging the Physical and Social Health of a New Dog
-| Positive Attributes  | Negative Attributes  |
-| --- | --- |
-|
-* Active, friendly, social, curious
+| Positive Attributes  | Negative Attributes  |--- | --- |* Active, friendly, social, curious
 * Healthy weight
 * Clean, shiny coat free of mats, sores, and fleas
 * Clean ears and eyes
@@ -75,12 +68,7 @@ Judging the Physical and Social Health of a New Dog
 * History of illness (vomiting, diarrhea, etc.)
 
 |
-When visiting a kennel, pet shop, or shelter, pay attention to the environment. It’s a good idea to visit before you’re ready to choose a dog so you can look around without getting distracted by wanting to adopt a pet. Check if the facility is clean and organized. Do the dogs seem happy or scared? Are they healthy and clean, or do they look sickly? Is the building comfortable, with fresh water available for all the animals? A clean kennel should smell slightly of disinfectant, not strongly of urine or feces. Puppies also should not smell like urine or feces.
-Test your Knowledge now[Take a Quiz!](https://www.msdvetmanual.com/pages-with-widgets/quizzes#dog-owners)
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
-* Cookie Preferences
-
-**This Site Uses Cookies and Your Privacy Choice Is Important to Us**
-We suggest you choose Customize my Settings to make your individualized choices. Accept Cookies means that you are choosing to accept third-party Cookies and that you understand this choice.
+When visiting a kennel, pet shop, or shelter, pay attention to the environment. It’s a good idea to visit before you’re ready to choose a dog so you can look around without getting distracted ? Are they healthy and clean, or do they look sickly? Is the building comfortable, with fresh water available for all the animals? A clean kennel should smell slightly of disinfectant, not strongly of urine or feces. Puppies also should not smell like urine or feces.
+Test your Knowledge nowTake a Quiz!
 
 Customize my Settings
