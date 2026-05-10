@@ -13,7 +13,7 @@ import logging
 from typing import List, Union
 from pathlib import Path
 
-from docling_core.types import Document as DoclingDocument
+from docling_core.types import DoclingDocument
 from docling_core.transforms.chunker.hybrid_chunker import HybridChunker
 from docling_core.transforms.chunker import DocChunk
 from transformers import AutoTokenizer

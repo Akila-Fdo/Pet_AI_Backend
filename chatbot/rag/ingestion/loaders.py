@@ -11,7 +11,7 @@ from typing import Union, Optional
 import logging
 
 from docling.document_converter import DocumentConverter
-from docling_core.types import Document as DoclingDocument
+from docling_core.types import DoclingDocument
 
 
 logger = logging.getLogger(__name__)
