@@ -49,6 +49,9 @@ venv.bak/
 *.md
 docs/
 
+# RAG Data (will be bind-mounted at runtime)
+chatbot/raw_pdfs/
+
 # Testing
 .pytest_cache/
 .coverage

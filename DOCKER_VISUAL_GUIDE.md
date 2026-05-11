@@ -113,8 +113,12 @@ Bind Mounts (From Host)
 │   └─ Your model files
 │      ✓ Fast access
 │      ✓ Can be updated without rebuild
-│
-└── ./sample_images ───────────► /app/sample_images (read-only)
+│├── ./chatbot/raw_pdfs ─────────► /app/chatbot/raw_pdfs
+│   └─ PDF documents for RAG
+│      ✓ Real-time updates
+│      ✓ No rebuild needed
+│      ✓ Persistent
+│└── ./sample_images ───────────► /app/sample_images (read-only)
     └─ Test images
        ✓ Can update anytime
 ```

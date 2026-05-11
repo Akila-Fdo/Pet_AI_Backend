@@ -153,6 +153,10 @@
 ### Bind Mounts (Host Filesystem)
 - **./weights**: Model files (read-only in containers)
 - **./sample_images**: Test images (read-only in containers)
+- **./chatbot/raw_pdfs**: Raw PDF documents for RAG ingestion
+  - Allows real-time updates without rebuild
+  - PDFs added to folder are immediately available to chatbot
+  - Survives container restarts
 
 ### Persistence
 - Data survives: `docker-compose stop`, `docker-compose restart`

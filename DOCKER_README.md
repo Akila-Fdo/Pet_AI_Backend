@@ -56,6 +56,7 @@ Your Host Machine
 | `chatbot-db` | ChromaDB vector store | Docker managed |
 | `chatbot-rag-output` | RAG documents | Docker managed |
 | `chatbot-rag-cleaned` | Cleaned documents | Docker managed |
+| `./chatbot/raw_pdfs` | Raw PDF input files | Mounted from host |
 | `./weights` | Model files | Mounted from host |
 
 ## Usage

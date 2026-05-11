@@ -48,6 +48,8 @@ services:
       - chatbot-rag-output:/app/chatbot/rag_output
       # Cleaned documents
       - chatbot-rag-cleaned:/app/chatbot/rag_output_cleaned
+      # Raw PDF input directory - mounted for easy updates
+      - ./chatbot/raw_pdfs:/app/chatbot/raw_pdfs
       # Model weights - read-only
       - ./weights:/app/weights:ro
     environment:
