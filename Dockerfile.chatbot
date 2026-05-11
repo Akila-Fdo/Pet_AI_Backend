@@ -1,0 +1,46 @@
+# Chatbot RAG Agent Service
+# Includes docling, transformers, and RAG pipeline
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system dependencies
+# These are required for:
+# - docling: libxml2-dev, libxslt1-dev, zlib1g-dev, libjpeg-dev
+# - transformers/torch: build-essential, gcc, g++
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    gcc \
+    g++ \
+    libxml2-dev \
+    libxslt1-dev \
+    zlib1g-dev \
+    libjpeg-dev \
+    libpng-dev \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy requirements and install Python dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
+
+# Copy application code
+COPY app/ app/
+COPY chatbot/ chatbot/
+COPY weights/ weights/
+
+# Create persistent volume mount points
+RUN mkdir -p /app/chatbot/db \
+    && mkdir -p /app/chatbot/rag_output \
+    && mkdir -p /app/chatbot/rag_output_cleaned
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
+    CMD curl -f http://localhost:8001/docs || exit 1
+
+# Expose chatbot service port
+EXPOSE 8001
+
+# Start chatbot service
+CMD ["uvicorn", "chatbot.main:app", "--host", "0.0.0.0", "--port", "8001"]

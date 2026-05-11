@@ -1,0 +1,98 @@
+# Version control
+.git
+.gitignore
+.github
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+.env.local
+
+# Documentation
+*.md
+docs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Misc
+.cache
+.mypy_cache
+.dmypy.json
+dmypy.json
+
+# Project specific
+*.log
+sample_images/
+test_*.py
+FIXES_SUMMARY.md
+IMPLEMENTATION_SUMMARY.md
+INTEGRATION_REPORT.md
+ADVANCED_RAG_PIPELINE.md
+RAG_CONTENT_CLEANING_INTEGRATION.md
+RAG_QUICK_REFERENCE.md
+SETUP_TESTING_GUIDE.md
+CONTENT_CLEANING_REPORT.md
+CONTENT_CLEANING_COMPLETION.md
+AGENT_TYPE_FIX.md
+FINAL_STATUS_REPORT.md
+LANGSMITH_SETUP.md
+TOOL_INTEGRATION_FIX.md
+analyze_cleaning_stats.py
+test_disease_type_persistence.py
+test_e2e.py
+test_integration.py
+test_with_real_image.py
+
+# Large binary files (can be rebuilt in container)
+*.pth
+weights/
+
+# Node modules (if any)
+node_modules/
+npm-debug.log
+
+# OS specific
+Thumbs.db
+.DS_Store

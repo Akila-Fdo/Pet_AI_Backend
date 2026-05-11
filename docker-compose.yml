@@ -1,0 +1,82 @@
+version: '3.8'
+
+services:
+  # FastAPI CV Model Server
+  fastapi:
+    build:
+      context: .
+      dockerfile: Dockerfile.fastapi
+    container_name: pet-ai-fastapi
+    ports:
+      - "8000:8000"
+    volumes:
+      # Model weights - mounted read-only for safety
+      - ./weights:/app/weights:ro
+      # Sample images for testing
+      - ./sample_images:/app/sample_images:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - LANGSMITH_API_KEY=${LANGSMITH_API_KEY}
+    env_file:
+      - .env
+    networks:
+      - pet-ai-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/docs"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Chatbot RAG Agent Service
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile.chatbot
+    container_name: pet-ai-chatbot
+    ports:
+      - "8001:8001"
+    depends_on:
+      fastapi:
+        condition: service_healthy
+    volumes:
+      # Persistent ChromaDB vector store
+      - chatbot-db:/app/chatbot/db
+      # RAG documents and ingestion output
+      - chatbot-rag-output:/app/chatbot/rag_output
+      # Cleaned documents
+      - chatbot-rag-cleaned:/app/chatbot/rag_output_cleaned
+      # Model weights - read-only
+      - ./weights:/app/weights:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - LANGSMITH_API_KEY=${LANGSMITH_API_KEY}
+      # Service discovery: FastAPI is accessible via service name
+      - FASTAPI_URL=http://fastapi:8000
+    env_file:
+      - .env
+    networks:
+      - pet-ai-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/docs"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+networks:
+  pet-ai-network:
+    driver: bridge
+
+volumes:
+  # Named volumes for persistent data
+  chatbot-db:
+    driver: local
+  chatbot-rag-output:
+    driver: local
+  chatbot-rag-cleaned:
+    driver: local
