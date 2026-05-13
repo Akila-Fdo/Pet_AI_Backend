@@ -2,10 +2,131 @@ import re
 import os
 import json
 from pathlib import Path
+from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel
 from chatbot.agent import agent
 from chatbot.llm import llm
 from chatbot.memory import memory
 from chatbot.langsmith_config import setup_langsmith
+
+# Initialize FastAPI app
+app = FastAPI(title="Pet AI Chatbot Service", version="1.0.0")
+
+# Initialize LangSmith tracing
+setup_langsmith()
+
+# Request/Response models
+class ChatRequest(BaseModel):
+    animal: str
+    message: str
+
+class ChatResponse(BaseModel):
+    response: str
+    
+@app.get("/health")
+async def health():
+    """Health check endpoint"""
+    return {"status": "healthy", "service": "chatbot"}
+
+@app.post("/chat")
+async def chat(request: ChatRequest):
+    """Chat endpoint for the chatbot"""
+    try:
+        animal = request.animal.lower()
+        if animal not in ["dog", "cat"]:
+            raise HTTPException(status_code=400, detail="Animal must be 'dog' or 'cat'")
+        
+        user_input = request.message.strip()
+        if not user_input:
+            raise HTTPException(status_code=400, detail="Message cannot be empty")
+        
+        # Process the chat message
+        response = process_chat_message(animal, user_input)
+        return ChatResponse(response=response)
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+def process_chat_message(animal: str, user_input: str) -> str:
+    """Process a chat message and return response"""
+    # Detect disease type from current message
+    detected_disease_type = detect_disease_type(user_input)
+    
+    # Extract image path if provided
+    image_path = extract_image_path(user_input)
+    
+    if image_path and os.path.isfile(image_path):
+        # Special case: User has skin/eye issue + provided image
+        from chatbot.tools import _analyze_pet_image_impl
+        try:
+            tool_result = _analyze_pet_image_impl(
+                image_path=image_path,
+                animal=animal,
+                disease_type=detected_disease_type or "general"
+            )
+            
+            if isinstance(tool_result, dict) and "error" in tool_result:
+                return f"I encountered an error while analyzing the image: {tool_result['error']}"
+            else:
+                disease_class = tool_result.get('class', 'Unknown')
+                confidence = tool_result.get('confidence', 'N/A')
+                
+                explanation_prompt = f"""You are a veterinary expert. Based on the computer vision analysis of a {animal}'s condition, 
+the detected condition is: {disease_class} (with {confidence:.1%} confidence).
+
+User's original description: {user_input}
+
+Provide a detailed veterinary explanation covering:
+1. What is {disease_class}?
+2. Common causes and risk factors for this condition
+3. Treatment options and recommendations
+4. When to seek professional veterinary care
+5. Prevention and management tips
+
+Be thorough and informative."""
+                
+                llm_response = llm.invoke(explanation_prompt)
+                explanation_text = llm_response.content
+                
+                memory.save_context(
+                    {"input": user_input},
+                    {"output": explanation_text}
+                )
+                return explanation_text
+        except Exception as e:
+            return f"I encountered an error while analyzing the image: {str(e)}"
+    else:
+        # Get conversation history from memory
+        memory_vars = memory.load_memory_variables({})
+        conversation_history = memory_vars.get('chat_history', '')
+        
+        if conversation_history:
+            # This is a follow-up question
+            prompt = f"""You are a veterinary expert assistant for {animal}s.
+
+Previous Conversation:
+{conversation_history}
+
+Current User Question: {user_input}
+
+IMPORTANT: Reference the previous conversation when answering. Provide helpful veterinary advice."""
+        else:
+            # First question
+            prompt = f"""You are a veterinary expert assistant for {animal}s.
+
+User Question: {user_input}
+
+Provide helpful veterinary advice. Do NOT ask for images unless the user mentions a specific health concern."""
+        
+        response = llm.invoke(prompt)
+        clean_response = response.content if hasattr(response, 'content') else str(response)
+        
+        memory.save_context(
+            {"input": user_input},
+            {"output": clean_response}
+        )
+        return clean_response
 
 # Keywords for intent detection
 SKIN_KEYWORDS = [
