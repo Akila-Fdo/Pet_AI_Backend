@@ -35,11 +35,11 @@ services:
       context: .
       dockerfile: Dockerfile.chatbot
     container_name: pet-ai-chatbot
-    ports:
-      - "8001:8001"
     depends_on:
       fastapi:
         condition: service_healthy
+    stdin_open: true
+    tty: true
     volumes:
       # Persistent ChromaDB vector store
       - chatbot-db:/app/chatbot/db
@@ -63,13 +63,7 @@ services:
       - .env
     networks:
       - pet-ai-network
-    restart: unless-stopped
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8001/docs"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 60s
+    restart: "no"
 
 networks:
   pet-ai-network:

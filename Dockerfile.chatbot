@@ -35,12 +35,5 @@ RUN mkdir -p /app/chatbot/db \
     && mkdir -p /app/chatbot/rag_output_cleaned \
     && mkdir -p /app/chatbot/raw_pdfs
 
-# Health check
-HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
-    CMD curl -f http://localhost:8001/docs || exit 1
-
-# Expose chatbot service port
-EXPOSE 8001
-
-# Start chatbot service
-CMD ["uvicorn", "chatbot.main:app", "--host", "0.0.0.0", "--port", "8001"]
+# Start chatbot in interactive CLI mode
+CMD ["python", "-m", "chatbot.main"]
