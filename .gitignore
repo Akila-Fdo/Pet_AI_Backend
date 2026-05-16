@@ -179,3 +179,54 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# ═════════════════════════════════════════════════════════════════════════════
+# Pet AI Backend - Sensitive & Large Files
+# ═════════════════════════════════════════════════════════════════════════════
+
+# Model weights (large PyTorch models - download separately)
+weights/
+*.pth
+*.pt
+*.ckpt
+
+# Vector store / embeddings database (regenerated on ingestion)
+chatbot/db/
+chatbot/rag/db/
+*.sqlite3
+*.sqlite
+chroma.sqlite3
+
+# RAG output & ingestion files (regenerated from crawler)
+rag_output/
+rag_output_cleaned/
+raw_pdfs/
+
+# Test output files (local test runs)
+retriever_output.txt
+retriever_full_output.txt
+ask_rag_output.txt
+ask_rag_verbose_output.txt
+
+# Sample images (large, local reference only)
+sample_images/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# LangSmith / LangChain local cache
+.langsmith/
+langsmith_cache/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS temp files
+Thumbs.db
+desktop.ini
