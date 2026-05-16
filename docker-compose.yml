@@ -1,0 +1,30 @@
+services:
+  fastapi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: pet_ai_fastapi:latest
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app:cached
+      - ./weights:/app/weights
+      - ./chatbot/db:/app/chatbot/db
+    env_file:
+      - .env
+    restart: unless-stopped
+
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile.chatbot
+    image: pet_ai_chatbot:latest
+    depends_on:
+      - fastapi
+    volumes:
+      - ./:/app:cached
+      - ./weights:/app/weights
+      - ./chatbot/db:/app/chatbot/db
+    env_file:
+      - .env
+    restart: unless-stopped
