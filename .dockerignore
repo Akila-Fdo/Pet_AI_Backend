@@ -1,20 +1,61 @@
+# Git & version control
+.git/
+.gitignore
+.gitattributes
+
+# Python cache & compiled
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 *.log
-.venv/
-.env
-.git/
-.vscode/
+*.egg-info/
 dist/
 build/
-*.egg-info/
-chatbot/db/*.sqlite3
+
+# Development environments
+.venv/
+venv/
+.env
+
+# IDE & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Model weights (large PyTorch models - use separate volume if needed)
 weights/
+*.pth
+*.pt
+*.ckpt
+
+# Vector store & embeddings database
+chatbot/db/
+*.sqlite3
+*.sqlite
+
+# RAG output & ingestion files
 rag_output/
 rag_output_cleaned/
+raw_pdfs/
+
+# Test output files
+retriever_output.txt
+retriever_full_output.txt
+ask_rag_output.txt
+ask_rag_verbose_output.txt
+
+# Local reference files
 sample_images/
-chatbot/db/
-__pycache__/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# LangSmith / cache
+.langsmith/
+langsmith_cache/
 
