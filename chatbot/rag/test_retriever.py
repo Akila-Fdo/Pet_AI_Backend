@@ -9,10 +9,7 @@ from chatbot.rag.retriever import get_retriever
 retriever = get_retriever()
 
 queries = [
-    "What causes dermatitis in dogs?",
-    "Symptoms of ringworm in cats",
-    "dog eye infection treatment",
-    "why is my dog not eating",
+    "What causes dermatitis in dogs?"
 ]
 
 for q in queries:

@@ -6,7 +6,10 @@ torchvision
 pillow
 python-multipart
 langchain
+langchain-community
 langchain-openai
+langchain-huggingface
+langchain-chroma
 requests
 python-dotenv
 

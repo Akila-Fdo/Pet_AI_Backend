@@ -12,15 +12,15 @@ from pathlib import Path
 from typing import Optional, List, Any
 
 # Legacy imports
-from langchain_community.vectorstores import Chroma as LangChainChroma
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_chroma import Chroma as LangChainChroma
+from langchain_huggingface import HuggingFaceEmbeddings
 
 # Advanced imports
 from llama_index.core import VectorStoreIndex
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
 from .config import CHROMA_DB_DIR, COLLECTION_NAME, EMBED_MODEL_NAME
-from .retrieval.retriever import SemanticRetriever
+from .retrieval import SemanticRetriever
 from .vectorstore import ChromaStore
 
 
