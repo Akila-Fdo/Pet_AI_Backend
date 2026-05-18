@@ -7,11 +7,10 @@ Provides unified loading interface for:
 """
 
 from pathlib import Path
-from typing import Union, Optional
+from typing import Union, Optional, Any
 import logging
 
 from docling.document_converter import DocumentConverter
-from docling_core.types import Document as DoclingDocument
 
 
 logger = logging.getLogger(__name__)
@@ -33,7 +32,7 @@ class PDFLoader:
         self.converter = DocumentConverter()
         logger.info("Initialized PDFLoader with Docling")
     
-    def load_pdf(self, pdf_path: Union[str, Path]) -> DoclingDocument:
+    def load_pdf(self, pdf_path: Union[str, Path]) -> Any:
         """
         Load and parse a PDF file
         
@@ -145,7 +144,7 @@ class DocumentLoader:
         self.pdf_loader = PDFLoader()
         self.markdown_loader = MarkdownLoader()
     
-    def load(self, file_path: Union[str, Path]) -> Union[DoclingDocument, str]:
+    def load(self, file_path: Union[str, Path]) -> Union[Any, str]:
         """
         Load document (PDF or Markdown) automatically
         
@@ -177,7 +176,7 @@ class DocumentLoader:
         self, 
         directory: Union[str, Path],
         pattern: Optional[str] = None
-    ) -> dict[str, Union[DoclingDocument, str]]:
+    ) -> dict[str, Union[Any, str]]:
         """
         Load all documents from a directory
         
