@@ -10,10 +10,12 @@ Provides intelligent, structure-aware chunking for:
 """
 
 import logging
-from typing import List, Union, Any
+from typing import List, Union
 from pathlib import Path
 
-from docling.chunking import HybridChunker
+from docling_core.types import Document as DoclingDocument
+from docling_core.transforms.chunker.hybrid_chunker import HybridChunker
+from docling_core.transforms.chunker import DocChunk
 from transformers import AutoTokenizer
 
 from ..config import EMBED_MODEL_NAME, MAX_TOKENS, MERGE_PEERS
@@ -53,7 +55,7 @@ class AdvancedChunker:
             f"merge_peers={MERGE_PEERS}"
         )
     
-    def chunk_pdf(self, doc: Any) -> List[Any]:
+    def chunk_pdf(self, doc: DoclingDocument) -> List[DocChunk]:
         """
         Chunk a Docling PDF document
         

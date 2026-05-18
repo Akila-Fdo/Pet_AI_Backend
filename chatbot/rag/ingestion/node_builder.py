@@ -13,6 +13,7 @@ from llama_index.core.schema import TextNode
 from .chunking import MarkdownChunk
 from .serialization import AdvancedSerializer
 from .metadata import MetadataBuilder
+from docling_core.transforms.chunker import DocChunk
 
 
 logger = logging.getLogger(__name__)
@@ -36,7 +37,7 @@ class NodeBuilder:
     
     def build_nodes_from_pdf_chunks(
         self,
-        chunks: List[Any],
+        chunks: List[DocChunk],
         source_file: str,
     ) -> List[TextNode]:
         """
@@ -131,7 +132,7 @@ class NodeBuilder:
         logger.info(f"Built {len(nodes)} nodes from markdown: {source_file}")
         return nodes
     
-    def _detect_pdf_chunk_type(self, chunk: Any) -> str:
+    def _detect_pdf_chunk_type(self, chunk: DocChunk) -> str:
         """
         Detect chunk type from Docling DocChunk
         
@@ -153,7 +154,7 @@ class NodeBuilder:
         
         return "text"
     
-    def _serialize_pdf_chunk(self, chunk: Any, chunk_type: str) -> str:
+    def _serialize_pdf_chunk(self, chunk: DocChunk, chunk_type: str) -> str:
         """
         Serialize PDF chunk based on type
         
@@ -169,7 +170,7 @@ class NodeBuilder:
         else:
             return self._serialize_pdf_text_chunk(chunk)
     
-    def _serialize_pdf_text_chunk(self, chunk: Any) -> str:
+    def _serialize_pdf_text_chunk(self, chunk: DocChunk) -> str:
         """
         Serialize regular text chunk from PDF
         
@@ -190,7 +191,7 @@ class NodeBuilder:
             headings=headings,
         )
     
-    def _serialize_pdf_table_chunk(self, chunk: Any) -> str:
+    def _serialize_pdf_table_chunk(self, chunk: DocChunk) -> str:
         """
         Serialize table chunk from PDF
         
